@@ -1,0 +1,876 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:4957795255000",
+  "sortLetter": "u",
+  "channel": {
+    "title": "P3",
+    "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+    "slug": "p3",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p3"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar"
+  ],
+  "numberOfEpisodes": 6,
+  "numberOfSeasons": 2,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-06-25T05:02:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren-4957795255000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/under-radaren",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:4957795255000",
+  "productionNumber": "4957795255000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:655cbd3399071798f81f1202",
+  "slug": "under-radaren-4957795255000",
+  "title": "Under Radaren",
+  "punchline": "Vi undersøger det lyssky, det der sker i skyggerne, det du ikke ser",
+  "description": "Ved du, hvad dine venner laver, når mørket falder på? I P3's podcast 'Under Radaren' tager vi dig med ned i underverdener og møder mennesker, der opererer i det skjulte. Vi taler med ofre og gerningsmænd og undersøger alt det, der sker i skyggerne, lige for næsen på dig - under radaren.\n\nHar du et tip, vi skal undersøge?\nSkriv fortroligt til os på p3underradaren@protonmail.com",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67023d2af84522f2c6b6b84e",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NM9[3tkBZ,j[a3jb~qj[f7j[f7j[+Sf7k-juknkB",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023d2af84522f2c6b6b84e&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67023d2af84522f2c6b6b84f",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oQB4U9j[eqj[aNj[~qj[fjj[fjj[#Hfjg0fjkTfjkUfQf7fQf7f7cRf7eqfQaNf7aMfQfjf7fjfj",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023d2af84522f2c6b6b84f&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023d2af84522f2c6b6b850",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oTB4Q~sAnQo1i}bH~qn%n%n%jabH+*n%ocjZf~bHnjn%n%jZfja}Xyjsi}j@i~azX5j[jbjuf7fQ",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023d2af84522f2c6b6b850&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023d2af84522f2c6b6b84f",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oQB4U9j[eqj[aNj[~qj[fjj[fjj[#Hfjg0fjkTfjkUfQf7fQf7f7cRf7eqfQaNf7aMfQfjf7fjfj",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023d2af84522f2c6b6b84f&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#212121",
+        "#AAAAAA"
+      ]
+    },
+    "colors": {
+      "dark": "#212121",
+      "light": "#AAAAAA"
+    }
+  },
+  "sSlug": "under-radaren",
+  "rssUri": "https://xmpl.dk/podcast/under-radaren.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393741",
+      "durationMilliseconds": 1213781,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393741",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2023-11-23T05:00:00+01:00",
+      "startTime": "2023-11-23T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren/piller-fra-helvede/under-radaren-piller-fra-helvede-1-3-en-eksplosion-i-hjernen-16122393741",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:655cbd3499071798f81f120e",
+      "series": {
+        "title": "Under Radaren",
+        "id": "urn:dr:radio:series:655cbd3399071798f81f1202",
+        "slug": "under-radaren-4957795255000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren-4957795255000",
+        "learnId": "urn:dr:ocs:audio:content:series:4957795255000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9940162,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/d48697e51da7775f8a874794cf93a88f01bd7f4a206c4e52d1036c946cfb38c7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 29360449,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/b973fc42faf55ce2ae743b12629035cf120d41b92dfd68281210e3464c06dea2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 39071081,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/17d48daef9e308fbd47799aa35030ff15ff7bf98618e32dacbb43e0cd271b246"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9711222,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/21a28ed371202b23f7b1b24d7f805fa1567fb79db171ecb918aba10df50a5f28"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 29132790,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/b3933c9a1eeaadc620e757da32a96fce5ce2fcbe105208c389df10b95360da1d"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/3a9424caa38aef1166a28e625baa6a373cdd9679ef2150ca1712554d4b6d0ef3"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393741",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-11-23T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:655cbd3499071798f81f1209",
+      "slug": "under-radaren-piller-fra-helvede-1-3-en-eksplosion-i-hjernen-16122393741",
+      "title": "Piller fra helvede 1:3 - En eksplosion i hjernen",
+      "description": "I Ribe sidder 5 drenge, og om lidt tager de en pille, der kommer til at ændre deres liv. Pillen ser uskyldig ud - faktisk kan du lovligt hente den på apoteket med den rigtige recept i hånden. Men i de forkerte hænder, er den dødsensfarlig. \n\nVært og tilrettelægger: Sille Ugelvig.\nProducer og klip: Luna Lam.\nTilrettelægger, lyddesign og musik: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR redaktør: Morten Narvedsen.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67026acb8168ebc64d90f13b",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NG9@@CMy02x]R6%LL,xtSdMy.6ae5~og=|V@V_S1"
+        },
+        {
+          "id": "urn:dr:radio:image:67026acb8168ebc64d90f13c",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMCZwiDjN2D*tQj]MM%LD*t7oexa0_tQ%1s:WCt6rxM|-WM{SxIVt$j[Mzxuk9RkaNR*ayofoLt7"
+        },
+        {
+          "id": "urn:dr:radio:image:67026acb8168ebc64d90f13c",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMCZwiDjN2D*tQj]MM%LD*t7oexa0_tQ%1s:WCt6rxM|-WM{SxIVt$j[Mzxuk9RkaNR*ayofoLt7"
+        },
+        {
+          "id": "urn:dr:radio:image:67320b958a15f852f0d8b317",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPCZkAMxN1IooyRlz_xGM|s:oet70x%LxDxaaLtPeYn$-VRjSyIoyAV[Vvt6oyRQVua{Rjt7oLt7"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#AAAAAA"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#AAAAAA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393742",
+      "durationMilliseconds": 1556621,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393742",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2023-11-23T05:01:00+01:00",
+      "startTime": "2023-11-23T05:01:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren/piller-fra-helvede/under-radaren-piller-fra-helvede-2-3-det-foerste-doedsfald-16122393742",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:655cbd3499071798f81f1212",
+      "previousId": "urn:dr:radio:episode:655cbd3499071798f81f1209",
+      "series": {
+        "title": "Under Radaren",
+        "id": "urn:dr:radio:series:655cbd3399071798f81f1202",
+        "slug": "under-radaren-4957795255000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren-4957795255000",
+        "learnId": "urn:dr:ocs:audio:content:series:4957795255000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12747117,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/19daed4b38607a1a12b9384a0ee637cfc30864ad8407fd5c1cf13c2c4cf71fa0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 37653233,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/495b04326251b6200551aaf5cb4d4b5e5a5f0aaf9151ea8e45ba3045069fd9fc"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 50106705,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/63df3b9fc69a1bb9a6d415aa6d6713beee4feffd94c89598051ec9aca414d7ef"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12453949,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/28df15b763014a5b45709fb7642a929df15957d5e91375694bbb36ba871b0c8d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 37360957,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/8c15f976aaca295eb79d4b5a595c029ad75f52630829da8d6f27f3992e27bb88"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/db29f56c2150cd96b7e783fa4079b84ea86d1509a7bc0e7204b87bcd180d813e"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393742",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-11-23T05:01:00+01:00",
+      "id": "urn:dr:radio:episode:655cbd3499071798f81f120e",
+      "slug": "under-radaren-piller-fra-helvede-2-3-det-foerste-doedsfald-16122393742",
+      "title": "Piller fra helvede 2:3 - Det første dødsfald",
+      "description": "Drengene finder ud af, at pillerne kan kurere tømmermænd og fjerne tankemylder. Men der går ikke længe, før pillerne overtager deres liv. Og pludselig dør en af deres tætte venner af en overdosis.\n\nVært og tilrettelægger: Sille Ugelvig.\nProducer og klip: Luna Lam.\nTilrettelægger, lyddesign og musik: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR redaktør: Morten Narvedsen.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67026acb68300a6417d939b1",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NG9@@CMy02x]R6%LL,xtSdMy.6ae5~og=|V@V_S1"
+        },
+        {
+          "id": "urn:dr:radio:image:67026acb68300a6417d939b2",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMCZwiDjN2D*tQj]MM%LD*t7oexa0_tQ%1s:WCt6rxM|-WM{SxIVt$j[Mzxuk9RkaNR*ayofoLt7"
+        },
+        {
+          "id": "urn:dr:radio:image:67026acb68300a6417d939b2",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMCZwiDjN2D*tQj]MM%LD*t7oexa0_tQ%1s:WCt6rxM|-WM{SxIVt$j[Mzxuk9RkaNR*ayofoLt7"
+        },
+        {
+          "id": "urn:dr:radio:image:67320b958a15f852f0d8b317",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPCZkAMxN1IooyRlz_xGM|s:oet70x%LxDxaaLtPeYn$-VRjSyIoyAV[Vvt6oyRQVua{Rjt7oLt7"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#AAAAAA"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#AAAAAA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393743",
+      "durationMilliseconds": 1195829,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393743",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2023-11-23T05:02:00+01:00",
+      "startTime": "2023-11-23T05:02:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren/piller-fra-helvede/under-radaren-piller-fra-helvede-3-3-det-sidste-skub-16122393743",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:666176147937d2cab8c98090",
+      "previousId": "urn:dr:radio:episode:655cbd3499071798f81f120e",
+      "series": {
+        "title": "Under Radaren",
+        "id": "urn:dr:radio:series:655cbd3399071798f81f1202",
+        "slug": "under-radaren-4957795255000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren-4957795255000",
+        "learnId": "urn:dr:ocs:audio:content:series:4957795255000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9793094,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/cb9116905ffe60e91a2a0d31efd089dce4660bbf96e62d0c0df56d2055477e5c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 28926465,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/67486019c903c2238faebdb483ed8039548cc3b46d5b44a945d42e2aab306441"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 38493682,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/c56f7cac7f83a89c7900830c88bf17898483b7ff55df3616586e6e7b43a9083a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9567611,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/15451b59cee3d6ab7b14ca57b0a949a0f754d89b5961e7a3d4092d106b1aea59"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 28701947,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/40ee7b390a541ad7776cc74608e61f857bc4504bb708071f8a7eff97355c80d2"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/3c75bc0eb8d3776665d34118dd2e632c8317f09f64b5dbda4c08324c1bd1f3c9"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393743",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-11-23T05:02:00+01:00",
+      "id": "urn:dr:radio:episode:655cbd3499071798f81f1212",
+      "slug": "under-radaren-piller-fra-helvede-3-3-det-sidste-skub-16122393743",
+      "title": "Piller fra helvede 3:3 - Det sidste skub",
+      "description": "Nicolaj vågner på gaden i Spanien uden sko på og har mistet både taske og pas. Og lige så langsomt går det op for ham og de andre drenge, at det må stoppe, hvis de ikke skal dø. \n\nVært og tilrettelægger: Sille Ugelvig.\nProducer og klip: Luna Lam.\nTilrettelægger, lyddesign og musik: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR redaktør: Morten Narvedsen.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67026acbac68322c7b3f1c91",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NG9@@CMy02x]R6%LL,xtSdMy.6ae5~og=|V@V_S1"
+        },
+        {
+          "id": "urn:dr:radio:image:67026acbac68322c7b3f1c92",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMCZwiDjN2D*tQj]MM%LD*t7oexa0_tQ%1s:WCt6rxM|-WM{SxIVt$j[Mzxuk9RkaNR*ayofoLt7"
+        },
+        {
+          "id": "urn:dr:radio:image:67026acbac68322c7b3f1c92",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMCZwiDjN2D*tQj]MM%LD*t7oexa0_tQ%1s:WCt6rxM|-WM{SxIVt$j[Mzxuk9RkaNR*ayofoLt7"
+        },
+        {
+          "id": "urn:dr:radio:image:67320b958a15f852f0d8b317",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPCZkAMxN1IooyRlz_xGM|s:oet70x%LxDxaaLtPeYn$-VRjSyIoyAV[Vvt6oyRQVua{Rjt7oLt7"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#AAAAAA"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#AAAAAA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332496711",
+      "durationMilliseconds": 1484444,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "13332496711",
+      "episodeNumber": 1,
+      "seasonNumber": 2,
+      "publishTime": "2024-06-25T05:00:00+02:00",
+      "startTime": "2024-06-25T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren/et-farligt-match/under-radaren-et-farligt-match-1-3-fuck-han-er-flot-13332496711",
+      "order": 200001,
+      "nextId": "urn:dr:radio:episode:666176147937d2cab8c98095",
+      "previousId": "urn:dr:radio:episode:655cbd3499071798f81f1212",
+      "series": {
+        "title": "Under Radaren",
+        "id": "urn:dr:radio:series:655cbd3399071798f81f1202",
+        "slug": "under-radaren-4957795255000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren-4957795255000",
+        "learnId": "urn:dr:ocs:audio:content:series:4957795255000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12155313,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/136262063ecb10df1a349f1e35be69a817cf82378430abfe57a138cc9bf56516"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 35907579,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/20025f407303132ea199ac8b6e94ade803bad57af58d7e20b1aa0dd2e34b8a10"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 47783661,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/e655ba52ac329f58840af88076c390320ea92b469ac7641a75623b7b27dbf8d7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11876410,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/c536a9404d86372f8702a94f085ad7ee3caeb7f516f9ef30631f0f2208d3f475"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 35628346,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/0779ba8fb5717d89db82e95c07558e398deb459ef61d0d6f8eb5f8bc5c855fa3"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/0d54d3bad5d5360e93158a9262e25ace8b69959c9193781d2438d19f8a08ced3"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332496711",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:666176147937d2cab8c98090",
+      "slug": "under-radaren-et-farligt-match-1-3-fuck-han-er-flot-13332496711",
+      "title": "Et farligt match 1:3 - Fuck, han er flot!",
+      "punchline": "Vi undersøger det lyssky, det der sker i skyggerne, det du ikke ser",
+      "description": "Radioværten Josefine Maria Konstantin Madsen - også kendt som JoJo - sidder og swiper på Tinder, da hun får et match. Manden ser både spændende og flot ud, og hun har flere fælles venner med ham på Facebook.\nHan ligner det perfekte match.\nMen ifølge JoJo skal manden vise sig at have en skyggeside, der ligger meget langt fra den person, hun nu begynder at skrive med på Tinder, og som hun inden længe beslutter sig for at tage på date med.\n \nVært: Sille Ugelvig.\nTilrettelæggelse: Morten Narvedsen og Sille Ugelvig.\nKlip: Morten Narvedsen.\nTema-musik og lyddesign: Malte Bothe Winther.\nRedaktør: Emil Eusebius Olhoff-Jakobsen \nProgramansvarlig: Isabella Hindkjær.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b875",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "ND8}PVaeDRxu%LM{~Xj@ovkCkVaxyVof#sWANGt7"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b876",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oB9kQUIB4V-;WT9Z^BRPR6kDowaLLVof-DIUai%MMLtR$,IUS|t7t~ofVyRjoJkBxIRjRjxbjFbF"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b877",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oBAA]YQ.8y?abD9Z}enNm-t7owRkYZxH=zMxai%MQV%2-DMxS|ohySs:eZRjoJf*xIRjNGt8jFfj"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b876",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oB9kQUIB4V-;WT9Z^BRPR6kDowaLLVof-DIUai%MMLtR$,IUS|t7t~ofVyRjoJkBxIRjRjxbjFbF"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#AAAAAA"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#AAAAAA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332496712",
+      "durationMilliseconds": 1886204,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "13332496712",
+      "episodeNumber": 2,
+      "seasonNumber": 2,
+      "publishTime": "2024-06-25T05:01:00+02:00",
+      "startTime": "2024-06-25T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren/et-farligt-match/under-radaren-et-farligt-match-2-3-overarmene-13332496712",
+      "order": 200002,
+      "nextId": "urn:dr:radio:episode:66617614266f037612aa563c",
+      "previousId": "urn:dr:radio:episode:666176147937d2cab8c98090",
+      "series": {
+        "title": "Under Radaren",
+        "id": "urn:dr:radio:series:655cbd3399071798f81f1202",
+        "slug": "under-radaren-4957795255000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren-4957795255000",
+        "learnId": "urn:dr:ocs:audio:content:series:4957795255000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15444660,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/6a68cb46711afad6ba37739a7154f50510ff13656885f5330c33c9629e8769a0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 45625015,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/6632050683d323d1f32294db690c35d7eceff164971f0d8f513f7889e715b2b8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 60715100,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/3b1fd3cfd69a06a5e115002553e1ce7449a9cea10d71a5569fa86943082a944e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 15090487,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/55a76281d1fde3b5cfad49b47224b710185719287dacc2d1eef89ce9e0783e7a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 45270583,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/1c27280f0c58fbf25bfd5454362159ce69b94a7b2677e1c1fff1d29fc1194020"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/0ef52229d4ed65bfd655c38d00c994438f9c2b187da04a5a9541926995aa6ad0"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332496712",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:666176147937d2cab8c98095",
+      "slug": "under-radaren-et-farligt-match-2-3-overarmene-13332496712",
+      "title": "Et farligt match 2:3 - Overarmene",
+      "punchline": "Vi undersøger det lyssky, det der sker i skyggerne, det du ikke ser",
+      "description": "OBS: Denne episode indeholder beskrivelser af et seksuelt overgreb. \nJoJo er spændt. Hun er på vej i en taxa hen til den mand, hun har skrevet med i månedsvis, og som hun er begyndt at blive ægte interesseret i.\nHam her kunne det blive til noget med, tænker hun.\nMen da JoJo træder ud af taxaen og ind i mandens lejlighed, ændrer alt sig.\n \nVært: Sille Ugelvig.\nTilrettelæggelse: Morten Narvedsen og Sille Ugelvig.\nKlip: Morten Narvedsen.\nTema-musik og lyddesign: Malte Bothe Winther.\nRedaktør: Emil Eusebius Olhoff-Jakobsen.\nProgramansvarlig: Isabella Hindkjær.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b875",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "ND8}PVaeDRxu%LM{~Xj@ovkCkVaxyVof#sWANGt7"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b876",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oB9kQUIB4V-;WT9Z^BRPR6kDowaLLVof-DIUai%MMLtR$,IUS|t7t~ofVyRjoJkBxIRjRjxbjFbF"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b877",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oBAA]YQ.8y?abD9Z}enNm-t7owRkYZxH=zMxai%MQV%2-DMxS|ohySs:eZRjoJf*xIRjNGt8jFfj"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b876",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oB9kQUIB4V-;WT9Z^BRPR6kDowaLLVof-DIUai%MMLtR$,IUS|t7t~ofVyRjoJkBxIRjRjxbjFbF"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#AAAAAA"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#AAAAAA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332496713",
+      "durationMilliseconds": 2458796,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "13332496713",
+      "episodeNumber": 3,
+      "seasonNumber": 2,
+      "publishTime": "2024-06-25T05:02:00+02:00",
+      "startTime": "2024-06-25T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren/et-farligt-match/under-radaren-et-farligt-match-3-3-tvivlen-13332496713",
+      "order": 200003,
+      "previousId": "urn:dr:radio:episode:666176147937d2cab8c98095",
+      "series": {
+        "title": "Under Radaren",
+        "id": "urn:dr:radio:series:655cbd3399071798f81f1202",
+        "slug": "under-radaren-4957795255000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/under-radaren-4957795255000",
+        "learnId": "urn:dr:ocs:audio:content:series:4957795255000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 20132904,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/fb86991bee78c5649e21214cfcdc0b27af2f1165c1c3acbd883983d247f94a2c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 59475191,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/4eb136789a6d64382dd69cfd8028c36c4dc82eb976e272ec930dda2d8d682815"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 79146136,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/95ada60aa7579dfa7a024f067f3498d028035dfe6f9a416fd69f1abe070a9a52"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 19671223,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/4b570ae673251954045702a5ee2b3ca5bcb86d43f868a7a03abc97e628991d7b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 59012791,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/6999f0f19ece1968fb653ea68aa11660cad42bb77acd3f1ecbbe6184e441eea7"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/a030fcfda890282e43feba422f50b2ab4c2fd68ee4682a4c4f066dacdbc4167d"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332496713",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:66617614266f037612aa563c",
+      "slug": "under-radaren-et-farligt-match-3-3-tvivlen-13332496713",
+      "title": "Et farligt match 3:3 - Tvivlen",
+      "punchline": "Vi undersøger det lyssky, det der sker i skyggerne, det du ikke ser",
+      "description": "En uge efter episoden i mandens lejlighed, tikker der en besked ind på JoJos telefon.\nEn besked, der skal tvinge hende til at tage stilling til et spørgsmål, hun på ingen måde kan overskue: om hun skal melde ham til politiet eller ej.\n\nVært: Sille Ugelvig.\nTilrettelæggelse: Morten Narvedsen og Sille Ugelvig.\nKlip: Morten Narvedsen.\nTema-musik og lyddesign: Malte Bothe Winther.\nRedaktør: Emil Eusebius Olhoff-Jakobsen.\nProgramansvarlig: Isabella Hindkjær.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b875",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "ND8}PVaeDRxu%LM{~Xj@ovkCkVaxyVof#sWANGt7"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b876",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oB9kQUIB4V-;WT9Z^BRPR6kDowaLLVof-DIUai%MMLtR$,IUS|t7t~ofVyRjoJkBxIRjRjxbjFbF"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b877",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oBAA]YQ.8y?abD9Z}enNm-t7owRkYZxH=zMxai%MQV%2-DMxS|ohySs:eZRjoJf*xIRjNGt8jFfj"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d33f84522f2c6b6b876",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oB9kQUIB4V-;WT9Z^BRPR6kDowaLLVof-DIUai%MMLtR$,IUS|t7t~ofVyRjoJkBxIRjRjxbjFbF"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#AAAAAA"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#AAAAAA"
+        }
+      }
+    }
+  ]
+}

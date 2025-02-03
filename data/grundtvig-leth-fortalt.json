@@ -1,0 +1,741 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5336147488000",
+  "sortLetter": "g",
+  "channel": {
+    "title": "P1",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+    "slug": "p1",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p1"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Kultur"
+  ],
+  "numberOfEpisodes": 5,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-05-29T05:04:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt-5336147488000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/grundtvig-leth-fortalt",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5336147488000",
+  "productionNumber": "5336147488000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:66543149be7905fb09c29a22",
+  "slug": "grundtvig-leth-fortalt-5336147488000",
+  "title": "Grundtvig Leth fortalt",
+  "punchline": "For at forstå nutidens Danmark dykker Leth ned i N.F.S. Grundtvigs tankegods",
+  "description": "I Grundtvig Leth Fortalt sætter Kristian Leth spørgsmålstegn ved de hellige køer, som vi danskere fortæller om os selv og hinanden. Kan det virkelig passe at vi danskere er mere frie, tolerante, oplyste og rationelle end resten af verden, og hvad vil det overhovedet sige at være dansk? For bedre at kunne forstå nutidens Danmark, dykker Kristian sammen med historiker Hans Erik Havsteen ned i Danmarks største profet, N.F.S. Grundtvig, hvis tankegods og idéer mere end nogen anden har formet, hvad vi i dag forstår ved at være dansk. Hans Erik har linet nogle af landets største grundtvigeksperter op, der vil gøre os klogere på den gamle profet og det land, vi er rundet af.\nProduceret for DR af Munck Studios København.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc4",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NSC~^{4T-pt7NGR*NsbvNZWBxuRjxHn+V@tQRjof",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001f8eb90c51f5c08c7cc4&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001f8eb90c51f5c08c7cc5&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc6",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oQE2nW8w%Lt7aeM{THNZsCxGt7M{$R$kM{tQWBaz%MMxxboLRjogWVkBaeoLofR*xHn+WBoyWBoL",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001f8eb90c51f5c08c7cc6&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001f8eb90c51f5c08c7cc5&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#212121",
+        "#C0C0C0"
+      ]
+    },
+    "colors": {
+      "dark": "#212121",
+      "light": "#C0C0C0"
+    }
+  },
+  "sSlug": "grundtvig-leth-fortalt",
+  "rssUri": "https://xmpl.dk/podcast/grundtvig-leth-fortalt.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492801",
+      "durationMilliseconds": 2543935,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "16122492801",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-05-29T05:00:00+02:00",
+      "startTime": "2024-05-29T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/grundtvig-leth-fortalt-den-stoerste-profet-16122492801",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:6654314cbe7905fb09c29a37",
+      "series": {
+        "title": "Grundtvig Leth fortalt",
+        "id": "urn:dr:radio:series:66543149be7905fb09c29a22",
+        "slug": "grundtvig-leth-fortalt-5336147488000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt-5336147488000",
+        "learnId": "urn:dr:ocs:audio:content:series:5336147488000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 20829888,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/594d88aef1d6fec1e35626e901c8460a7151d2383f34236e3fa2f32a9e7cb8ff"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 61534003,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/d6dc1a55c690a92bff821954d03b4c95d7414f46a81f942aaf82e9985db625d1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 81885836,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/a126ff1821405a5db58ebac878faec07fe39dce693798016faa4ccc91dfe3040"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 20352445,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/be68cdee40ce3c21579b4470acdb9eaeed9be8e80a884dbadd23d8d17517a1b8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 61056445,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/593bbffec7f51d0219bd6e2ccae125836afa9dbb0a6cb9c658c450c4a219b9c3"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/ae31f34742166ad62d01135e654832cbdffd3d8c4a284bfcafd654ce21aa5807"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492801",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-29T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6654314cbe7905fb09c29a2f",
+      "slug": "grundtvig-leth-fortalt-den-stoerste-profet-16122492801",
+      "title": "Den største profet",
+      "description": "Vi danskere har et uhørt forhold til vores kristne tro og kirke. Vi går kun i kirke, når der er en anledning, men alligevel er størstedelen af os betalende medlemmer af folkekirken. Hvordan hænger dette overhovedet sammen? For at forstå, hvordan vi endte her, må vi først forstå Grundtvig, der om nogen har formet den danske kristendom og folkekirke - og, nå ja, så skrev han 1.600 salmer. \nMedvirkende: Anders Holm, lektor i kirkehistorie ved det teologiske fakultet København samt Kathrine Lilleør, sognepræst ved Sankt Pauls Kirke i København.\nVært: Kristian Leth og Hans Erik Havsteen.\nKlipper: Ole Fugl Hørkilde.\nProducer: Mathias Nicolai Pedersen.\nRedaktør: Rune Born Schwartz.\nDR Redaktør: Esben Rud Ammundsen.\nProduceret for DR af Munck Studios København.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc4",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NSC~^{4T-pt7NGR*NsbvNZWBxuRjxHn+V@tQRjof"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc6",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oQE2nW8w%Lt7aeM{THNZsCxGt7M{$R$kM{tQWBaz%MMxxboLRjogWVkBaeoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#C0C0C0"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#C0C0C0"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492802",
+      "durationMilliseconds": 2617375,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "16122492802",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-05-29T05:01:00+02:00",
+      "startTime": "2024-05-29T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/grundtvig-leth-fortalt-mystikeren-der-opfandt-danskheden-16122492802",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:6654314cbe7905fb09c29a3a",
+      "previousId": "urn:dr:radio:episode:6654314cbe7905fb09c29a2f",
+      "series": {
+        "title": "Grundtvig Leth fortalt",
+        "id": "urn:dr:radio:series:66543149be7905fb09c29a22",
+        "slug": "grundtvig-leth-fortalt-5336147488000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt-5336147488000",
+        "learnId": "urn:dr:ocs:audio:content:series:5336147488000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 21431205,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/b706ee7d2ffb08d5ed3c21353f9715847d82c1d00d685f95ee791c75c28caa79"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 63310631,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/b9f6e960deb75da027190fe9e0e0b7ce608c58164e56cfcb4d3ecefaca4ed71d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 84250085,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/d5313bc559a66ab299502d7c169839de7ba50ae631d982fa5d569af945734ac5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 20939963,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/a055d8f4f28751da483d2ffdc38a8683d0f31ec5deff2cfdb294a028a5634e08"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 62819003,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/4a8aeed2ce0cf70d1f59da7a0d9f7ec3a32afff5d39fb48c0d9cd367cb13844d"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/b5b928bf6f5fac63c3abc8dc30b5931b2954e9578deffd5badfbe54132587381"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492802",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-29T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:6654314cbe7905fb09c29a37",
+      "slug": "grundtvig-leth-fortalt-mystikeren-der-opfandt-danskheden-16122492802",
+      "title": "Mystikeren der opfandt danskheden",
+      "description": "Den danske folkesjæl er noget særligt, der adskiller os fra resten af omverdenen. Sådan tænker vi, men er det hele bare en myte, som Grundtvig har fundet på? For Grundtvig var myterne om de nordiske guder et tegn på noget unikt dansk. Men er dette overhovedet rigtigt, og hvem ville danskerne være, hvis ikke det var for Grundtvig?\nMedvirkende: Sune Auken, lektor i dansk litteratur ved Københavns Universitet samt Sophie Bønding, ph.d. i religionsvidenskab og postdoc ved Stockholms Universitet.\nVært: Kristian Leth og Hans Erik Havsteen.\nKlipper: Ole Fugl Hørkilde.\nProducer: Mathias Nicolai Pedersen.\nRedaktør: Rune Born Schwartz.\nDR Redaktør: Esben Rud Ammundsen.\nProduceret for DR af Munck Studios København.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc4",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NSC~^{4T-pt7NGR*NsbvNZWBxuRjxHn+V@tQRjof"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc6",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oQE2nW8w%Lt7aeM{THNZsCxGt7M{$R$kM{tQWBaz%MMxxboLRjogWVkBaeoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#C0C0C0"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#C0C0C0"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492803",
+      "durationMilliseconds": 2445871,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "16122492803",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-05-29T05:02:00+02:00",
+      "startTime": "2024-05-29T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/grundtvig-leth-fortalt-den-bedste-frihed-vi-kan-faa-16122492803",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:6654314cbe7905fb09c29a3d",
+      "previousId": "urn:dr:radio:episode:6654314cbe7905fb09c29a37",
+      "series": {
+        "title": "Grundtvig Leth fortalt",
+        "id": "urn:dr:radio:series:66543149be7905fb09c29a22",
+        "slug": "grundtvig-leth-fortalt-5336147488000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt-5336147488000",
+        "learnId": "urn:dr:ocs:audio:content:series:5336147488000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 20027068,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/557f99e1891dd1f1ba7141ba52cda38e6375a8d86c447f4fa20df65b9d271310"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 59162395,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/e68d9f204b5b73ea2bf527dd36f3a75d4cc5bcd0b5c99a2e366045b4e18d2622"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 78729952,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/780b90115a3deaa72970374b820598340c420925e7e47c86dfb424ff8a47502b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 19567929,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/94e1b307359b5b64be9b258c04909ab7c50561be7bb163335af88a4161d8737c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 58702905,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/f68bfc42f5dedcd24537e01dea429ea93d724c615f3fcae0bba4e99d3c19c62f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/bce3161433b644ec85c36e05d8ae12747d025a723bf61017f8ef416be0739a2d"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492803",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-29T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:6654314cbe7905fb09c29a3a",
+      "slug": "grundtvig-leth-fortalt-den-bedste-frihed-vi-kan-faa-16122492803",
+      "title": "Den bedste frihed, vi kan få",
+      "description": "Danmark er et frit land med et enormt frisind og ytringsfriheden er noget nær det helligste. Samtidig insisterer vi danskere på, at man skal passe ind, og man kan i hvert fald ikke melde sig ud af fællesskabet. Idéen om frihed varierer voldsomt rundt om i verden, så for at forstå det danske frihedsbegreb, må vi først forstå, hvordan Grundtvig forstod frihed for over 150 år siden. \nMedvirkende: Ingrid Ank, leder af Grundtvig Akademiet samt Ove Korsgaard, professor i pædagogik. \nVært: Kristian Leth og Hans Erik Havsteen.\nKlipper: Ole Fugl Hørkilde.\nProducer: Mathias Nicolai Pedersen.\nRedaktør: Rune Born Schwartz.\nDR Redaktør: Esben Rud Ammundsen.\nProduceret for DR af Munck Studios København.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc4",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NSC~^{4T-pt7NGR*NsbvNZWBxuRjxHn+V@tQRjof"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc6",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oQE2nW8w%Lt7aeM{THNZsCxGt7M{$R$kM{tQWBaz%MMxxboLRjogWVkBaeoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#C0C0C0"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#C0C0C0"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492804",
+      "durationMilliseconds": 2873023,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "16122492804",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-05-29T05:03:00+02:00",
+      "startTime": "2024-05-29T05:03:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/grundtvig-leth-fortalt-i-skolen-skal-man-laere-at-elske-livet-16122492804",
+      "order": 100004,
+      "nextId": "urn:dr:radio:episode:6654314cbe7905fb09c29a40",
+      "previousId": "urn:dr:radio:episode:6654314cbe7905fb09c29a3a",
+      "series": {
+        "title": "Grundtvig Leth fortalt",
+        "id": "urn:dr:radio:series:66543149be7905fb09c29a22",
+        "slug": "grundtvig-leth-fortalt-5336147488000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt-5336147488000",
+        "learnId": "urn:dr:ocs:audio:content:series:5336147488000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 23524355,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/a4cf0af8b00818cce60555924308c45017efb78d8187665b2e3756a1b977a8a3"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 69493895,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/2a22deac3e19c21ac7f296067117a10d15947c202c8a0e2d63126d9667bb814e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 92478504,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/125b73a519ae8c2260848bef1b8f31787c6167b262f2792794093918b1af3081"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 22985153,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/6d8eb68a04154f6e7727e00c1f254efc2c53d823360e2f9a98f837af89453422"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 68954561,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/3ad89f9a8f4377c79b0cd37dfd9fc686881bd52b11d4d2c9f9d87ba1f0d54a2d"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/761c938fc5e962481abba52a4abb0b26b453e6d2d13c119be9e7cfb885024d7f"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492804",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-29T05:03:00+02:00",
+      "id": "urn:dr:radio:episode:6654314cbe7905fb09c29a3d",
+      "slug": "grundtvig-leth-fortalt-i-skolen-skal-man-laere-at-elske-livet-16122492804",
+      "title": "I skolen skal man lære at elske livet",
+      "description": "Grundtvig mente ikke selv at børn burde gå i skole. Alligevel bliver Grundtvig nævnt i flæng på alle fronter, når det gælder vores skolesystem - han bliver bandet af for rundkredspædagogikken og lovprist for sit fokus på barnets leg og læring. Og så er der Grundtvigs idé om højskolen. En uhørt fri skoleform, som aldrig vil blive opfundet igen, hvis den ikke allerede eksisterede.  \nMedvirkende: Thorstein Balle, seniorresearcher ved Grundtvig Centret samt Jonas Møller, tidligere højskolelærer og underviser i højskolepædagogik. \nVært: Kristian Leth og Hans Erik Havsteen.\nKlipper: Ole Fugl Hørkilde.\nProducer: Mathias Nicolai Pedersen.\nRedaktør: Rune Born Schwartz.\nDR Redaktør: Esben Rud Ammundsen.\nProduceret for DR af Munck Studios København.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc4",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NSC~^{4T-pt7NGR*NsbvNZWBxuRjxHn+V@tQRjof"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc6",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oQE2nW8w%Lt7aeM{THNZsCxGt7M{$R$kM{tQWBaz%MMxxboLRjogWVkBaeoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#C0C0C0"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#C0C0C0"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492805",
+      "durationMilliseconds": 2672815,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "16122492805",
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "publishTime": "2024-05-29T05:04:00+02:00",
+      "startTime": "2024-05-29T05:04:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/grundtvig-leth-fortalt-grundtvigs-verdensarv-16122492805",
+      "order": 100005,
+      "previousId": "urn:dr:radio:episode:6654314cbe7905fb09c29a3d",
+      "series": {
+        "title": "Grundtvig Leth fortalt",
+        "id": "urn:dr:radio:series:66543149be7905fb09c29a22",
+        "slug": "grundtvig-leth-fortalt-5336147488000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt-5336147488000",
+        "learnId": "urn:dr:ocs:audio:content:series:5336147488000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 21885192,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/8a14d7b32592bba35938aa3b5c95b7bd8ffc3f7aae57d5e141fa9798cdd9e934"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 64651711,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/366b336ff5a7b52067718a29ea40fe04798cee5aac582b1124f0202f2ee5bec6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 86034728,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/7a08684b4c77efe1c6b24fe1b4cbd69e335c410494ba14c0221e46c49c8862eb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 21383485,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/20533d7825c909aca5f51ff06e3393ab39d83c2501dd6f31419b3982d0d112d7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 64149565,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/bbdb5fbde9035cdb5694078b25f12aad9912ebb14311386312ab6951be467da0"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/965336a154f5145c0b6ead76369a3425cca7259736c54ae3fc9ea30617e441b7"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492805",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-29T05:04:00+02:00",
+      "id": "urn:dr:radio:episode:6654314cbe7905fb09c29a40",
+      "slug": "grundtvig-leth-fortalt-grundtvigs-verdensarv-16122492805",
+      "title": "Grundtvigs verdensarv",
+      "description": "Dette sidste program efterlader Kristian målløs med flere plottwists, end han selv havde set komme. Vi har fået understreget gang på gang i denne serie, at vi lever i slipstrømmen af Grundtvigs tanker. Profetens ord er blevet grebet og videreudviklet på af hans mange, mange disciple - også uden for landets grænser og hele vejen ind i Det Hvide Hus.     \nMedvirkende: Ingrid Ank, leder af Grundtvig Akademiet samt Anders Holm, lektor i kirkehistorie ved det teologiske fakultet København. \nDer er blevet brugt klip fra Larry King Live, CNN samt Barack Obamas tale ved statsmiddag for de fem nordiske lande, 2016.\nVært: Kristian Leth og Hans Erik Havsteen.\nKlipper: Ole Fugl Hørkilde.\nProducer: Mathias Nicolai Pedersen.\nRedaktør: Rune Born Schwartz.\nDR Redaktør: Esben Rud Ammundsen.\nProduceret for DR af Munck Studios København.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc4",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NSC~^{4T-pt7NGR*NsbvNZWBxuRjxHn+V@tQRjof"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc6",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oQE2nW8w%Lt7aeM{THNZsCxGt7M{$R$kM{tQWBaz%MMxxboLRjogWVkBaeoLofR*xHn+WBoyWBoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8eb90c51f5c08c7cc5",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oPDb]D4Txuo|WBM{O;J6n*s:t7M{$RxHM{tQWBjax]IUxaj[Rjs:WobaWBoLofR*xHn+WBoyWBoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#212121",
+            "#C0C0C0"
+          ]
+        },
+        "colors": {
+          "dark": "#212121",
+          "light": "#C0C0C0"
+        }
+      }
+    }
+  ]
+}

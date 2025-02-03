@@ -1,0 +1,746 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:4884542801000",
+  "sortLetter": "e",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar",
+    "Historie"
+  ],
+  "numberOfEpisodes": 5,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-09-10T05:04:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne-4884542801000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/enken-med-den-forsvundne-kasse",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:4884542801000",
+  "productionNumber": "4884542801000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:66cc6f132c77c39fecb65379",
+  "slug": "enken-med-nazidokumenterne-4884542801000",
+  "title": "Enken med nazidokumenterne",
+  "description": "En aldrende dame afleverer en mystisk æske til Rigsarkivet. Æsken indeholder en række opsigtsvækkende dokumenter fra anden verdenskrig, som hendes afdøde mand har stjålet fra Rigsarkivet. Journalist Camilla Pedersen og tidligere politibetjent Martin Qvist Magnussen jagter svar på, hvad dokumenterne indeholder, og hvorfor enkens afdøde mand tog dem.  \nProduceret for DR af Koncern TV.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:66ffd951cb018709089f7428",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NUOW1zG[rDr?Y5vM}suNidniTJm,NGRPxuayRjt7",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffd951cb018709089f7428&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffd951cb018709089f7429&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66ffd951cb018709089f742a",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oZOohmPoY5u+k=n%{fTwTJq]S#ofM{RPaet6V[X8ggn5i_X8s:WBi_xuofRjfkoLnOR*kCs.WBj[",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffd951cb018709089f742a&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffd951cb018709089f7429&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#29172A",
+        "#FB857E"
+      ]
+    },
+    "colors": {
+      "dark": "#29172A",
+      "light": "#FB857E"
+    }
+  },
+  "sSlug": "enken-med-nazidokumenterne",
+  "rssUri": "https://xmpl.dk/podcast/enken-med-nazidokumenterne.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122493641",
+      "durationMilliseconds": 1752572,
+      "categories": [
+        "Dokumentar",
+        "Historie"
+      ],
+      "productionNumber": "16122493641",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-09-10T05:00:00+02:00",
+      "startTime": "2024-09-10T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/enken-med-nazidokumenterne-1-5-enken-med-nazidokumenterne-16122493641",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:66cc6f142c77c39fecb65383",
+      "series": {
+        "title": "Enken med nazidokumenterne",
+        "id": "urn:dr:radio:series:66cc6f132c77c39fecb65379",
+        "slug": "enken-med-nazidokumenterne-4884542801000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne-4884542801000",
+        "learnId": "urn:dr:ocs:audio:content:series:4884542801000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14350544,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/65c698cac4362e86160c50a7ca7d0dbf6086436a2025d49362e7414d05696472"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 42392755,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/6055af1eaf7d08e27c46ecc0d2016c250512549dfaea95ed71a42771d5fe38ad"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 56413876,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/4b916dbddc6a822d1c74e252d062b1d3bcc856fb0fed36e9542b59cc4e932217"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14021206,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/046d3d006797f48f08ebd9ce5b25a9d8782f4c7e1395458184cf1a1b1f940d30"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 42063190,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/3f8cddd2aa839cb86065de298fd8131ab333c5d368fee7d51de926ec172138cf"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/7d78926cb4451874bceba9075ca0e14368e27c61b46e0580e4962b529eafa8e4"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122493641",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-10T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:66cc6f142c77c39fecb6537c",
+      "slug": "enken-med-nazidokumenterne-1-5-enken-med-nazidokumenterne-16122493641",
+      "title": "1:5 - Enken med nazidokumenterne",
+      "description": "En regnvåd efterårsdag møder Camilla Pedersen enken, Lise, i hendes hjem i Valby. Det bliver starten på at forsøge at forstå, hvem Lises afdøde mand, Paul, er. Og hvorfor han har taget nazidokumenterne, så ingen andre kan læse dem. Er der noget, han ønsker at skjule? Lise er ærgerlig over, at hun ikke har spurgt mere ind til Paul, mens han levede.\nTilrettelæggelse: Camilla Pedersen.\nRadiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen.\nFortæller: Martin Greis-Rosenthal.\nRedaktør: Cecilie Egholm Tonnesen.\nProduceret for DR af Koncern TV.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7428",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NUOW1zG[rDr?Y5vM}suNidniTJm,NGRPxuayRjt7"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f742a",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOohmPoY5u+k=n%{fTwTJq]S#ofM{RPaet6V[X8ggn5i_X8s:WBi_xuofRjfkoLnOR*kCs.WBj["
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#29172A",
+            "#FB857E"
+          ]
+        },
+        "colors": {
+          "dark": "#29172A",
+          "light": "#FB857E"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122493642",
+      "durationMilliseconds": 1735436,
+      "categories": [
+        "Dokumentar",
+        "Historie"
+      ],
+      "productionNumber": "16122493642",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-09-10T05:01:00+02:00",
+      "startTime": "2024-09-10T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/enken-med-nazidokumenterne-2-5-det-svigtede-barn-16122493642",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:66cc6f152c77c39fecb65386",
+      "previousId": "urn:dr:radio:episode:66cc6f142c77c39fecb6537c",
+      "series": {
+        "title": "Enken med nazidokumenterne",
+        "id": "urn:dr:radio:series:66cc6f132c77c39fecb65379",
+        "slug": "enken-med-nazidokumenterne-4884542801000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne-4884542801000",
+        "learnId": "urn:dr:ocs:audio:content:series:4884542801000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14210275,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/c54e14907b2bc3991b5ac17119f068ea0e14ca4fb77ca83950028f0ede3848a2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 41978403,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/58495b9fa086a41c457dc154f96725e67ceedae2fb92f1d287f0fcb249e051ea"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 55862443,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/f1bde5c8edd2e6553369c315e2fee29a3ca017b0bf260d20b3004663b6571526"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13884118,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/d178ab63c0ec6afdfd1211ae7184c217ab8736a25e52654d87e0b607a132d810"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 41651926,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/4ae574df93be4046c3109e4589cc333501208881a0499ec338e12d5f181203c2"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/2ecb3634326c1d21061cfd146a3728968057c4fe9fad9cfbe7f0db522ff7fcf9"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122493642",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-10T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:66cc6f142c77c39fecb65383",
+      "slug": "enken-med-nazidokumenterne-2-5-det-svigtede-barn-16122493642",
+      "title": "2:5 - Det svigtede barn",
+      "description": "Efter flere måneders venten får Camilla Pedersen og Martin Qvist Magnussen endelig adgang til ét af de dokumenter Paul tog: hans egen faderskabs- og adoptionssag fra 1943. Den indeholder helt nye oplysninger. Men åbner også op for flere spørgsmål end svar. Hvorfor var Paul vred på sin biologiske mor? Og hvem var Pauls biologiske far?\nTilrettelæggelse: Camilla Pedersen. \nRadiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen. \nFortæller: Martin Greis-Rosenthal.\nRedaktør: Cecilie Egholm Tonnesen.\nProduceret for DR af Koncern TV.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7428",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NUOW1zG[rDr?Y5vM}suNidniTJm,NGRPxuayRjt7"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f742a",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOohmPoY5u+k=n%{fTwTJq]S#ofM{RPaet6V[X8ggn5i_X8s:WBi_xuofRjfkoLnOR*kCs.WBj["
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#29172A",
+            "#FB857E"
+          ]
+        },
+        "colors": {
+          "dark": "#29172A",
+          "light": "#FB857E"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122493643",
+      "durationMilliseconds": 1874732,
+      "categories": [
+        "Dokumentar",
+        "Historie"
+      ],
+      "productionNumber": "16122493643",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-09-10T05:02:00+02:00",
+      "startTime": "2024-09-10T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/enken-med-nazidokumenterne-3-5-den-nazistiske-forbindelse-16122493643",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd",
+      "previousId": "urn:dr:radio:episode:66cc6f142c77c39fecb65383",
+      "series": {
+        "title": "Enken med nazidokumenterne",
+        "id": "urn:dr:radio:series:66cc6f132c77c39fecb65379",
+        "slug": "enken-med-nazidokumenterne-4884542801000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne-4884542801000",
+        "learnId": "urn:dr:ocs:audio:content:series:4884542801000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15350852,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/af7ad57691ab476f7b678a94bf1e69c954112efd600468a9f50c66af02a460ef"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 45347943,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/0a1221a160cb6ac3e428ed39876de0d796c6b043ce04e0528013ed5f24cdfbc7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 60346516,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/bdd8be78d83d98c528be55dc5583db77ae64d9c8182ac61adbc0d033b4289ff4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14998486,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/a6969261ea7df25f79873a3650775db8723a7a18fedc8e378347cadebfc37a1e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 44995030,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/71b158b34be4b0501019431cf6c18b3cf878e89d13bd9ce615ee69f3eb79768b"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/8d3275d76818a863d652e105b4f97aec08dacb1d5d119f0b85d8a34d09103c46"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122493643",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-10T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:66cc6f152c77c39fecb65386",
+      "slug": "enken-med-nazidokumenterne-3-5-den-nazistiske-forbindelse-16122493643",
+      "title": "3:5 - Den nazistiske forbindelse",
+      "description": "En undren spirer hos Camilla Pedersen og Martin Qvist Magnussen, da de får adgang til det næste dokument, Paul har taget. Det er mentalerklæringen på den ledende nazist i Danmark under besættelsen, Werner Best. Camilla tager igen forbi Lise. Måske hun kan kaste lys over, hvorfor Paul er fascineret af en topnazists indre? \nTilrettelæggelse: Camilla Pedersen. \nRadiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen. \nFortæller: Martin Greis-Rosenthal.\nRedaktør: Cecilie Egholm Tonnesen.\nProduceret for DR af Koncern TV.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7428",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NUOW1zG[rDr?Y5vM}suNidniTJm,NGRPxuayRjt7"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f742a",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOohmPoY5u+k=n%{fTwTJq]S#ofM{RPaet6V[X8ggn5i_X8s:WBi_xuofRjfkoLnOR*kCs.WBj["
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#29172A",
+            "#FB857E"
+          ]
+        },
+        "colors": {
+          "dark": "#29172A",
+          "light": "#FB857E"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122493644",
+      "durationMilliseconds": 1369196,
+      "categories": [
+        "Dokumentar",
+        "Historie"
+      ],
+      "productionNumber": "16122493644",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-09-10T05:03:00+02:00",
+      "startTime": "2024-09-10T05:03:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/enken-med-nazidokumenterne-4-5-den-soegende-mand-16122493644",
+      "order": 100004,
+      "nextId": "urn:dr:radio:episode:66cc6f152c77c39fecb65389",
+      "previousId": "urn:dr:radio:episode:66cc6f152c77c39fecb65386",
+      "series": {
+        "title": "Enken med nazidokumenterne",
+        "id": "urn:dr:radio:series:66cc6f132c77c39fecb65379",
+        "slug": "enken-med-nazidokumenterne-4884542801000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne-4884542801000",
+        "learnId": "urn:dr:ocs:audio:content:series:4884542801000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 11211748,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/517e8f61d2805a41420adb0517f6386f02726308267d7c1d4cc197d6a933e8aa"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 33120115,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/ee5d3667ee062ec1ef2f5a324acab97f74944330941cb06b1e2c4ed6700cf26c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 44074308,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/02ef7a5854a28d38aac82cc325fedd54a84bf49df2fcf9be3c1d7573f5dd367e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 10954198,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/db621dae4f7daffb31c772c691825df5ef9810f4c5483fc004759f9baba35097"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 32862166,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/a2482f3fac3db4788763e066a440bcc5d3eb916f24f6e847765745c131880936"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/3e62eb4ab374b046de491c98317ecb521cf326fa253ac764206d914c41b75969"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122493644",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-10T05:03:00+02:00",
+      "id": "urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd",
+      "slug": "enken-med-nazidokumenterne-4-5-den-soegende-mand-16122493644",
+      "title": "4:5 - Den søgende mand",
+      "description": "Hvordan ender den danske forfatter Sven Hazel med at få en fremtrædende placering i fortællingen? Den sidste af de sager, Paul har taget, er Sven Hazels fulde straffesag fra retsopgøret efter besættelsen. Men hvorfor har han været interesseret i netop den? De nye oplysninger får Lise til at spørge sig selv: Hvor godt kendte jeg egentlig Paul?\nTilrettelæggelse: Camilla Pedersen. \nRadiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen. \nIndtalt af: Martin Greis-Rosenthal.\nRedaktør: Cecilie Egholm Tonnesen.\nProduceret for DR af Koncern TV.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7428",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NUOW1zG[rDr?Y5vM}suNidniTJm,NGRPxuayRjt7"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f742a",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOohmPoY5u+k=n%{fTwTJq]S#ofM{RPaet6V[X8ggn5i_X8s:WBi_xuofRjfkoLnOR*kCs.WBj["
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#29172A",
+            "#FB857E"
+          ]
+        },
+        "colors": {
+          "dark": "#29172A",
+          "light": "#FB857E"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122493645",
+      "durationMilliseconds": 1763252,
+      "categories": [
+        "Dokumentar",
+        "Historie"
+      ],
+      "productionNumber": "16122493645",
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "publishTime": "2024-09-10T05:04:00+02:00",
+      "startTime": "2024-09-10T05:04:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/enken-med-nazidokumenterne-5-5-pauls-hemmelighed-16122493645",
+      "order": 100005,
+      "previousId": "urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd",
+      "series": {
+        "title": "Enken med nazidokumenterne",
+        "id": "urn:dr:radio:series:66cc6f132c77c39fecb65379",
+        "slug": "enken-med-nazidokumenterne-4884542801000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne-4884542801000",
+        "learnId": "urn:dr:ocs:audio:content:series:4884542801000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14438052,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/be8c3c02209dd4822a372fa6ccd211df33087f9596357129bda7c358ed125ef7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 42651247,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/f13acc73a85bcb792f5c567290c0165c50dacd063982c246f7c5f8cb0481a263"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 56757848,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/a0e59d25c0efa47ce87d5a4ec227b083b50aa3bafc4e8a444196a7e3688db423"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14106646,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/f4b3b8ae876e81b9ee04280fa09192bd4301a109d91cb7ff6c6e1eba2a0d60e6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 42319510,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/fb6f61b37f9e7e6548987783e69d3e68b1b1ae95dfa42cfaee66ccfd7cd0cc1f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/8f5e8027e55538e1bffe3ab1da4eaff8c23e057768b05c6d55e356a3be28fb43"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122493645",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-10T05:04:00+02:00",
+      "id": "urn:dr:radio:episode:66cc6f152c77c39fecb65389",
+      "slug": "enken-med-nazidokumenterne-5-5-pauls-hemmelighed-16122493645",
+      "title": "5:5 - Pauls hemmelighed",
+      "description": "Mystikken spreder sig. Martin Qvist Magnussen har igennem flere år gravet dybt i Sven Hazels straffesag, og ny viden kommer frem om én af de mest sælgende danske forfattere. Et kapitel i Danmarkshistorien skrives om, og Lise får nye oplysninger om Paul. Men ændrer de synet på hendes afdøde mand? Den mand hun elsker?\n Tilrettelæggelse: Camilla Pedersen. \nRadiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen. \nFortæller: Martin Greis-Rosenthal.\nRedaktør: Cecilie Egholm Tonnesen.\nProduceret for DR af Koncern TV.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7428",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NUOW1zG[rDr?Y5vM}suNidniTJm,NGRPxuayRjt7"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f742a",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOohmPoY5u+k=n%{fTwTJq]S#ofM{RPaet6V[X8ggn5i_X8s:WBi_xuofRjfkoLnOR*kCs.WBj["
+        },
+        {
+          "id": "urn:dr:radio:image:66ffd951cb018709089f7429",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oZOon%P.Y5v2k=ni{zTxTJq^S}ofM|RjWVt7V[bbcEnOi{XSs:WBeotRofRjfkoLnONHbbsoWBoe"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#29172A",
+            "#FB857E"
+          ]
+        },
+        "colors": {
+          "dark": "#29172A",
+          "light": "#FB857E"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# ignore all dotfiles
+.*
+
+# ignore logs
+*.log
+
+# ignore os files
+Thumbs.db
+
+# exclude from ignore rules
+!.gitignore

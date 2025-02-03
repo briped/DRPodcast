@@ -1,0 +1,619 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:4675122971000",
+  "sortLetter": "s",
+  "channel": {
+    "title": "P1",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+    "slug": "p1",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p1"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar"
+  ],
+  "numberOfEpisodes": 4,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2023-06-20T05:00:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke-4675122971000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/soester-elsker-elsker-ikke",
+  "psdbUrn": "urn:dr:mu:bundle:6481ec307140142884b72b09",
+  "psdbSlug": "soester-elsker-elsker-ikke",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:4675122971000",
+  "productionNumber": "4675122971000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:6481ec372f049931670d3c61",
+  "slug": "soester-elsker-elsker-ikke-4675122971000",
+  "title": "Søster - elsker, elsker ikke",
+  "punchline": "Merete Pryds Helle ville gerne elske sin søster, men hun kunne ikke",
+  "description": "Den prisbelønnede forfatter Merete Pryds Helle har altid følt, at hun stod i skyggen af sin berømte storesøster - at det var søsteren Jannie, der fik al opmærksomheden. Den følelse har siddet dybt i Merete siden barndommen, men hun har brug for at udfordre den. Derfor gør hun nu det, hun er bedst til: Hun skriver. Skriver om deres liv sammen. Og hun opsøger mennesker, der enten kendte dem begge eller har psykologisk indsigt:\n\"Man skal jo elske sine søskende. Men jeg elskede ikke min søster!\"",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76d",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NFC+FY?.%{M-%YyBbcj=ofV[V@V_ouozV[k9tjRS",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cf7f84522f2c6b6b76d&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cf7f84522f2c6b6b76e&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76f",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oHC*{;_Gx[Q=y9WYxHm-iyxsR6WEs8xusAtMWFRQ%dVba1x@tjo{x;RUtOR8e.tPoxkDaeoyo{af",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cf7f84522f2c6b6b76f&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cf7f84522f2c6b6b76e&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#011841",
+        "#87C8A0"
+      ]
+    },
+    "colors": {
+      "dark": "#011841",
+      "light": "#87C8A0"
+    }
+  },
+  "sSlug": "soester-elsker-elsker-ikke",
+  "rssUri": "https://xmpl.dk/podcast/soester-elsker-elsker-ikke.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032306101",
+      "durationMilliseconds": 1642211,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11032306101",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2023-06-20T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke/soester-elsker-elsker-ikke-1/soester-elsker-elsker-ikke-1-4-stjernen-og-stoevbunken-11032306101",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:6481ec382f049931670d3c6c",
+      "series": {
+        "title": "Søster - elsker, elsker ikke",
+        "id": "urn:dr:radio:series:6481ec372f049931670d3c61",
+        "slug": "soester-elsker-elsker-ikke-4675122971000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke-4675122971000",
+        "learnId": "urn:dr:ocs:audio:content:series:4675122971000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13447657,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/9c9224284507cad0ae709c96b365a722676e67b97fcc75a606c0bfd56580f796"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13137883,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/5f85efe9a3f9e70b76369e7ab23a811b7c41880a6af2f2a80ace93dd50420c1e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 39722389,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/898c0544e21ddd34168578363930ad4c5a73a3b160d104873c24099d7a9e9ad9"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 39413467,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/c0f5f4878e00b1b9a372e20f4a08a151aa270975f5ab84aaa3e0cb8e79fa3d37"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 52860238,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/92cb684b38d15b0d9b0e30f650984e33de5c7b6e6274db9040d694f1a530e9f6"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/cb32bc1e982deb984718ac101f356f5feec5c9fbe17a1ed139ab314a0942bb80"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481ec31539f020020fbc899",
+      "psdbSlug": "soester-elsker-elsker-ikke-2",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032306101",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-06-20T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481ec372f049931670d3c65",
+      "slug": "soester-elsker-elsker-ikke-1-4-stjernen-og-stoevbunken-11032306101",
+      "title": "1:4 - Stjernen og støvbunken",
+      "description": "\"Det havde være nemmere, hvis det var mig, der var død!\" \n13 år efter søsterens død føler Merete stadig, at hun er støvbunken, og søsteren er stjernen. Men er der andre vinkler på historien, og hvordan kan hun komme fri af følelsen af at være forkert?\nMedvirkende: Merete Pryds Helle, forfatter. Marie Steenberger, coach.\nTilrettelæggelse: Diana Bach. Bettina Ohlsen. Merete Pryds Helle. \nKlip og lyddesign: Sara Røjkjær Knudsen.\nIndtaling: Carsten Nielsen \nRedaktør: Hanne Barslund.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76d",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NFC+FY?.%{M-%YyBbcj=ofV[V@V_ouozV[k9tjRS"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76f",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oHC*{;_Gx[Q=y9WYxHm-iyxsR6WEs8xusAtMWFRQ%dVba1x@tjo{x;RUtOR8e.tPoxkDaeoyo{af"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#011841",
+            "#87C8A0"
+          ]
+        },
+        "colors": {
+          "dark": "#011841",
+          "light": "#87C8A0"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032306102",
+      "durationMilliseconds": 1583147,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11032306102",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2023-06-20T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke/soester-elsker-elsker-ikke-1/soester-elsker-elsker-ikke-2-4-altid-nummer-to-11032306102",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:6481ec382f049931670d3c71",
+      "previousId": "urn:dr:radio:episode:6481ec372f049931670d3c65",
+      "series": {
+        "title": "Søster - elsker, elsker ikke",
+        "id": "urn:dr:radio:series:6481ec372f049931670d3c61",
+        "slug": "soester-elsker-elsker-ikke-4675122971000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke-4675122971000",
+        "learnId": "urn:dr:ocs:audio:content:series:4675122971000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12964078,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/18dd2c667d4c14de9999d21446c14b36a3ba318c57430d456d8a458da6cf17c1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12665371,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/04b535c08b15dcbb1c06b3561b0403b390338709d8205749b08a4ac83d0185ba"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 38293549,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/eb121e37a7d8ee8d46c8145ed7bc492ec4d353d0e914450b7133a8ef6fb93d1d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 37995931,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/7896968cc22b91bee98c4e7195bc2a37b02b4c06faa8db973d498ec107d9cb80"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 50958782,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/71212d059dc9506d5cfc2b0c7a0cf3c1a5cdb9e2f6e0b4de3c11c9ee8ac22009"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/84a0d50b83ba0e164c50d223dba915e95b9917cc3f57aa37324338d31f6ddd5f"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481ec307140142884b72b07",
+      "psdbSlug": "soester-elsker-elsker-ikke",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032306102",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-06-20T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481ec382f049931670d3c6c",
+      "slug": "soester-elsker-elsker-ikke-2-4-altid-nummer-to-11032306102",
+      "title": "2:4 - Altid nummer to",
+      "description": "\"Du er en typisk lillesøster!\"\nSådan har folk altid sagt til Merete. Men hvor meget betyder det, hvilket nummer man er i søskendeflokken? Og hvad sker der, når relationerne ændres i løbet af livet, ved sygdom eller død?\nMedvirkende: Merete Pryds Helle, forfatter. Margrethe Brun Hansen, børnepsykolog og forfatter. \nTilrettelæggelse: Diana Bach. Bettina Ohlsen. Merete Pryds Helle. \nKlip og lyddesign: Sara Røjkjær Knudsen.\nIndtaling: Carsten Nielsen \nRedaktør: Hanne Barslund.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76d",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NFC+FY?.%{M-%YyBbcj=ofV[V@V_ouozV[k9tjRS"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76f",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oHC*{;_Gx[Q=y9WYxHm-iyxsR6WEs8xusAtMWFRQ%dVba1x@tjo{x;RUtOR8e.tPoxkDaeoyo{af"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#011841",
+            "#87C8A0"
+          ]
+        },
+        "colors": {
+          "dark": "#011841",
+          "light": "#87C8A0"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032306103",
+      "durationMilliseconds": 1641491,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11032306103",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2023-06-27T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke/soester-elsker-elsker-ikke-1/soester-elsker-elsker-ikke-3-4-ikke-saa-klog-som-din-soester-11032306103",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:6481ec382f049931670d3c76",
+      "previousId": "urn:dr:radio:episode:6481ec382f049931670d3c6c",
+      "series": {
+        "title": "Søster - elsker, elsker ikke",
+        "id": "urn:dr:radio:series:6481ec372f049931670d3c61",
+        "slug": "soester-elsker-elsker-ikke-4675122971000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke-4675122971000",
+        "learnId": "urn:dr:ocs:audio:content:series:4675122971000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13441635,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/217d1e56a1f4510500e629727dd0861efd41e171ff8ae8ec553fc4dceb6371dd"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13132123,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/34c6dc4ce1c0042470b0409d0240b8669b340268e13158fa4202bf1274990a15"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 39704809,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/9a2e7167e39bf73d58ab939556b1dbf72f6fdcd716cd114b7afaa9edc7644c96"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 39396187,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/64d21a3a88827d79f914fc3d90561e05b010d1a2770ba0feccff5c2b09ec86bd"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 52836831,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/cdb9b867d1106d7b6f94f7e806c82892e3198985c87fd4f92f383274cc4ccd43"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/a7d9424a46f5efdf28cfd2904078d18491719936fee2b8fde0fc0bb376281705"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481ec317140142884b72b0f",
+      "psdbSlug": "soester-elsker-elsker-ikke-4",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032306103",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-06-27T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481ec382f049931670d3c71",
+      "slug": "soester-elsker-elsker-ikke-3-4-ikke-saa-klog-som-din-soester-11032306103",
+      "title": "3:4 - Ikke så klog som din søster",
+      "description": "\"Den sved!\" \nI gymnasiet går det op for Merete, at hun aldrig kan blive lige så dygtig som sin søster. Hun vælger en anden vej. Nu vender hun tilbage til læreren, der sagde: Hvorfor er du ikke lige så begavet som din søster?\nMedvirkende: Merete Pryds Helle, forfatter. Jytte Hilden, tidl. kemilærer og tidl. kulturminister. \nTilrettelæggelse: Diana Bach. Bettina Ohlsen. Merete Pryds Helle. \nKlip og lyddesign: Sara Røjkjær Knudsen.\nIndtaling: Carsten Nielsen \nRedaktør: Hanne Barslund.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76d",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NFC+FY?.%{M-%YyBbcj=ofV[V@V_ouozV[k9tjRS"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76f",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oHC*{;_Gx[Q=y9WYxHm-iyxsR6WEs8xusAtMWFRQ%dVba1x@tjo{x;RUtOR8e.tPoxkDaeoyo{af"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#011841",
+            "#87C8A0"
+          ]
+        },
+        "colors": {
+          "dark": "#011841",
+          "light": "#87C8A0"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032306104",
+      "durationMilliseconds": 1618139,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11032306104",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2023-07-04T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke/soester-elsker-elsker-ikke-1/soester-elsker-elsker-ikke-4-4-en-ny-storesoester-11032306104",
+      "order": 100004,
+      "previousId": "urn:dr:radio:episode:6481ec382f049931670d3c71",
+      "series": {
+        "title": "Søster - elsker, elsker ikke",
+        "id": "urn:dr:radio:series:6481ec372f049931670d3c61",
+        "slug": "soester-elsker-elsker-ikke-4675122971000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke-4675122971000",
+        "learnId": "urn:dr:ocs:audio:content:series:4675122971000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13250481,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/e6a746fda3c69a84ed50ca2fe118a522f4fc1354eb0a93f7efba0ce1f7b10359"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12945307,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/64c94ca6738a0dca4e714a0a4e5ca3f51eae2b5f6f5727e210cadc455d6e8efc"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 39140293,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/5895dd6cbfd4af24a1a41172cbbb8077e893ba48735325429b03b36695709108"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 38835739,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/0804056d18774cb226b520edd1d77799a90dc8dbaf90a9eeb681afe3f7306271"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 52085638,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/53e5004b9b4f911d383fd36281e4f54978e4d37911758c017cbebe1f5db7f325"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/eaefd96e2152b30b10ca1725a7bdc287b430834b8eee73796bd3bb261d15e8f6"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481ec317140142884b72b0d",
+      "psdbSlug": "soester-elsker-elsker-ikke-3",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032306104",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-07-04T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481ec382f049931670d3c76",
+      "slug": "soester-elsker-elsker-ikke-4-4-en-ny-storesoester-11032306104",
+      "title": "4:4 - En ny storesøster",
+      "description": "\"Tænk at hun kunne tænke så omsorgsfuldt om mig!\" \nStoresøster Jannie gjorde aldrig noget for at hjælpe hende. Sådan husker Merete det selv. Men en samtale med en fælles veninde giver nye indsigter. \nMedvirkende: Merete Pryds Helle, forfatter. Regina Kanta, veninde. Marie Steenberger, coach. \nTilrettelæggelse: Diana Bach. Bettina Ohlsen. Merete Pryds Helle. \nKlip og lyddesign: Sara Røjkjær Knudsen.\nIndtaling: Carsten Nielsen \nRedaktør: Hanne Barslund.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76d",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NFC+FY?.%{M-%YyBbcj=ofV[V@V_ouozV[k9tjRS"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76f",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oHC*{;_Gx[Q=y9WYxHm-iyxsR6WEs8xusAtMWFRQ%dVba1x@tjo{x;RUtOR8e.tPoxkDaeoyo{af"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf7f84522f2c6b6b76e",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oICbcF?;pHM#y9a$o#RQRRtQR6ahk7pHkBo^WFRQyAR8Vttjtjo{thRUtORRe.tPowkCaeoyo{af"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#011841",
+            "#87C8A0"
+          ]
+        },
+        "colors": {
+          "dark": "#011841",
+          "light": "#87C8A0"
+        }
+      }
+    }
+  ]
+}

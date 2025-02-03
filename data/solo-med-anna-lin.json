@@ -1,0 +1,1417 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:4106863030000",
+  "sortLetter": "s",
+  "channel": {
+    "title": "P3",
+    "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+    "slug": "p3",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p3"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Livsstil"
+  ],
+  "numberOfEpisodes": 10,
+  "numberOfSeasons": 2,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-05-08T05:04:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/solo-med-anna-lin",
+  "psdbUrn": "urn:dr:mu:bundle:64006b69714014296ca89e3c",
+  "psdbSlug": "solo-med-anna-lin",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:4106863030000",
+  "productionNumber": "4106863030000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+  "slug": "solo-med-anna-lin-4106863030000",
+  "title": "SOLO med Anna Lin",
+  "description": "Anna Lin rejser bedst, når hun rejser solo. Tag med til New York, hvor verdens hovedpersoner jagter spotlightet - og leder efter sig selv. Er det her, hun hører hjemme?",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67023d23cb01870908a9a175",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/png",
+      "blurHash": "NsI5xaM{-qWBNFM{~Xayx[ayMyRkt8ofWBayWUof",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023d23cb01870908a9a175&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67023d23cb01870908a9a176",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023d23cb01870908a9a176&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023d23cb01870908a9a177",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oqGcJOe.$ToLRQS2~EoKx@jsRjWC%MjZV@RjayoLpZjFR7V[oMoyrKayXMa{oyoLtjj@Vuj[oMay",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023d23cb01870908a9a177&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023d23cb01870908a9a176",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023d23cb01870908a9a176&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#22231E",
+        "#51FE50"
+      ]
+    },
+    "colors": {
+      "dark": "#22231E",
+      "light": "#51FE50"
+    }
+  },
+  "sSlug": "solo-med-anna-lin",
+  "rssUri": "https://xmpl.dk/podcast/solo-med-anna-lin.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332395201",
+      "durationMilliseconds": 1335043,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332395201",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2023-03-13T05:00:00+01:00",
+      "startTime": "2023-03-13T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-1/solo-med-anna-lin-welcome-to-paradise-1-5-13332395201",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:64006b6d1c70403e41f597c2",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 10932496,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6fe50cd127c03dbc15/c405297cf574543f4e25ec5b45bd4ebc361303cb60ef34442f533d0ea4ffa210"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 10680475,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6fe50cd127c03dbc15/2294b200952d7b147755a7d04b81da6ecbebc0f765a03f3f680bd60af361bca1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 32292921,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6fe50cd127c03dbc15/329627fc56e95bfac8c22bdf1d84a02f2979bc16d89ed81ea574d3ff68c19153"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 32041243,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6fe50cd127c03dbc15/7e11a40bf3158a9f621b37f0b7e37d2715c65af8ac3112c94843539753bfaa2c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 42973523,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6fe50cd127c03dbc15/a300d5ea205649fa5f562e03165f4523efdcdb72e422a562a690b64b1672eb28"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6fe50cd127c03dbc15/42df9774f33e40514644c03c14e97c3aa082ea9475ee1b37281032cb3a8dcdf9"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:64006b6a714014296ca89e42",
+      "psdbSlug": "solo-med-anna-lin-3",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332395201",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-03-13T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:64006b6fe50cd127c03dbc15",
+      "slug": "solo-med-anna-lin-welcome-to-paradise-1-5-13332395201",
+      "title": "Welcome to Paradise (1:5)",
+      "description": "Anna Lin elsker Berlins vibrerende undergrund, fedtede mad og syrede outfits. Den tyske hovedstad er som Ønskeøen, hvor ingen behøver at blive voksne, hvis ikke de vil.\nPartypigen Miri byder på kold vin og venindesnak, mens udlandsdanskeren Noomi får Anna Lin til at spørge sig selv, om hun i virkeligheden drømmer om at bo her. Et spontant stand-up show gør dog dét spørgsmål sværere at svare på. \n\nVært: Anna Lin Lundsgaard.\nKlip og lyd: Mads Bjørn Lundsgaard.\nRedaktør: Karen Albertsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:6702647df84522f2c6b75b01",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NE9R5c{WRP6u8|xZu.txNGDmOqogD=Kgfirrt2WV"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647df84522f2c6b75b02",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647df84522f2c6b75b02",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d26cb01870908a9a186",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDA,wB[L01TA^ktS.?y5I;Vg%LSdB,R9-9tMIqRkJBxa^O$fR*t7MMo[xtnTS1S1Y0Q;V[b[RRM|"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332395202",
+      "durationMilliseconds": 1165051,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332395202",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2023-03-13T05:01:00+01:00",
+      "startTime": "2023-03-13T05:01:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-1/solo-med-anna-lin-here-she-comes-2-5-13332395202",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:64006b6e1c70403e41f597cc",
+      "previousId": "urn:dr:radio:episode:64006b6fe50cd127c03dbc15",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9540731,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6d1c70403e41f597c2/bce925ccfc5f10a3d272662946dbbcdea35ac2826bc98ec517f030a94ed51c9a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9320539,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6d1c70403e41f597c2/9fe4fe2c256ff31ba99352519744c25e5c8b50418da1e16a3a853afce16c172b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 28180853,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6d1c70403e41f597c2/c89b46288c7193f90ec818bc9fba3efaa64ba426dcc558118e659ec29c696c26"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 27961435,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6d1c70403e41f597c2/50ca2f2d6e2528e74a71b82db5825a228e3f3e40150a0630d2b0316f7cfea879"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 37501397,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6d1c70403e41f597c2/9641dab03d3588247bcf219f39e97d4767d2132a91ac773893a0d0e316b4155f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6d1c70403e41f597c2/184e211b7126489386b735581948960921c07cbddd33516ef646e3a246147f51"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:64006b6a714014296ca89e40",
+      "psdbSlug": "solo-med-anna-lin-2",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332395202",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-03-13T05:01:00+01:00",
+      "id": "urn:dr:radio:episode:64006b6d1c70403e41f597c2",
+      "slug": "solo-med-anna-lin-here-she-comes-2-5-13332395202",
+      "title": "Here she comes! (2:5)",
+      "description": "Anna Lin er stadig i Berlin, hvor et mareridt har sat sig i kroppen. Madame Turquoise løfter humøret med et spontant photoshoot på gaden, hvorefter en date med kunstnertypen Edvin venter. Daten går dog ikke helt som planlagt. Det leder Anna Lin til at reflektere over, om hendes Instagramprofil er en falsk selvfremstilling, og om hun i det hele taget er oprigtig nok over for de mennesker, hun møder.  \n\nVært: Anna Lin Lundsgaard.\nKlip og lyd: Mads Bjørn Lundsgaard.\nRedaktør: Karen Albertsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:6702647dcb01870908aa48fe",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NE9R5c{WRP6u8|xZu.txNGDmOqogD=Kgfirrt2WV"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647dcb01870908aa48ff",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647dcb01870908aa48ff",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d26cb01870908a9a186",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDA,wB[L01TA^ktS.?y5I;Vg%LSdB,R9-9tMIqRkJBxa^O$fR*t7MMo[xtnTS1S1Y0Q;V[b[RRM|"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332395203",
+      "durationMilliseconds": 1230067,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332395203",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2023-03-13T05:02:00+01:00",
+      "startTime": "2023-03-13T05:02:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-1/solo-med-anna-lin-prinsen-paa-den-hvide-cykel-3-5-13332395203",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:64006b6de50cd127c03dbc0d",
+      "previousId": "urn:dr:radio:episode:64006b6d1c70403e41f597c2",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 10072129,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6e1c70403e41f597cc/b667d2598531ab4f16d36ff4329d0ab8da76b9a9d8386948ac72a020be4ae7a1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9840667,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6e1c70403e41f597cc/0c5777480bb48c39c63a37c10bc1f3a79091fc9168d0531d83e19785d36746c9"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 29753653,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6e1c70403e41f597cc/9d35b7d6cc79d88d020ae83a725a120cff47f259dad15318d9758f5ad7b2e1e8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 29521819,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6e1c70403e41f597cc/b1d71cea63ab600fbcbddad7249b6dae61d1b68e175e81db2089887ef8d2df06"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 39594449,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6e1c70403e41f597cc/74f30518cac698d8365dba1c7c041eeaa957f4181ca0f4787bea206b0f5618e2"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6e1c70403e41f597cc/8cfba94bba182d1e7256f4356997afb923a4545f1b040c549ace23430d3d0fc3"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:64006b6a714014296ca89e44",
+      "psdbSlug": "solo-med-anna-lin-4",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332395203",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-03-13T05:02:00+01:00",
+      "id": "urn:dr:radio:episode:64006b6e1c70403e41f597cc",
+      "slug": "solo-med-anna-lin-prinsen-paa-den-hvide-cykel-3-5-13332395203",
+      "title": "Prinsen på den Hvide Cykel (3:5)",
+      "description": "Turen går til partybyen Amsterdam, hvor man altid kan finde et quick fix på en kedelig aften. Anna Lin catcher up med hollænderen Rosa, som hun mødte på sin allerførste solorejse for syv år siden. Rosa tager Anna Lin med ud i nattelivet, hvor hun gør en dyd ud af at holde sig fra stoffernes løfte om en nem genvej til eufori. Den følgende aften virker dog grå og ensom, og manglen på solo-energi sætter pludselig Anna Lin i et moralsk dilemma.\n\nVært: Anna Lin Lundsgaard.\nKlip og lyd: Mads Bjørn Lundsgaard.\nRedaktør: Karen Albertsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:6702647eb90c51f5c0962eef",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NE9R5c{WRP6u8|xZu.txNGDmOqogD=Kgfirrt2WV"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647eb90c51f5c0962ef0",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647eb90c51f5c0962ef0",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d26cb01870908a9a186",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDA,wB[L01TA^ktS.?y5I;Vg%LSdB,R9-9tMIqRkJBxa^O$fR*t7MMo[xtnTS1S1Y0Q;V[b[RRM|"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332395204",
+      "durationMilliseconds": 1560067,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332395204",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2023-03-13T05:03:00+01:00",
+      "startTime": "2023-03-13T05:03:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-1/solo-med-anna-lin-paris-syndromet-4-5-13332395204",
+      "order": 100004,
+      "nextId": "urn:dr:radio:episode:64006b70e50cd127c03dbc1f",
+      "previousId": "urn:dr:radio:episode:64006b6e1c70403e41f597cc",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12774906,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6de50cd127c03dbc0d/e70a65874dc753df66be11f6da77764b9e81416e04db762ec2b2443d51555ebd"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12480667,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6de50cd127c03dbc0d/060200fcfdcb7a8bf74e236253e6efc2ed17665a7d7129913070d7f7091d13a5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 37735673,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6de50cd127c03dbc0d/df0a1f0874b32eb067588dcb8b16010a07ec649f7f970be7097f1c7a82e7e027"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 37441819,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6de50cd127c03dbc0d/46f92222e475671f7eb2537b7f11856ed9f4dcda7c8841e7341fe8f2f6cc18d0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 50216547,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6de50cd127c03dbc0d/beb1b199fdd44f473201408922d7d650b0ee8213e80eb444c5c469cec7b29171"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b6de50cd127c03dbc0d/8e453e534a65deb220b500c1ce43b2f8381cbc3b9bb8aa99bcb37612d4919610"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:64006b69714014296ca89e3a",
+      "psdbSlug": "solo-med-anna-lin",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332395204",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-03-13T05:03:00+01:00",
+      "id": "urn:dr:radio:episode:64006b6de50cd127c03dbc0d",
+      "slug": "solo-med-anna-lin-paris-syndromet-4-5-13332395204",
+      "title": "Paris-syndromet (4:5)",
+      "description": "Der er ingen ende på Paris - og heller ikke på de besøgendes forventninger til byen. Faktisk findes der et psykologisk fænomen, der dækker over den enorme skuffelse, folk oplever, når deres forventninger til Paris ikke bliver indfriet. Anna Lin har også store forventninger: En gammel, fransk flamme har inviteret hende ud og får hende til at lede efter ordene. Men findes der et ord for den tomhed, man kan opleve, når ens drømme faktisk går i opfyldelse?\n\nVært: Anna Lin Lundsgaard.\nKlip og lyd: Mads Bjørn Lundsgaard.\nRedaktør: Karen Albertsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:6702647ea91f7f60a20428fe",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NE9R5c{WRP6u8|xZu.txNGDmOqogD=Kgfirrt2WV"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647ea91f7f60a20428ff",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647ea91f7f60a20428ff",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d26cb01870908a9a186",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDA,wB[L01TA^ktS.?y5I;Vg%LSdB,R9-9tMIqRkJBxa^O$fR*t7MMo[xtnTS1S1Y0Q;V[b[RRM|"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332395205",
+      "durationMilliseconds": 1195051,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332395205",
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "publishTime": "2023-03-13T05:04:00+01:00",
+      "startTime": "2023-03-13T05:04:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-1/solo-med-anna-lin-all-by-myself-5-5-13332395205",
+      "order": 100005,
+      "nextId": "urn:dr:radio:episode:6638867cd33fbafcd488fa16",
+      "previousId": "urn:dr:radio:episode:64006b6de50cd127c03dbc0d",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9786052,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b70e50cd127c03dbc1f/3e5ba614108a337d727fd77e02d207a28fbf5e057230cacf83ff32a6afff1a47"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9560539,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b70e50cd127c03dbc1f/f4b1788f9868d6c8959a3d41871e7a48ed11b550ad362b56d9aa97761c37d455"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 28906369,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b70e50cd127c03dbc1f/715a0d6865eda4f3876211669576c22b9bb732bd5d6106c14b1b9eb6d6278737"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 28681435,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b70e50cd127c03dbc1f/631796e7e783a0dad0a2eabcee657bb349f8853767484efdd46ab058a1a8b130"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 38466882,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b70e50cd127c03dbc1f/f1b35c3845b0d34478de7c5430065db20cc5a0a30c453f4e19c0d7f2791cacaa"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64006b70e50cd127c03dbc1f/14db5b2158852257f295f4cb157b5ef3ee6c3a4e0bbd466497c6227e5aa1bcfd"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:64006b6a714014296ca89e46",
+      "psdbSlug": "solo-med-anna-lin-5",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332395205",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-03-13T05:04:00+01:00",
+      "id": "urn:dr:radio:episode:64006b70e50cd127c03dbc1f",
+      "slug": "solo-med-anna-lin-all-by-myself-5-5-13332395205",
+      "title": "All by Myself (5:5)",
+      "description": "London Calling! Solorejsen slår et sidste svirp med halen i det engelske natteliv. Her opdager Anna Lin, hvordan hendes almindelige danskhed pludselig bliver et trumfkort, når de britiske fyre går på jagt efter noget anderledes. Tanken om at blive udlandsdansker lokker mere end nogensinde, men en søndagssnak med veninden Lin giver Anna Lins Bridget Jones-drøm andre nuancer. Ude godt ...\n\nVært: Anna Lin Lundsgaard.\nKlip og lyd: Mads Bjørn Lundsgaard.\nRedaktør: Karen Albertsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:6702647e4673f49a5191ac4f",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NE9R5c{WRP6u8|xZu.txNGDmOqogD=Kgfirrt2WV"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647e4673f49a5191ac50",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:6702647e4673f49a5191ac50",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oFAK87:@0LO*=}tRzFXyEfRD%LbE7bIY$io]M}V[E%t7=_xCR*xaMMb;t7j0S1S1Y0R8V]b[RRRQ"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d26cb01870908a9a186",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDA,wB[L01TA^ktS.?y5I;Vg%LSdB,R9-9tMIqRkJBxa^O$fR*t7MMo[xtnTS1S1Y0Q;V[b[RRM|"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332496901",
+      "durationMilliseconds": 1128523,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332496901",
+      "episodeNumber": 1,
+      "seasonNumber": 2,
+      "publishTime": "2024-05-08T05:00:00+02:00",
+      "startTime": "2024-05-08T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-2/solo-med-anna-lin-welcome-to-new-york-1-5-13332496901",
+      "order": 200001,
+      "nextId": "urn:dr:radio:episode:6638867cd33fbafcd488fa1a",
+      "previousId": "urn:dr:radio:episode:64006b70e50cd127c03dbc1f",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9241127,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa16/554ab629ff19387782e7dce4c9cac184b15819fef081545022109bde45d24e9d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 27298543,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa16/b7e536d3d2a367daf4d8200fc4504362cc603be8297a79057f6003ad515a14e7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 36327259,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa16/bbb3f16c44f424dc0b2f3fd68ff5d74d9b1a474faf0dd82cd260ff937c6aa8c4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9029048,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa16/bf86d254246c4cc1a0a4e4e840f3108368fa99930d1c972fdcd6af7a77d0308e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 27086264,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa16/60f57311fb718019c35d52041718bfa28c713889ab4a633fd37f08f9b4957cac"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa16/40dbb7f596ba693174ee73416ee66421676b067652f52f27179e993560dd0bc4"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332496901",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-08T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6638867cd33fbafcd488fa16",
+      "slug": "solo-med-anna-lin-welcome-to-new-york-1-5-13332496901",
+      "title": "Welcome to New York (1:5)",
+      "punchline": "På menneskesafari i Europa, hvor venskaber, flirts og dilemmaer venter",
+      "description": "New York City er scenen, hvor hovedpersoner som Anna Lin kan få plads til store armbevægelser. Er det her, hun hører til? Solorejsen går denne gang til The Big Apple, hvor danske Kristian nyder godt af at være langt væk fra andedammen i Odense.\n\nVært og klip: Anna Lin.\nKlip, lyddesign og musik: Mads Bjørn Lundsgaard.\nRedaktør: Morten Narvedsen.\nProgramansvarlig: Anders Stegger.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670264814673f49a5191ac5e",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NsI5xaM{-qWBNFM{~Xayx[ayMyRkt8ofWBayWUof"
+        },
+        {
+          "id": "urn:dr:radio:image:670264814673f49a5191ac5f",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:670264814673f49a5191ac5f",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d27cb01870908a9a18e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oqGcJOe.$ToLRQS2~EoKx@jsRjWC%MjZV@RjayoLpZjFR7V[oMoyrKayXMa{oyoLtjj@Vuj[oMay"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332496902",
+      "durationMilliseconds": 1303508,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332496902",
+      "episodeNumber": 2,
+      "seasonNumber": 2,
+      "publishTime": "2024-05-08T05:01:00+02:00",
+      "startTime": "2024-05-08T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-2/solo-med-anna-lin-game-on-2-5-13332496902",
+      "order": 200002,
+      "nextId": "urn:dr:radio:episode:6638867cd33fbafcd488fa1e",
+      "previousId": "urn:dr:radio:episode:6638867cd33fbafcd488fa16",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 10673759,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1a/c6dbc3a31f60ff98be5ce58bd4bd27699676311dfec01914fcfec4a5a319e8d1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 31530827,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1a/71f310c428c5eb2197a55967f7a936926a14ee8a6881fb48f78ba46c49ae827d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 41959319,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1a/3a9acb2c467fd5cff5af5e4e44049ea599bda8e027e52e777cc739b1b947ffba"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 10428916,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1a/f9ecb903253944e9f901e7a10b4e08317d4fe2b146fa266c8da7deed1afa684a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 31285876,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1a/b32a9e99ab6586fb7a31a2df499842a51aadf6fb89cac8c5e20818564b27cd7f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1a/dcb661f27c234a444024d3035ed162d5363803d7c68560da49b575946a06a472"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332496902",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-08T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:6638867cd33fbafcd488fa1a",
+      "slug": "solo-med-anna-lin-game-on-2-5-13332496902",
+      "title": "Game On (2:5)",
+      "punchline": "På menneskesafari i Europa, hvor venskaber, flirts og dilemmaer venter",
+      "description": "I betonjunglen hersker et barsk spil om social status, og Anna Lin vil lære reglerne. Oliver har boet i USA i flere år og er, som han selv siger, \"hot shit\", når det kommer til social kapital. Anna bliver fanget af spillet om status og sætter sig for at finde kongen af junglen.\n\nVært og klip: Anna Lin.\nKlip, lyddesign og musik: Mads Bjørn Lundsgaard.\nRedaktør: Morten Narvedsen.\nProgramansvarlig: Anders Stegger.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670264814d5251ba04897668",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NsI5xaM{-qWBNFM{~Xayx[ayMyRkt8ofWBayWUof"
+        },
+        {
+          "id": "urn:dr:radio:image:670264814d5251ba04897669",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:670264814d5251ba04897669",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d27cb01870908a9a18e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oqGcJOe.$ToLRQS2~EoKx@jsRjWC%MjZV@RjayoLpZjFR7V[oMoyrKayXMa{oyoLtjj@Vuj[oMay"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332496903",
+      "durationMilliseconds": 1228508,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332496903",
+      "episodeNumber": 3,
+      "seasonNumber": 2,
+      "publishTime": "2024-05-08T05:02:00+02:00",
+      "startTime": "2024-05-08T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-2/solo-med-anna-lin-dag-smadret-3-5-13332496903",
+      "order": 200003,
+      "nextId": "urn:dr:radio:episode:6638867dd33fbafcd488fa27",
+      "previousId": "urn:dr:radio:episode:6638867cd33fbafcd488fa1a",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 10059793,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1e/f029dab6f8d6dbc5d56abddf63bac4f0a3e17b01ca5e66c42d6395d95f5bbc22"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 29717119,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1e/097fce95b560bd9ddfe43f4fe94cbf1b81d44ad15f2cefb915d0baf3ff2e7fdb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 39545665,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1e/6f78ebadc9139f5aea3827b14ef4785aec408f182fff0e74aad2ca11cc7d5f11"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9828920,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1e/41623665b1c8b97808508d2366ff5de9791ecbf36519480e2d56e4ca3e97a8b2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 29485880,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1e/858d1c1c1e4c73d6574a9ae4d1b9827400ca99b25661f7c60ef3c4b602d56de5"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867cd33fbafcd488fa1e/4e5450e352c0bd7681e38af9daae60673db8ab47d0c3ae0f68ca7ef7d627d76a"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332496903",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-08T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:6638867cd33fbafcd488fa1e",
+      "slug": "solo-med-anna-lin-dag-smadret-3-5-13332496903",
+      "title": "Dag Smadret (3:5)",
+      "punchline": "På menneskesafari i Europa, hvor venskaber, flirts og dilemmaer venter",
+      "description": "Anna Lins dag er smadret. Hendes TikTok er blevet delt på en Instagram-profil, der har til formål at udstille folk, der er \"cringe\". Skammen overdøver alt. Men en række møder med New Yorks forskellige karakterer giver et nyt perspektiv på hovedpersonernes lod i livet.\n\nVært og klip: Anna Lin.\nKlip, lyddesign og musik: Mads Bjørn Lundsgaard.\nRedaktør: Morten Narvedsen.\nProgramansvarlig: Anders Stegger.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67026481ac68322c7b3f01aa",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NsI5xaM{-qWBNFM{~Xayx[ayMyRkt8ofWBayWUof"
+        },
+        {
+          "id": "urn:dr:radio:image:67026481ac68322c7b3f01ab",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:67026481ac68322c7b3f01ab",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d27cb01870908a9a18e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oqGcJOe.$ToLRQS2~EoKx@jsRjWC%MjZV@RjayoLpZjFR7V[oMoyrKayXMa{oyoLtjj@Vuj[oMay"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332496904",
+      "durationMilliseconds": 1138508,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332496904",
+      "episodeNumber": 4,
+      "seasonNumber": 2,
+      "publishTime": "2024-05-08T05:03:00+02:00",
+      "startTime": "2024-05-08T05:03:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-2/solo-med-anna-lin-de-broelende-tyvere-4-5-13332496904",
+      "order": 200004,
+      "nextId": "urn:dr:radio:episode:6638867dd33fbafcd488fa2b",
+      "previousId": "urn:dr:radio:episode:6638867cd33fbafcd488fa1e",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9322883,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa27/b10319874d21c38acd750c766783dee99b7aee254b9449dc2cc05b55e69616bd"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 27540035,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa27/cf5a564acd362bb6afeb27a0cb9141b60cbf5cea929bbae4b475420dace53c16"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 36648583,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa27/adf6c8489b564d6381f2a1a08f178ab12d19e9e807a7b0231139aac23b70c4aa"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9108916,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa27/ebbb3beb154f657a4442d6534b08613e2d195570f98fbca4c2f8392a50466816"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 27325876,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa27/dff12080408c65375e71f715a0bb3bf3f3cb3664e28fd92bf1ac8e95cd13e20b"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa27/908f8e319127bb60e69c751979a10580201278e8e3911cae66c6fd9dd618c5b5"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332496904",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-08T05:03:00+02:00",
+      "id": "urn:dr:radio:episode:6638867dd33fbafcd488fa27",
+      "slug": "solo-med-anna-lin-de-broelende-tyvere-4-5-13332496904",
+      "title": "De Brølende Tyvere (4:5)",
+      "punchline": "På menneskesafari i Europa, hvor venskaber, flirts og dilemmaer venter",
+      "description": "I byen, der aldrig sover, smelter fest og arbejde sammen. Anna Lin springer ud i det pulserende party-miljø, hvor grinden aldrig stopper. Men er festen en flugt fra den hårde virkelighed lige uden for døren? Ligesom i 1920'erne, er 2020'ernes New York en kulturel trykkoger, der ser ud til snart at briste.\n\nVært og klip: Anna Lin.\nKlip, lyddesign og musik: Mads Bjørn Lundsgaard.\nRedaktør: Morten Narvedsen.\nProgramansvarlig: Anders Stegger.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670264827a30717b62780790",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NsI5xaM{-qWBNFM{~Xayx[ayMyRkt8ofWBayWUof"
+        },
+        {
+          "id": "urn:dr:radio:image:670264827a30717b62780791",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:670264827a30717b62780791",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d27cb01870908a9a18e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oqGcJOe.$ToLRQS2~EoKx@jsRjWC%MjZV@RjayoLpZjFR7V[oMoyrKayXMa{oyoLtjj@Vuj[oMay"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:13332496905",
+      "durationMilliseconds": 1175612,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "13332496905",
+      "episodeNumber": 5,
+      "seasonNumber": 2,
+      "publishTime": "2024-05-08T05:04:00+02:00",
+      "startTime": "2024-05-08T05:04:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin/saeson-2/solo-med-anna-lin-hjem-ude-hjem-5-5-13332496905",
+      "order": 200005,
+      "previousId": "urn:dr:radio:episode:6638867dd33fbafcd488fa27",
+      "series": {
+        "title": "SOLO med Anna Lin",
+        "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf",
+        "slug": "solo-med-anna-lin-4106863030000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p3/solo-med-anna-lin-4106863030000",
+        "learnId": "urn:dr:ocs:audio:content:series:4106863030000"
+      },
+      "channel": {
+        "title": "P3",
+        "id": "urn:dr:radio:channel:5fa156d2da351264f87b4634",
+        "slug": "p3",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p3"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9626604,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa2b/520eed310a1a5f0f85f94272b39927c9e859a23b123237358995445d1ed2332b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 28437383,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa2b/3dadbc596d07d0245af90d4ed3b9b93d3fa6f4284d031dadfd42e9000c03e050"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 37842736,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa2b/e0ff36859904840dcfb4e145a139b22dcf11c27b708a06baebb6a8e64cea6996"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9405747,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa2b/479d0d84cc777b42e9ec9d5159574b09083cd12cfec9905a6b0fec76c7a7bda6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 28216371,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa2b/fb90e4946958081ecb8b1da34788e6e19fe29367d80300e5bd9bc653600e5e70"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638867dd33fbafcd488fa2b/ab61ceb6ee74692579df7ab6b8161e777c0d082f120917f8ab320403ecedd528"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:13332496905",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-08T05:04:00+02:00",
+      "id": "urn:dr:radio:episode:6638867dd33fbafcd488fa2b",
+      "slug": "solo-med-anna-lin-hjem-ude-hjem-5-5-13332496905",
+      "title": "Hjem-Ude-Hjem (5:5)",
+      "punchline": "På menneskesafari i Europa, hvor venskaber, flirts og dilemmaer venter",
+      "description": "Rejsen er ved at nå sin ende, men Anna Lin har stadig ikke fundet svar på sit spørgsmål om, hvor \"hjem\" er for hende. Musikeren eee gee har fundet hjem i New York - det samme har hjemløse William. Men skal New York City være Anna Lins nye adresse?\n\nVært og klip: Anna Lin.\nKlip, lyddesign og musik: Mads Bjørn Lundsgaard.\nRedaktør: Morten Narvedsen.\nProgramansvarlig: Anders Stegger.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67026482a91f7f60a2042916",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NsI5xaM{-qWBNFM{~Xayx[ayMyRkt8ofWBayWUof"
+        },
+        {
+          "id": "urn:dr:radio:image:67026482a91f7f60a2042917",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:67026482a91f7f60a2042917",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oqGcPffk$mofRQS2~Eofx[j[RjWB%Nj[WBR*ayo2pZayR7WBoMoym@ayXMa{oyoLtjayVuj[oMay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023d27cb01870908a9a18e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oqGcJOe.$ToLRQS2~EoKx@jsRjWC%MjZV@RjayoLpZjFR7V[oMoyrKayXMa{oyoLtjj@Vuj[oMay"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#22231E",
+            "#51FE50"
+          ]
+        },
+        "colors": {
+          "dark": "#22231E",
+          "light": "#51FE50"
+        }
+      }
+    }
+  ]
+}

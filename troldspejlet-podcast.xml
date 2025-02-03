@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/troldspejlet-podcast.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Troldspejlet - podcast (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast-1680546717000</link>
+        <description>Jakob Stegelmann og Troldspejlets redaktion fortæller nyt fra fantasiens verden i spil, film, bøger og tegneserier - med anmeldelser, baggrund og arkivklip. Det klassiske tv-program i podcast-rammer.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:50 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/troldspejlet-podcast.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/troldspejlet-podcast.jpg</url>
+            <title>Troldspejlet - podcast (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast-1680546717000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/troldspejlet-podcast.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Kultur</category>
+        <itunes:category text="Kultur" />
+        <category>Film og TV</category>
+        <itunes:category text="Film og TV" />
+        <item>
+            <guid isPermaLink="false">16122492322</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-indiana-jones-and-the-great-circle-kraven-the-hunter-og-vaiana-2-16122492322</link>
+            <title>Indiana Jones and the Great Circle, Kraven the Hunter og Vaiana 2</title>
+            <description>Denne gang taler redaktionen om biograffilmene Vaiana 2, Kraven the Hunter og Ringenes Herre: Krigen om Rohan, spillene Indiana Jones and the Great Circle, S.T.A.L.K.E.R. 2 og Mario &#x26; Luigi: Brothership, tegneserierne Samuraien fra Stormgade af Martin Petersen og Angelica Inigo samt Hercule Poirot: Mordet i Orientekspressen af Agatha Christie, Benjamin Von Eckartsberg og Chaiko.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 12 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:56:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d546831c/01fc31d2015e20352e1532d25f514b2195b217fdd573c46c0787eacb4b583d2c" 
+                type="audio/mpeg" 
+                length="167682099" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d546831c/83d89c3f7bb50aae9f28e80909833943f9eea473f2e80a7eb47b131a8ac04912" 
+                type="audio/mpeg" 
+                length="55894323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d546831c/5c2448eb259e16ef367e810d0d19c7dac6a68a29a800af5234cb4d949b732973" 
+                type="audio/x-m4a" 
+                length="224887376" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d546831c/644f241168537694b2f8b48b6fef2adc004d1a10125e73e8b7475e016af56f50" 
+                type="audio/x-m4a" 
+                length="168994359" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d546831c/b0963fa480bd261adbbfe684abd3e2ea84704dcecdc66899353ad7d8ba082d82" 
+                type="audio/x-m4a" 
+                length="57205356" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492321</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-wicked-arcane-s2-og-heretic-16122492321</link>
+            <title>Wicked, Arcane S2 og Heretic</title>
+            <description>Denne gang taler redaktionen om biograffilmene Wicked, Heretic og Gladiator II, serien Arcane S2 på Netflix, spillene LEGO Horizon Adventures og Dragon Ball: Sparking! Zero samt spilbogen Legender fra Lavlandet 1: Den fjerde konveks af Morten Gottschalck.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 28 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:32:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dca4c508f7c5e430746/1a2cc6a148b6746f36834c89fcce1a89aa8597c8681e14b849ed24192828c635" 
+                type="audio/mpeg" 
+                length="133662322" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dca4c508f7c5e430746/7d2f8fbe8878045649286eb12f92dd16dfdd352f7e4745a1eb7cbbad0a60eeb8" 
+                type="audio/mpeg" 
+                length="44554354" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dca4c508f7c5e430746/7e61ab4b9451e9d0d775157241c826a8597ba4a5f6fbb59bbe54f6c117037336" 
+                type="audio/x-m4a" 
+                length="179261493" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dca4c508f7c5e430746/641b70e77798b2e7e79ef9f4da34728789a47c4746fc4a56f8b9d75b0d03c05a" 
+                type="audio/x-m4a" 
+                length="134708431" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dca4c508f7c5e430746/e169df8115628b28a9611e36d631c3cee01fcf803af97c95673cf1f0d0f7dbad" 
+                type="audio/x-m4a" 
+                length="45599499" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492320</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-red-one-dragon-age-the-veilguard-og-silent-hill-2-16122492320</link>
+            <title>Red One, Dragon Age: The Veilguard og Silent Hill 2</title>
+            <description>Denne gang taler redaktionen om biograffilmen Red One, spillene Dragon Age: The Veilguard, Super Mario Party: Jamboree og Silent Hill 2, dokumentaren Music by John Williams på Disney+ samt tegneserien Fanden til præst af Sylvain Vallée og Jacky Schwartzmann. 
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 14 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:14:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcac26aeca6fa653d0b/eb7d54dc5b494b71b7890a066677d0b1308d0145c34e0136d5e4c3c0dcbc6b43" 
+                type="audio/mpeg" 
+                length="107823538" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcac26aeca6fa653d0b/309e663ff7030fcacc548adae6d1025ce87316bc81426e8d824a6cb29082d045" 
+                type="audio/mpeg" 
+                length="35941426" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcac26aeca6fa653d0b/567bd2e6e388c804d5955796cd3dc566b14882c5a8512280b3563942d0ab5bb1" 
+                type="audio/x-m4a" 
+                length="144608353" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcac26aeca6fa653d0b/50d47d474cb0b9706d90a26afae757df2c4c500bb8d7405e19061398880d39e7" 
+                type="audio/x-m4a" 
+                length="108667491" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcac26aeca6fa653d0b/2450d5e9f2ac2da52cb2cabcf8e61da14c9be0682f48c42ef8cb1561cdb54162" 
+                type="audio/x-m4a" 
+                length="36784621" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492319</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-call-of-duty-venom-3-og-gunhild-16122492319</link>
+            <title>Call of Duty, Venom 3 og Gunhild</title>
+            <description>Denne gang taler redaktionen om biograffilmen Venom 3: The Last Dance, spillene Call of Duty: Black Ops 6, Castaway og Thank Goodness You're Here, den paranormale krimi Sødt og råddent af Lene Krog samt tegneserierne Gunhild af Fred Tornager og Hilo af Judd Winick.
+
+Mdvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 31 Oct 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:15:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcc4c508f7c5e430754/432f220b89569fee429677be46242782e91aef053b6e29aabca8869f24c5834a" 
+                type="audio/mpeg" 
+                length="109178358" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcc4c508f7c5e430754/79c9176a7ad178df9aa3ef9221f2233b5e0b595cc94abb7c8b2d2f46c1339cd4" 
+                type="audio/mpeg" 
+                length="36393078" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcc4c508f7c5e430754/3617b711e81a9aa3d3c31d46a6db9562d07a697d59cc82d9b6cdd58d75d1e215" 
+                type="audio/x-m4a" 
+                length="146424399" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcc4c508f7c5e430754/96eed76d4a1ba2481706ca1c094a6df0f8dbfac79c7bff8a35ee3d6be64764cb" 
+                type="audio/x-m4a" 
+                length="110032367" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcc4c508f7c5e430754/10af62bba13595d787a0a3ea32fe522ba2303676c3896e3a5731c180ca36bcf3" 
+                type="audio/x-m4a" 
+                length="37246612" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492318</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-the-penguin-frostpunk-2-og-the-legend-of-zelda-echoes-of-wisdom-16122492318</link>
+            <title>The Penguin, Frostpunk 2 og The Legend of Zelda: Echoes of Wisdom</title>
+            <description>Denne gang taler redaktionen om biograffilmen Joker 2: Folie à Deux og serien The Penguin på Max, spillene The Legend of Zelda: Echoes of Wisdom, Frostpunk 2 og The Plucky Squire, Stephen King-filmen Salem's Lot på Max samt tegneserien Sabotør - Kampen om det tunge vand af John S. Jamtli.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 17 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:21:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc9c26aeca6fa653cff/2ff31cc51e6d188bb6b05eaa2dc482a9fa297f4464958f166b63fb1dff794da4" 
+                type="audio/mpeg" 
+                length="117075890" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc9c26aeca6fa653cff/3cf1172eeedaddde530e714d1356da9668c481ceaf2b7f626b23a88b1c7bfdfc" 
+                type="audio/mpeg" 
+                length="39025586" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc9c26aeca6fa653cff/dcc43f2a76f2e821bb2766e55c18d06c909a8ecd43fae4fdcc91220a9eca88d9" 
+                type="audio/x-m4a" 
+                length="157016536" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc9c26aeca6fa653cff/47ba604699673516320d5cb22c82f42b8065f3d232b12fce27aa52cdc236ca42" 
+                type="audio/x-m4a" 
+                length="117991719" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc9c26aeca6fa653cff/0aef18e30ffe5b36468cea94ddc70695e3441f814a04a8e03b3732527fa6662d" 
+                type="audio/x-m4a" 
+                length="39940926" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492317</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-den-vilde-robot-astro-bot-og-agatha-all-along-16122492317</link>
+            <title>Den vilde robot, Astro Bot og Agatha All Along</title>
+            <description>Denne gang taler redaktionen om biograffilmene Megalopolis og Den vilde robot, Marvel-serien Agatha All Along på Disney+, spillene Shadow of the Ninja - Reborn og Astro Bot + PlayStation VR2 samt tegneserien Valmuemarkens paradox af Anna Laurine Kornum.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 03 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:16:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb4c508f7c5e43074f/827260b34406b06bb1995a7b42a1244fea52b453b4df9c986f957435a45a9452" 
+                type="audio/mpeg" 
+                length="110442671" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb4c508f7c5e43074f/8d0f7111f28bfb4eae542723954129bc1d9f59180851e0f615aa47c1d2eac5bf" 
+                type="audio/mpeg" 
+                length="36814511" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb4c508f7c5e43074f/83abe606d7aaf2be0a9ba24567aca00db71d2ff989140ff83dcdd1daa60bec26" 
+                type="audio/x-m4a" 
+                length="148120665" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb4c508f7c5e43074f/84a4b6667faa4b084346bc1444647300e821028a1b44c3889f3ece2f77b2e15e" 
+                type="audio/x-m4a" 
+                length="111306951" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb4c508f7c5e43074f/96535706bb8a0815e4138ab81f3824b7de9cb5a4a43c400bd28cbba359c11a2a" 
+                type="audio/x-m4a" 
+                length="37678081" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492316</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-beetlejuice-beetlejuice-wukong-og-space-marine-2-16122492316</link>
+            <title>Beetlejuice Beetlejuice, Wukong og Space Marine 2</title>
+            <description>Denne gang taler redaktionen om biograffilmen Beetlejuice Beetlejuice, spillene Black Myth: Wukong, Harry Potter: Quidditch Champions og Warhammer 40,000: Space Marine 2 samt tegneserierne Spider-Man af Todd McFarlane og Hergés oplevelser af José-Louis Bocquet, Jean-Luc Fromental og Stanislas Barthélémy.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 19 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:22:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc99973a9c837f99880/ca72aa4af1c96c9a8b31490f8eaca121d595cb6da55f70dc0928874e0abad898" 
+                type="audio/mpeg" 
+                length="118601138" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc99973a9c837f99880/dd715053dd7c6516db9c4dcc3f7ac8969f696711f15ae64a879ce3d1594abc7d" 
+                type="audio/mpeg" 
+                length="39534002" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc99973a9c837f99880/03b31bc917fe68240b97139da6788ecf8646fdcf4df78add9b2427d9b5000bce" 
+                type="audio/x-m4a" 
+                length="159062076" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc99973a9c837f99880/5e3b338f3fcf34efdae65a9210269cf71edd58fa509b35841cc38d003b464823" 
+                type="audio/x-m4a" 
+                length="119528879" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc99973a9c837f99880/271f1943d771b4e3965961ad8792d1077cc9592aaca926046b2487a24770a5f4" 
+                type="audio/x-m4a" 
+                length="40461252" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492315</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-the-crow-terminator-zero-og-star-wars-outlaws-16122492315</link>
+            <title>The Crow, Terminator Zero og Star Wars: Outlaws</title>
+            <description>Denne gang taler redaktionen om biograffilmen The Crow, spillet Star Wars: Outlaws, Malene Sølvstens bog Høstnat, der er en del af Ravnenes Hvisken-universet, animé-serien Terminator Zero på Netflix, tegneserien Meshugge af Benni Bødker og Christian Højgaard samt en ny samlet udgave af Wolverine-tegneserien af Frank Miller og Chris Claremont.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg</description>
+            <pubDate>Thu, 05 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:21:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb163dfa22d5468331/ecd2b395b917c8ef2f91d29394b69a82785a6afff0a6b2d0cc55506f6acb89a8" 
+                type="audio/mpeg" 
+                length="117237749" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb163dfa22d5468331/3f01d2840b22f66e3bd8b4ec5d8c3092169f50137c8bf2c12a96f354bc445029" 
+                type="audio/mpeg" 
+                length="39079541" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb163dfa22d5468331/34aa070c8513cd2d12b3492e2924aa6b4aa0c9a65771801c7995ffe17734af20" 
+                type="audio/x-m4a" 
+                length="157234093" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb163dfa22d5468331/6537ba511d6933f543cd4b87b257ea84b5f3dc38dabe12f4ed3267dbfbb98739" 
+                type="audio/x-m4a" 
+                length="118155231" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcb163dfa22d5468331/9337701fc74b415af479c88159f454cb877db73864fbf1e0d4ee41d305c7e33b" 
+                type="audio/x-m4a" 
+                length="39996277" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492314</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-alien-romulus-batman-caped-crusader-og-doom-16122492314</link>
+            <title>Alien: Romulus, Batman: Caped Crusader og Doom</title>
+            <description>Denne gang taler redaktionen om biograffilmen Alien: Romulus, animationsserien Batman: Caped Crusader på Amazon Prime, tegneserien En dyne af sne af Craig Thompson samt spillene CYGNI: All Guns Blazing, Tomba! og Doom I og II.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 22 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:18:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd2163dfa22d5468361/a171a4f431fda67dde0e800048f76cd958a1867d34fc3cdff09b2765a29f38b3" 
+                type="audio/mpeg" 
+                length="113652082" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd2163dfa22d5468361/d2154f833191d0046056d6ac4864312bf6f5f4a05e76281b94140c5c49babf1a" 
+                type="audio/mpeg" 
+                length="37884274" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd2163dfa22d5468361/f05c286c2f198be36cd18355096884c95cbafe4384fb82de8c72392e44dda1c8" 
+                type="audio/x-m4a" 
+                length="152424660" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd2163dfa22d5468361/48057593165f6d461230ab1d821ca3db8e3e71d30738ab989cb2a8e75398b192" 
+                type="audio/x-m4a" 
+                length="114541215" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd2163dfa22d5468361/07817310db7933e384e094e8bb91018d2b26608fd444527bb612d7ce2a9fecd5" 
+                type="audio/x-m4a" 
+                length="38772924" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492313</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-deadpool-og-wolverine-borderlands-og-exploding-kittens-16122492313</link>
+            <title>Deadpool &#x26; Wolverine, Borderlands og Exploding Kittens</title>
+            <description>Denne gang taler redaktionen om biograffilmene Deadpool &#x26; Wolverine og Borderlands, animationsserien Exploding Kittens på Netflix, spillene Luigi's Mansion 2 HD og Anger Foot samt tegneserien Splint og Den Blå Gorgon af Dany og Yann.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 08 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:23:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d546834c/703b3bba90ca5fe694a89a3f5e08f2c9caec93fe6356d5232b3e0a95b1eb6354" 
+                type="audio/mpeg" 
+                length="120302002" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d546834c/0f95a23064bc9f9fef026a4f1d4ea016ceed9f3a7e2c8c02da9bd94de309c9f9" 
+                type="audio/mpeg" 
+                length="40100914" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d546834c/c9d93f8f5aae874165c2c405def25292404e975f7aa131a394360fb63e90448d" 
+                type="audio/x-m4a" 
+                length="161343701" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d546834c/9a6d0e207e3488819b4793e709d5d563dea283538388c3f842ab7b9d211f12c0" 
+                type="audio/x-m4a" 
+                length="121243623" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d546834c/4064d72f9483983cb0218986a604443fdb56618d5fc749fb26c0d158cce0ecad" 
+                type="audio/x-m4a" 
+                length="41041673" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492312</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-inderst-inde-2-the-acolyte-og-sanjategnet-16122492312</link>
+            <title>Inderst inde 2, The Acolyte og Sanjategnet</title>
+            <description>I den sidste podcast inden sommerferien taler vi om den nye biograffilm Inderst inde 2 fra Pixar, spillene Selaco og Animal Well, Star Wars-serien The Acolyte på Disney+, Majbrit Ravnholt Cramers bog Sanjategnet, Netflix-filmen Atlas og tegneserien Erindringer fra det ydre rum af Bilal.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 20 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:33:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf4c508f7c5e43076a/9bb46e96065edc886422d6bcbbc166e95771300974f0ec8d673088d1afb78be1" 
+                type="audio/mpeg" 
+                length="134749875" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf4c508f7c5e43076a/fce6a5a249ef892a7cc231f747fcf660a77077a0cc449c0d2b9dee25b487b464" 
+                type="audio/mpeg" 
+                length="44916915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf4c508f7c5e43076a/d1427854dd02aeb665f74a57bc37b4986223b431fcad2cdce98f8f24df528012" 
+                type="audio/x-m4a" 
+                length="180720529" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf4c508f7c5e43076a/fea470ba80158cd750708d8053a20dd707f0d1c4c728368b32adf04e4646557a" 
+                type="audio/x-m4a" 
+                length="135804251" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf4c508f7c5e43076a/68c0d2c8c860c6315833dc0eb3af6b5180a0aba3b5edb770dc25c8e3dfc48831" 
+                type="audio/x-m4a" 
+                length="45970445" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492311</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-hellblade-2-jim-henson-og-paper-mario-16122492311</link>
+            <title>Hellblade 2, Jim Henson og Paper Mario</title>
+            <description>Denne gang taler redaktionen om spillene Hellblade II: Senua's Saga og Paper Mario: The Thousand-Year Door, det udendørs gådespil Unfreeze Copenhagen fra UrbiHunt, dokumentaren Jim Henson Idea Man på Disney+ samt tegneserierne Alva i Mørket af Daniel Hansen og Aksel Studsgarth og Arsené Lupin imod Sherlock Holmes af Félix, Janolle og Delf.
+ 
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 06 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:17:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc8c26aeca6fa653cf6/a239da751c08393d0efddacebdcb5e4f9a6e38cf02324237f251761140f2f3cb" 
+                type="audio/mpeg" 
+                length="111586039" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc8c26aeca6fa653cf6/148c94d38db77e3c00f1a544bf003cba6378fbe861c793e85121705185ffd829" 
+                type="audio/mpeg" 
+                length="37195639" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc8c26aeca6fa653cf6/d326840d16a998a2006cccc332a3785c6c23144dfb585368ed2de802be676af0" 
+                type="audio/x-m4a" 
+                length="149654152" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc8c26aeca6fa653cf6/9ba821f66888e7c77eadc26afbfa0ff8bdd76b37726391b3fb6d782fb592851a" 
+                type="audio/x-m4a" 
+                length="112459111" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc8c26aeca6fa653cf6/b689e90a5a1ce57be2fc163142f68ea5676c7ecee65067fb0acefb55fc694f28" 
+                type="audio/x-m4a" 
+                length="38068124" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492310</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-furiosa-a-mad-max-saga-if-og-manor-lords-16122492310</link>
+            <title>Furiosa: A Mad Max Saga, If og Manor Lords</title>
+            <description>Denne gang taler redaktionen om biograffilmene Furiosa: A Mad Max Saga og If - Fantasivenner, spillene No Rest for the Wicked, Bulwark: Falconeer Chronicles og Manor Lords samt tegneserien Genkomst 1 af Gillen, Mora og Bonvillain.
+ 
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 23 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:24:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468318/334d469b729ad9b87ad9da907b51de13e936d1e539a9e4fb97663957f3f99818" 
+                type="audio/mpeg" 
+                length="122237362" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468318/fa97d7ea82fe6b4bbe30879423092d687e0fc32a5602b85b9f1d13fe772021f5" 
+                type="audio/mpeg" 
+                length="40746034" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468318/c83325379566b3124c9e50212c4acde1d3497d2fc8a37b0e9d5f39e7ad1a8ed1" 
+                type="audio/x-m4a" 
+                length="163939609" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468318/9b9c83677d7c7bf2082ecbe37eb2ebfb11cb12a780f543c2e57ca0f01c1291fb" 
+                type="audio/x-m4a" 
+                length="123194111" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468318/5e9231684f7723e673e58d4ac4fdc857269c1e8b6d14c30a0752e82e66a6a5db" 
+                type="audio/x-m4a" 
+                length="41701853" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492309</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-kingdom-of-the-planet-of-the-apes-sand-land-og-phantom-fury-16122492309</link>
+            <title>Kingdom of the Planet of the Apes, Sand Land og Phantom Fury</title>
+            <description>Denne gang taler redaktionen om biograffilmen Kingdom of the Planet of the Apes, spillene Sand Land, Phantom Fury, Buckshot Roulette og Mumrikken: Mumidalens melodi, tegneserien Sværdprinsesse Amaltea af Natalia Batista samt krimigåde-spillet Unsolved: Mordene på Samsø.
+ 
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 09 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:29:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd04c508f7c5e430775/336e0a031beec568eb58244e63cd975a7fbb3dd74047720da1d3330cbebd80ae" 
+                type="audio/mpeg" 
+                length="129141942" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd04c508f7c5e430775/1894406985509c800a2b6465b7d68b357795d1ccd4ad4d9ef213ed2db73d4297" 
+                type="audio/mpeg" 
+                length="43047606" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd04c508f7c5e430775/361edf0f25898871a0bfb81567162c133328e9836c7dd760627bf1309fa9f55e" 
+                type="audio/x-m4a" 
+                length="173199297" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd04c508f7c5e430775/b9a3a9b1b784aeab8a74b54eb4b97023f47ac81d62d257982920150ef26d054e" 
+                type="audio/x-m4a" 
+                length="130152507" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd04c508f7c5e430775/541ee0d8693199851502531a1e341fbc6b441fdfedc4eebf461295d80dbfbfd4" 
+                type="audio/x-m4a" 
+                length="44057305" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492308</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-civil-war-fallout-og-stellar-blade-16122492308</link>
+            <title>Civil War, Fallout og Stellar Blade</title>
+            <description>Denne gang taler redaktionen om biograffilmene Civil War og Abigail, spillene Stellar Blade og Gigantic: Rampage Edition, serien Fallout på Prime, tegneserien Lightfall - Vogterne af den evige flamme af Tim Probert og serien Ronja Røverdatter på Netflix.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 25 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:45:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf163dfa22d5468354/6532642a3c51edfa10315a153aaf4128de9b000e60bf18454da7d90d9da713db" 
+                type="audio/mpeg" 
+                length="152261429" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf163dfa22d5468354/96db9cd12cf80e97f9ef714d22285b96c779768f80b0fbe488e1775666c7e3eb" 
+                type="audio/mpeg" 
+                length="50754101" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf163dfa22d5468354/cdcafa2135644acea3a8b83cea2aab500fc56b6a5d0b9b37e7842e9c22ec6fdf" 
+                type="audio/x-m4a" 
+                length="204206027" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf163dfa22d5468354/2d3bc54a5e22957e85b4c28747114892053c090e6adb30f24287ce9cc1cd5ede" 
+                type="audio/x-m4a" 
+                length="153452767" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcf163dfa22d5468354/4a9c8cdf1f4f5f2bee114761ccd41c903750208bbf5559672d88995b5a3e2ff2" 
+                type="audio/x-m4a" 
+                length="51944455" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492307</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-robot-dreams-dragon-s-dogma-2-og-hideo-kojima-16122492307</link>
+            <title>Robot Dreams, Dragon's Dogma 2 og Hideo Kojima</title>
+            <description>Denne gang taler redaktionen om biograffilmene Robot Dreams og Miyazakis første spillefilm Lupin III: Cagliostros Borg, spillene Dragon's Dogma 2, Tomb Raider I-III Remastered og Rise of the Ronin samt dokumentaren Hideo Kojima: Connecting Worlds på Disney+.
+ 
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 11 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:25:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d2f/d08593cba85c1f3513ddd5df0ff84f05c7a5543011de0c4fa029b5b82ac97f07" 
+                type="audio/mpeg" 
+                length="122751730" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d2f/2c282dabba853cc48be0c853bc995e56988a545e1508dac21fbb1309fc0eef23" 
+                type="audio/mpeg" 
+                length="40917490" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d2f/3e0a822e5e8af10cc685a176788cbca718be6cd7fc4f697f6ef3cdf66aa406a6" 
+                type="audio/x-m4a" 
+                length="164629087" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d2f/4d9f695632c69bfef19e6a967a8ab17ee853264440e5bfdfa3547169d4cb6499" 
+                type="audio/x-m4a" 
+                length="123712131" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d2f/3917ffc2e1dfaba025cf18a97983a1332c0964e49f7ccee100a7b9068bc9d29d" 
+                type="audio/x-m4a" 
+                length="41877259" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492306</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-ghostbusters-sand-land-og-godzilla-x-kong-16122492306</link>
+            <title>Ghostbusters, Sand Land og Godzilla x Kong</title>
+            <description>Denne gang taler redaktionen om biograffilmene Ghostbusters: Frozen Empire og Godzilla x Kong: The New Empire, spillene Princess Peach: Showtime! og Pacific Drive samt animationsserierne Sand Land baseret på Akira Toriyamas manga og X-Men '97 på Disney+.
+ 
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 28 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:25:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd4c508f7c5e430761/f0c5844d593646c638a3d812dcaef2da11d8fdea1c8ae2898cd70f308316d513" 
+                type="audio/mpeg" 
+                length="123376180" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd4c508f7c5e430761/cd6f30416ae87e97636f7733953242af97d09b15e2d0f65b63abce3e82010c5c" 
+                type="audio/mpeg" 
+                length="41125684" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd4c508f7c5e430761/b8c70603270aa26b0fe8e53dc6e9ff119c1ef1c1b989c9f6aff6eea06e2b4f6b" 
+                type="audio/x-m4a" 
+                length="165466616" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd4c508f7c5e430761/a6d5490966daf6a2823ffdc47194051becf124454b95bdd9d825f472ac22ef8a" 
+                type="audio/x-m4a" 
+                length="124341591" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd4c508f7c5e430761/515caaaa8ad0db53b174c0efa7c39560af36d9183c22234630ba8e28234489b6" 
+                type="audio/x-m4a" 
+                length="42091338" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492305</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-avatar-legender-og-latte-og-skull-og-bones-16122492305</link>
+            <title>Avatar, Legender &#x26; Latte og Skull &#x26; Bones</title>
+            <description>Denne gang taler redaktionen om spillene Mario vs. Donkey Kong, Deep Rock Galactic: Survivor og Skull &#x26; Bones, serien Avatar the Last Airbender på Netflix, bogen Legender &#x26; latte af Travis Baldree samt tegneserien Spøgelsesjægerne 1: Tunguska af Mara.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 14 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:11:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d33/4aabd5fb2cfb2310319c517b49a63f62aea111183e0483edb204aec2015b1896" 
+                type="audio/mpeg" 
+                length="102285874" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d33/ecb0545fb5f3d93eb8c33aa8f1bc44247f2105e91ffe9a5a1c7fa3c7300325b8" 
+                type="audio/mpeg" 
+                length="34095538" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d33/4b3f6a2d0d6e610f490e6f8f6e6c2fc662e3b8f867f36bf3ce8f3bf875ef097f" 
+                type="audio/x-m4a" 
+                length="137181819" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d33/c5a4699c608729f191f8d345b5ad575116272244bb02e0c1a8c3a0e2ec3280e8" 
+                type="audio/x-m4a" 
+                length="103086403" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd1c26aeca6fa653d33/58ea6d38df8c4e9a38be4c3acaefd74fedb7d07fca3227a6fbcbdde00de13908" 
+                type="audio/x-m4a" 
+                length="34896484" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492304</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-dune-2-helldivers-2-og-palworld-16122492304</link>
+            <title>Dune 2, Helldivers 2 og Palworld</title>
+            <description>Denne gang taler redaktionen om biograffilmen Dune: Del 2, spillene The Finals, Helldivers 2 og Palworld samt animationsfilmen Orion og mørket på Netflix.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 29 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:07:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d5468344/271b989e3dc1d4baccc31fcb2c37afa8dea00b88b3177754ba1acf079697c67f" 
+                type="audio/mpeg" 
+                length="96926194" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d5468344/d56f245c98062ff3f1c2e86867a4b505783e26da970ec67f2b73b10b46652ee5" 
+                type="audio/mpeg" 
+                length="32308978" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d5468344/b29ad89f6b76d991320e71f1e4bd8c1408e1365bb822a794b3c441f19fcd960a" 
+                type="audio/x-m4a" 
+                length="129993320" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d5468344/2d4499a1c1b02f1f6ea5c4013806383469781a3f93bb17d491c21dc3e18b75c6" 
+                type="audio/x-m4a" 
+                length="97684859" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dce163dfa22d5468344/527ad5e9402c4c86fdecd3bc9ece995968c398e8a037c1637543312a892f6b29" 
+                type="audio/x-m4a" 
+                length="33067989" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492303</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-madame-web-suicide-squad-og-he-man-16122492303</link>
+            <title>Madame Web, Suicide Squad og He-Man</title>
+            <description>Denne gang taler redaktionen om biograffilmen Madame Web, spillet Suicide Squad: Kill the Justice League, tegneserien Ørn af Jeppe Sandholt, fantasyromanen Ulveblod 1: Døden kalder af Line Lybecker samt serien Masters of the Universe: Revolution på Netflix og Star Wars-trilogien som tegneserie.
+
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 15 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:20:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468311/373b56a0b99dc5f179afe04061cc4235f964929b07725cf65f90df329a99a73b" 
+                type="audio/mpeg" 
+                length="115555832" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468311/0da01f35b75e693a0482eaa08ac3a281bc4e39d9e1f9c663c3d0ada653df2f63" 
+                type="audio/mpeg" 
+                length="38518904" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468311/0c94c324f21523ab462bada43883a71f7d522220b5da84937312f5cebb021008" 
+                type="audio/x-m4a" 
+                length="154979029" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468311/e4a3cee261f7e5905687c6adbe955a0d932af17da5aef4735da5bf390b1f7957" 
+                type="audio/x-m4a" 
+                length="116460107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dc7163dfa22d5468311/7b00c081a76d23bc208970b467f7acc8d6924fd4e7af80a53103e4d8b5ff8790" 
+                type="audio/x-m4a" 
+                length="39423458" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492302</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-drengen-og-hejren-tekken-og-argylle-16122492302</link>
+            <title>Drengen og Hejren, Tekken og Argylle</title>
+            <description>Denne gang taler redaktionen om biograffilmene Argylle og Drengen og Hejren, spillet Tekken 8, Netflix-animationsserien Blue Eye Samurai samt tegneserien Fase 3 af Vigan &#x26; Møller.
+ 
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 01 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:16:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd163dfa22d546833c/e8679f8882f5f7d27121a5863d0d5d18638fa41d5caf210cbb3fd817a2e541c9" 
+                type="audio/mpeg" 
+                length="110508914" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd163dfa22d546833c/15099f51b51978985a381ffed952e7e2b543c5ed82747c4dea045b6f6cbac7eb" 
+                type="audio/mpeg" 
+                length="36836594" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd163dfa22d546833c/64399b12c4bcad168df8d6ff1f50b6e82bc1bfb7c387329594b9a8b8a6ac80bc" 
+                type="audio/x-m4a" 
+                length="148209860" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd163dfa22d546833c/f6f455f14e43908f3b77f84068abb6af38a7b4cb9c57c99875d100041f6b6589" 
+                type="audio/x-m4a" 
+                length="111373899" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dcd163dfa22d546833c/a16529c13d7ff347b974a165b2c88ec8497df90a9800a142feb86fa96d5eed4b" 
+                type="audio/x-m4a" 
+                length="37701571" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492301</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-rebel-moon-prince-of-persia-og-delicious-in-dungeon-16122492301</link>
+            <title>Rebel Moon, Prince of Persia og Delicious in Dungeon</title>
+            <description>I årets første podcast taler redaktionen om de nye spil Prince of Persia: The Lost Crown og Gravity Circuit, Zack Snyders Netflix-film Rebel Moon - Part One: A Child of Fire, tegneserieantologien Skumringstid samt animéen Delicious in Dungeon og serien YuYu Hakusho på Netflix.
+ 
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 18 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:22:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd24c508f7c5e430784/60821ed8fe05a6c8510face7a3f19f1472394db74ec5e78bff251bd414031bee" 
+                type="audio/mpeg" 
+                length="119021044" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd24c508f7c5e430784/fee8caf50e5140732bc602349bf5df7209ace395ba6b6fac49dca728d201bbd4" 
+                type="audio/mpeg" 
+                length="39673972" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd24c508f7c5e430784/469ab226a2133876e95d3c35c7f38b4d9ef445dd1546ffe4f3cdb7a933241bb3" 
+                type="audio/x-m4a" 
+                length="159625941" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd24c508f7c5e430784/100e3e36072ffe3d32d69f08ee96884739e1a25d328f56cfd00191b2b488a86d" 
+                type="audio/x-m4a" 
+                length="119952599" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65842dd24c508f7c5e430784/63eee553e269652c280494a9675d3034b2376fd5e9858b3e7704ce01e4c1f11e" 
+                type="audio/x-m4a" 
+                length="40605588" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392322</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-aquaman-2-avatar-og-flugten-fra-hoensegaarden-2-16122392322</link>
+            <title>Aquaman 2, Avatar og Flugten fra Hønsegården 2</title>
+            <description>I denne uge taler redaktionen om den nye biograffilm Aquaman and the Lost Kingdom, spillene Avatar: Frontiers of Pandora og Kingpin: Reloaded, tegneserien 78 grader af Kenneth Bøgh Andersen og Lars Gabel samt filmen Flugten fra Hønsegården: Operation Nugget på Netflix.
+Medvirkende: Jakob Stegelmann, Troels Møller, Benjamin Stegelmann, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 28 Dec 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:15:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd859c2c142ce183e387/f8187e870fa31565d91b0680fbf41c03a98b9c57878acc1da122162268ffc552" 
+                type="audio/mpeg" 
+                length="108545913" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd859c2c142ce183e387/f4dc5556f2f5a03b322d52235473aee1cd30f55e65a2c483b723bf7dfdcea2dd" 
+                type="audio/mpeg" 
+                length="36182265" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd859c2c142ce183e387/d3df616ef52d6b8e4084a912b36658f575fa28e7f03d2fba8cac6da39417b84a" 
+                type="audio/x-m4a" 
+                length="145577352" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd859c2c142ce183e387/cd1026fe0f054d3e5e832e31387aac26d36bc34711a102bd5ae8a053b03024ac" 
+                type="audio/x-m4a" 
+                length="109395547" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd859c2c142ce183e387/83410226e8135a4ddee782248e2e0519e69381265e0d63c0421f9106239cfffa" 
+                type="audio/x-m4a" 
+                length="37031998" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392321</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-wonka-oensket-og-super-mario-rpg-16122392321</link>
+            <title>Wonka, Ønsket og Super Mario RPG</title>
+            <description>I denne uge taler redaktionen om de nye biograffilm Wonka og Ønsket, serien Monarch: Legacy of Monsters på Apple+, spillet Super Mario RPG samt Netflix-serierne Bodies og Gamera.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 14 Dec 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:14:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd78b23ac67e5b3516bd/7279c3e1dc10cf7f437c78dde1fe176d9c32e9aeb2ba9d0b6277bd0d0f493be5" 
+                type="audio/mpeg" 
+                length="107157173" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd78b23ac67e5b3516bd/85f28d7164dbccf1eaacdd19208e31df5ec70454896b9b02dd8c9a1bd9b87494" 
+                type="audio/mpeg" 
+                length="35719349" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd78b23ac67e5b3516bd/3d2845e0d32a2a2cd731364626c41d13dd7cb935049010963729076115a1dc6e" 
+                type="audio/x-m4a" 
+                length="143714801" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd78b23ac67e5b3516bd/b485590fbec692c58498633753d30fb7eb40adb161ab0da8991846e160c6857e" 
+                type="audio/x-m4a" 
+                length="107995611" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd78b23ac67e5b3516bd/04f31ea56f611e98d83ae47670ff5edf94af061b693efdc1f69d09c8faac2c9d" 
+                type="audio/x-m4a" 
+                length="36558216" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392320</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-godzilla-robocop-og-call-of-duty-16122392320</link>
+            <title>Godzilla, RoboCop og Call of Duty</title>
+            <description>I denne uge taler redaktionen om den nye biograffilm Godzilla Minus One, spillene Call of Duty: Modern Warfare III, RoboCop: Rogue Cities og Cities: Skylines II, podcastserien The Riddler: Secrets in the Dark på Spotify og bogen Claus Deleuran af Christian Monggaard.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 30 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:27:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd849c2c142ce183e384/f6760c149a179cbb1ceab9698b16be2b2b59721feed547857b501d5527cc82c3" 
+                type="audio/mpeg" 
+                length="126376498" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd849c2c142ce183e384/2f0ffb836f0253561e25cda3275b4f7f2930bf5425a58ae08a603f3c5afeb5ca" 
+                type="audio/mpeg" 
+                length="42125746" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd849c2c142ce183e384/0d13e714e75277abb8cdaf70acd0eda0d9b5172d436ed2edfb6204d36db461ce" 
+                type="audio/x-m4a" 
+                length="169490619" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd849c2c142ce183e384/d9fe9959cb83221c59fa588c2321e42a4277fe80259141e5486572d64c8bf1eb" 
+                type="audio/x-m4a" 
+                length="127365531" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd849c2c142ce183e384/fbba30c3cfa1a5162082f78be40277852d68a8c8e63a3740e21bdedd6c0eea6d" 
+                type="audio/x-m4a" 
+                length="43115037" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392319</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-hunger-games-five-nights-at-freddy-s-og-alan-wake-2-16122392319</link>
+            <title>Hunger Games, Five Nights at Freddy's og Alan Wake 2</title>
+            <description>I denne uge taler redaktionen om de nye biograffilm The Hunger Games: The Ballad of Songbirds and Snakes, The Marvels og Five Nights at Freddy's, spillene Alan Wake II og WarioWare: Move It! samt tegneserien Asterix 40: Den Hvide Iris af Fabcaro og Didier Conrad.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 16 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:11:48</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd839c2c142ce183e37d/9e37fad7444fd9f91b6c50a210e7167f236d95c379a1b6f81b6e9257e3ba3add" 
+                type="audio/mpeg" 
+                length="103405339" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd839c2c142ce183e37d/d350be1fed1e14738c19f5dd5c7aa4f1e95b05272c7c9df1203126995a80cf49" 
+                type="audio/mpeg" 
+                length="34468507" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd839c2c142ce183e37d/fe7d4201e7fd6e107136bffe6db363d13a36e156a418588511a4fef485e8f208" 
+                type="audio/x-m4a" 
+                length="138683053" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd839c2c142ce183e37d/c7a8a7ab85516072b01ead998300fd04239b585f2e30c7d8f429995b05df6f80" 
+                type="audio/x-m4a" 
+                length="104214833" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd839c2c142ce183e37d/cdc37792f337aaf49d01291801c317464b9757201b317b806720e68c11b9e9bb" 
+                type="audio/x-m4a" 
+                length="35278451" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392318</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-mario-wonder-spider-man-2-og-goosebumps-16122392318</link>
+            <title>Mario Wonder, Spider-Man 2 og Goosebumps</title>
+            <description>I denne uge taler redaktionen om de nye spil Super Mario Bros. Wonder og Spider-Man 2, Netflix-serien Captain Laserhawk: A Blood Dragon Remix, serien Goosebumps på Disney+ samt bogen Teatro Grottesco af Thomas Ligotti og tegneserien Dortheas overlevelser: Blodets bånd af Henriette Westh.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 02 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:13:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd829c2c142ce183e376/9510d0ee4d5c1fd0cac4362f7a6a10241714fc109821075a2bb0f2f3ffaa94dc" 
+                type="audio/mpeg" 
+                length="105424795" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd829c2c142ce183e376/d2ebaab964e862bad765487750179de5720a3135dd264a1d319898c703dda9a0" 
+                type="audio/mpeg" 
+                length="35141659" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd829c2c142ce183e376/94ca806da55d59392adb2799bc8052c8925c3136ecef747191a6e248f11c4b24" 
+                type="audio/x-m4a" 
+                length="141391342" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd829c2c142ce183e376/a9b3e11e76c5e3b234890f53f65e9d97e8ed0601f3348743ef5929df4ad49ef6" 
+                type="audio/x-m4a" 
+                length="106249914" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd829c2c142ce183e376/c0d49296e242ecd1afde9c0da347b61ed462d15651c66494b2b6cf91dd9ae24a" 
+                type="audio/x-m4a" 
+                length="35967307" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392317</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-haunted-mansion-detective-pikachu-og-cocoon-16122392317</link>
+            <title>Haunted Mansion, Detective Pikachu og Cocoon</title>
+            <description>Denne gang taler redaktionen om filmen Haunted Mansion på Disney+, spillene Cocoon, Lies of P, Detective Pikachu Returns og Hercule Poirot: The London Case, animationsserien Castlevania: Nocturne på Netflix samt tegneserierne X-Men: Fra asken i ilden og Fremtiden af i går.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 19 Oct 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:09:15</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36f/ffb8a6c8a0afbd3c7e13cda59f6e6a43cb3a968a5f4413a2427e46e8049f0fdf" 
+                type="audio/mpeg" 
+                length="99741979" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36f/1115dfeb8e2d9612b9ee0cb1c4e011b68dd218c5bbd33792d2bab5e0d6eb5e57" 
+                type="audio/mpeg" 
+                length="33247387" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36f/452f80c83f22c89a14d0dc8e71c37c09e2ccf44c20bb232e5692a7526fcd5f51" 
+                type="audio/x-m4a" 
+                length="133769909" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36f/6b8817e75f58bb23a084a15a5369a56f684520df572c95669469ee9e161f3431" 
+                type="audio/x-m4a" 
+                length="100522841" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36f/511cd0dfe4f6b796df06748409a35cf86eee9bbf6adc117ade1119f58f55b709" 
+                type="audio/x-m4a" 
+                length="34028703" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392316</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-starfield-the-creator-og-mortal-kombat-16122392316</link>
+            <title>Starfield, The Creator og Mortal Kombat</title>
+            <description>I denne uge taler redaktionen om biograffilmen The Creator, spillene Starfield, Fae Farm og Mortal Kombat 1, tegneserien Donald's Happiest Adventures - På jagt efter lykken og Pixars film Elementært på Disney+.
+Medvirkende: Jakob Stegelmann, Troels Møller, Benjamin Stegelmann, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 05 Oct 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:20:19</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36c/4b9894259479fc011c9dabce4a04a3c54aa35f2fa5d9d7bfaeed1ab1b0c2449e" 
+                type="audio/mpeg" 
+                length="115672411" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36c/a9de91d8bd259fbf115ed593a32fd2668916309df13adcebec22577ff698edb2" 
+                type="audio/mpeg" 
+                length="38557531" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36c/eddd90dc216b199849634bbeac3a17e85b26d3ed4d8639fa3bf52ebc6ef58c04" 
+                type="audio/x-m4a" 
+                length="155134975" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36c/e4ed4894df89f15546b3538404d6fad6397a83ebcbd6eec5b536e7a98fff2330" 
+                type="audio/x-m4a" 
+                length="116577701" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd819c2c142ce183e36c/c51deed3254440e05a0cc3566c1aa6001e174f0abb15be1edfd15a457daf9534" 
+                type="audio/x-m4a" 
+                length="39463244" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392315</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-one-piece-blasphemous-og-barbie-16122392315</link>
+            <title>One Piece, Blasphemous og Barbie</title>
+            <description>I denne uge taler redaktionen om den nye Netflix-serie One Piece, spillet Blasphemous 2, tegneserierne Den af Richard Corben og Daredevil af Frank Miller samt filmene Abekongen på Netflix og Barbie, der kan ses i IMAX netop nu.
+Medvirkende: Jakob Stegelmann, Troels Møller, Benjamin Stegelmann, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 21 Sept 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:14:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd799c2c142ce183e338/0d4a043a698d110c38fcf40576a3e07624724c16b2adf7e7f1f4d328a793c47c" 
+                type="audio/mpeg" 
+                length="107094619" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd799c2c142ce183e338/a8cfc94f5476afbf85438781ff467cab47aff76fcf51e55701f6c3f2d95f2838" 
+                type="audio/mpeg" 
+                length="35698267" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd799c2c142ce183e338/1d4c4fdfb8126f3bddf7057fa4211c3cf9781253f6db727f7c710f7f223ad6bd" 
+                type="audio/x-m4a" 
+                length="143631157" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd799c2c142ce183e338/c37962dcef115251570de171f607a15cd3d683a8a969be9f611dd3391038274b" 
+                type="audio/x-m4a" 
+                length="107933073" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd799c2c142ce183e338/982516f02c97ab37715cd990f9f5ff64741b9c5bb4377536e9a61063ea74189c" 
+                type="audio/x-m4a" 
+                length="36536892" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392314</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-disney-illusion-island-ahsoka-og-pikmin-16122392314</link>
+            <title>Disney Illusion Island, Ahsoka og Pikmin</title>
+            <description>I denne uge taler redaktionen om spillene Disney Illusion Island, Armored Core VI: Fires of Rubicon og Pikmin 4, Star Wars-serien Ahsoka på Disney+, science fiction-romanen Mærket af Fríða Ísberg og tegneserien New Age af Peter Kielland.
+Medvirkende: Jakob Stegelmann, Troels Møller, Benjamin Stegelmann, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 07 Sept 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:14:19</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd789c2c142ce183e32a/736f2d88b56a880b483c1a5aa02c7f00a7b06c29fc587da0d53a65b1fac72ade" 
+                type="audio/mpeg" 
+                length="107037595" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd789c2c142ce183e32a/10250b4b376bc0d237b8b60c757c5358794747de2406db870758660d767604a3" 
+                type="audio/mpeg" 
+                length="35679259" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd789c2c142ce183e32a/37f99d8f30976cdb9eea159e8656a301a29274597ff3612b7c1838f3c50a7dcb" 
+                type="audio/x-m4a" 
+                length="143554134" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd789c2c142ce183e32a/cb02121aaa6b7da75f4e5a2bed3c5bc72dffff07dfeb23d533bb9e96994aa04a" 
+                type="audio/x-m4a" 
+                length="107875393" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd789c2c142ce183e32a/e4de35298bf531acf9decf517d14cb0f81a67d1664789fe7e5cc6ccecbd640ac" 
+                type="audio/x-m4a" 
+                length="36517574" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392313</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-blue-beetle-baldur-s-gate-og-viewfinder-16122392313</link>
+            <title>Blue Beetle, Baldur's Gate og Viewfinder</title>
+            <description>Så er vi tilbage efter sommerferien med en ekstra lang podcast! Redaktionen taler om biograffilmene Blue Beetle og Teenage Mutant Ninja Turtles: Mutant Mayhem, animationsfilmen Nimona på Netflix, spillene Baldur's Gate 3 og Viewfinder, jubilæumsbogen Sværd og Trolddom: Mysteriet i Salamonis af Steve Jackson samt Guldbog nr. 18: Anders And på jagt efter guld.
+Medvirkende: Jakob Stegelmann, Troels Møller, Benjamin Stegelmann, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 24 Aug 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:37:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd779c2c142ce183e31d/ccd69e6b796ed9f6e1fe557fdcd8bfd8023580a9b208b9e6cdc3de98ffaeb3ae" 
+                type="audio/mpeg" 
+                length="140014171" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd779c2c142ce183e31d/0c10fbe3b6f1dc443d271cf01131fb725804d87e48163a697bd40a68e49271ce" 
+                type="audio/mpeg" 
+                length="46671451" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd779c2c142ce183e31d/bd665ebc1ed2b59cb31216357d06e816127988bd3e145fffbf4fed04cdafd770" 
+                type="audio/x-m4a" 
+                length="187782121" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd779c2c142ce183e31d/39d5beb79b698f31cf7638abd26754eca5570977ab388808de387ab6e9d1d567" 
+                type="audio/x-m4a" 
+                length="141110329" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd779c2c142ce183e31d/fa9bf9a18f0639e2b7ea5717d29a9a420992421aa3ce955f32e77c490a6c4d66" 
+                type="audio/x-m4a" 
+                length="47767412" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392312</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-star-wars-visions-batman-og-arnold-schwarzenegger-16122392312</link>
+            <title>Star Wars: Visions, Batman og Arnold Schwarzenegger</title>
+            <description>I den sidste podcast inden sommerferien taler redaktionen om antologiserien Star Wars: Visions S2 og filmbiografien Stan Lee på Disney+, strategikortspillet Mindbug, spillet System Shock, animationsfilmen Batman: The Doom That Came to Gotham samt serien FUBAR og dokumentarserien Arnold på Netflix.
+Medvirkende: Jakob Stegelmann, Troels Møller, Benjamin Stegelmann, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 22 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:30:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd759c2c142ce183e311/278222b912aad13c0af01a1933cc8fb5a7d82cce808a34881f48cbb639b48bda" 
+                type="audio/mpeg" 
+                length="130116187" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd759c2c142ce183e311/545880b4d29d49947993393b82197150e9c85414c0a5a4c3068568e786647639" 
+                type="audio/mpeg" 
+                length="43372123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd759c2c142ce183e311/e8289760d31adb11b3cc0cab6699fe593ec4c3e25b4b5532a02c066d03918b69" 
+                type="audio/x-m4a" 
+                length="174506961" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd759c2c142ce183e311/b9c95bce22d2ad71249959aadf8fc6fe3bf92c763ed46b76384870508103a8ae" 
+                type="audio/x-m4a" 
+                length="131134789" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd759c2c142ce183e311/67af40e0d5fb4714acfcc7d4848c440ecec4c64e23e70100a4085caa3da81cff" 
+                type="audio/x-m4a" 
+                length="44390787" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392311</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-spider-man-the-flash-og-warhammer-16122392311</link>
+            <title>Spider-Man, The Flash og Warhammer</title>
+            <description>Denne gang taler redaktionen om de nye biograffilm The Flash, Spider-Man: Across the Spider-Verse og Den lille havfrue, spillene Warhammer 40,000: Boltgun og Starship Troopers: Extermination samt tegneserien Dark Halo af Onkel Hawaii og Gabriel Tiedt Lange.
+Medvirkende: Jakob Stegelmann, Troels Møller, Benjamin Stegelmann, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 08 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:19:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6cb23ac67e5b351689/50bbebaee6f40bc841e3ef9c23e4b0187a5860b7a81374696c3519f1149c5583" 
+                type="audio/mpeg" 
+                length="114720859" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6cb23ac67e5b351689/69a0c6779eaddf384c804080da76017b2ee16c1f2bc3a026e4c2cb362016b780" 
+                type="audio/mpeg" 
+                length="38240347" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6cb23ac67e5b351689/9dccc7696f2f411f25317c48b33d1a7b1353b67cfd2bab63e3e15ff865827559" 
+                type="audio/x-m4a" 
+                length="153859273" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6cb23ac67e5b351689/b64ba8160e42f809fa49f417bfcd75662bb3195827503fec9a26a43fdd0a0d3a" 
+                type="audio/x-m4a" 
+                length="115619161" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6cb23ac67e5b351689/4584895c3f2f5ac907d310f0ff37cec1780388cdef870068ff95f4915a87e66f" 
+                type="audio/x-m4a" 
+                length="39138705" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392310</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-the-legend-of-zelda-peter-pan-og-unicorn-warriors-eternal-16122392310</link>
+            <title>The Legend of Zelda, Peter Pan og Unicorn: Warriors Eternal</title>
+            <description>Denne gang taler redaktionen om de nye spil The Legend of Zelda: Tears of the Kingdom og Advance Wars 1+2: Re-Boot Camp, HBO-animationsserien Unicorn: Warriors Eternal, antologi-tegneserien Videovold og filmen Peter Pan &#x26; Wendy på Disney+.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 25 May 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:59:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd80b23ac67e5b3516e5/831347ebe912e6b5b54633089dba1553c50a316aae5c93508ae12530a49d5e44" 
+                type="audio/mpeg" 
+                length="86379931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd80b23ac67e5b3516e5/268669bc3a38ea5d977f45565ba7354810d589b37e741aba37b6ccc7dab7ffa6" 
+                type="audio/mpeg" 
+                length="28793371" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd80b23ac67e5b3516e5/d02ef2a33436adcc6b9fadcc9b320c8f2d45b3a354c2996da2248fe4e28e3a7c" 
+                type="audio/x-m4a" 
+                length="115849110" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd80b23ac67e5b3516e5/41283388ea003f5906471396e8617e38e39e43df825627ff4f057b8f980cdad9" 
+                type="audio/x-m4a" 
+                length="87056069" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd80b23ac67e5b3516e5/5d5fe568daf8ebf6bff0e92ba0b63d57235cb602d674c138d23bd0aea20e48dd" 
+                type="audio/x-m4a" 
+                length="29470187" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392309</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-guardians-of-the-galaxy-jedi-survivor-og-power-rangers-16122392309</link>
+            <title>Guardians of the Galaxy, Jedi: Survivor og Power Rangers</title>
+            <description>Denne gang taler redaktionen om biograffilmen Guardians of The Galaxy Vol. 3, spillene Star Wars Jedi: Survivor, Bayonetta Origins: Cereza and the Lost Demon og Minecraft Legends, en jubilæumsspecial om Power Rangers på Netflix, filmen Tetris på Apple+ og tegneserien Elric af Julien Blondel, Robin Recht og Didier Poli.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 11 May 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:22:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd739c2c142ce183e304/65be64973123102f02aab8d56aa0ee9705a546bc2cfffdc7ddd778689ed7a048" 
+                type="audio/mpeg" 
+                length="119214811" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd739c2c142ce183e304/fdf585be3c169a405a5cb482a6dc4f1afabf52c2e138dcbdc8723596c6506621" 
+                type="audio/mpeg" 
+                length="39738331" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd739c2c142ce183e304/e8b764d2f39b6f92cf5c6c1b8eb80a1c2ddf04124a7e94f07e8eb7a6298b5aff" 
+                type="audio/x-m4a" 
+                length="159886122" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd739c2c142ce183e304/c348f2f25a1c2aabfd64b7909dc690133f19d650957d8671cbd2bdf9153d7a0d" 
+                type="audio/x-m4a" 
+                length="120148133" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd739c2c142ce183e304/51580cb5f4579f85fbceacf958ba3ae96bc3213c528c048d477e046fb12e817c" 
+                type="audio/x-m4a" 
+                length="40671909" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392308</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-renfield-resident-evil-og-evil-dead-rise-16122392308</link>
+            <title>Renfield, Resident Evil og Evil Dead Rise</title>
+            <description>Denne gang taler redaktionen om biograffilmene Renfield, Suzume og Evil Dead Rise, Christian Engkildes apokalyptiske roman Noter om at overleve samt spillene Resident Evil 4 og Dead Island 2.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 27 Apr 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:17:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6c9c2c142ce183e2da/5abd5b0273368a3b26e7b6f39e7dacad433bbc0d62563ac97ca96dbd07cfd6ce" 
+                type="audio/mpeg" 
+                length="111659419" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6c9c2c142ce183e2da/73769297f1f87e8c8085429a84736f78d32a40a1693149adecff9f57c049a4a4" 
+                type="audio/mpeg" 
+                length="37219867" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6c9c2c142ce183e2da/ba1972779148c35ad571faa532401037a061c9133ffde0eb8376cd966da1e793" 
+                type="audio/x-m4a" 
+                length="149752910" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6c9c2c142ce183e2da/49c09a1829e00bc513d3589ab83615639dfc324e02a869d30286b483f41731b6" 
+                type="audio/x-m4a" 
+                length="112533325" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6c9c2c142ce183e2da/afac05cf3fef51569dc0e5b1ad2019e05566eaa67b6153eff4b784b91c80c5c6" 
+                type="audio/x-m4a" 
+                length="38093985" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392307</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-dungeons-og-dragons-super-mario-og-scream-16122392307</link>
+            <title>Dungeons &#x26; Dragons, Super Mario og Scream</title>
+            <description>Denne gang taler redaktionen om biograffilmene Dungeons &#x26; Dragons: Honor Among Thieves, Super Mario Bros. Filmen og Scream 6, spillet Terra Nil og Kurt Vonneguts klassiker Slagtehal 5 i tegneserieudgave.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 13 Apr 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:59:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd809c2c142ce183e365/4c92b387ced1eca604d8a3aef9d03485f083ae6764f5d41557736670f32a2eda" 
+                type="audio/mpeg" 
+                length="86283739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd809c2c142ce183e365/14789c112c6b0ddf724a9e83cc61e497b559380a730b88afdb8c06b57f1f0750" 
+                type="audio/mpeg" 
+                length="28761307" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd809c2c142ce183e365/293050e9b4b0ff053877081953ed899ed3107371acdaf454431a8971cbb858cc" 
+                type="audio/x-m4a" 
+                length="115720145" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd809c2c142ce183e365/6411b7d4e6b1fba1cd3d903402a6a55413f51b018d5f14ab1c87bb06ff1eeefd" 
+                type="audio/x-m4a" 
+                length="86959141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd809c2c142ce183e365/5d6a154a260dc660c9f89b4ebcc956d83b8fc6ac8b1d636d41257e2137039fc3" 
+                type="audio/x-m4a" 
+                length="29437186" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392306</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-john-wick-4-shazam-2-og-figment-2-16122392306</link>
+            <title>John Wick 4, Shazam! 2 og Figment 2</title>
+            <description>Denne gang taler redaktionen om biograffilmene John Wick 4, Shazam! Fury of the Gods og The Fabelmans, spillet Figment 2: Creed Valley og så samler vi op på hele første sæson af The Last of Us-serien på HBO Max.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 30 Mar 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:16:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6e9c2c142ce183e2e5/7c015cd5f38b90100f1630e124fac18d104de55766103dde79156f175af33d3f" 
+                type="audio/mpeg" 
+                length="110732635" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6e9c2c142ce183e2e5/1437e9975bcac1ecd37f6728aa1f1da02851d9573eeb1eed4ff4a567cbcc4efa" 
+                type="audio/mpeg" 
+                length="36910939" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6e9c2c142ce183e2e5/69b620ce8ebb0dc6e865907fcfa6857fed6940bb835c67143e9074f55b12dfaa" 
+                type="audio/x-m4a" 
+                length="148510095" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6e9c2c142ce183e2e5/5493d138d9f59bc2b907d6f879bb37bcf641356b3213f83137cb8ffc3f335cde" 
+                type="audio/x-m4a" 
+                length="111599337" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd6e9c2c142ce183e2e5/98ad0ddf8bb452607aa3b617be1caee61cd677e94171228d308abf80e7367baf" 
+                type="audio/x-m4a" 
+                length="37777946" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392305</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-65-playstation-vr2-og-the-mandalorian-16122392305</link>
+            <title>65, PlayStation VR2 og The Mandalorian</title>
+            <description>Denne gang taler redaktionen om biograffilmen 65, PlayStation VR2, Netflix-filmen Slumberland, de nye spil Kirby's Return to DreamLand og Kerbal Space Program 2, tredje sæson af The Mandalorian på Disney+ samt tegneserien Tårnet af Omar Ladgham, Jan Kounen og mr. Fab.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 16 Mar 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:20:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd729c2c142ce183e2f7/c64c4bc79b4c1e47c4fe2b56197d4b770c2a1346062b2dab837d94a81f900d2d" 
+                type="audio/mpeg" 
+                length="115337179" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd729c2c142ce183e2f7/e4ad2f983d87d41647464d3494d5a470c4d629c41a6b13b7a1691339302e977e" 
+                type="audio/mpeg" 
+                length="38445787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd729c2c142ce183e2f7/da8f7ec6eb367267198e4577f1c8407e06ad691b4969f5b571f3e62f52f88bd3" 
+                type="audio/x-m4a" 
+                length="154685289" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd729c2c142ce183e2f7/4d4960f4ff4b1c2bf16d0deed74b024e792523d297053581f738a1eed7e948fc" 
+                type="audio/x-m4a" 
+                length="116239817" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd729c2c142ce183e2f7/fe5a9a0ddf7c48de60cfb15d8ef7065ab8522a475fab90f8e53750a10cc1d714" 
+                type="audio/x-m4a" 
+                length="39348654" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392304</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-hogwarts-legacy-metroid-prime-og-atomic-heart-16122392304</link>
+            <title>Hogwarts Legacy, Metroid Prime og Atomic Heart</title>
+            <description>Denne gang taler redaktionen om de nye spil Hogwarts Legacy, Metroid Prime Remastered, Atomic Heart og Rytmos, tegneserien Don Vega af Pierre Alary og bogen Spående Vølve af Malene Sølvsten. 
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 02 Mar 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:07:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35e/4da92b3c0495b9d58fb051e835b62fbba37cd4b6df0ec4202de86a245f7e61c2" 
+                type="audio/mpeg" 
+                length="97485211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35e/a32cd936d3500a8a77a5bb7320f816a75d87cd26f23dce2a2cce027166c8a035" 
+                type="audio/mpeg" 
+                length="32495131" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35e/908f12761052328c4f3ae81a3d1dadbbca682e0a2a5d9930acc3df73d1f4cb36" 
+                type="audio/x-m4a" 
+                length="130743074" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35e/1a1c0ac27956f671c20aa0c4db8a8a9f0763ad0cec6e353c592d0768ddbfb08d" 
+                type="audio/x-m4a" 
+                length="98248253" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35e/54cb60834800cd22ae04b1e47f1e926bc5289e7aa2e25e1f4cc5cb84367f81d0" 
+                type="audio/x-m4a" 
+                length="33258471" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392303</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-ant-man-hi-fi-rush-og-atlas-six-16122392303</link>
+            <title>Ant-Man, Hi-Fi Rush og Atlas Six</title>
+            <description>Denne gang taler redaktionen om den nye biograffilm Ant-Man and the Wasp: Quantumania, spillene Dead Space, Forspoken og Hi-Fi Rush, animationsserien Make My Day på Netflix, bogen Atlas Six - Initiativet af Olivie Blake og sidste bind af tegneserien Adèle Blanc-sec: Babyen fra Buttes-Chaumont af Jacques Tardi.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 16 Feb 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:14:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35b/3668fb623ce61b5abcc538059f9c09ef6c1d999037f61912cfa80f449369e17f" 
+                type="audio/mpeg" 
+                length="106578523" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35b/e7f425bbcc5776ef71cc82a68fdc62694bbc3683ba5678c4402084f433f9b557" 
+                type="audio/mpeg" 
+                length="35526235" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35b/6f1548a5481264fc4546502e799aebc6add4b329a8fc5acb60b4cd2ca08dfb98" 
+                type="audio/x-m4a" 
+                length="142939077" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35b/017a49d5250035fc5b2d4d871a4afc1c0665aab6124fa2133fd19d4b285fca0b" 
+                type="audio/x-m4a" 
+                length="107413037" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7f9c2c142ce183e35b/4a838e399b3f4968e010bf4ac518ef5d248e557521101cf657e138372264495e" 
+                type="audio/x-m4a" 
+                length="36360870" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392302</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-warhammer-splints-doed-og-velma-16122392302</link>
+            <title>Warhammer, Splints død og Velma</title>
+            <description>Denne gang taler redaktionen om spillene Warhammer 40,000: Darktide og Fire Emblem: Engage, den nye Scooby Doo-spinoff, Velma, på HBO Max, tegneserierne The Last Ronin af skaberne af Teenage Mutant Ninja Turtles og Splints Død af Sophie Guerrive, Benjamin Abitan og Olivier Schwartz samt animéserien Junji Ito Maniac: Japanese Tales of the Macabre på Netflix.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 02 Feb 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:14:19</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd709c2c142ce183e2f0/537e4bc90b5c3eab9bd6eb0ee97ebb8197b357024c2bc8f867b77f0972a48958" 
+                type="audio/mpeg" 
+                length="107020891" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd709c2c142ce183e2f0/f041bfe0816a6234ad92de0d46849fc33c5ae99313f059516ee859a7177719a6" 
+                type="audio/mpeg" 
+                length="35673691" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd709c2c142ce183e2f0/2bf23fa58350adb2e9a67412806b88697609fe1c37a79af9f07f61dcccbb79b4" 
+                type="audio/x-m4a" 
+                length="143532373" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd709c2c142ce183e2f0/c833f72786a3e3be40c1c458790197d0a7407f57df10be78e666569ac1384954" 
+                type="audio/x-m4a" 
+                length="107858793" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd709c2c142ce183e2f0/5e6cf94b014379af25ba44da6d47f8d7c810f0cfb367d1c28e8980d4ba0020a8" 
+                type="audio/x-m4a" 
+                length="36511751" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122392301</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2023/troldspejlet-the-last-of-us-need-for-speed-og-den-bestoevlede-kat-16122392301</link>
+            <title>The Last of Us, Need for Speed og Den bestøvlede kat</title>
+            <description>Så er Troldspejlet podcast tilbage, og denne gang taler redaktionen om den nye HBO-serie The Last of Us, spillene High on Life, Need for Speed: Unbound og Marvel's Midnight Suns, tegneserien Tananarive af Mark Eacersall og Sylvain Vallée samt filmen Den bestøvlede kat og ønskestjernen.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 19 Jan 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:16:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7e9c2c142ce183e354/72ffd07e2b919609f3a513cfe1143f7f684a88a9e2574133a6f8ea2b6500488f" 
+                type="audio/mpeg" 
+                length="110532187" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7e9c2c142ce183e354/48c3184f7847abcd04dc7db3bd1a6e524e0691b1b826b044f55a944879606103" 
+                type="audio/mpeg" 
+                length="36844123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7e9c2c142ce183e354/c7368605f49670b839697e9256a2a53044a9eba1b855c1b672adb9bcba65a8a4" 
+                type="audio/x-m4a" 
+                length="148241513" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7e9c2c142ce183e354/73a33205d65b439db0b5cedc3b9b13b818b795e26900c8ab683e13827451ff92" 
+                type="audio/x-m4a" 
+                length="111397605" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a2bd7e9c2c142ce183e354/4dc4b5c82008620423ce97061770ac3fde853b2cd910372ecd0e45b42f7ad184" 
+                type="audio/x-m4a" 
+                length="37709666" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292322</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-avatar-wednesday-og-willow-16122292322</link>
+            <title>Avatar, Wednesday og Willow</title>
+            <description>I årets sidste podcast taler redaktionen om den nye biograffilm Avatar: The Way of Water, Netflix-serien Wednesday, novellesamlingen Papirmenageriet af Ken Liu, spillet The Callisto Protocol, filmene Trold og Min fars drage på Netflix samt serien Willow på Disney+ og en kort anmeldelse af I'm Too Young To Die: The Ultimate Guide to First-Person Shooters 1992-2002.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 15 Dec 2022 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:41:43</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef5e666aba4ef18eb50/6b93e77e2d8f40f270cd75b33f7b2b4004cc2f478768e03815794969bb7be209" 
+                type="audio/mpeg" 
+                length="146482651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef5e666aba4ef18eb50/2d214636683edf7259404d3f276dcd08a0d5e2170f53887d44b2b14ebc17ea28" 
+                type="audio/mpeg" 
+                length="48827611" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef5e666aba4ef18eb50/c111b59b76bdf95007957d4921fa7b3df840297f21b512a792e128d4535405ac" 
+                type="audio/x-m4a" 
+                length="196457031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef5e666aba4ef18eb50/20193c0e911d0560da1c88130a9bacf65d70930a7ffd4ec6ce17be537fc2ad0e" 
+                type="audio/x-m4a" 
+                length="147629461" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef5e666aba4ef18eb50/12e4da77123ba42f7713d0d266b9191b28607338dede1f8ad97c6bc8947ecf3b" 
+                type="audio/x-m4a" 
+                length="49974185" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292321</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-en-forunderlig-verden-pokemon-og-pinocchio-16122292321</link>
+            <title>En forunderlig verden, Pokémon og Pinocchio</title>
+            <description>Denne gang taler redaktionen om Disney-filmen En forunderlig verden, Guillermo del Toros udgave af Pinocchio og stop motion-filmen Wendell &#x26; Wild på Netflix samt spillene Pokémon Scarlet and Violet, Bayonetta 3 og Mario + Rabbids: Sparks of Hope.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 01 Dec 2022 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:19:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef4e666aba4ef18eb4d/8d132190fc2f46e6cb69f14afbb7fec8a75a72e29432ab8a35290b5be64ad8db" 
+                type="audio/mpeg" 
+                length="114018715" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef4e666aba4ef18eb4d/a955bfc6176b6f83e7b3dbf03df8702c481c625d949a10685875a75e5f34d6f5" 
+                type="audio/mpeg" 
+                length="38006299" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef4e666aba4ef18eb4d/dc3765204755974f52cba6ca8ccd7f3b28214c6a3030f61d3ed681777574672f" 
+                type="audio/x-m4a" 
+                length="152917446" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef4e666aba4ef18eb4d/6cb28cc5fde90e158faaa96b5ab9c7796822c7c3a46dae941dd053f49a4f2bf6" 
+                type="audio/x-m4a" 
+                length="114911029" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef4e666aba4ef18eb4d/354e141b3c87644a2005d9db7d8e59982149b27e953187be1d78a1d4707ce35e" 
+                type="audio/x-m4a" 
+                length="38899123" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292320</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-gotham-knights-black-panther-2-og-god-of-war-16122292320</link>
+            <title>Gotham Knights, Black Panther 2 og God of War</title>
+            <description>Denne gang taler redaktionen om Black Panther 2: Wakanda Forever, spillene God of War: Ragnarok og Gotham Knights, Stephen Kings nye roman Et Eventyr, tegneserien Sagaen om Atlas og Axis af Pau, miniserien Oni: Legenden om tordenguden på Netflix samt en kort anbefaling af spillet The Past Within.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 17 Nov 2022 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:09:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee3e666aba4ef18eb07/4a27550db3460fd8ab87a140bed218f85acdb2e2e489dcbbc9be75abcea6918f" 
+                type="audio/mpeg" 
+                length="99384859" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee3e666aba4ef18eb07/d556a2d5e7c33330a9889823e3254031b3b9fcb496a8de9adc0e4752b03ff098" 
+                type="audio/mpeg" 
+                length="33128347" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee3e666aba4ef18eb07/060f65256ec2ef256d02d0407ca144c4a99658e4fcda406032252a485a447be2" 
+                type="audio/x-m4a" 
+                length="133291590" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee3e666aba4ef18eb07/116910d012ea6712536c411bc33c44e81852683bc631c6fb508c2d09cdd7e68d" 
+                type="audio/x-m4a" 
+                length="100163113" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee3e666aba4ef18eb07/8171cc41bb21ac93e8e9784ecb35ec68a0ea165b613702c9cf3b0baba1c3f2ee" 
+                type="audio/x-m4a" 
+                length="33906697" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292319</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-call-of-duty-cultic-og-cabinet-of-curiosities-16122292319</link>
+            <title>Call of Duty, Cultic og Cabinet of Curiosities</title>
+            <description>Troldspejlets podcast er nået til episode 100, og vi fejrer det med nogle anmeldelser foreslået af lytterne! Redaktionen taler om spillene Call of Duty: Modern Warfare II og Cultic, antologiserien Guillermo del Toro's Cabinet of Curiosities på Netflix, Andy Weirs science fiction-bog Project Hail Mary, filmen Hocus Pocus 2 på Disney+ og Christin og Augustins tegneserie Linda og Valentin: Der hvor historier bliver født.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 03 Nov 2022 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:05:33</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef22454ca40b1816bc6/596effad723327ba3a62d1ed5c298c6f8edb7179aea21b2d05163a36c1e6cb09" 
+                type="audio/mpeg" 
+                length="94412827" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef22454ca40b1816bc6/5dd67b25788b31890d1e6f9cb5a25e5c2e5e9e4f7f76c3d99242fea0c7c9af5a" 
+                type="audio/mpeg" 
+                length="31471003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef22454ca40b1816bc6/4e79a85171a939c89aa39a1e24ef41be91479e0f179cb1582a20675e96495f13" 
+                type="audio/x-m4a" 
+                length="126623262" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef22454ca40b1816bc6/891f3cf9c23e53a9639ec6287a90bfb3f3a30506bd9c2e9ce654aabecd162e0d" 
+                type="audio/x-m4a" 
+                length="95152185" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef22454ca40b1816bc6/992dd5170de63e3fee8cd814aa9d2d91903da0c1c1ccf896f16a194f013e5ad2" 
+                type="audio/x-m4a" 
+                length="32210543" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292318</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-cyberpunk-werewolf-by-night-og-scorn-16122292318</link>
+            <title>Cyberpunk, Werewolf by Night og Scorn</title>
+            <description>Denne gang taler redaktionen om animéen Cyberpunk: Edgerunners på Netflix, de nye spil Youropa og Scorn, Werewolf by Night på Disney+, Fabrizio des Dorides' tegneserieudgave af Dracula, miniserien Lost Ollie på Netflix samt en kort anmeldelse af Tina Ibsens bog om Mars.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 20 Oct 2022 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:05:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeee666aba4ef18eb32/2eae16489f477ae13ce558ad8a695b5e0cc8adc4ef5ce21f29246017a220f528" 
+                type="audio/mpeg" 
+                length="94540699" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeee666aba4ef18eb32/2f9f5dc6c48f124df6b06e1012f86ef71dbfc7a24fbf4f2cf465dc28e9348896" 
+                type="audio/mpeg" 
+                length="31513627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeee666aba4ef18eb32/d23e245f5e69eaa047100f76184996dc0e4abca0d8b78ce4862f8bf5895c6b35" 
+                type="audio/x-m4a" 
+                length="126794258" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeee666aba4ef18eb32/91654848bf4f45d13050c1a5358d258ee8a5eb3912ebc85f13f4e09ff1376dbc" 
+                type="audio/x-m4a" 
+                length="95280649" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeee666aba4ef18eb32/0b350fd89e57f406bf6d41f3a79e35ed4ab4ce155a6411c9b65d6f7019fd2eb1" 
+                type="audio/x-m4a" 
+                length="32254283" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292317</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-monkey-island-pinocchio-og-metal-hellsinger-16122292317</link>
+            <title>Monkey Island, Pinocchio og Metal: Hellsinger</title>
+            <description>Denne gang taler redaktionen om den nye udgave af Pinocchio på Disney+, spillene Return to Monkey Island, Metal: Hellsinger og F1 Manager 2022, den socialrealistiske bornholmer-fantasykrimi Power to X af Dennis Gade Kofod, Jean-Patrick Manchette og Max Cabanes' tegneserie Fatale samt en kort anmeldelse af spillet med den optimistiske titel You Suck at Parking.
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Ida Rud, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 06 Oct 2022 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:08:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef1e666aba4ef18eb40/057eee5d7c5339d652feaf09cc50acc3394d3c2e60d0fa5192c6c5380a1b8874" 
+                type="audio/mpeg" 
+                length="99165403" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef1e666aba4ef18eb40/3669b8cf0eef5d9d0c102b6493329e59d4c12347733287d8098aeab3caa8974e" 
+                type="audio/mpeg" 
+                length="33055195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef1e666aba4ef18eb40/ac5ab92045737516bbca049d7ba057966e715e13ab93cef0399ce8455302fba4" 
+                type="audio/x-m4a" 
+                length="132997094" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef1e666aba4ef18eb40/267cb6120e401762f82afc384461d1e909ea48ce5a275ca094123ac7358c1b59" 
+                type="audio/x-m4a" 
+                length="99941773" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fef1e666aba4ef18eb40/9599677ecf767243e899aa3f988c591db0eaa25bf689196c14c88c7f8a8a882a" 
+                type="audio/x-m4a" 
+                length="33831942" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292316</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-magtringene-andor-og-splatoon-16122292316</link>
+            <title>Magtringene, Andor og Splatoon</title>
+            <description>Denne gang taler redaktionen om den nye serie Ringenes Herre: Magtringene på Amazon Prime, spillene Splatoon 3 og Steelrising, serierne Star Wars: Andor og She-Hulk: Attorney at Law på Disney+, Anne-Marie Vedsø Olesens bog Vølvens Vej 2: Misteltenen og spilsamlingen Teenage Mutant Ninja Turtles: The Cowabunga Collection.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 22 Sept 2022 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:06:48</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee52454ca40b1816b90/2904319144dac8ee357e647d81f10d760ca595ed3f9fe742809edcf7e046754e" 
+                type="audio/mpeg" 
+                length="96209947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee52454ca40b1816b90/4ddc0a540a042a95895294ab3613f9ab1778146109827d170a2425e1464059d0" 
+                type="audio/mpeg" 
+                length="32070043" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee52454ca40b1816b90/5e18d3b04a7a97c2a2de8abfc1f087f2c8a94923cddcc9456f2e1ea43d87bbd7" 
+                type="audio/x-m4a" 
+                length="129033494" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee52454ca40b1816b90/8a9775b281d5f323c944fbdf6f58e91ddcfd783e2ea59ebebbd47777d3e77b8b" 
+                type="audio/x-m4a" 
+                length="96963385" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7fee52454ca40b1816b90/9018f581b968d3b12e3308f0d1e573a9cc32d206efe00a27d357de24693b91b8" 
+                type="audio/x-m4a" 
+                length="32823641" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292315</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-house-of-the-dragon-dragon-ball-og-rollerdrome-16122292315</link>
+            <title>House of the Dragon, Dragon Ball og Rollerdrome</title>
+            <description>Denne gang taler redaktionen om den nye serie House of the Dragon på HBO, biograffilmen Dragon Ball Super: Super Hero, spillet Rollerdrome, rollespilsbogen Dødsrejsen til Hels Klint af Christian E. Christiansen, dokumentarserien Light &#x26; Magic på Disney+, fire nye LEGO Diorama-sæt med Star Wars og Jurassic Park og PC-versionerne af The Last of Us og Spider-Man.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Peder Pedersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 08 Sept 2022 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:09:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeae666aba4ef18eb1d/a4bc5f9db3d8430dd3dc46cb4a784ecb2813b20fe9e1d0609aef6da1ace52246" 
+                type="audio/mpeg" 
+                length="100789147" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeae666aba4ef18eb1d/e1929e1c5dd838fab6cc34f6f54505b8e6b5e584ee4f2766d05e093248ad299f" 
+                type="audio/mpeg" 
+                length="33596443" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeae666aba4ef18eb1d/00471028102a90f68dddeaca3fef43fde0f850a11ffdefef709ceb82832fbfdc" 
+                type="audio/x-m4a" 
+                length="101578057" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeae666aba4ef18eb1d/8c1cc5fcb8904707ae0a4d92ae05bd7094344237aaf0d53db2b36b43c6042c1e" 
+                type="audio/x-m4a" 
+                length="34385884" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292314</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-the-sandman-prey-og-multiversus-16122292314</link>
+            <title>The Sandman, Prey og MultiVersus</title>
+            <description>Troldspejlets podcast er tilbage efter sommerferien. Redaktionen taler om Netflix' nye serie The Sandman, der er baseret på Neil Gaimans tegneserier, filmen Prey på Disney+, spillene F1 22 og MultiVersus, fantasybogen Vogternes Fald 1 - Dødedans af Carsten Bossen Christiansen, tegneserien Jonas Fink af Vittorio Giardino, serien Paper Girls på Amazon Prime, Netflix' fjerde sæson af Stranger Things og den nye serie I am Groot på Disney+.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 25 Aug 2022 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:28:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeee666aba4ef18eb2e/df8645a390bd8f7b23afe69572610a08120bf8367a0d42564b663b88f99b9828" 
+                type="audio/mpeg" 
+                length="126916507" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeee666aba4ef18eb2e/871bd0b452fed7e3a2f1de4f878d2b2625cadc217d02a88c8c30e41dffdea3dd" 
+                type="audio/mpeg" 
+                length="42305563" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeee666aba4ef18eb2e/4ea378bc65a4e3ce6129bdb6c3703c54f8d45df3cbeceef88526c49f90f2cb3c" 
+                type="audio/x-m4a" 
+                length="127909805" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62c7feeee666aba4ef18eb2e/73461131b6c2e8ad90afe68746381956eef4d1af0c358ba3eba00547b7dc6111" 
+                type="audio/x-m4a" 
+                length="43299232" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292313</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-ms-marvel-tmnt-shredder-s-revenge-og-lego-transformers-16122292313</link>
+            <title>Ms. Marvel, TMNT: Shredder's Revenge og LEGO Transformers</title>
+            <description>I sæsonens sidste podcast taler redaktionen om den nye serie Ms. Marvel på Disney+, spillene Teenage Mutant Ninja Turtles: Shredder's Revenge og Mario Strikers: Battle League Football, tredje sæson af The Boys på Amazon Prime, Pixars nye biograffilm Lightyear og LEGO-udgaven af Optimus Prime fra Transformers.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 30 Jun 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:03:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b13/8e6d708eab529bec183b430861f178a14fcfb815f0efafb620587af2018a5cd7" 
+                type="audio/mpeg" 
+                length="91465435" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b13/4a5258cb716edab19729d2b0914f9aa16e3ca5ba57c0b3ad81ab1557836e9036" 
+                type="audio/mpeg" 
+                length="30488539" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b13/d89ff326ee697dc82969bd954e7841c9bfd56560a8f236af245583751e5afb04" 
+                type="audio/x-m4a" 
+                length="92181573" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b13/39894bc00bcd5dd43499ba98445c819729614a31996b92bf5d4e4ddeaa637210" 
+                type="audio/x-m4a" 
+                length="31205172" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292312</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-jurassic-world-steam-deck-og-batman-unburied-16122292312</link>
+            <title>Jurassic World, Steam Deck og Batman Unburied</title>
+            <description>I denne uge taler redaktionen om biograffilmen Jurassic World: Dominion, den nye håndholdte spillekonsol Steam Deck, dokumentarserien Prehistoric Planet på Apple TV+, genudgivelsen af gamle Spider-Man-blade, fiktionspodcasten Batman Unburied, Aurélie Lévys tegneserie Queenie - Harlems Gudmoder og det filmiske spil The Quarry.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg</description>
+            <pubDate>Thu, 16 Jun 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:12:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c889750e482d5202b0a/e1d7fd271710f5c2c1c9ce7bf91144b00e8fbc6f3687af59480d54c49d69bf64" 
+                type="audio/mpeg" 
+                length="104089627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c889750e482d5202b0a/c62ca3d98f5e83788c0834c32e447d2ae66b2920f693303510a796c9e2f3b01f" 
+                type="audio/mpeg" 
+                length="34696603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c889750e482d5202b0a/b90df6d3ae7738b2f174aec596887c4b7ddada6f4cf255cb25173cf44484f79a" 
+                type="audio/x-m4a" 
+                length="104904705" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c889750e482d5202b0a/1df3307e4527e16fbae0a559e0b813255b38ef6d8d9692068e395f2c25a5d117" 
+                type="audio/x-m4a" 
+                length="35511845" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292311</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-obi-wan-kenobi-noeddepatruljen-og-opiumskrigen-16122292311</link>
+            <title>Obi-Wan Kenobi, Nøddepatruljen og Opiumskrigen</title>
+            <description>I denne uge taler redaktionen om den nye Star Wars-serie Obi-Wan Kenobi og filmen Chip og Chap - Nøddepatruljen på Disney+, tredje sæson af antologiserien Love, Death &#x26; Robots på Netflix, spillet Dune: Spice Wars, Rebecca F. Kuangs grumme fantasyroman Opiumskrigen samt Aksel Studsgarth og Craig Franks gysertegneserie Grár.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 02 Jun 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:05:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b17/d40f6933fd1ffd52627bf55fd0067687273ef89d90c9507e324122b5af6ef070" 
+                type="audio/mpeg" 
+                length="94939867" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b17/e69d4e9b55ff86e163a88a929353e0815203e978e9d8f3e8bf364fc16c78bff3" 
+                type="audio/mpeg" 
+                length="31646683" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b17/0b81530960757ed03929fabe29a346a3ce592919c72f8364b7bc27cce97aeae5" 
+                type="audio/x-m4a" 
+                length="95683233" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b17/2cb74337ce0cdd515ed3438ff2ccbdeb422874e75bcdddf5b8017b19c5ec4175" 
+                type="audio/x-m4a" 
+                length="32390489" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292310</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-doctor-strange-2-switch-sports-og-everything-everywhere-all-at-once-16122292310</link>
+            <title>Doctor Strange 2, Switch Sports og Everything Everywhere All at Once</title>
+            <description>I denne uge taler redaktionen om hele tre biograffilm - multivers-filmene Doctor Strange in the Multiverse of Madness og Everything Everywhere All at Once samt DreamWorks' nye animationsfilm Bad Guys. Vi anmelder også spillene Nintendo Switch Sports og Trek to Yomi samt Christian Henrys tegneserie Rabarbermørket.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 19 May 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:04:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29ca89750e482d5202b8d/cf6852ed1e503abe1d7bbb09ceb3a91e2de1315d7c96cac9abcb93b1ae1044c4" 
+                type="audio/mpeg" 
+                length="92516635" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29ca89750e482d5202b8d/6411572cea5d9ed1ab4eb0fa0dd3d1d6b60dd4bcb89871bbb9454b32038b5f61" 
+                type="audio/mpeg" 
+                length="30838939" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29ca89750e482d5202b8d/44040d83dd84ac90c3fb633ccd6b1852c743d5b03d6610c9f44ebee44a21d1b4" 
+                type="audio/x-m4a" 
+                length="93240853" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29ca89750e482d5202b8d/961d4a0a1f6dacf8f4815103f9365e85993a279a74322d30ea180e72556741b8" 
+                type="audio/x-m4a" 
+                length="31563730" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292309</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-skywalker-saga-outer-range-og-anders-and-16122292309</link>
+            <title>Skywalker Saga, Outer Range og Anders And</title>
+            <description>I denne uge taler redaktionen om spillene LEGO Star Wars: The Skywalker Saga og Ghostwire Tokyo, western-sci-fi-serien Outer Range på Amazon Prime, Netflix-animationsfilmen Apollo 10 ½, Morten Brunbjergs iskolde roman Gletsjeren samt jubilæumsudgivelsen Anders And &#x26; Co. - 60 år med danske serieskabere.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 05 May 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:18:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20e06/92d628550a2b666c21545a774b316f4e01fbce4bc4d3c4f8ae06cd24319018c9" 
+                type="audio/mpeg" 
+                length="113261851" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20e06/dc476626237d9dba89ec1954073098ef8b284c9268c279d2dbe24ee5dd3846f3" 
+                type="audio/mpeg" 
+                length="37754011" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20e06/cca07e85c128242a4e3d82cc8334008feb87b83db9e9d153bc7eb3ccf7de7225" 
+                type="audio/x-m4a" 
+                length="114148365" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20e06/041fc602e8666c7bdabaaed500f08b8ef636a01774d17d04f94f6813cb979f33" 
+                type="audio/x-m4a" 
+                length="38641033" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292308</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-the-adam-project-tunic-og-tilflytterne-16122292308</link>
+            <title>The Adam Project, Tunic og Tilflytterne</title>
+            <description>I denne uge taler redaktionen om spillene Tunic og Shredders, Netflix-filmen The Adam Project, Pelle Møllers samfundssatiriske gyser Tilflytterne samt José-Luis Munueras tegneserie Bartleby, skriveren efter Herman Melvilles novelle.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen og Regitze Heiberg</description>
+            <pubDate>Thu, 21 Apr 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b0f/8f913901dbc034db333c64ced4ab3506eba3acacbfb368dc971bbfc31d337cd9" 
+                type="audio/mpeg" 
+                length="67081627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b0f/31300faf0287a1f119be28953e624a689596f916868d6530836c9bc5c280df7f" 
+                type="audio/mpeg" 
+                length="22360603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b0f/23fbdb819778896b5d52ff1ecf3be1a1187f1570aa5a686136b94437fb49ed90" 
+                type="audio/x-m4a" 
+                length="67606860" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c899750e482d5202b0f/f057f686d3ba6fb66d05627d09bfa1850127592a2b60783357a4972a2dec4718" 
+                type="audio/x-m4a" 
+                length="22886552" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292307</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-fantastiske-skabninger-kirby-og-sherlock-holmes-16122292307</link>
+            <title>Fantastiske Skabninger, Kirby og Sherlock Holmes</title>
+            <description>I denne uge bugner biografen med nye premierefilm, og vi har både Fantastiske Skabninger 3: Dumbledores hemmeligheder, Morbius og Sonic the Hedgehog 2 på tapetet. Derudover anmelder vi også serien Moon Knight på Disney+ samt spillene Kirby and the Forgotten Land og Sherlock Holmes: Crimes and Punishments - og så ser vi også på to nye LEGO-sæt med rivalerne Mario og Sonic.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 07 Apr 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:12:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c88930bf1dd5aa20df7/70a1f2bd24c8e2e461e331df6c5015137de5aa6f8ac70ff4a0e704ee51a14b62" 
+                type="audio/mpeg" 
+                length="103932154" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c88930bf1dd5aa20df7/04566245e941f27803a275a02465e6fafeded3522182466702050af891896686" 
+                type="audio/mpeg" 
+                length="34644346" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c88930bf1dd5aa20df7/cae05de7db8f9af4b8580c74f1318f3bbd23f91c02961ff68c6ece8c532cbafb" 
+                type="audio/x-m4a" 
+                length="139389212" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c88930bf1dd5aa20df7/2a1ee2c1c7d58e91b6af4bc5586aa6bffedffefb4a29fcb9256289f1f3a768b0" 
+                type="audio/x-m4a" 
+                length="104745331" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c88930bf1dd5aa20df7/795166e145cdf610fd4c94c6bc37b6742cbb0b1c729d2108ba8f6314e8c68a55" 
+                type="audio/x-m4a" 
+                length="35458069" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292306</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-halo-gran-turismo-og-roed-16122292306</link>
+            <title>Halo, Gran Turismo og Rød</title>
+            <description>Troldspejlets redaktion taler om den nye Pixar-film Rød (Turning Red), serierne Halo på Paramount+ og The Legend of Vox Machina på Amazon Prime, tegneserien World War X af Peter Snejbjerg og Jerry Frissen samt spillene Gran Turismo 7 og Shadow Warrier 3.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Benjamin Stegelmann, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 24 Mar 2022 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:21:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c889750e482d5202b07/a27fd807be4a132a30f46086282540ed7a5babd26d4da4af0d13eb095c887b6f" 
+                type="audio/mpeg" 
+                length="117964315" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c889750e482d5202b07/16b3236682f91c11872b020ce7fc8d2966d672fbf7ac02110b68fd6fb52b61c0" 
+                type="audio/mpeg" 
+                length="39321499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c889750e482d5202b07/1bc654058c19cbc52370792ecafc050e504f786847b9898db0c280838ef412b0" 
+                type="audio/x-m4a" 
+                length="118887985" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c889750e482d5202b07/fd4cf638e0b108049ffcfa01edd16e4c11f0a47f4d1aefcf3142db6bdf738a8f" 
+                type="audio/x-m4a" 
+                length="40245184" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292305</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-the-batman-elden-ring-og-crime-scene-16122292305</link>
+            <title>The Batman, Elden Ring og Crime Scene</title>
+            <description>Troldspejlets redaktion taler om den nye biograffilm The Batman, spillene Elden Ring og Sifu, tegneserien Blake &#x26; Mortimer: Den sidste sværdfisk og krimibrætspillet Crime Scene.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 10 Mar 2022 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:07:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20e04/a9a17859abe1671de8788affc209c227ee22b597880cfc543b71b7ad2e480920" 
+                type="audio/mpeg" 
+                length="97689691" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20e04/ee0ee0a386b0f0964b13f4ec5f726168e1059a9779a08e4a2755c85c72fe4832" 
+                type="audio/mpeg" 
+                length="32563291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20e04/2ee836e8c0ded78dea35392c5149276f2286f26e4f7d0dcdf338370d61d55195" 
+                type="audio/x-m4a" 
+                length="131017705" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20e04/4b0544e1af5c204a7b427c6ac4363dd0d58c06857a35cba37f095f3305e5d8f9" 
+                type="audio/x-m4a" 
+                length="98454669" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20e04/606732b9b7598a58332fb1f47d29092cd76946972faa25db22334101e253d213" 
+                type="audio/x-m4a" 
+                length="33328629" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292304</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-horizon-pokemon-og-cuphead-16122292304</link>
+            <title>Horizon, Pokémon og Cuphead</title>
+            <description>Troldspejlets redaktion taler om de nye spil Horizon Forbidden West, Pokémon Legends: Arceus og Dying Light 2: Stay Human, animationsserien Cuphead og stop-motion-filmen The House på Netflix samt bogen Den som hvisker af C.A. Wolters.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+            <pubDate>Thu, 24 Feb 2022 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:12:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c8a9750e482d5202b19/e70ca3af6bbaf229e919a7e5a4c673a80b406eb1693c2032c89e9c3cb93689d9" 
+                type="audio/mpeg" 
+                length="103723867" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c8a9750e482d5202b19/a052d6eca59a1957f27eb29ebf1c6bcf628805dbaab4e7ab279165cbcda820f8" 
+                type="audio/mpeg" 
+                length="34574683" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c8a9750e482d5202b19/0696054f4a02e87f1e12dab53e1a35aa83e9b935b04e7cea0ae2eff6148a82ff" 
+                type="audio/x-m4a" 
+                length="139110375" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c8a9750e482d5202b19/8db473b679b7327be50cd7a5b3d0f790cceda3c03a09cf2ecc240f9f5123034e" 
+                type="audio/x-m4a" 
+                length="104535809" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c8a9750e482d5202b19/c6a90b446b99bd168513f6e8b792c02bced9cf9d0e6a544f2e98975f06eaa365" 
+                type="audio/x-m4a" 
+                length="35386952" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292303</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-scream-uncharted-og-windjammers-16122292303</link>
+            <title>Scream, Uncharted og Windjammers</title>
+            <description>Troldspejlets redaktion taler om hele tre biografpremierer i denne uge, nemlig filmene Scream, Uncharted og Døden på Nilen. Derudover anmelder vi frisbee-spillet Windjammers 2, Netflix-filmen Hilda og bjergkongen, brætspillet The Shining: Escape from the Overlook Hotel, Peder Riis' tegneserie Igor &#x26; Doktor samt LEGO-sættet Daily Bugle.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 10 Feb 2022 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:26:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29cad9750e482d5202b9c/5350e336cdd13f2d01bae146f1fe3f8520fa775e31f19e566b44a33003330c55" 
+                type="audio/mpeg" 
+                length="125204059" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29cad9750e482d5202b9c/cb772ce71f762eb2cc292e6b343871417a233ae6b126ab37107082f928b2fa4b" 
+                type="audio/mpeg" 
+                length="41734747" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29cad9750e482d5202b9c/4c403fe0c826728bb7379aa3fe7d98c933b5cc99c52a0b606915732769711656" 
+                type="audio/x-m4a" 
+                length="126184433" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29cad9750e482d5202b9c/4051139b79ed421eee7a9b498c6de96abcf89ed359ab7c0e7fdd65612d373788" 
+                type="audio/x-m4a" 
+                length="42715015" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292302</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-peacemaker-boba-fett-og-heksene-16122292302</link>
+            <title>Peacemaker, Boba Fett og Heksene</title>
+            <description>Troldspejlets redaktion taler om den nye DC-serie Peacemaker på HBO Max, Star Wars-serien The Book of Boba Fett på Disney+, biograffilmen Syng 2, Pénélope Bagieus tegneserieudgave af Roald Dahls Heksene og God of War-genudgivelsen til PC.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud og Regitze Heiberg.</description>
+            <pubDate>Thu, 27 Jan 2022 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20dfc/a2fe5f9e2c69e8e5aa2b89906bf524bf7f9c1ab812d85314d26eb88545b8405a" 
+                type="audio/mpeg" 
+                length="81913627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20dfc/f96353a825d51a67eb394fe7c53b9f9aa195a30de41c0a6c91cce39e2046789b" 
+                type="audio/mpeg" 
+                length="27304603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20dfc/d180d2f61db4a72ae1b7ebc8235f533ed64b567bd152a851f0d2d6105d473422" 
+                type="audio/x-m4a" 
+                length="109859689" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20dfc/22b54d28528c7ecb6ff5109111a62c1644b66fcfe5d7c2175cfb0480316aaf6a" 
+                type="audio/x-m4a" 
+                length="82554957" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29c89930bf1dd5aa20dfc/404ab7151bdbd8ff529c0b79a2ce0060289a0bf6aa071163370c4e2d13ad0ed5" 
+                type="audio/x-m4a" 
+                length="27946589" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122292301</guid>
+            <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2022/troldspejlet-matrix-harry-potter-og-the-witcher-16122292301</link>
+            <title>Matrix, Harry Potter og The Witcher</title>
+            <description>Troldspejlets redaktion taler om premierefilmen The Matrix Resurrections, Harry Potter 20-års jubilæum: Tilbage til Hogwarts på HBO Max, tegneserien Pandoras Øjne af Milo Manara og Vicenzo Cerami, spillet The Gunk, anden sæson af serien The Witcher på Netflix og Looney Tunes-podcasten Bug's and Daffy's Thanksgiving Road Trip.
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen og Regitze Heiberg.</description>
+            <pubDate>Thu, 13 Jan 2022 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:05:19</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29caa930bf1dd5aa20e89/37da407212b49b67d78044e97821c11fb8ce8de824cfeb81cbbb7231a616b5dd" 
+                type="audio/mpeg" 
+                length="94079899" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29caa930bf1dd5aa20e89/a61199e619ee6e932f44e589dedf10c5017c24baaa20869f6feb0fc8fd0f82f4" 
+                type="audio/mpeg" 
+                length="31360027" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29caa930bf1dd5aa20e89/4beb23f92816afd34bee21114666e8f603d944029099ce92b9bb3535889fec11" 
+                type="audio/x-m4a" 
+                length="126176026" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29caa930bf1dd5aa20e89/ef578a056796846d6934cb107cd0248212d3436dabdcf3d89839c2ff6e7ef024" 
+                type="audio/x-m4a" 
+                length="94816329" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61b29caa930bf1dd5aa20e89/bb2239646e424d46186d57b00ca6593213025738fbdac57cec1fab19e0b977f7" 
+                type="audio/x-m4a" 
+                length="32097080" />
+        </item>
+    </channel>
+</rss>

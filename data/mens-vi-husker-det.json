@@ -1,0 +1,609 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5820761332000",
+  "sortLetter": "m",
+  "channel": {
+    "title": "P1",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+    "slug": "p1",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p1"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Kultur",
+    "Krop og sundhed"
+  ],
+  "numberOfEpisodes": 4,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-09-04T05:03:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p1/mens-vi-husker-det-5820761332000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/mens-vi-husker-det",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5820761332000",
+  "productionNumber": "5820761332000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:66cc4641a127df4c0a3c5599",
+  "slug": "mens-vi-husker-det-5820761332000",
+  "title": "Mens vi husker det",
+  "description": "I efteråret 2023 fik Svantes far konstateret Alzheimers. En sygdom, der betyder, at han langsomt, men sikkert, vil blive udvisket - for til sidst at være væk. Derfor har Svante og hans far sammen det sidste lille års tid genbesøgt farens fortid for at indsamle og fortælle brudstykker og erindringer derfra. For minder - har de lært - er ikke altid noget, som forbliver.\n \n'Mens vi husker det' er en fortælling om en far og hans søn. En far der var, og en far der er. Om at opsøge fortiden, forstærke nutiden og ikke være bange for fremtiden. Og allermest er det en fortælling om at holde fast i det, man elsker.\n \nVært og tilrettelægger: Svante Wettergren.\nRedaktør og tilrettelægger: Iben Maria Zeuthen.\nKlipper og tilrettelægger : Ole Fugl Hørkilde.\nKonsulent: Hanne Barslund.\nDR-Redaktør: Kåre Vedding Poulsen.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:66f336398168ebc64d4c4e1f",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/png",
+      "blurHash": "NAIN8RD$30xbDk-;9~E2xAR-New|RpXR9t$S=yNG",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66f336398168ebc64d4c4e1f&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66f336398168ebc64d4c4e20&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66f336398168ebc64d4c4e21",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oGJiqvR5X|MxXNnmETaK#+NsW-W=$,SvE1xZV[of}cWAR%$*WWsps;sTs:WBjbWCFXjIt6NZbES1",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66f336398168ebc64d4c4e21&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66f336398168ebc64d4c4e20&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#302011",
+        "#FD8AA9"
+      ]
+    },
+    "colors": {
+      "dark": "#302011",
+      "light": "#FD8AA9"
+    }
+  },
+  "sSlug": "mens-vi-husker-det",
+  "rssUri": "https://xmpl.dk/podcast/mens-vi-husker-det.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032424001",
+      "durationMilliseconds": 1745614,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "11032424001",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-09-04T05:00:00+02:00",
+      "startTime": "2024-09-04T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/mens-vi-husker-det-to-ubesvarede-opkald-1-4-11032424001",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:66cc4642a56be59b02e79a4c",
+      "series": {
+        "title": "Mens vi husker det",
+        "id": "urn:dr:radio:series:66cc4641a127df4c0a3c5599",
+        "slug": "mens-vi-husker-det-5820761332000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/mens-vi-husker-det-5820761332000",
+        "learnId": "urn:dr:ocs:audio:content:series:5820761332000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14293591,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/534ef3a29ac167e49f70490cb9b5ee5e587b3201adfe2b6fc55ea1b6925f51d5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 42224487,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/73dc9bbd88d9a9406ac1ce2e2d969c3057c15bd4aa6a353b4dd50ab012b8d6f7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 56190011,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/1cf9b4d2d72842a3c5b31ebe74c230587babf80c2e6c060bd0f367698635d158"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13965576,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/163eb215fef66623c3ee0e354615a8093dfb4b33b79f141a672990b5843b3739"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 41896200,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/da4571a78ed0e6aee678363aa3b2de853eac5e23ace212986e75a986d2c26b85"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/21705b889880eec944f94b6b26a84607f7196be27d16ebd1b6e82b136b90fd47"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032424001",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-04T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:66cc4642a127df4c0a3c559c",
+      "slug": "mens-vi-husker-det-to-ubesvarede-opkald-1-4-11032424001",
+      "title": "To ubesvarede opkald (1:4)",
+      "description": "En sommermorgen vågner Svante til to ubesvarede opkald, og en ny tid begynder.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e1f",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NAIN8RD$30xbDk-;9~E2xAR-New|RpXR9t$S=yNG"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e21",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGJiqvR5X|MxXNnmETaK#+NsW-W=$,SvE1xZV[of}cWAR%$*WWsps;sTs:WBjbWCFXjIt6NZbES1"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#302011",
+            "#FD8AA9"
+          ]
+        },
+        "colors": {
+          "dark": "#302011",
+          "light": "#FD8AA9"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032424002",
+      "durationMilliseconds": 1887303,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "11032424002",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-09-04T05:01:00+02:00",
+      "startTime": "2024-09-04T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/mens-vi-husker-det-en-soen-uden-en-far-2-4-11032424002",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:66cc4643a127df4c0a3c55ad",
+      "previousId": "urn:dr:radio:episode:66cc4642a127df4c0a3c559c",
+      "series": {
+        "title": "Mens vi husker det",
+        "id": "urn:dr:radio:series:66cc4641a127df4c0a3c5599",
+        "slug": "mens-vi-husker-det-5820761332000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/mens-vi-husker-det-5820761332000",
+        "learnId": "urn:dr:ocs:audio:content:series:5820761332000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15453719,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/98c8a31961e89a1458746d4d19d63de98022d77ec308cd1d9c41a93c8dc5d0b8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 45651847,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/441753b87e282693f2b1e45cb9b04737170e2486ed54d8c1880d370b817e90bc"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 60750843,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/d99d34cba8ee7605c0138957786f38d07b00fee8c858b69067e26d97acd2d523"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 15099322,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/ad40b95843710e22886dd63d7950aae7585c855cf09d6c1533c768430ca4b55f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 45297082,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/eea1963785d2c64afa377d212ee4b28679d0ec7e4511db3ec105cfa5adf93540"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/1027ade0a4490509f1e2888344a068e794c5bde5dadca42bf1da0db7c7c4b9b9"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032424002",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-04T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:66cc4642a56be59b02e79a4c",
+      "slug": "mens-vi-husker-det-en-soen-uden-en-far-2-4-11032424002",
+      "title": "En søn uden en far (2:4)",
+      "description": "En søn uden en far er som et hus uden tag. Sådan skriver Svantes far i sin dagbog. Derfor beslutter Svante og hans far sig for at undersøge historien om Svantes fars egne forskellige, fraværende fædre.\n \nMedvirkende:\nVibeke - Svantes fars søster.\nGrethe - Svantes fars mor.\nKurt - Svantes fars papfar.\nKeld - Svantes fars biologiske far.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e1f",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NAIN8RD$30xbDk-;9~E2xAR-New|RpXR9t$S=yNG"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e21",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGJiqvR5X|MxXNnmETaK#+NsW-W=$,SvE1xZV[of}cWAR%$*WWsps;sTs:WBjbWCFXjIt6NZbES1"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#302011",
+            "#FD8AA9"
+          ]
+        },
+        "colors": {
+          "dark": "#302011",
+          "light": "#FD8AA9"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032424003",
+      "durationMilliseconds": 1762600,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "11032424003",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-09-04T05:02:00+02:00",
+      "startTime": "2024-09-04T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/mens-vi-husker-det-svantes-fars-viser-3-4-11032424003",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:66cc4642a127df4c0a3c55a1",
+      "previousId": "urn:dr:radio:episode:66cc4642a56be59b02e79a4c",
+      "series": {
+        "title": "Mens vi husker det",
+        "id": "urn:dr:radio:series:66cc4641a127df4c0a3c5599",
+        "slug": "mens-vi-husker-det-5820761332000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/mens-vi-husker-det-5820761332000",
+        "learnId": "urn:dr:ocs:audio:content:series:5820761332000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14432637,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/51b80238ed70772fadf51fcc9e86f6fad8c7c7184b96fac5ca9b3fe675e42d3b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 42635287,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/4c14273e2b57afd6dc95a108ce90056bfd5999df02d0a4cae8b8934a4806cd14"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 56736597,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/ded7b34e5a58eb5846273a0070dc17be023144020f0cf82644f3b4882e0f32e0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14101686,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/19bde54d54e634694c4663868144610ee9e8d8cf0f5e1569510b84374e4080af"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 42304182,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/7667f8dc0e8935afe6a723bc615fa7bbe6b22fc6fa6bd6fa2eb068fe2a04cd95"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/eb68ce574abcffb93a6634164650e8404abd7a9647bcec026e89ea51e5e2765f"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032424003",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-04T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:66cc4643a127df4c0a3c55ad",
+      "slug": "mens-vi-husker-det-svantes-fars-viser-3-4-11032424003",
+      "title": "Svantes fars viser (3:4)",
+      "description": "Hvad er vigtigt at huske i fortællingen om sit eget liv? Er det kun alt det gode og rare? Eller er det også de ting, man måske kan have lyst til at fortrænge? Det spørgsmål rejses, da Svantes far finder et brev, han havde glemt alt om.\n \nMedvirkende:\nLisbeth - Svantes fars tidligere kæreste og mor til Svantes brødre.\nJannie - Svantes mor.\nSofus - Svantes yngste storebror.\nAndreas - Svantes ældste storebror.\nVibeke - Svantes fars søster.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e1f",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NAIN8RD$30xbDk-;9~E2xAR-New|RpXR9t$S=yNG"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e21",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGJiqvR5X|MxXNnmETaK#+NsW-W=$,SvE1xZV[of}cWAR%$*WWsps;sTs:WBjbWCFXjIt6NZbES1"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#302011",
+            "#FD8AA9"
+          ]
+        },
+        "colors": {
+          "dark": "#302011",
+          "light": "#FD8AA9"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032424004",
+      "durationMilliseconds": 2053469,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "11032424004",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-09-04T05:03:00+02:00",
+      "startTime": "2024-09-04T05:03:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/mens-vi-husker-det-husker-hjertet-far-4-4-11032424004",
+      "order": 100004,
+      "previousId": "urn:dr:radio:episode:66cc4643a127df4c0a3c55ad",
+      "series": {
+        "title": "Mens vi husker det",
+        "id": "urn:dr:radio:series:66cc4641a127df4c0a3c5599",
+        "slug": "mens-vi-husker-det-5820761332000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/mens-vi-husker-det-5820761332000",
+        "learnId": "urn:dr:ocs:audio:content:series:5820761332000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 16814213,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/257a7951119e0e00a2eda346343d9c481f8226f62e338ce7cda788f2a188e910"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 49671035,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/6ce9aa7d6f61caef357f61bd23491937fefdad942ff02094275139e546e7bc4d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 66099429,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/28a3b9ecae846f90496f0864891e8793965e6f23fb3ed38f0d801c8725c1790e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 16428736,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/8a3fccc56737f570fe8bc7847d033f894a2e75a5e230a6227b47b8d89aca9b46"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 49285312,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/5887dd25b4b5fb0b887202bd2e479b8ba658580f276ecf75ba06338ae06bb866"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/065c2d445ec58c2f20765dff0df2ea8b80a1388e26f08d3f3a95a6f8e2c6014e"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032424004",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-04T05:03:00+02:00",
+      "id": "urn:dr:radio:episode:66cc4642a127df4c0a3c55a1",
+      "slug": "mens-vi-husker-det-husker-hjertet-far-4-4-11032424004",
+      "title": "Husker hjertet, far? (4:4)",
+      "description": "Hvad er kærlighed? Har en nær relation kun dybde, hvis man har en fælles fortid? Betyder et kram fra ens far det samme som altid, selvom han ikke længere husker ens navn? De store spørgsmål følger med, når de mørke tanker trænger sig på. Men så møder Svante og hans far en vigtig fremmed. \n \nMedvirkende:\nPia - Svantes fars nuværende kone.\nJannie - Svantes mor.\nMaria - Kvinde, der nu bor i Svante og Svantes fars gamle hjem.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e1f",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NAIN8RD$30xbDk-;9~E2xAR-New|RpXR9t$S=yNG"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e21",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGJiqvR5X|MxXNnmETaK#+NsW-W=$,SvE1xZV[of}cWAR%$*WWsps;sTs:WBjbWCFXjIt6NZbES1"
+        },
+        {
+          "id": "urn:dr:radio:image:66f336398168ebc64d4c4e20",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oEJPodITPNIUXMr^A0NGwbJPSwbI%3J~9txaV[s:}cNZNZ$*WWspt7o0t6V[n+WCFXe?t6NZbER*"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#302011",
+            "#FD8AA9"
+          ]
+        },
+        "colors": {
+          "dark": "#302011",
+          "light": "#FD8AA9"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/svingdoeren.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Svingdøren (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/svingdoeren-5090465910000</link>
+        <description>Hvad foregår der i virkeligheden inde bag murene på Christiansborg? Hvem er mennesket bag politikeren? Det undersøger vært og journalist Tony Scott i programmet Svingdøren, når han hver lørdag inviterer et skiftende panel af gæster i studiet, der alle har det til fælles, at de har været igennem den politiske svingdør på Christiansborg. Panelet kaster et nostalgisk, humoristisk og bedrevidende blik på ugens vigtigste historier. 
+svingdoren@dr.dk
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:50 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/svingdoeren.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/svingdoeren.jpg</url>
+            <title>Svingdøren (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren-5090465910000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/svingdoeren.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Aktualitet</category>
+        <itunes:category text="Aktualitet" />
+        <category>Politik</category>
+        <itunes:category text="Politik" />
+        <item>
+            <guid isPermaLink="false">11162514016</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2025/svingdoeren-nick-haekkerup-karsten-lauritzen-og-margrete-auken-11162514016</link>
+            <title>Nick Hækkerup, Karsten Lauritzen og Margrete Auken</title>
+            <description>Statsministeren advarer om Kina, men vi køber stadig varer fra Temu, og har pandaer på dansk jord. Forpligter taler til handling? Skal Grønland være selvstændigt, og hvad stiller vi op med Donald Trump, der gør kur til Grønland? Er pølsevognen det rette bud på dansk kulturarv? Hvordan er det at komme fra et familiedynasti og gjorde H.M. Kongen det godt, da han trådte i sin mors fodspor?
+Nick Hækkerup, Karsten Lauritzen og Margrete Auken tager en tur i Svingdøren med vært Tony Scott, hvor de ser tilbage på deres egen karriere i politik og vender ugens største historier, så du kan blive klogere på de politiske magtspil.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 04 Jan 2025 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3e0781654c75b6a71f24/59c8bc3c8350f3e4fdc46acdb556c977f9e56ddd0edffd65f33642d0539bfb03" 
+                type="audio/mpeg" 
+                length="164223244" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3e0781654c75b6a71f24/12a8770a4328e48b4b1db55114667426dff9e39d6475878f9e412c7cc4c9f443" 
+                type="audio/mpeg" 
+                length="54741388" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3e0781654c75b6a71f24/ac7925534363fcaa3800d8cc4d87f0427b0774731382255a5c540bcc84b1946a" 
+                type="audio/x-m4a" 
+                length="220249244" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3e0781654c75b6a71f24/75865056c06ba9bddec61c31a71948931f2868f34ab8a999bf9aa5b65397198a" 
+                type="audio/x-m4a" 
+                length="165508143" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3e0781654c75b6a71f24/1dc542b3bb3fdf7370a319237666c495d11d15d02d09e26372706188b58b9b6a" 
+                type="audio/x-m4a" 
+                length="56025244" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414526</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-nytaarsspecial-med-pernille-skipper-soeren-pind-og-mogens-lykketoft-11162414526</link>
+            <title>Nytårsspecial med Pernille Skipper, Søren Pind og Mogens Lykketoft</title>
+            <description>Svingdøren inviterer til nytårstaffel i selskab med dem, det hele startede med i januar 2024. Fik panelet ret i deres forudsigelser for året? Hvorfor troede de på en demokratisk valgsejr i USA og er vi længere fra verdensfred nu, end for et år siden? Hvad har været det mest epokegørende i året der gik, og hvordan vil 2025 se ud? Hvilke prognoser giver Mogens Lykketoft SVM-regeringen og tror Søren Pind, at der kommer fred i Ukraine? Tør nogen satse på, at der bliver udskrevet folketingsvalg det kommende år? 
+Pernille Skipper, Søren Pind og Mogens Lykketoft tager en tur i Svingdøren med vært Tony Scott, hvor de ser tilbage på deres egen karriere i politik og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Programmet er optaget onsdag d. 18. december 2024. 
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 28 Dec 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676203f83b7595af80bfeb58/418600f637f75f74e597a1e837c1b6eac440d84c37d57fba3f8d033cb625790a" 
+                type="audio/mpeg" 
+                length="164293518" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676203f83b7595af80bfeb58/5db839d01f2afd8b4026ef2b4d804ff2d368630a5d97ba5f02a399cba3b11502" 
+                type="audio/mpeg" 
+                length="54764814" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676203f83b7595af80bfeb58/73a148117860914f9380753cd1bb03ba95f267ffd43ad771eec6fc8c0f3f6460" 
+                type="audio/x-m4a" 
+                length="220343240" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676203f83b7595af80bfeb58/598f073143e8182ca4fda9e77a8fd55bd372d4ad43d86d2c688b0b7f656cb203" 
+                type="audio/x-m4a" 
+                length="165579279" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676203f83b7595af80bfeb58/0110c805dea62697e8a5959c8a208ada86b50bc85d0c33eea573d4af454fb873" 
+                type="audio/x-m4a" 
+                length="56049432" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414516</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-manu-sareen-ozlem-cekic-og-henrik-sass-larsen-11162414516</link>
+            <title>Manu Sareen, Özlem Cekic og Henrik Sass Larsen</title>
+            <description>Hvad er den dårligste idé, panelisterne har fået, og har kritikerne ret, når de siger, at Pernille Rosenkrantz-Theils forslag om dyrere metroture til Københavns Lufthavn er 'årets dårligste idé'? Pia Olsen Dyhr udelukker at sidde i en regering med Venstre og Konservative, men hvor kategorisk bør man blive? Og kommer der virkelig valg i 2025? Og hvordan ender en historie om hvaler med at handle om Ukendt Kunster og Helle Virkner? Hold på hat og bjælder for i julestudiet binder ugens panelister sløjfer på denne uges nyheder og deler ud af røverhistorier og hemmeligheder fra deres tid på Christiansborg.
+Manu Sareen, Özlem Cekic og Henrik Sass Larsen tager en tur i Svingdøren med vært Tony Scott, hvor de ser tilbage på deres egen karriere i politik og vender ugens største historier, så du kan blive klogere på de politiske magtspil.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 21 Dec 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6758c9515b7cab1343ba4467/4ba37680411a3c7255b4e305a89ea58d1734654b1f4543f3d6a1e94e258641e7" 
+                type="audio/mpeg" 
+                length="164233028" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6758c9515b7cab1343ba4467/a4e27189457ee69abc6f8051111584a16c350582f7a710794aff663a76ac560e" 
+                type="audio/mpeg" 
+                length="54744644" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6758c9515b7cab1343ba4467/0f3254ca1ef51156077bad348c76d53528455abf5dcb4564a24c794299022583" 
+                type="audio/x-m4a" 
+                length="220262219" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6758c9515b7cab1343ba4467/c3829d8d0c836bf53c5894a40d29b3eb5ca56b570473175ad6bc29e0e955f9cd" 
+                type="audio/x-m4a" 
+                length="165517947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6758c9515b7cab1343ba4467/5d9b299f85d2164aa093ecc646a8a54a5a2e514560904d283d3e20f435d7d9a7" 
+                type="audio/x-m4a" 
+                length="56028528" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414506</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-kristian-th-dahl-ellen-trane-noerby-og-annette-vilhelmsen-11162414506</link>
+            <title>Kristian Th. Dahl, Ellen Trane Nørby og Annette Vilhelmsen</title>
+            <description>Hvor topstyret er politik, og hvorfor vil SF ikke lade Annette Vilhelmsen stille op til kommunalvalget?
+Har Kristian Th. Dahl haft mest at gøre med danskernes pensionsalder eller asylregler, og er det præmaturt, når politikere taler om syriske hjemsendelser dagen efter, at Assad er væltet? Hvilke 'tilfældige' møder har Ellen Trane Nørby haft, og hvad snakker Trump og Zelenskyj om, når de mødes ved Notre Dame? 
+Kristian Th. Dahl, Ellen Trane Nørby og Annette Vilhelmsen tager en tur i Svingdøren med vært Tony Scott, hvor de ser tilbage på deres egen karriere i politik og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg. 
+Programmet er optaget fredag d. 13. december 2024.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 14 Dec 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674f8f3e5c239efa37bf1027/11038784c3d891f9d49e72c7c808b3697372ef5387df1ee986502e0ddfd77ba1" 
+                type="audio/mpeg" 
+                length="164416775" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674f8f3e5c239efa37bf1027/871c20e3fb10b306950d3b18124346b2b0a56fd39ccf851f55875b02dbe37f7d" 
+                type="audio/mpeg" 
+                length="54805895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674f8f3e5c239efa37bf1027/3307cda069d22d10f65bce778cd5a0b79aebb0dcaa7e37c2b52846c78282831d" 
+                type="audio/x-m4a" 
+                length="220508712" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674f8f3e5c239efa37bf1027/61399919feca76c048364a9aabb35cb2df347ee2123ca979b4dcddfdeeb741b2" 
+                type="audio/x-m4a" 
+                length="165703191" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674f8f3e5c239efa37bf1027/a8d19923c7480717df2891c243a9d12687907bb25a9524add17f8266453088c7" 
+                type="audio/x-m4a" 
+                length="56091268" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414496</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-pernille-skipper-per-stig-moeller-og-trine-torp-11162414496</link>
+            <title>Pernille Skipper, Per Stig Møller og Trine Torp</title>
+            <description>Hvordan føles det at sidde til bords med en diktator, og er det fornuftigt, at kongeparret inviterer Egyptens Abdel Fattah al-Sisi til taffel og giver ham Elefantordenen? Hvordan føles det at stemme om sine kollegers skæbne, og bør den sydkoreanske præsident stilles for en rigsret? Joe Biden har ændret standpunkt, og benåder nu sin søn. Hvordan indtager man mest elegant et nyt standpunkt, og hvordan udnytter man sin modstanders vaklen?
+Pernille Skipper, Per Stig Møller og Trine Torp tager en tur i Svingdøren med vært Tony Scott, hvor de ser tilbage på deres egen karriere i politik og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg. 
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 07 Dec 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:53:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67465502aa7bc2beae01d7af/a237a94862ef6007e1c87ee6edaec9e4791c1bdab7929b83d71e3088d3499a41" 
+                type="audio/mpeg" 
+                length="163935242" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67465502aa7bc2beae01d7af/fcac80a2677b684a5ccf5c6769f721dbf35ae79d5ed1ffe7f22187f26e965da1" 
+                type="audio/mpeg" 
+                length="54645386" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67465502aa7bc2beae01d7af/26e8d3a7449f4d901944c4e45011f8b6d77499a25beb44ab8c49bcdfed3fac1a" 
+                type="audio/x-m4a" 
+                length="219863301" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67465502aa7bc2beae01d7af/6102965914e55c1de2cdd3dea5bc7084fe8682fecd6bb1c3f390bf2de158a7a0" 
+                type="audio/x-m4a" 
+                length="165218187" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67465502aa7bc2beae01d7af/f6807f03985200ca3988cd5ecd340b573aba4815bd3d549ffd4b9879d4df2e47" 
+                type="audio/x-m4a" 
+                length="55927057" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414486</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-anders-samuelsen-lykke-friis-og-hans-engell-11162414486</link>
+            <title>Anders Samuelsen, Lykke Friis og Hans Engell</title>
+            <description>Jakob Ellemann-Jensen siger, at han var træt af at blive pisset på af kolleger og medier og derfor forlod politik - blev han det, og er det noget, som følger med jobbet? Hvilke hemmeligheder skal politikere kunne holde på, og hvor ærlige kan de være overfor borgerne, hvis Danmark udsættes for hybridangreb? Hvad betyder våbenhvilen mellem Hizbollah i Libanon og Israel, og hvad betyder håb i politik?
+Anders Samuelsen, Lykke Friis og Hans Engell tager en tur i Svingdøren med vært Tony Scott, hvor de ser tilbage på deres egen karriere i politik og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 30 Nov 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673d21faa5616e0084197d3a/eab80e81cc113e8c335eba4c39764316007db1169ef4b28738744758046f5dc4" 
+                type="audio/mpeg" 
+                length="164217480" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673d21faa5616e0084197d3a/401d3e1c9fdd7872da3246d44d15cb5203b90e8c6e45d6f45d283b9744706915" 
+                type="audio/mpeg" 
+                length="54739464" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673d21faa5616e0084197d3a/398a5028a69c94b39964f57b2f37af1a18650d29799de8e7d5c44139f92530c7" 
+                type="audio/x-m4a" 
+                length="220241571" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673d21faa5616e0084197d3a/79e3d8f8a9d931749275fb631ebaf7af308e7a2071ef5f4f2519e3ded8af23d3" 
+                type="audio/x-m4a" 
+                length="165502515" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673d21faa5616e0084197d3a/f2d9766d6ae8238e0d617f3a4f76e4b3c9f8a9f4e6d94350bf4efebae1ec1db0" 
+                type="audio/x-m4a" 
+                length="56023331" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414476</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-sofie-carsten-nielsen-joy-mogensen-og-manu-sareen-11162414476</link>
+            <title>Sofie Carsten Nielsen, Joy Mogensen og Manu Sareen</title>
+            <description>Hvorfor lykønsker politikere ikke den nye Miss Universe, som de gør det, når andre vinder medaljer hjem til Danmark? Hvad laver et kinesisk skib i Østersøen, og hvordan er det, når man får noget at vide som er hemmeligt? Er det rart at kunne prøve nye ting af som politiker, og hvad betyder det, at kulturpasset og skolemad kun er et forsøg?
+Sofie Carsten Nielsen, Joy Mogensen og Manu Sareen tager en tur i Svingdøren med vært Tony Scott, hvor de ser tilbage på deres egen karriere i politik og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 23 Nov 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6733dedfc10a1c660875616c/2333faea1a8c53981906010488cc4560d43ff6458d8f0742045bf135857a062f" 
+                type="audio/mpeg" 
+                length="164188684" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6733dedfc10a1c660875616c/4b7b12e162bdded432d9f136892449c17111c409bd3e2dfa3598676ba49a42c1" 
+                type="audio/mpeg" 
+                length="54729868" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6733dedfc10a1c660875616c/f5daa871e4843a9e2edf00e84095d736c205f2c0eed162d16dc0dda1ce09f1ed" 
+                type="audio/x-m4a" 
+                length="220202527" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6733dedfc10a1c660875616c/2f2b9a125c9c5d0398fc42361d42da003c2f055ca4c358ae7fb25314ca52aff8" 
+                type="audio/x-m4a" 
+                length="165472983" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6733dedfc10a1c660875616c/21bdebfd8aa61255eddba53300a7f710e1d4fe0902e31e1c590613316606fc8a" 
+                type="audio/x-m4a" 
+                length="56013416" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414466</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-uffe-elbaek-joachim-b-olsen-og-liselott-blixt-11162414466</link>
+            <title>Uffe Elbæk , Joachim B. Olsen og Liselott Blixt</title>
+            <description>Hvad betyder loyalitet i politik, og er Donald Trumps valg af topfolk til sin regering et udtryk for, at loyalitet er vigtigere end alt andet? Hvad betyder fløjkrige for partier, og hvordan kan Enhedslisten få samling på flokken? Er der et ligestillingsproblem på Christiansborg, og kan et nyt kæmpemaleri af 30 kvindelige politikere rykke noget? 
+Uffe Elbæk , Joachim B. Olsen og Gitte Seeberg  tager en tur i Svingdøren med vært Tony Scott, hvor de ser tilbage på deres egen karriere i politik og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 16 Nov 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672aa5a7c62bc740b3166f8c/9695b96f4f02e5a9d08135fd18151a5621859db59a32742da1e539a72239a1b3" 
+                type="audio/mpeg" 
+                length="164217479" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672aa5a7c62bc740b3166f8c/5f239b1b58fcf9bad481274e4d46e1a8321dd8dbc6dffa1d9a38a0fe20027b53" 
+                type="audio/mpeg" 
+                length="54739463" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672aa5a7c62bc740b3166f8c/df35b41ee36780684ac1065826006fea8315a31cf6304a00ea59289ce0a27a8d" 
+                type="audio/x-m4a" 
+                length="220241883" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672aa5a7c62bc740b3166f8c/33b03306aa9812cf3d98974cff98afdee0009b190e14929e1d117380678090d9" 
+                type="audio/x-m4a" 
+                length="165502491" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672aa5a7c62bc740b3166f8c/5399e5c4e23b15c994292926689c1726e9727666645a1036988720d3fb7220c0" 
+                type="audio/x-m4a" 
+                length="56023299" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414456</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-marianne-jelved-soeren-pind-og-jacob-haugaard-11162414456</link>
+            <title>Marianne Jelved, Søren Pind og Jacob Haugaard</title>
+            <description>Donald Trump bliver USA's næste præsident, og statsministeren sendt sine lykønskninger og talt i telefon med ham. Hvad ville ugens panelister sige til Trump, hvis han ringede? Hvordan skal man som politiker reagere på et nederlag, og tabte Kamala Harris med ynde eller ej? Hvad lærte Jacob Haugaard om USA, da han kom til New York i 70'erne, og har Trump i virkeligheden kopieret hans gøgleri? Og hvad ville Marianne Jelved gøre, hvis hun sad i økonomiministeriet dagen efter den republikanske sejr? 
+Marianne Jelved, Søren Pind og Jacob Haugaard tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 09 Nov 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67216af2b97ed10551ee06bb/8723fe311b976a8efd81302ebaa337c610576b50374781abb064da39197498cc" 
+                type="audio/mpeg" 
+                length="164239944" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67216af2b97ed10551ee06bb/1825705345f094c0568c884f5efb22cf0e6daead990817857edab01c21bd5334" 
+                type="audio/mpeg" 
+                length="54746952" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67216af2b97ed10551ee06bb/f7fdad663bda18c8330f37d41740a29c622ba4c86fb45392b9673053950e1d65" 
+                type="audio/x-m4a" 
+                length="220271700" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67216af2b97ed10551ee06bb/b5243708a58ea2caab4cb29d6478c404836d532887afa463ecc8aed9dc395da3" 
+                type="audio/x-m4a" 
+                length="165525291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67216af2b97ed10551ee06bb/89ecff56c5075d5ab01cb789fc129c2a46d4cf8883ef40220e9ec16b6b08c2df" 
+                type="audio/x-m4a" 
+                length="56030972" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414446</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-bjarne-corydon-margrete-auken-og-karsten-lauritzen-11162414446</link>
+            <title>Bjarne Corydon, Margrete Auken og Karsten Lauritzen</title>
+            <description>Slipper man bedre af sted med grove udtalelser, når de er sjove, og hvad betyder bommerter i de sidste dage af en valgkamp? Kan tidligere FH-formand Lizette Risgaard trække sin undskyldning tilbage? Og hvor oprigtige er undskyldninger i politik?
+Bjarne Corydon, Margrete Auken og Karsten Lauritzen tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 02 Nov 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671821a05f61c1b24c1f6e28/75a4dff5f727e99f81467ccc1638d4779fbc1ac1a120992a7f47fba98d33ad52" 
+                type="audio/mpeg" 
+                length="164233604" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671821a05f61c1b24c1f6e28/023446faf7065b8fbefe76cc644c33e6eb35a709c32c10363bb34f427c4c125d" 
+                type="audio/mpeg" 
+                length="54744836" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671821a05f61c1b24c1f6e28/02001027d66fd6a5c28aa14efd30b96ec41d76802d0f39a4506d0330dff343fe" 
+                type="audio/x-m4a" 
+                length="220262833" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671821a05f61c1b24c1f6e28/7f9c00b91436c3a12d14d9844269403de5f9b78f83eb7fde7e499b1e4740055a" 
+                type="audio/x-m4a" 
+                length="165518463" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671821a05f61c1b24c1f6e28/cf4ae023a02c49a256a73ec5b3bde31adaf2f3d17d703044b60dfffd72e5e0f2" 
+                type="audio/x-m4a" 
+                length="56028761" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414436</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-nick-haekkerup-lykke-friis-og-ole-sohn-11162414436</link>
+            <title>Nick Hækkerup, Lykke Friis og Ole Sohn</title>
+            <description>Hvor "almindelige" skal politikere være, og er Donald Trump mere relaterbar, efter han har flippet burgere på McDonald's? Hvilke overvejelser har man, når man trækker sig fra politik, og hvad mister dansk politik, når populære skikkelser stopper? Hvor stor en rolle spiller frygt i Folketingets arbejde, og bliver de voksne også bange, når Nordkorea hjælper Rusland? 
+Nick Hækkerup, Lykke Friis og Ole Sohn tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 26 Oct 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670ee76e373511e4645807f3/3a0b270647c44b013c04ea63dd727beb950f213c17a301a7aa1bdfbf1c46bffc" 
+                type="audio/mpeg" 
+                length="164211718" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670ee76e373511e4645807f3/6b8f282ccb348e9eb6823a00738f4ae4def5c9bf7c1ff456e982608b860b4f18" 
+                type="audio/mpeg" 
+                length="54737542" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670ee76e373511e4645807f3/05acb1978ba9f98e3d546d2294e223359bc147475104d2a2298a28a56495a2ed" 
+                type="audio/x-m4a" 
+                length="220234569" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670ee76e373511e4645807f3/366b6a5d0ce186fd42f9e49019c17ac99279c8ba93c6d6ea1ac9c0e55bde169f" 
+                type="audio/x-m4a" 
+                length="165496767" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670ee76e373511e4645807f3/bf738c1b03deede1712bf13383a04835f52f0cf6e27d1571f1d082464bdb82b8" 
+                type="audio/x-m4a" 
+                length="56021389" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414416</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-henrik-sass-larsen-britt-bager-og-bertel-haarder-11162414416</link>
+            <title>Henrik Sass Larsen, Britt Bager og Bertel Haarder</title>
+            <description>Bekymrer man sig som minister for, hvad skoleelever mener, og er regeringens nye EPX en god idé? Hvilken møgsag har politikerne måtte håndtere i en valgkamp, og kan den nye film, The Apprentice, volde Trump problemer? Hvordan håndterer man bedst nødsituationer, og har orkanen i Florida givet panelisterne mindelser om tidligere hændelser?
+Henrik Sass Larsen, Britt Bager og Bertel Haarder tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 12 Oct 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fc7271d931d9bcdefdb930/d832b38a1d8834abdb6848ff2f1ae4d899a1cd707399807275988827037a53e1" 
+                type="audio/mpeg" 
+                length="164249735" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fc7271d931d9bcdefdb930/3051c1a784b9e2c6835871c2896f72d5de172f1cebeff4f3e99b2e09cad9fb58" 
+                type="audio/mpeg" 
+                length="54750215" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fc7271d931d9bcdefdb930/eb526465b9d98f3b2a3816ed2a9ebed90215c163f5969716f320ee6536361d21" 
+                type="audio/x-m4a" 
+                length="220285215" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fc7271d931d9bcdefdb930/06c78f489bc8622660410cef53516c86bda51f0a3d2885c3e4c572979b725731" 
+                type="audio/x-m4a" 
+                length="165534831" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fc7271d931d9bcdefdb930/1d4019665ea33d13f21a68f69ec3614f5e350da8e6f1b102b094b33a13b6b4a0" 
+                type="audio/x-m4a" 
+                length="56034291" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414406</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-holger-k-nielsen-manu-sareen-og-liselott-blixt-11162414406</link>
+            <title>Holger K. Nielsen, Manu Sareen og Liselott Blixt</title>
+            <description>Folketingsåret er skudt i gang, og igen i år har flere taler vakt opsigt. Hvad en den vigtigste eller mest nervepirrende tale, som panelisterne har holdt fra talerstolen? Politikerne taler igen og igen om krigens 'røde linjer', men hvordan skal de forstås og hvornår har politikerne selv måtte trække en streg i sandet? Laver politikerne for meget unødvendigt arbejde, og giver det god mening, når Folketingets formand, Søren Gade, vil skære ned på antallet af udvalg?
+Holger K. Nielsen, Manu Sareen og Liselott Blixt tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 05 Oct 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f3382d163b4cf7afa903cd/7b399295f326a850205a0f50b1545abfab8f21c7382c841341b00a80b64a8649" 
+                type="audio/mpeg" 
+                length="164310215" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f3382d163b4cf7afa903cd/21077ed42c09f11fdb7cc6ed532f3393761449ac15d42fdef1ca4cda3e90469b" 
+                type="audio/mpeg" 
+                length="54770375" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f3382d163b4cf7afa903cd/838cca121ba15ebc84b61a47924f03c1545fb6a98eff917630cf2f823c7d1137" 
+                type="audio/x-m4a" 
+                length="220366257" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f3382d163b4cf7afa903cd/56ca79ec296fd2a792d8af070d8faf07e39f04d51ba5ae57cc9139136a3bb281" 
+                type="audio/x-m4a" 
+                length="165595791" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f3382d163b4cf7afa903cd/bfc74d7afeb89955d664ce1a0f19188bdcf9a9ee9472fda9570eb2c30734839a" 
+                type="audio/x-m4a" 
+                length="56054961" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414396</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-mogens-lykketoft-ozlem-cekic-og-helge-adam-moeller-11162414396</link>
+            <title>Mogens Lykketoft, Özlem Cekic og Helge Adam Møller</title>
+            <description>Har panelisterne prøvet at blive slået op med i offentligheden, og hvordan reagerer resten af regeringen, når Troels Lund Poulsen melder ud, at han håber på en blå regering? Hvordan føles det i kroppen, når man stemmer for at sende danskere i krig, og hvad kan DR's dokumentar "Velkommen til frontlinjen" lære os om fremtiden? Hvad bruger man partiets sekretariat til, og hvordan står Moderaterne efter massefyringer og partisekretærens opsigelse?
+Mogens Lykketoft, Özlem Cekic og Helge Adam Møller tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 28 Sept 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e9fd07ed2feab995a5553c/49f452768f0395da72425f5c1f46b508d81aceeb99236f2af0c35f8317b635d1" 
+                type="audio/mpeg" 
+                length="164301004" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e9fd07ed2feab995a5553c/9a0bab04597f75f1e001a843803b0d4b891875c629f6d9cd75bbbd7c61dcde86" 
+                type="audio/mpeg" 
+                length="54767308" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e9fd07ed2feab995a5553c/08df47fd5d9f22574d123e86c558e68dcd1bc3c3e2f87e523c4d2c74407539d6" 
+                type="audio/x-m4a" 
+                length="220353809" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e9fd07ed2feab995a5553c/2f56e331ae64c0b5e2bc76c5f03fb6389d9335de4b27bf22655163b18a98c706" 
+                type="audio/x-m4a" 
+                length="165586527" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e9fd07ed2feab995a5553c/c37ed891d2620a7e8bf81d70efdfae23966dd053d3f7a4f42e9f98f456237ea2" 
+                type="audio/x-m4a" 
+                length="56051745" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414386</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-uffe-elbaek-mette-bock-og-annette-vilhelmsen-11162414386</link>
+            <title>Uffe Elbæk, Mette Bock og Annette Vilhelmsen</title>
+            <description>Har panelet nogensinde givet kolleger mundkurv på, og er det fair, at medarbejdere skal skrive under på, at de vil handle i Moderaternes bedste interesse, når de fritstilles? Hvilket forhold har man til ungdomspartier og skal moderpartiet gribe ind, når Nye Borgerliges Ungdom laver happenings foran abortklinikker? Og er det normalt at politikere får debatindlæg skrevet af lobbyister eller går det for vidt, når en række nordjyske borgmestre lægger navn til et debatindlæg skrevet af Danmarks Fiskeriforening?
+Uffe Elbæk, Mette Bock og Annette Vilhelmsen tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 21 Sept 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e0c24e2d0795a5e7c83d06/f12c9bc946ece669bfce4d9b2bcc45241a9d031d912ab2855a2ba8c5c933af40" 
+                type="audio/mpeg" 
+                length="164288329" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e0c24e2d0795a5e7c83d06/b170ee02bea6b64933605626c5ffb9193e5167aca856c1d4a56a66fffc3f6d10" 
+                type="audio/mpeg" 
+                length="54763081" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e0c24e2d0795a5e7c83d06/7eabb02e3c6f47fc68419ff967eb68cb43fd489ad6c4713eeb024353ab213abb" 
+                type="audio/x-m4a" 
+                length="220336655" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e0c24e2d0795a5e7c83d06/0f6c7e35a810b5535a54954488b9f8caaf70a770fd4ee03f0789a443c8290797" 
+                type="audio/x-m4a" 
+                length="165573555" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e0c24e2d0795a5e7c83d06/009d6f09ce4ba06667e2abf3c3ed38e68fd5f515a9c0e8e73dec547e709c4e2b" 
+                type="audio/x-m4a" 
+                length="56047379" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414376</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-margrete-auken-claus-hjort-frederiksen-og-gitte-seeberg-11162414376</link>
+            <title>Margrete Auken, Claus Hjort Frederiksen og Gitte Seeberg</title>
+            <description>Hvorfor er det vigtigt at placere ansvaret for Scandinavian Star katastrofen så mange år senere? Har politikere tid til at sidde både i byråd og Folketinget, eller leder det bare til mere stress? Eller er det en dårlig idé, at Socialdemokratiet vil tillade dobbeltmandater? Hvornår har man mest på spil som folkevalgt, og tror panelet virkelig på at emigranter spiser kæledyr i USA?
+
+Margrete Auken, Claus Hjort Frederiksen og Gitte Seeberg tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 14 Sept 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d7887af04b1112d4fdfe2c/7f38e14f4afc980596577dfa9632ff797f67221e2cba083503f230f6923f1c88" 
+                type="audio/mpeg" 
+                length="164393161" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d7887af04b1112d4fdfe2c/7c4cbeacc705a4f74706f2a3dd31fd36d8574e9ce91a1224164cd195b2d2990f" 
+                type="audio/mpeg" 
+                length="54798025" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d7887af04b1112d4fdfe2c/795b683950ec912e03bbcb5bfdce4fe539e9aa06b6cef6a60de4374882753c96" 
+                type="audio/x-m4a" 
+                length="220477497" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d7887af04b1112d4fdfe2c/288105edb3eab42f02b371ddb918add0bacd80f232323f0f7d5102227106e540" 
+                type="audio/x-m4a" 
+                length="165679395" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d7887af04b1112d4fdfe2c/4445b2b775d470fa5a26663df71c4f77b2d74e4dbdc7af8a66827ba8844a2fb4" 
+                type="audio/x-m4a" 
+                length="56083221" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414366</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-eva-kjer-hansen-jens-rohde-og-henrik-dam-kristensen-11162414366</link>
+            <title>Eva Kjer Hansen, Jens Rohde og Henrik Dam Kristensen</title>
+            <description>Hvad sker der under politiske krisemøder, og hvordan er det at have Lars Løkke Rasmussen som leder? Savner man kvindelige kollegaer i toppen af politik, og hvad betyder EU-kommisæres køn for danskere? 
+Er der gået inflation i politiske undskyldninger, og er Caroline Stages undskyldning god nok? 
+Eva Kjer Hansen, Jens Rohde og Henrik Dam Kristensen tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 07 Sept 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ce4e11a86311568334f93a/c3646ebe1f83fb8c23fbc598a60947957a0a64c414d2e7481ae741a7aa520ba2" 
+                type="audio/mpeg" 
+                length="164374729" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ce4e11a86311568334f93a/3928e6313d673f0c003d479cdeb5c868787836808128683e7078cc5810326cf1" 
+                type="audio/mpeg" 
+                length="54791881" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ce4e11a86311568334f93a/d6668662120086c04bab76b14451bbd6b017fc2976fa887ca908f895a3dec1e5" 
+                type="audio/x-m4a" 
+                length="220452765" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ce4e11a86311568334f93a/90ccbba78017b7ba7c856f03c13badf6bb1f17ec61d6015059ef01247d277c80" 
+                type="audio/x-m4a" 
+                length="165660855" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ce4e11a86311568334f93a/ce4a46e8ebd9456fd80f409ad09ee6fdc4371308ac290e1e18deb3ab3f57e236" 
+                type="audio/x-m4a" 
+                length="56076921" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414356</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-pernille-skipper-karsten-lauritzen-og-manu-sareen-11162414356</link>
+            <title>Pernille Skipper, Karsten Lauritzen og Manu Sareen</title>
+            <description>Ministerkabalen er lagt, kommissæren udpeget og ministre er blevet degraderede, fyrede eller forfremmede: Hvad betyder alle disse roller? Har vi for mange af dem? Og hvorfor kan ligestillingsministeriet altid rykkes rundt? Hvilken politiker har panelisterne haft et had-kærligheds-forhold til, og hvad kan Oasis lære os om partnerskab på Borgen? Og har ugens eks-politikere gemt dårlige nyheder ved at melde dem ud i en begivenhedsrig uge?
+Pernille Skipper, Karsten Lauritzen og Manu Sareen tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 31 Aug 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c513e8a127df4c0a1a73d5/9b6b97539901d93c1210532363e11293e2caceac8fb7840501ec47e30f90fff7" 
+                type="audio/mpeg" 
+                length="164343622" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c513e8a127df4c0a1a73d5/a0a2d736813e0f7aa88f437cbb8441b234f43a1a27f719ff2901ff3fc084f2cd" 
+                type="audio/mpeg" 
+                length="54781510" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c513e8a127df4c0a1a73d5/80b4df6af217dec4641221bf2a6e8d94fbef67afb0b7bd03f3d25f5820e5ff0c" 
+                type="audio/x-m4a" 
+                length="220410903" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c513e8a127df4c0a1a73d5/a5cc23508556fb3b8054bc2918219609e229e8a679a04be66df3543a7df23ef6" 
+                type="audio/x-m4a" 
+                length="165629235" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c513e8a127df4c0a1a73d5/4516c291d64ba21468987bd1146ae27d446be2767ad7adbf2357946d42ef9c18" 
+                type="audio/x-m4a" 
+                length="56066279" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414346</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-bertel-haarder-lars-aslan-og-isabella-arendt-11162414346</link>
+            <title>Bertel Haarder, Lars Aslan og Isabella Arendt</title>
+            <description>Hvordan forholder man sig som politiker til endnu et nyt parti, og er der plads til Grønne Demokrater på Borgen? Hvor meget skal politikere dele ud af deres privatliv, og er det klogt, at Tim Walz involverer amerikanere i sine fertilitetsproblemer? Hvad betyder anerkendelse, når man stopper i politik, og hvad vil panelet helst huskes for? 
+Bertel Haarder, Lars Aslan og Isabella Arendt tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg. 
+Vært: Tony Scott. 
+Tilrettelægger og producer: Naja Bergen Dale. 
+Redaktør: Christian Sforzini Graugaard. 
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 24 Aug 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:53:54</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bbd85bc52725bd2ff1def5/3c073ad0a7a9523a09ee781ad08bb0ef584bd30425eb9ac4d974cf7ff5d5e900" 
+                type="audio/mpeg" 
+                length="164022214" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bbd85bc52725bd2ff1def5/d828ce412730e5a62358412116980d674197a5412ea03144e3de3e7e9c24d422" 
+                type="audio/mpeg" 
+                length="54674374" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bbd85bc52725bd2ff1def5/8660c2739582254468c8d91cfc56d6e163e57767f5969c2452330d9f691131db" 
+                type="audio/x-m4a" 
+                length="219979600" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bbd85bc52725bd2ff1def5/2950c67041b790081384f56bee5b701e5f1c72a7aeda208a317914b8849e4eb4" 
+                type="audio/x-m4a" 
+                length="165305343" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bbd85bc52725bd2ff1def5/0241daf987b063d81b783a869c8da0275ec37152457cccde46072c74d579c368" 
+                type="audio/x-m4a" 
+                length="55956627" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414336</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-henrik-sass-larsen-pia-christmas-moeller-og-joachim-b-olsen-11162414336</link>
+            <title>Henrik Sass Larsen, Pia Christmas-Møller og Joachim B. Olsen</title>
+            <description>Hvad er de vildeste møder, som panelet har deltaget i, og hvad bruger man et sommergruppemøde til? Kan Peter Hummelgaard sende skylden over sundet, og hvordan sender man en politisk abe videre? Hvad betyder penge og opbakning i politik, og hvilken indflydelse har det, når Elon Musk bakker Trump op?
+Henrik Sass Larsen, Pia Christmas-Møller og Joachim B. Olsen tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 17 Aug 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b29e45dc308ad700086c89/486cfa421e2c158c589985fc4d74bccf2503b9840e36f72242abb61ac520f5fd" 
+                type="audio/mpeg" 
+                length="164347078" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b29e45dc308ad700086c89/fd462d42f309a9577ba83400f087550abcbbd9a532751f96058c435592246f57" 
+                type="audio/mpeg" 
+                length="54782662" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b29e45dc308ad700086c89/43ecbf3964cbc6271cc979ea22729727f94e5e1260d4272b9f89e298e5e2f1cf" 
+                type="audio/x-m4a" 
+                length="220415541" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b29e45dc308ad700086c89/124e0b1bc13f4a3162eeecc1bc491c370d0260cac940141182061c7b74acfe45" 
+                type="audio/x-m4a" 
+                length="165633111" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b29e45dc308ad700086c89/cea5b0e4da0be17282239a3df0955d5e46f608a606be2c98c8c090d49ce5eb96" 
+                type="audio/x-m4a" 
+                length="56067477" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414326</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-holger-k-nielsen-anders-samuelsen-og-liselott-blixt-11162414326</link>
+            <title>Holger K. Nielsen, Anders Samuelsen og Liselott Blixt</title>
+            <description>Hvilke kvaliteter har en god vicepræsident, og hvem har været den bedste samarbejdspartner på Christiansborg? Hvordan er det at være politiker, når demonstrationer fylder gadebilledet, som vi ser det i Storbritannien? Hvor meget tvivler politikere på deres beslutninger, og hvad gør man, hvis man skifter holdning?
+Holger K. Nielsen, Anders Samuelsen og Liselott Blixt tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 10 Aug 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66a963f3e00ca30997fbe415/591330e324f6d9a53e4717356714590ac405719122ceec4826b648cb0f768bbb" 
+                type="audio/mpeg" 
+                length="164324042" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66a963f3e00ca30997fbe415/82327cb494c8fe2b5399355e9c55056dbf9edbb58ab86c4e814eb5ddf4f66576" 
+                type="audio/mpeg" 
+                length="54774986" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66a963f3e00ca30997fbe415/3a742750f80c6659672450e42587f32aa7a094be41289ee39144e4ec5fb35240" 
+                type="audio/x-m4a" 
+                length="220384689" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66a963f3e00ca30997fbe415/4b0cf393bbc1ad7fcfde7e3db12d59187dbba43dbf4da0d9842a669354c261c6" 
+                type="audio/x-m4a" 
+                length="165609699" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66a963f3e00ca30997fbe415/a46ed81738ab9713d90a21854bbd6b102c06d5e5e6dfa9d2bfe98c4d7d143391" 
+                type="audio/x-m4a" 
+                length="56059653" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414306</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/spindoeren-med-annette-juhler-kjaer-og-steffen-hjaltelin-11162414306</link>
+            <title>Spindøren - med Annette Juhler Kjær og Steffen Hjaltelin</title>
+            <description>Hvordan reagerer man som rådgiver, når formanden pludselig vil udgive en bog om en regering over midten, der går imod partilinjen? Hvordan brander man en partileder? Hvad gør man som rådgiver, hvis ens partileder ikke er tryg ved at være i medierne, og hvorfor blev Bendt Bendtsen kaldt Bambi-Bendt?
+Svingdøren er blevet til Spindøren over sommeren, og vært Tony Scott tager tidligere rådgivere og kampagnechefer med ind i de politiske baglokaler, hvor de vender forårets bedste og værste kampagner, strategier og præstationer på Christiansborg - og deler røverhistorier fra deres egen tid.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 27 Jul 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6696ee9d73753c77589e1fae/91b9889730f8246d0d073859a41491f6a5ec9b1f4bfbf3ffd07fcd97f833f679" 
+                type="audio/mpeg" 
+                length="82258440" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6696ee9d73753c77589e1fae/6f6ab52adccd858f92c73aeb7f2352945eda3e9b9e3fa46a163f6c240baa4112" 
+                type="audio/mpeg" 
+                length="27419784" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6696ee9d73753c77589e1fae/6411857407a8654377c72a1a2b9f25710ef712c870ace5c4880d1a2e6a18afc5" 
+                type="audio/x-m4a" 
+                length="110321845" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6696ee9d73753c77589e1fae/a627c70fd232f366de634af19dfee1fe8e231bace53745f6d94f573f1b9b16d3" 
+                type="audio/x-m4a" 
+                length="82902339" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6696ee9d73753c77589e1fae/32b562c0b30ad60b1b5a1d5301722bfaed3a6e994201ee7563c08ac6309dc984" 
+                type="audio/x-m4a" 
+                length="28063109" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414296</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/spindoeren-med-niels-th-dahl-og-jesper-claus-larsen-11162414296</link>
+            <title>Spindøren -  med Niels Th. Dahl og Jesper Claus Larsen</title>
+            <description>Hvordan vender man skuden, når meningsmåling efter meningsmåling ser dårlig ud? Hvordan håndterer man som rådgiver politiske kriser, og hvilke råd ville dagens tidligere rådgivere give regeringen, der halter bagud i meningsmålingerne? 
+Svingdøren er blevet til Spindøren over sommeren, og vært Tony Scott tager tidligere rådgivere og kampagnechefer med ind i de politiske baglokaler, hvor de vender forårets bedste og værste kampagner, strategier og præstationer på Christiansborg - og deler røverhistorier fra deres egen tid.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 20 Jul 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668db3c6e32b7a1ae407f534/4cafac0a2b5131048191e4e5237c9ccb34877dbff59f44447916c0aafb95a385" 
+                type="audio/mpeg" 
+                length="82257291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668db3c6e32b7a1ae407f534/6341260d7416b60ac597eefb3a7f759f67a2bf359cc6d7326175b61c518ae946" 
+                type="audio/mpeg" 
+                length="27419403" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668db3c6e32b7a1ae407f534/d0ea4a9ea07dd248ef98c7e0db3d6162b1436d6fd185224016cc8ebf692b6142" 
+                type="audio/x-m4a" 
+                length="110319737" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668db3c6e32b7a1ae407f534/bb933077ce439f1f8c8600713635cd5bffe42c8b170153d06122521d16b886dc" 
+                type="audio/x-m4a" 
+                length="82900815" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668db3c6e32b7a1ae407f534/95766bb982fd30c2a274d2a263787d75f9cd16de99601f160f0aacf67d44fe6c" 
+                type="audio/x-m4a" 
+                length="28062489" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414286</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-spindoeren-med-anders-langballe-og-jacob-bruun-11162414286</link>
+            <title>Spindøren - med Anders Langballe og Jacob Bruun</title>
+            <description>Hvordan presser politikere og rådgivere journalister? Og omvendt? Hvilke bommerter er værst at håndtere? Kan politikere padle baglæns på en elegant måde, når de f.eks. får sagt, at Danmark skal tage op mod 7000 flygtninge om året? 
+Svingdøren er blevet til Spindøren over sommeren, og vært Tony Scott tager tidligere rådgivere og kampagnechefer med ind i de politiske baglokaler, hvor de vender forårets bedste og værste kampagner, strategier og præstationer på Christiansborg - og deler røverhistorier fra deres egen tid.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 13 Jul 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668479dc8f6ab921f3753284/5c9df4583e19080404a5b525853c98d9a92372d0e695897f2898a7aa0593e7a7" 
+                type="audio/mpeg" 
+                length="82257868" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668479dc8f6ab921f3753284/39d0b18faccaebcf2465af72b83f9d7a8ebf6ccdd9334e7711ff32be859b6345" 
+                type="audio/mpeg" 
+                length="27419596" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668479dc8f6ab921f3753284/b8875a1ab19bc63fad01dc575644223273b0ad15b543cb7fa7009585c28dd89b" 
+                type="audio/x-m4a" 
+                length="110320544" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668479dc8f6ab921f3753284/0fef364c54098d18b24876d13419b0189e3f45656537dffcf94847cd414e65e1" 
+                type="audio/x-m4a" 
+                length="82901259" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668479dc8f6ab921f3753284/0435da0e450121e8a0115c1ed5e19f775ecaeaeb42499d93e218ba088604f764" 
+                type="audio/x-m4a" 
+                length="28062764" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414276</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/spindoeren-med-steffen-hjaltelin-og-annette-juhler-kjaer-11162414276</link>
+            <title>Spindøren - med Steffen Hjaltelin og Annette Juhler Kjær</title>
+            <description>Hvad har været forårets bedste politiske kampagne, og hvorfor er en airfryer god kommunikation? Hvordan rådgiver man en ny formand, og hvilken partiformand har klaret sig bedst i foråret? 
+Svingdøren er blevet til Spindøren over sommeren, og vært Tony Scott tager tidligere rådgivere og kampagnechefer med ind i de politiske baglokaler, hvor de vender forårets bedste og værste kampagner, strategier og præstationer på Christiansborg - og deler røverhistorier fra deres egen tid.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 06 Jul 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667b3fe7301e698eaef6e3b9/57945e486d434e8724ea3d9242b5074b5d7409be63f98eebfbcccf2e1e46983f" 
+                type="audio/mpeg" 
+                length="82252681" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667b3fe7301e698eaef6e3b9/2258c1f6cf0e1c35d7b032a0cadd21921cd662fd655abf98b4281f862aa3ff3e" 
+                type="audio/mpeg" 
+                length="27417865" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667b3fe7301e698eaef6e3b9/f3f6623cbc77e1e4b2f9e93195ca08bb09df91af84e8fe4356cc1066bc009a31" 
+                type="audio/x-m4a" 
+                length="110313653" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667b3fe7301e698eaef6e3b9/f0a521ad24c6895451ccd12c405bc381878cc7b5ebda88f7d05a3e99a99efc2d" 
+                type="audio/x-m4a" 
+                length="82896123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667b3fe7301e698eaef6e3b9/f8c47431cf850905d849da21973e5248fd54b5f78a26d34a26ec2d24d7270171" 
+                type="audio/x-m4a" 
+                length="28060977" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414266</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-helge-adam-moeller-ozlem-cekic-og-rasmus-helveg-petersen-11162414266</link>
+            <title>Helge Adam Møller, Özlem Cekic og Rasmus Helveg Petersen</title>
+            <description>Hvem er den værste politiker at debattere imod, og har Biden en chance efter ugens præsidentdebat? Hvilke rygter har panelet startet på Christiansborg, og kan Mette Frederiksen nu endelig ryste toppost-rygterne af sig? Hvorfor bliver ordet 'historisk' så ofte brugt om politiske aftaler, og er den grønne trepart så historisk, som den gøres til?
+Helge Adam Møller, Özlem Cekic og Rasmus Helveg Petersen tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 29 Jun 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667204fd8d29785e2b2466c2/fc43a293978dc2e5a0e8ffb6b4833b4508214d7774db5d1a8d737da1aade1878" 
+                type="audio/mpeg" 
+                length="164358025" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667204fd8d29785e2b2466c2/3049f661e45c39c028a50513ecdab042d2414e8d2d1d59b6e1be89c96c5e1cf8" 
+                type="audio/mpeg" 
+                length="54786313" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667204fd8d29785e2b2466c2/b006e8fed0b102c5ea4353a6a0b99c6b4a510f377165bf28e36cf85740dafb39" 
+                type="audio/x-m4a" 
+                length="220430069" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667204fd8d29785e2b2466c2/c019b54215a8e4f25d494fb69bdd9598668566db7d577a0266790e900e2f7811" 
+                type="audio/x-m4a" 
+                length="165643755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667204fd8d29785e2b2466c2/d6318065470a1fcb44fa5289850ebd0b7474433f74993e951a15c588f677c572" 
+                type="audio/x-m4a" 
+                length="56071169" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414256</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-hans-engell-britt-bager-og-rene-christensen-11162414256</link>
+            <title>Hans Engell, Britt Bager og René Christensen</title>
+            <description>Hvilke uhellige alliancer har panelet måttet indgå i, og har de været nær så umage som Putins og Kim Jong-uns? Hvordan bringer man sit parti på ret kurs, og hvordan skal Socialdemokratiet komme til at stå stærkere, når regeringen fremlægger skattelettelser to uger i streg? Og frygter man som politiker at sætte en skræk i befolkningen, når man eksempelvis opfordrer til at 'preppe'?
+Hans Engell, Britt Bager og René Christensen tager en tur i Svingdøren med vært Tony Scott og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 22 Jun 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6668caac320bc03f616b0268/ab4d628802c456fa649988658ce7fd4061bb40838205b14bed8aa356f376c80c" 
+                type="audio/mpeg" 
+                length="164292366" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6668caac320bc03f616b0268/ad6e9c9f188a781036b495a1cc07b6cf93c852806ddd86316375ced4363baa2b" 
+                type="audio/mpeg" 
+                length="54764430" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6668caac320bc03f616b0268/372d74c712b3345f76e6b22195dff8081a4a173db8ffb8ce3835044bd990484d" 
+                type="audio/x-m4a" 
+                length="220342172" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6668caac320bc03f616b0268/ec97043508bb90ed8cf44e5d0def5fbe0434605d64ce4b8bb88e2ee878b1a857" 
+                type="audio/x-m4a" 
+                length="165577827" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6668caac320bc03f616b0268/0bfc643764c187cf10b9ee9e9c6988d4079f61f94f504ebf9cca9701c4cd06b1" 
+                type="audio/x-m4a" 
+                length="56048800" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414246</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-paa-folkemoede-med-pernille-skipper-nick-haekkerup-bertel-haarder-ozlem-cekic-og-lars-barfoed-11162414246</link>
+            <title>På Folkemøde med Pernille Skipper, Nick Hækkerup, Bertel Haarder, Özlem Cekic og Lars Barfoed</title>
+            <description>Hvordan starter man et rygte på Christiansborg eller Folkemødet, og hvad har panelet overhørt? Hvordan fejrer man bedst en valgsejr, og hvad er ekspolitikernes vildeste minde fra en valgfest? Hvordan vender man skuden efter et dårligt valgresultat, og hvad er rådene til SVM-regeringen efter søndagens valg til Europa-Parlamentet?
+Tony Scott har samlet Pernille Skipper, Nick Hækkerup, Bertel Haarder, Özlem Cekic og Lars Barfoed på Gæstgiveren i Allinge, og de står klar til at vende ugens største historier fra Christiansborg og Folkemødet, så du kan blive klogere på de politiske magtspil.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 15 Jun 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665f8f561749614023698c82/e26beea0144c2fad6c0de56b60788edf6e9987c0d379719bd237429b17b5927f" 
+                type="audio/mpeg" 
+                length="164348235" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665f8f561749614023698c82/b8344fe5bdcc70ab52896f4e1eae1307b682f1840feb6bf3409f8f3d103bbc47" 
+                type="audio/mpeg" 
+                length="54783051" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665f8f561749614023698c82/dfe7345400a38745fd9e5a04fc75df110ec1c94603995314a596548290de1868" 
+                type="audio/x-m4a" 
+                length="220417107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665f8f561749614023698c82/83ccade4cb106c1db082eecd36393ed00e5c776a77fd9ac2ec7d0c9b6ee6ba16" 
+                type="audio/x-m4a" 
+                length="165634095" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665f8f561749614023698c82/a9dd0f9be5ad647ce34706c33ca6119de6c4e24b57030d565f85a9ce64c3f988" 
+                type="audio/x-m4a" 
+                length="56067875" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414236</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-connie-hedegaard-lykke-friis-og-rina-ronja-kari-11162414236</link>
+            <title>Connie Hedegaard, Lykke Friis og Rina Ronja Kari</title>
+            <description>Er sugerør og mælkelåg det vigtigste i EU-valgkampen, og hvilke små tiltag har panelet haft i hænderne i EU-regi? Hvad er det mest vanvittige forslag, panelet har oplevet fra et andet medlemsland? Og er der grund til at være forarget over blyantspenge? 
+Connie Hedegaard, Lykke Friis og Rina Ronja Kari tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil i Bruxelles.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale. 
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 08 Jun 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665655d9be7905fb09ccd941/b33d1bb5aa2385ab2e8c1484a2491a773d8632e9aaefcfb956df88031412f662" 
+                type="audio/mpeg" 
+                length="164334408" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665655d9be7905fb09ccd941/4fd3bf99023fca722bee6e775c524a761968280826a39b0a395555bdfa3793dc" 
+                type="audio/mpeg" 
+                length="54778440" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665655d9be7905fb09ccd941/981f8870d0ea73e2c570564e177de6a99a1bc4fa8cd7bf37181f75ab5a7d6b9b" 
+                type="audio/x-m4a" 
+                length="220398483" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665655d9be7905fb09ccd941/8edd74e41fb732227f17a1378676410f5f1250289ca9a877e0344d5c8cf78f1a" 
+                type="audio/x-m4a" 
+                length="165619995" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665655d9be7905fb09ccd941/29435b82c7c12aceca019df1e0a3a7d837f8fc2140d4eb0dd4e2fe9ed25051d9" 
+                type="audio/x-m4a" 
+                length="56063159" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414226</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-karsten-lauritzen-pia-christmas-moeller-og-joachim-b-olsen-11162414226</link>
+            <title>Karsten Lauritzen, Pia Christmas Møller og Joachim B. Olsen</title>
+            <description>Kan man bruge en skandale til noget positivt, og hvordan kommer dommen mod Trump til at påvirke det amerikanske valg? Er eks-politikerne nogensinde blevet snydt, og viser TV2-serien 'Den sorte svane', at politikerne ikke aner, hvad der foregår i Danmark? Og hvad er den største brøler panelisterne har lavet i en valgkamp, og har Rishi Sunak en chance for at vinde det britiske valg?
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 01 Jun 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664d1a93ad0317230025d415/021e29bc2c04eb48a1c8539fe4aa3da3f8bb66eb2ce55b4f407ab6ec2f4157ac" 
+                type="audio/mpeg" 
+                length="164370115" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664d1a93ad0317230025d415/2e2074bb861e8696cdc31c06b3e0ca7bc0d7b6b2339b1e477fe94fd9e6063aa5" 
+                type="audio/mpeg" 
+                length="54790339" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664d1a93ad0317230025d415/fbaaa411f4a7accd76962a46b191696547f45204c69fa160aee6af6b618343e6" 
+                type="audio/x-m4a" 
+                length="220446585" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664d1a93ad0317230025d415/3c7bffa796e90fb7d64fe691fc05ea2fe643125b68264d94f58fb700335675df" 
+                type="audio/x-m4a" 
+                length="165656211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664d1a93ad0317230025d415/fbd36d1eecde291e78d27adb36d8b583a1b4ec299c3b8c1c1604c11fd672cac6" 
+                type="audio/x-m4a" 
+                length="56075409" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414216</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-soeren-pind-nick-haekkerup-og-gitte-seeberg-11162414216</link>
+            <title>Søren Pind, Nick Hækkerup og Gitte Seeberg</title>
+            <description>Hvor meget skal man som Justitsminister lytte til mavefornemmelsen, og giver det mening at forbyde Bandidos? Har ekspolitikerne oplevet internationalt pres, og hvorfor går Danmark ikke med til at anerkende Palæstina? Er der for meget fråseri, når Folketinget er på udvalgsture, og har panelet oplevet det på egen krop?
+Søren Pind, Nick Hækkerup og Gitte Seeberg tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 25 May 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6643dffd5a5c0c0086a4fbbd/0490c5f67568f0c178ecb52ee3ab8c32c6ce36c6c7f2d69414ed759d577a4368" 
+                type="audio/mpeg" 
+                length="164352265" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6643dffd5a5c0c0086a4fbbd/f1d9a1ed7ebd5525017a2c38332d2dd45a93f8fb143a3e890a978c726c0ac4cc" 
+                type="audio/mpeg" 
+                length="54784393" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6643dffd5a5c0c0086a4fbbd/7ca81ee201b48d0e58b8ca7826a25d6975c5bfa958f4a2badbfdfefc49402bef" 
+                type="audio/x-m4a" 
+                length="220422708" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6643dffd5a5c0c0086a4fbbd/24809c038c2fcd9230573aeb452708bcadd4bdd022a820159315f3bfee028325" 
+                type="audio/x-m4a" 
+                length="165638079" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6643dffd5a5c0c0086a4fbbd/46225950707b7b23e36dcc161da0afb4943c5ac4aad9d3867744af59380cc048" 
+                type="audio/x-m4a" 
+                length="56069260" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414206</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-hans-engell-manu-sareen-og-yildiz-akdogan-11162414206</link>
+            <title>Hans Engell, Manu Sareen og Yildiz Akdogan</title>
+            <description>Har politikerne snydt med svarene i deres kandidattest, og kan vælgerne overhovedet bruge udfaldet til noget? Hvordan ved man hvilken post, man skal gå efter, og bør Troels Lund Poulsen gå efter at blive finansminister? Følger politikere ekstra godt med i de enkeltsager, der optager befolkningen, og hvorfor er danskerne så optagede af True Crime?
+Hans Engell, Manu Sareen og Yildiz Akdogan tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 18 May 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:663aa63fce5ca8cff22fc153/e6260ec5c85006a5dac4dca2391391a82a687dc3866a71791eba1cd34d7e89c4" 
+                type="audio/mpeg" 
+                length="164290634" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:663aa63fce5ca8cff22fc153/dc5f3671f847eab0bfb9e4bef462254f46531d8aa131c5388d3ba86db642c71e" 
+                type="audio/mpeg" 
+                length="54763850" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:663aa63fce5ca8cff22fc153/0e4df9b8361b180cf9231f2ce08402894c66e2050b7b870f4a49b9240e1ffb52" 
+                type="audio/x-m4a" 
+                length="220340172" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:663aa63fce5ca8cff22fc153/4fcaf90ca446d6acf3a089efc76a65d6e7ee0f40657ee76b4782947bd2c515cd" 
+                type="audio/x-m4a" 
+                length="165576195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:663aa63fce5ca8cff22fc153/e8454d5338fb3b1d0c9af2a293aeb429faef462b229f26dd55716a637af072d8" 
+                type="audio/x-m4a" 
+                length="56048312" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414196</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-claus-hjort-frederiksen-annette-vilhelmsen-og-rene-christensen-11162414196</link>
+            <title>Claus Hjort Frederiksen, Annette Vilhelmsen og René Christensen</title>
+            <description>Hvad har Annette Vilhelmsens og Claus Hjort Frederiksens næser betydet, og hvilke muligheder er der for, at Magnus Heunicke mærker konsekvenser af Cheminova-sagen? Er det unikt at samarbejde med sine politiske arvefjender, eller har Lars Løkke Rasmussen slugt færre kameler, end han udlægger i sin seneste bog? Hvor meget påvirker demonstrationer vores folkevalgte, og har Eurovision-protesterne en chance for at ændre noget som helst? 
+Claus Hjort Frederiksen, Annette Vilhelmsen og René Christensen tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 11 May 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66316bbbf352538c5a287108/78535902ede59ebc64b5d6778cc2989daeb9ee607a60fcc9faaa642b46b39534" 
+                type="audio/mpeg" 
+                length="164343048" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66316bbbf352538c5a287108/7e79f3f43f8e39fb1c00a49eae9304fadd93b17dd6c037082f5cf57fc0be051d" 
+                type="audio/mpeg" 
+                length="54781320" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66316bbbf352538c5a287108/f241463f8347f683763a7800c9cb36a772e91aabe26eabbe96b82d330b6c04d9" 
+                type="audio/x-m4a" 
+                length="220410012" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66316bbbf352538c5a287108/2bd16c123b7c3625390c4fc08e3a85078e0da786d77f6b74d4e280b06400c3d6" 
+                type="audio/x-m4a" 
+                length="165628695" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66316bbbf352538c5a287108/08a16aa7b7e9abf624b3dfc8f4bea26e2cdf470e877f9394e5175093dca76b70" 
+                type="audio/x-m4a" 
+                length="56066188" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414186</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/pernille-skipper-per-stig-moeller-og-isabella-arendt-11162414186</link>
+            <title>Pernille Skipper, Per Stig Møller og Isabella Arendt</title>
+            <description>Hvordan kommer man tilbage efter en forfærdelig meningsmåling, og kan Venstre vende skuden? Er der en usund alkoholkultur på Christiansborg, og kan en politikers brandert have indflydelse på, hvilken politik, der bliver gennemført? Hvilke udtalelser har ugens gæster måtte trække tilbage, og hvorfor siger Mette Frederiksen nu, at hun aldrig har sagt, at vi skal arbejde mere?
+Pernille Skipper, Per Stig Møller og Isabella Arendt tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 04 May 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6628313bb5689c0891dd3fdd/6c245bbb903f54614474b8c634d0f4cf73615239c9c51b03a0de6ff653c92c08" 
+                type="audio/mpeg" 
+                length="164400634" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6628313bb5689c0891dd3fdd/fd1722c3e198d9cefb2599c927a54b2f9d009ff36724bf7b52cc1512dc6a6940" 
+                type="audio/mpeg" 
+                length="54800506" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6628313bb5689c0891dd3fdd/cd4df5c33838238042e4f72425e34bb295aab201b46675c993cc59b77876acf7" 
+                type="audio/x-m4a" 
+                length="220487905" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6628313bb5689c0891dd3fdd/02164318bfa6216505842ef2475b5a79d4269d162cd00323ab69398809a970a4" 
+                type="audio/x-m4a" 
+                length="165687123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6628313bb5689c0891dd3fdd/c318b1eca094afeb9e52479bf2594620a6e98df947c86921cbaad45f79ccb658" 
+                type="audio/x-m4a" 
+                length="56085877" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414176</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-bertel-haarder-eva-flyvholm-og-liselott-blixt-11162414176</link>
+            <title>Bertel Haarder, Eva Flyvholm og Liselott Blixt</title>
+            <description>Hvornår ved man som politiker, at man har dummet sig, og var det en fejl af regeringen at fjerne store bededag? Er det en del af jobbeskrivelsen som politiker at modtage hadbeskeder, og hvad er de værste, som panelet har modtaget? Og hvad sker der i lokalet, når forhandlinger trækker ud, og hvornår bliver partierne enige om værnepligten?
+Bertel Haarder, Eva Flyvholm og Liselott Blixt tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 27 Apr 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:661ef6384b79284a9b9e7fbb/e492466fabd9610897440bf0ac383f880a93ded38d91aaf7b60f193eba3f880c" 
+                type="audio/mpeg" 
+                length="164261253" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:661ef6384b79284a9b9e7fbb/6ffe0d8f820e83f6a7761de17d9fbabb4646ec7eacbf206766b0a88322935829" 
+                type="audio/mpeg" 
+                length="54754053" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:661ef6384b79284a9b9e7fbb/6c28210a1d74e612411e3d17183af5b2b07e7c2387e7afe0626e1ae6a9c8173a" 
+                type="audio/x-m4a" 
+                length="220300357" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:661ef6384b79284a9b9e7fbb/3aad22d314066bb6e5f90dfbfb4fc8699c3b0f740da7ae0a1c7f78c0d63fb764" 
+                type="audio/x-m4a" 
+                length="165546327" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:661ef6384b79284a9b9e7fbb/4f4681c0d9774ed57c7b11dd9a826a5b90680405ac59a29f7d379b0f827c998a" 
+                type="audio/x-m4a" 
+                length="56038241" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414166</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-soeren-pind-ozlem-cekic-og-mogens-lykketoft-11162414166</link>
+            <title>Søren Pind, Özlem Cekic og Mogens Lykketoft</title>
+            <description>Bruger ekspolitikerne stadig deres magt fra politik den dag i dag, som da Brian Mikkelsen brugte sin tidligere justitsminister-rolle for at bryde afspærringerne, da Børsen brændte? Hvad snakker socialdemokrater om i de såkaldte kaffeklubber, og hvad er det udtryk for, når folkevalgte anonymt bagtaler deres leder til aviserne? Er der partier eller kolleger, som politikerne nægter at samarbejde med, og hvilken rolle kan Nye Borgerliges nyvalgte formand, Martin Henriksen, spille i blå blok?
+Søren Pind, Özlem Cekic og Mogens Lykketoft tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 20 Apr 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6615bbbc0b64c1937ee231b0/bd8548ee1acc376823e292576250f9aef40a38e15e3b8731a852cf84e3b5e8d9" 
+                type="audio/mpeg" 
+                length="164377033" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6615bbbc0b64c1937ee231b0/97507c6e11269b29507d640f21ef064f234d4aaf4e9dfe670a9228f3e1c98adb" 
+                type="audio/mpeg" 
+                length="54792649" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6615bbbc0b64c1937ee231b0/1ea42642f8242dc2a19c192762fc68581a1e08b2046cf0255f808c4d33dc6a79" 
+                type="audio/x-m4a" 
+                length="220455464" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6615bbbc0b64c1937ee231b0/fa0b0a569f24770f3c23a25561b940aedda7d274d3f6b01c866fb309a3ed9b26" 
+                type="audio/x-m4a" 
+                length="165662895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6615bbbc0b64c1937ee231b0/03e83b551af3ca3d2803f9a80fa61c7124d826e104ddb64a6adcde0bf765e8ab" 
+                type="audio/x-m4a" 
+                length="56077680" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414156</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-henrik-sass-larsen-sofie-carsten-nielsen-og-anders-stjernholm-11162414156</link>
+            <title>Henrik Sass Larsen, Sofie Carsten Nielsen og Anders Stjernholm</title>
+            <description>Fortryder Sofie Carsten Nielsen at de Radikale krævede valg i 2022 på baggrund af minksagen, og hvorfor bliver minkene ved med at volde politiske problemer fra graven? Hvad talte Henrik Sass Larsen med Bandidos-rockeren Suzuki Torben om i sin tid, og har det effekt, når politikerne nu vil forbyde Bandidos? Og kan Anders Stjernholm se den politiske fidus i at give de kongelige flere penge, når folket i høj grad bakker op om dem?
+Henrik Sass Larsen, Sofie Carsten Nielsen og Anders Stjernholm tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 13 Apr 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660c81a2394914c7f209bb21/dc56e0428a08db5a4757424f9ed7c8c260ff6716082224c281efb2d3342cdaa5" 
+                type="audio/mpeg" 
+                length="164346506" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660c81a2394914c7f209bb21/f7eb93509ed3f30998cc2702c8c67077e4321c5969b6c32364829e2c1d7639b1" 
+                type="audio/mpeg" 
+                length="54782474" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660c81a2394914c7f209bb21/955e7f397ba1fe693a677a828ecc170d6dbf5dc435e9e026b1847fc2393af11a" 
+                type="audio/x-m4a" 
+                length="220414987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660c81a2394914c7f209bb21/912431a1f744e375f828ee4c3a231a9dd0ee2a547dc55fe5abbe9de9ad8e1d63" 
+                type="audio/x-m4a" 
+                length="165632715" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660c81a2394914c7f209bb21/be4ff2259be95e1de8232e85813da127f39866ebfbc4a5daebe2933363ef67e0" 
+                type="audio/x-m4a" 
+                length="56067351" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414146</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-manu-sareen-laura-lindahl-og-uffe-elbaek-11162414146</link>
+            <title>Manu Sareen, Laura Lindahl og Uffe Elbæk</title>
+            <description>Hvordan håndterer man som minister sit ministerium, og hvorfor opstår skandalerne, som dem i Forsvaret? Har politikerne blandet sig for meget i ytringsfriheden, når en 28-årig mand kan idømmes betinget fængsel for at have en hjemmeside med blandt andet racistiske vittigheder? Og er det rigtigt, at politikerne er for dårligt inde i det stof, de stemmer om i Folketingssalen, som løsgænger Theresa Scavenius påstår? Manu Sareen, Laura Lindahl og Uffe Elbæk tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 06 Apr 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660354512559c310ff95623c/7bc1b2d061527dc0a4f193932fffeb0f46404d388ce8059b9a66af6c3b96e4ea" 
+                type="audio/mpeg" 
+                length="164314250" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660354512559c310ff95623c/b2ec27fdd82f7e50c86ec16d944492fb198b160e7aa7110ba2a7cf70760d2612" 
+                type="audio/mpeg" 
+                length="54771722" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660354512559c310ff95623c/535762dddcc381cce1f74fc04a484d0a206dacd908e57d1679147ac241b4e846" 
+                type="audio/x-m4a" 
+                length="220371679" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660354512559c310ff95623c/cab0f0c5a54018ada90d969c7e53089dd2c86f3244f079e15fd1dccdef9aa160" 
+                type="audio/x-m4a" 
+                length="165599991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660354512559c310ff95623c/11281a0325336051c3741bd1560a4a2c4862d23ff8cc20924ea08cef0d5d3091" 
+                type="audio/x-m4a" 
+                length="56056359" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414126</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-joy-mogensen-claus-hjort-frederiksen-og-jacob-haugaard-11162414126</link>
+            <title>Joy Mogensen, Claus Hjort Frederiksen og Jacob Haugaard</title>
+            <description>Hvad er konsekvenserne, når en politiker pludselig forlader et parti, og hvad betyder Mads Fugledes exit for regeringen? Er det politikernes opgave at opfordre til boykot, og bør Rusland formenes adgang til sommerens OL? Skal politikerne bestemme, hvor meget vi skal arbejde, og hvad mener Mette Frederiksen, når hun siger, at vi skal blive ved samlebåndet til efter kl. 16?
+Claus Hjort Frederiksen, Joy Mogensen og Jacob Haugaard tager en tur i Svingdøren med vært Tony Scott, og vender ugens største historier, så du kan blive klogere på de politiske magtspil på Christiansborg.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 23 Mar 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f0e0934b49c2406e7807ec/02a77793283a9d661bd76a402d757d6cab59798445851df752f5d5ba206397eb" 
+                type="audio/mpeg" 
+                length="164402949" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f0e0934b49c2406e7807ec/f7cc83df8079ae97bd0fdbbfb539ba4bdc77e688d7ce25767cc705ce621466e8" 
+                type="audio/mpeg" 
+                length="54801285" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f0e0934b49c2406e7807ec/06574a1484ed43189fe135f13dca30a18a5d0ff9d2e3a6b5578367d9336745ab" 
+                type="audio/x-m4a" 
+                length="220490524" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f0e0934b49c2406e7807ec/1e67657a81b5829c22f0602d5d8a474e2d6fdd7b55d0ec79f3e1feceec8a5fe2" 
+                type="audio/x-m4a" 
+                length="165689155" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f0e0934b49c2406e7807ec/47c5e56fd8a48e226886bb8b8f46a6753565b8778a96bb82d8fbf69ba1096c8b" 
+                type="audio/x-m4a" 
+                length="56087619" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414116</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-bertel-haarder-pernille-skipper-og-anders-samuelsen-11162414116</link>
+            <title>Bertel Haarder, Pernille Skipper og Anders Samuelsen</title>
+            <description>Hvad kræver det at være en god formand, og bliver Mona Juul dét? Kan man som politiker miste overblikket over milliardbeløbene, og er 200 mia. ekstra til Forsvaret til at holde styr på? Hvordan føles det, når sager stikker af, og kan politikerne give et tip eller to til det britiske kongehus?
+Bertel Haarder, Pernille Skipper og Anders Samuelsen tager sammen med vært Tony Scott et kig på ugens største historier, så du kan blive klogere på de politiske magtspil.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 16 Mar 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65e7a57ec8785055a6096402/45d82adb722cc2f052bd9ef5dfe61ab31c3c4d47b06887c1f120d69a19318c03" 
+                type="audio/mpeg" 
+                length="164394888" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65e7a57ec8785055a6096402/36948cc9b52c15496bfae2b31faf39bf7ec37f4ff67a654fe6fa2e839bc1a7a9" 
+                type="audio/mpeg" 
+                length="54798600" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65e7a57ec8785055a6096402/31dc6df5f336f41728bcead6468be638bd31f58121b06fdf04c62029b18f7023" 
+                type="audio/x-m4a" 
+                length="220480304" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65e7a57ec8785055a6096402/33d274e786e7f2d4634a003ae7661290f825c7dffe8fdea888ce760cd6f0c5b5" 
+                type="audio/x-m4a" 
+                length="165681495" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65e7a57ec8785055a6096402/1e44e9864e8b04580d908625d855c4e7f6e6923f33d75e830f61e127b8eac760" 
+                type="audio/x-m4a" 
+                length="56084771" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414106</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-joachim-b-olsen-lykke-friis-og-henrik-sass-larsen-11162414106</link>
+            <title>Joachim B. Olsen, Lykke Friis og Henrik Sass Larsen</title>
+            <description>Hvorfor laver politikere symbolpolitik, og er kulturministerens kvindestatuer et eksempel på det? Hvad kræver det at lave et politisk comeback, og har Biden og Trump energien til at lave det? Og hvordan vil vi mindes Søren Pape Poulsen? Panelet og kolleger udveksler minder og historier om den Konservative partileder, der bisættes lørdag. 
+Joachim B. Olsen, Lykke Friis og Henrik Sass Larsen tager sammen med vært Tony Scott et kig på ugens største historier, så du kan blive klogere på de politiske magtspil.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 09 Mar 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65de6afb0738d93de6281bf2/254effe64fbbc3e4ae708008fbffd0296d122b894c60ca0613976510f1125243" 
+                type="audio/mpeg" 
+                length="164510664" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65de6afb0738d93de6281bf2/6218d9670ef0d23eac7088fb705682b14d678b76a95b1ee9ad908cbf91a1c901" 
+                type="audio/mpeg" 
+                length="54837192" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65de6afb0738d93de6281bf2/1da72fd103685679d6f4e043456f0b1828b6ab359734567eac5defba218b1829" 
+                type="audio/x-m4a" 
+                length="220635383" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65de6afb0738d93de6281bf2/12228f9f44525d9f5e6993659cdde165afd2a7e51cef084dff041a760ef64643" 
+                type="audio/x-m4a" 
+                length="165798123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65de6afb0738d93de6281bf2/74dd7c61fffb2a0a446f84484a6b28c369d6b5c5380e76eaaa322afc5cf81126" 
+                type="audio/x-m4a" 
+                length="56124455" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414096</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-soeren-pind-per-stig-moeller-og-annette-vilhelmsen-11162414096</link>
+            <title>Søren Pind, Per Stig Møller og Annette Vilhelmsen</title>
+            <description>Hvad betyder personlige relationer i international politik, og er det i orden at være venner med en sultan, når man er udenrigsminister? Hvem er den mest overraskende skurk, panelet har mødt? Burde ulven skydes, eller er det en politisk tabersag at gå til angreb på et nuttet dyr? Hvor vigtig er retorik i politiske taler, og hvad kan Putin lære os om det? 
+Søren Pind, Per Stig Møller og Annette Vilhelmsen tager sammen med vært Tony Scott et kig på ugens største historier, så du kan blive klogere på de politiske magtspil.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 02 Mar 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d530c78f6da190caf4a0c6/ef7aeb40be5080505ec21ddc4ed807b144f8e3690383c0508f0e7fd60c604f72" 
+                type="audio/mpeg" 
+                length="164897160" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d530c78f6da190caf4a0c6/65aaa9655978b67e5251abaf9b26719c66a16d353b8b1c5fa5be8366b54693d2" 
+                type="audio/mpeg" 
+                length="54966024" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d530c78f6da190caf4a0c6/c36a14f777b689687bc9631dccd6983fe6fa165d6a43efeb4f9f2e0bbe2bb32c" 
+                type="audio/x-m4a" 
+                length="221153828" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d530c78f6da190caf4a0c6/543655510fe6892d5dd2123f49914299680d08fef42aa76067193883caae24de" 
+                type="audio/x-m4a" 
+                length="166187743" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d530c78f6da190caf4a0c6/d968b0d5013be816ab61d1f2c64fa947d4c9a232102618f5602e1b9e68ba7a19" 
+                type="audio/x-m4a" 
+                length="56256154" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414086</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-uffe-elbaek-isabella-arendt-og-karsten-lauritzen-11162414086</link>
+            <title>Uffe Elbæk, Isabella Arendt og Karsten Lauritzen</title>
+            <description>Hvordan håndterer politikerne et bagland, der brokker sig, og hvad skal Venstre stille op med baglandet, der ikke vil have afgifter på landbruget? Hvad betyder rockstjerne-status i dansk politik, og kan andre politikere lære noget af Vanopslaghs danmarksturné, der startede i denne uge? Og to år efter invasionen af Ukraine spørger vi, hvordan politikerne reagerer på historiske begivenheder, der vender op og ned på verdensordenen.
+Uffe Elbæk, Isabella Arendt og Karsten Lauritzen tager sammen med vært Tony Scott et kig på ugens største historier, så du kan blive klogere på de politiske magtspil.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 24 Feb 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cbf61afa47eab18c729c24/c7e3b918b3f3bb4c90fa5b7eaaae831b914957533bf31c61169728e73d29420c" 
+                type="audio/mpeg" 
+                length="164426567" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cbf61afa47eab18c729c24/eac292ea3ac387940559bde70df5c26ee818efe1cc08a0421644bfc3af7c9b1a" 
+                type="audio/mpeg" 
+                length="54809159" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cbf61afa47eab18c729c24/c20e1ce41636c45a5563d36795821eb6fb4c5ce656fa54f4f435254491f69ffc" 
+                type="audio/x-m4a" 
+                length="220522757" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cbf61afa47eab18c729c24/ed9d9add528bbad0e53693900d68cf8b3eddd07314c85af686353b46ec95338f" 
+                type="audio/x-m4a" 
+                length="165713463" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cbf61afa47eab18c729c24/a90e8edaf9892ba1f1d25711e80f0e520698da31a55fdaf12519c978c6822647" 
+                type="audio/x-m4a" 
+                length="56095662" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414076</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-mogens-lykketoft-liselott-blixt-og-gitte-seeberg-11162414076</link>
+            <title>Mogens Lykketoft, Liselott Blixt og Gitte Seeberg</title>
+            <description>Bør alt politiseres, og bør Israel udelukkes af Melodi Grand Prix? Lytter politikerne kun til Etisk Råd når det passer dem, og hvorfor bliver vi ved med at debattere organdonation? Er midten kommet for at blive, og hvorfor vil alle politikere pludselig være medlem af Moderaterne?
+Mogens Lykketoft, Liselott Blixt og Gitte Seeberg tager sammen med vært Tony Scott et kig på ugens største historier, så du kan blive klogere på de politiske magtspil.
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 17 Feb 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c2bbf11f1e44160573d664/96993d916a3046ddb79c750d0d7367dfba3ba8a6b79677f81184dde72f246bc0" 
+                type="audio/mpeg" 
+                length="164415626" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c2bbf11f1e44160573d664/30d6035fc3672171a53ec23614e91cbd090161a43af9ed051fa72a2d6238c636" 
+                type="audio/mpeg" 
+                length="54805514" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c2bbf11f1e44160573d664/9fd76faaa432b239b1a1a88a690cb275340b2ad42b3e9d6bd225a5b7111564b8" 
+                type="audio/x-m4a" 
+                length="220507627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c2bbf11f1e44160573d664/303bbc13f587d641da1dee9cf7d589bb6b37d8af8f1d465707cf891dd6262ec6" 
+                type="audio/x-m4a" 
+                length="165702075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c2bbf11f1e44160573d664/9b72f771f99f7a4b88ddbed4e34039406cbb47906c6b8a4af84ae055b63b227f" 
+                type="audio/x-m4a" 
+                length="56092024" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414066</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-claus-hjort-frederiksen-henrik-sass-larsen-og-britt-bager-11162414066</link>
+            <title>Claus Hjort Frederiksen, Henrik Sass Larsen og Britt Bager</title>
+            <description>Claus Hjort Frederiksen, Henrik Sass Larsen og Britt Bager tager sammen med vært Tony Scott et kig på ugens største historier, så du kan blive klogere på de politiske magtspil.
+Hvordan føles det at befinde sig i en shitstorm, og er der nogen vej tilbage for løsgængeren Mike Fonseca, der netop er tilbagevendt til Folketinget? Gør danske politikere sig tanker om, hvilke medier de stiller op i, eller er det en tendens, der hører til i Rusland? Hvilke forespørgsler møder man fra lobbyister i Danmark, og har Novo Nordisk krav på lukkede møder med Kalundborg Kommune? 
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 10 Feb 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b981b35d596d65a45fb9d9/bed9925b58804833d887195b7be3f03fc07be0c6765ff319f894b559a2944ff0" 
+                type="audio/mpeg" 
+                length="164438092" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b981b35d596d65a45fb9d9/6e041b325e0405a79251d30b57206a88161bcd7a68575aa038cd5fe4cc1449ba" 
+                type="audio/mpeg" 
+                length="54813004" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b981b35d596d65a45fb9d9/a89300bf5abcfb37f5c5be8238388036eaca5675d1a059180ec514e83259741f" 
+                type="audio/x-m4a" 
+                length="220537960" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b981b35d596d65a45fb9d9/9b8f769a353f7815645e65f29af21770a15a65144fe596191194d1217b60306c" 
+                type="audio/x-m4a" 
+                length="165724839" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b981b35d596d65a45fb9d9/18c73e60a2c76353d0dfc2782cb31db7fa46ba9deb8cb6077279ba26fcc46387" 
+                type="audio/x-m4a" 
+                length="56099685" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414056</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-kristian-thulesen-dahl-karen-haekkerup-og-marcus-knuth-11162414056</link>
+            <title>Kristian Thulesen Dahl, Karen Hækkerup og Marcus Knuth</title>
+            <description>Kristian Thulesen Dahl, Karen Hækkerup og Marcus Knuth tager sammen med vært Tony Scott et kig på ugens største historier, så du kan blive klogere på de politiske magtspil.
+Er afbureaukratisering en umulig opgave, eller vil papirnusseri forsvinde med den nye ældrereform? Hvordan håndterer man det politiske bagland, når man skal overlevere nyheden om, at der skal placeres kæmpe vindmøller i ens valgdistrikt? Hvor går grænsen for politiske kampagner, og hvad kan DFUs flybilletter til skolevalget lære os om det? 
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 03 Feb 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b04694e119b65cdee70aaa/2a17505b23d88654d7472b8b827e8b98e44c55daafd2440f40df5201ff80353e" 
+                type="audio/mpeg" 
+                length="164459983" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b04694e119b65cdee70aaa/176a2c1cca73878478f18b2d5bac8356910e2ad6168a653654f677a90529de71" 
+                type="audio/mpeg" 
+                length="54820303" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b04694e119b65cdee70aaa/c311a1dfdb9b981e380360c7f57a33cd6667f31c3fe556934502e444e7bd7a29" 
+                type="audio/x-m4a" 
+                length="220567439" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b04694e119b65cdee70aaa/9b846d2757b89304a963607aec33e34c575273989e289dff6449beb880db9c09" 
+                type="audio/x-m4a" 
+                length="165747027" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b04694e119b65cdee70aaa/1b380bad322b4e0714983d95f0774b05b9a04857ab6766c7f4b7598273cb8b0e" 
+                type="audio/x-m4a" 
+                length="56107122" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414046</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/ozlem-cekic-og-lars-barfoed-11162414046</link>
+            <title>Özlem Cekic og Lars Barfoed</title>
+            <description>Özlem Cekic og Lars Barfoed tager sammen med vært Tony Scott et kig på ugens største historier, så du kan blive klogere på de politiske magtspil. 
+Hvordan udnytter politikerne folkestemningen, og er det dét vi ser i kritikken af milliardæren bag Nordic Waste? Hvordan føles det at stemme for at sende kampfly i krig for at beskytte civile i Libyen for nu at finde ud af, at det muligvis har kostet civile livet? Hvor vigtige er priser, nomineringer og repræsentation for vores politikere, og hvad kan Barbie lære os om det? 
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Christian Sforzini Graugaard.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 27 Jan 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a70c6fe119b65cdebe4cda/04ba9905ddee03b07ca373a9468e8bccdbd222bc35e439337dda915d6ee74d6b" 
+                type="audio/mpeg" 
+                length="164454795" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a70c6fe119b65cdebe4cda/d500c2a0e0adb03eda260b19e6db65a8fce9597a4a1f7aa04487f56bec69aa3e" 
+                type="audio/mpeg" 
+                length="54818571" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a70c6fe119b65cdebe4cda/832255ec896401e60a7fdefb5916e6c6a528125c0c1cb8d5ae2ae24fc6b8163a" 
+                type="audio/x-m4a" 
+                length="220560536" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a70c6fe119b65cdebe4cda/b0413f352aa415edcf35bcfef5e107c4259d0927f1d385d0cf74f1570a04cec1" 
+                type="audio/x-m4a" 
+                length="165741843" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a70c6fe119b65cdebe4cda/3d3bc5518a7bff28a042301a9e9fc5086f3f84d4bd5061ffadadf6bb20175eaa" 
+                type="audio/x-m4a" 
+                length="56105250" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414036</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-villy-soevndal-sofie-carsten-nielsen-og-karsten-lauritzen-11162414036</link>
+            <title>Villy Søvndal, Sofie Carsten Nielsen og Karsten Lauritzen</title>
+            <description>Sammen med Villy Søvndal, Karsten Lauritzen og Sofie Carsten Nielsen byder vært og journalist Tony Scott velkommen i programmet Svingdøren, hvor du skal med på en rejse ind i de politiske baglokaler på Christiansborg. Sammen tager de et kig på ugens største historier, så du kan blive klogerere på livet bag murene og de politiske magtspil: Hvilke ordførerskaber og ministerposter er bedst til at profilere sig? Hvor længe bærer man nag i politik? Bliver man som politiker godt og grundigt træt af rigmænd, der løber fra regningen? Og er 'Trolex' et af de bedre kælenavne på Borgen? 
+Vært: Tony Scott.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Silke Fensman.
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 20 Jan 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659dd130c26aeca6fad3515a/7eb8faee52b9d4547542678b4aa2916f372fddd0250022c51d2b7b4ba0423101" 
+                type="audio/mpeg" 
+                length="164434063" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659dd130c26aeca6fad3515a/2cfc5ee55b973d539558e0134149e53351205a8bc65d3667c3397ed90913b770" 
+                type="audio/mpeg" 
+                length="54811663" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659dd130c26aeca6fad3515a/0df0efa92c3e3a8600aed6d9022c1ac71be279f438e9812337f8c6fe32df274b" 
+                type="audio/x-m4a" 
+                length="220532563" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659dd130c26aeca6fad3515a/6417c3470b140866891803b4ba63e0c4ea198c6ca5ceb477d2e5e53f8cd60547" 
+                type="audio/x-m4a" 
+                length="165720603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659dd130c26aeca6fad3515a/35522be85486e3cdb3ecc3bbac4d06a370e71f05b009cd14452c30ba19f4cfc8" 
+                type="audio/x-m4a" 
+                length="56098340" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414026</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-uffe-elbaek-isabella-arendt-og-joachim-b-olsen-hemmeligheder-partihopperi-og-prepping-11162414026</link>
+            <title>Uffe Elbæk, Isabella Arendt og Joachim B. Olsen: Hemmeligheder, partihopperi og 'prepping'</title>
+            <description>Sammen med Uffe Elbæk, Isabella Arendt og Joachim B. Olsen byder vært og journalist Tony velkommen i programmet Svingdøren, hvor du skal med på en rejse ind i de politiske baglokaler på Christiansborg. Sammen tager de et kig på ugens største historier, så du kan blive klogerere på livet bag murene og de politiske magtspil: Hvordan hopper man parti? Er hemmeligheder en valuta på Christiansborg? Har panelet gjort noget for at forberede sig på krig? Hvordan holder folketingsmedlemmer sig orienteret i komplekse udenrigspolitiske spørgsmål? Ved politikere for lidt? 
+Vært: Tony Scott.
+Gæster: Isabella Arendt, Joachim B. Olsen og Uffe Elbæk.
+Tilrettelægger og producer: Naja Bergen Dale.
+Redaktør: Silke Fensman.
+Musik: Peter Sejersbøl.</description>
+            <pubDate>Sat, 13 Jan 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:54:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659497fe4c508f7c5e8ad0c1/ff2a434e9a9fb9ab291501bc8722da3b70769fe8a79e208481ff60459c2b5629" 
+                type="audio/mpeg" 
+                length="164446138" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659497fe4c508f7c5e8ad0c1/6a1af32ec20f29edcf81d490506b8cd816008f7367affd55e850d810c7e2e0f6" 
+                type="audio/mpeg" 
+                length="54815674" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659497fe4c508f7c5e8ad0c1/9f8403c824b10ababbb21137ea7acb45dbb321a3b654ddd01f147108559abef1" 
+                type="audio/x-m4a" 
+                length="220548995" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659497fe4c508f7c5e8ad0c1/adacab347ed04e357d5c85444e77d4bb3863ce50b852aea2a7f0280e60478eeb" 
+                type="audio/x-m4a" 
+                length="165733095" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659497fe4c508f7c5e8ad0c1/e4e2eb7fa9f0209cbc66043a1af5823c2f22fdd96a85045839d7dbbe7c31b2aa" 
+                type="audio/x-m4a" 
+                length="56102383" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162414016</guid>
+            <link>https://www.dr.dk/lyd/p1/svingdoeren/svingdoeren-2024/svingdoeren-soeren-pind-pernille-skipper-og-mogens-lykketoft-nytaartaler-magt-og-politik-11162414016</link>
+            <title>Søren Pind, Pernille Skipper og Mogens Lykketoft: Nytårtaler, magt og politik</title>
+            <description>Sammen med Søren Pind, Pernille Skipper og Mogens Lykketoft byder vært og journalist Tony Scott for første gang velkommen i programmet Svingdøren, hvor du skal med på en rejse ind i de politiske baglokaler på Christiansborg. Sammen med et panel af ex-politikere, der har det til fælles, at de alle har været igennem svingdøren på Christiansborg, tager de et kig på ugens største historier, så du kan blive klogerere på livet bag murene og de politiske magtspil i dansk politik: Hvornår ved man, at man skal træde tilbage fra en magtposition? Traf Dronningen den rette beslutning i sin nytårstale?  Kan personsager som Ebbe Preislers angivelige medlidenhedsdrab på sin kone påvirke konkret politik? Og fortryder vores panel, at de ikke har gjort mere for klimaet, når de står med togaflysninger i sne til knæene?
+svingdoren@dr.dk</description>
+            <pubDate>Sat, 06 Jan 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658b5d775e3a2144e20042e5/42b0f850ad93d894f7e27dc829ca73a1cc9ed5724d1084561aec46866670ebb4" 
+                type="audio/mpeg" 
+                length="168766157" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658b5d775e3a2144e20042e5/465e94cf9c33f47124bf6b8cbc60baeb1e9356d57c252dbd811622bb03658a23" 
+                type="audio/mpeg" 
+                length="56255693" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658b5d775e3a2144e20042e5/be68ca8ece9b03f1ec3bd8852ee641a86d081d833c0b9a87ef43d24ecf8e5dd5" 
+                type="audio/x-m4a" 
+                length="226341953" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658b5d775e3a2144e20042e5/873f70a3ad927396e9bf61114bb9ddd7bf8b623aeef0f294254154a7cd6f977f" 
+                type="audio/x-m4a" 
+                length="170086651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658b5d775e3a2144e20042e5/827369d8a0dd14cde3a3c984a1653c09b98102b56edc6a6107e6fcb277147d9b" 
+                type="audio/x-m4a" 
+                length="57576157" />
+        </item>
+    </channel>
+</rss>

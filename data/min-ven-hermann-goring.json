@@ -1,0 +1,872 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:6030650856000",
+  "sortLetter": "m",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Historie"
+  ],
+  "numberOfEpisodes": 6,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-12-09T05:05:00+01:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/min-ven-hermann-goring",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:6030650856000",
+  "productionNumber": "6030650856000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:674d823c2a02f3ed1efa0abe",
+  "slug": "min-ven-hermann-goring-6030650856000",
+  "title": "Min ven Hermann Göring",
+  "description": "Historien om et umage venskab mellem en jøde fra det bedre borgerskab i København, Hugo Rothenberg, og så én af de værste krigsforbrydere i verdenshistorien, nazisten Hermann Göring. Hvad skete der, da Hugo Rothenberg, højest usædvanligt, fik tilladelse af selveste Göring til at rejse rundt i Nazityskland i et forsøg på at redde så mange jøder som muligt fra den visse død? Det er en historie fuld af dilemmaer og paradokser. Men mest af alt er det fortællingen om den lille mand, der pludselig må finde sit heltemod frem, fordi han ved en tilfældighed engang åbnede sin dør for en tysk pilot.\nProduceret for DR af MonoMono.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:674ed10124317303db977079",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/png",
+      "blurHash": "NIJhap5+.oGE}ZI:@tE}CPAW5kS#IUn%KhS#,@jF",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A674ed10124317303db977079&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:674ed10124317303db97707a",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A674ed10124317303db97707a&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:674ed1c2797e57dfefec61c0",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oWI:RknOIU$*rDO?@aw{xui{wKODrEsANukWkqaKxtxuI:S#OXa1m,NuS#NGbHoL}[R*WVe.V@t7",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A674ed1c2797e57dfefec61c0&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:674ed10124317303db97707a",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A674ed10124317303db97707a&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#39080B",
+        "#E0D6CA"
+      ]
+    },
+    "colors": {
+      "dark": "#39080B",
+      "light": "#E0D6CA"
+    }
+  },
+  "sSlug": "min-ven-hermann-goring",
+  "rssUri": "https://xmpl.dk/podcast/min-ven-hermann-goring.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492351",
+      "durationMilliseconds": 1778161,
+      "categories": [
+        "Historie"
+      ],
+      "productionNumber": "16122492351",
+      "episodeNumber": 1,
+      "seasonNumber": 2024,
+      "publishTime": "2024-12-09T05:00:00+01:00",
+      "startTime": "2024-12-09T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-1-6-vi-moedes-igen-16122492351",
+      "order": 202400001,
+      "nextId": "urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6",
+      "series": {
+        "title": "Min ven Hermann Göring",
+        "id": "urn:dr:radio:series:674d823c2a02f3ed1efa0abe",
+        "slug": "min-ven-hermann-goring-6030650856000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000",
+        "learnId": "urn:dr:ocs:audio:content:series:6030650856000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14560144,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/e8d27df1dd5fb968cb7d19f65795e5b46d4a940988e869c3800afc0bd282c952"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 43011955,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/a26b5564caddfce037755b52279af1be96e6b59f10bdd52ccc8889d49c85e40e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 57237832,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/d27a0797d1182f91aa2e04b69185e420165b10cfbd3706e5fd9a4e6de4fa4f6f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14226301,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/9e740f1e73fa8d7a5815c794006c1a4c352339335e21da5e23d4d5d3b17567a4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 42678013,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/4fca09dc9f34f4b62c864560c1731b62ed57153f818e3e750bffd2e879db4ee4"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/33fc58e1e1ae6187c7249e87b1c31d5917b0dee07d973fe780e57ad01a02e3a8"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492351",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-09T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2",
+      "slug": "min-ven-hermann-goring-1-6-vi-moedes-igen-16122492351",
+      "title": "(1:6) Vi mødes igen",
+      "description": "Louis har fået fat i et arkiv fyldt med dokumenter, lydoptagelser, dagbøger og breve, som har været i hans familie i lidt over 100 år. I arkivet tegner sig en mystisk historie om hans jødiske slægtning Hugo Rothenberg, som i 1938 opsøger Hermann Göring i Berlin for at indløse en gammel tjeneste. Men må man overhovedet forhandle med fjenden? Og hvad går dette mystiske venskab mellem en topnazist og en jøde ud på?\n\nTilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.\nKlip og lyddesign: Mikkel Bøgeskov Andersson.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db977079",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIJhap5+.oGE}ZI:@tE}CPAW5kS#IUn%KhS#,@jF"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed1c2797e57dfefec61c0",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWI:RknOIU$*rDO?@aw{xui{wKODrEsANukWkqaKxtxuI:S#OXa1m,NuS#NGbHoL}[R*WVe.V@t7"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#39080B",
+            "#E0D6CA"
+          ]
+        },
+        "colors": {
+          "dark": "#39080B",
+          "light": "#E0D6CA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492352",
+      "durationMilliseconds": 1897262,
+      "categories": [
+        "Historie"
+      ],
+      "productionNumber": "16122492352",
+      "episodeNumber": 2,
+      "seasonNumber": 2024,
+      "publishTime": "2024-12-09T05:01:00+01:00",
+      "startTime": "2024-12-09T05:01:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-2-6-hoejt-at-flyve-16122492352",
+      "order": 202400002,
+      "nextId": "urn:dr:radio:episode:674d823f2a02f3ed1efa0adb",
+      "previousId": "urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2",
+      "series": {
+        "title": "Min ven Hermann Göring",
+        "id": "urn:dr:radio:series:674d823c2a02f3ed1efa0abe",
+        "slug": "min-ven-hermann-goring-6030650856000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000",
+        "learnId": "urn:dr:ocs:audio:content:series:6030650856000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15535324,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/2ca51ca4d825ad5d7e72d67bff89afbe62d1550715fc06bfe118cc74a857ca7a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 45892783,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/0fb10387bc394ea03407ef5793bf174ce30648f9aa981e5b47325c495252442e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 61071468,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/5113319eb217f3d1ac767258777ad44f40c3028f29890e9748c53f7dcb6a80cd"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 15179003,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/d10e8f3587af0df0b2e8c27b09737f4860569d933711f7e17895efd6f1f08929"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 45536123,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/63e194f81ad98008ce76f49336362bfcfeb9ca50b3fcd1a594407e72d14d1ebf"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/0e85526cf10560c329ea48139fd2e25a4c4be9631f4d2025399ca4fc4321e5b6"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492352",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-09T05:01:00+01:00",
+      "id": "urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6",
+      "slug": "min-ven-hermann-goring-2-6-hoejt-at-flyve-16122492352",
+      "title": "(2:6) Højt at flyve...",
+      "description": "I 1919 kommer en ung tysk soldat til København. Han hedder Hermann Göring, og han bliver hurtigt berømt - både for sine kundskaber som pilot og for sine eskapader i det københavnske natteliv. På et tidspunkt går det så vidt, at en dansk-tysk jøde ved navn Hugo Rothenberg får til opgave at redde Göring ud af problemerne. Göring flytter ind hos familien Rothenberg, som langsomt får ham på ret køl. Og som tak skriver Göring et brev, hvori han lover at hjælpe Hugo, hvis det nogensinde skulle blive nødvendigt.\n\nTilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.\nKlip og lyddesign: Mikkel Bøgeskov Andersson.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db977079",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIJhap5+.oGE}ZI:@tE}CPAW5kS#IUn%KhS#,@jF"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed1c2797e57dfefec61c0",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWI:RknOIU$*rDO?@aw{xui{wKODrEsANukWkqaKxtxuI:S#OXa1m,NuS#NGbHoL}[R*WVe.V@t7"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#39080B",
+            "#E0D6CA"
+          ]
+        },
+        "colors": {
+          "dark": "#39080B",
+          "light": "#E0D6CA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492353",
+      "durationMilliseconds": 1836929,
+      "categories": [
+        "Historie"
+      ],
+      "productionNumber": "16122492353",
+      "episodeNumber": 3,
+      "seasonNumber": 2024,
+      "publishTime": "2024-12-09T05:02:00+01:00",
+      "startTime": "2024-12-09T05:02:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-3-6-verdens-stoerste-menneskehandel-16122492353",
+      "order": 202400003,
+      "nextId": "urn:dr:radio:episode:674d823e7c5eeb49890077b8",
+      "previousId": "urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6",
+      "series": {
+        "title": "Min ven Hermann Göring",
+        "id": "urn:dr:radio:series:674d823c2a02f3ed1efa0abe",
+        "slug": "min-ven-hermann-goring-6030650856000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000",
+        "learnId": "urn:dr:ocs:audio:content:series:6030650856000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15041379,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/e51e67960cb50468e8de203baa0eebc511c3faa140d738ade372b03d9dea5181"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 44433471,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/06ba4187f87585676caa60899681e7ee9ed6558b63ff9e90c53597f6b41fb66a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 59129535,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/20a86864c09ce6114c0542d88c993a165d4837f9d32d96e2b65270a7fa99d0ca"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14696311,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/d45aa208f989f177f0b5fd6c205a5d0c28ba903a6e95b6eb022fcb46e2ab6a74"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 44088055,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/f49cb7d8cf2fa4400b1c9756fe93a8a3886efd12c6318f35503d091b6bd9da11"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/4da42be1fe889f3081bcdd3e2ac8d83cfbbfbad9311ff3c646b6cf20488847ba"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492353",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-09T05:02:00+01:00",
+      "id": "urn:dr:radio:episode:674d823f2a02f3ed1efa0adb",
+      "slug": "min-ven-hermann-goring-3-6-verdens-stoerste-menneskehandel-16122492353",
+      "title": "(3:6) Verdens største menneskehandel",
+      "description": "Hugo har fået til opgave at starte forhandlinger med Göring om, hvordan de tyske jøder kan få lov at emigrere ud af Tyskland. Hugo må nu prøve at finde lande, der vil tage imod de tyske jøder - og samtidig finde ud af, hvem i udlandet, der vil betale omkostningerne. Men spørgsmålet er, om der overhovedet er nogen, der vil hjælpe og tage imod jøderne? Og hvad skal Hugo gøre, hvis planen går i vasken?\n\nTilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.\nKlip og lyddesign: Mikkel Bøgeskov Andersson.\nProduceret for DR af MonoMono.\n,",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db977079",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIJhap5+.oGE}ZI:@tE}CPAW5kS#IUn%KhS#,@jF"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed1c2797e57dfefec61c0",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWI:RknOIU$*rDO?@aw{xui{wKODrEsANukWkqaKxtxuI:S#OXa1m,NuS#NGbHoL}[R*WVe.V@t7"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#39080B",
+            "#E0D6CA"
+          ]
+        },
+        "colors": {
+          "dark": "#39080B",
+          "light": "#E0D6CA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492354",
+      "durationMilliseconds": 1731860,
+      "categories": [
+        "Historie"
+      ],
+      "productionNumber": "16122492354",
+      "episodeNumber": 4,
+      "seasonNumber": 2024,
+      "publishTime": "2024-12-09T05:03:00+01:00",
+      "startTime": "2024-12-09T05:03:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-4-6-baade-billetter-og-bestikkelse-16122492354",
+      "order": 202400004,
+      "nextId": "urn:dr:radio:episode:674d823d2a02f3ed1efa0aca",
+      "previousId": "urn:dr:radio:episode:674d823f2a02f3ed1efa0adb",
+      "series": {
+        "title": "Min ven Hermann Göring",
+        "id": "urn:dr:radio:series:674d823c2a02f3ed1efa0abe",
+        "slug": "min-ven-hermann-goring-6030650856000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000",
+        "learnId": "urn:dr:ocs:audio:content:series:6030650856000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14180943,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/594e349c535f79eedcc488b8edc4cadff7f6960c382198f966fcb75b59847730"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 41891643,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/5bf65afee8672d42968f014671caf2b7a5d78edbd08a2e27f972189e3209ff2f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 55747155,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/4c5b7024e21a8bcacb5e62f2cc4548887068005b32e09e54c1635d46f7807ff8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13855735,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/090fd556b79f7b536b5727bbb2dd202ec60bf7bc9c8a17065568f5d036d36435"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 41566327,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/3f5c15ca20ffddfaf2c82589e277702a31aea160f3959badeed33db0a1679c36"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/1bc8332ddac59d779c0d7f576ea685751af47c3137f9f833bb6e6ca6043fc8f1"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492354",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-09T05:03:00+01:00",
+      "id": "urn:dr:radio:episode:674d823e7c5eeb49890077b8",
+      "slug": "min-ven-hermann-goring-4-6-baade-billetter-og-bestikkelse-16122492354",
+      "title": "(4:6) Både, billetter og bestikkelse",
+      "description": "Hugo rejser nu i hemmelighed rundt i Europa for at dele hemmelige informationer. Men hans rejseaktiviteter gør, at danske, amerikanske og tyske efterretningstjenester begynder at holde øje med Hugo. Er Hugo hemmelig nazi-agent? Samtidig bliver situationen for de tyske jøder mere og mere kritisk. Hugo forsøger nu via hemmelige kanaler at redde jødiske flygtninge til neutrale lande. Men han kommer hurtigt til at sidde i nogle forfærdelige dilemmaer: Hvem kan det betale sig at redde? Og hvor skal de sendes hen? \n\nTilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.\nKlip og lyddesign: Mikkel Bøgeskov Andersson.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db977079",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIJhap5+.oGE}ZI:@tE}CPAW5kS#IUn%KhS#,@jF"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed1c2797e57dfefec61c0",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWI:RknOIU$*rDO?@aw{xui{wKODrEsANukWkqaKxtxuI:S#OXa1m,NuS#NGbHoL}[R*WVe.V@t7"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#39080B",
+            "#E0D6CA"
+          ]
+        },
+        "colors": {
+          "dark": "#39080B",
+          "light": "#E0D6CA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492355",
+      "durationMilliseconds": 1845761,
+      "categories": [
+        "Historie"
+      ],
+      "productionNumber": "16122492355",
+      "episodeNumber": 5,
+      "seasonNumber": 2024,
+      "publishTime": "2024-12-09T05:04:00+01:00",
+      "startTime": "2024-12-09T05:04:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-5-6-flugten-til-sverige-16122492355",
+      "order": 202400005,
+      "nextId": "urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1",
+      "previousId": "urn:dr:radio:episode:674d823e7c5eeb49890077b8",
+      "series": {
+        "title": "Min ven Hermann Göring",
+        "id": "urn:dr:radio:series:674d823c2a02f3ed1efa0abe",
+        "slug": "min-ven-hermann-goring-6030650856000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000",
+        "learnId": "urn:dr:ocs:audio:content:series:6030650856000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15113691,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/29785bad5230ae5da94c4c081a7e02ca721556159aaacd08345a47f689dc194e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 44647203,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/f169dca61be74ba99ab5bbf8d10e386eeea145131df62ad73ab8c281ffc30bdd"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 59413815,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/68b4000f0e51522d139bac172e6076e6c095f3383f0705b5c5b26277cb7236dd"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14766970,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/03c3e32bdc993253c766d8d5c69e1fd664f4bb90939a3a7167e6ca9e389068d1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 44300026,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/33a9a0abc6b95f338dcc818156949b8726b9778dd2e4ad02c9006f7b76323b00"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/6d4114d4fc99c0ffbc4c004303eed489c8b9f9879ea8a2721a4870c57460c237"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492355",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-09T05:04:00+01:00",
+      "id": "urn:dr:radio:episode:674d823d2a02f3ed1efa0aca",
+      "slug": "min-ven-hermann-goring-5-6-flugten-til-sverige-16122492355",
+      "title": "(5:6) Flugten til Sverige",
+      "description": "I efteråret 1943 sætter Gestapo jagten ind på de danske jøder. Hugo flygter sammen med sin nærmeste familie til Sverige, men det er ikke alle familiemedlemmer, det er lykkedes for at flygte. Flere er blevet taget og sendt til KZ-lejren Theresienstadt. Hugo må nu gribe til alle tænkelige - og utænkelige - muligheder for at hjælpe jøderne i lejren.\n\nTilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.\nKlip og lyddesign: Mikkel Bøgeskov Andersson.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db977079",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIJhap5+.oGE}ZI:@tE}CPAW5kS#IUn%KhS#,@jF"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed1c2797e57dfefec61c0",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWI:RknOIU$*rDO?@aw{xui{wKODrEsANukWkqaKxtxuI:S#OXa1m,NuS#NGbHoL}[R*WVe.V@t7"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#39080B",
+            "#E0D6CA"
+          ]
+        },
+        "colors": {
+          "dark": "#39080B",
+          "light": "#E0D6CA"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122492356",
+      "durationMilliseconds": 1718145,
+      "categories": [
+        "Historie"
+      ],
+      "productionNumber": "16122492356",
+      "episodeNumber": 6,
+      "seasonNumber": 2024,
+      "publishTime": "2024-12-09T05:05:00+01:00",
+      "startTime": "2024-12-09T05:05:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-6-6-spion-16122492356",
+      "order": 202400006,
+      "previousId": "urn:dr:radio:episode:674d823d2a02f3ed1efa0aca",
+      "series": {
+        "title": "Min ven Hermann Göring",
+        "id": "urn:dr:radio:series:674d823c2a02f3ed1efa0abe",
+        "slug": "min-ven-hermann-goring-6030650856000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000",
+        "learnId": "urn:dr:ocs:audio:content:series:6030650856000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14068783,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/064ccedb4afba87c8650e590a4e0ba59ba647dec9bb9d6759e825b12eeef02c2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 41560395,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/831c090484fa090b76079b43fa44864a61bde5ab027d0e78cab3b6bfa7489d80"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 55306159,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/9da53f241720210fa7b97b1cf08bc4b80be54f174eb53c0f833b2253cb392123"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13746102,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/dd7f3d5332812b0b5103d35b0570e280d698f25861edab99cc6364e549eb2d90"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 41237430,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/45dbabddef3a7f7a16676dbd47595099b1639ced5741c855f5fe418783cb1441"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/4e31ae2ed5ea92f22770928bbaea47dd802fb304bb9d045e3af71fb3a3941f5b"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122492356",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-09T05:05:00+01:00",
+      "id": "urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1",
+      "slug": "min-ven-hermann-goring-6-6-spion-16122492356",
+      "title": "(6:6) Spion?",
+      "description": "Da krigen endelig er forbi og Hugo vender hjem fra sit eksil i Sverige, bliver han med det samme anholdt, mistænkt for at være tysk spion. Nærmest samtidig bliver Göring anholdt og skal inden længe for retten i Nürnberg, hvor han er tiltalt for forbrydelser mod menneskeheden. Så nu skal både Göring og Hugo stå til ansvar for deres handlinger. \n\nTilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.\nKlip og lyddesign: Mikkel Bøgeskov Andersson.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db977079",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIJhap5+.oGE}ZI:@tE}CPAW5kS#IUn%KhS#,@jF"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed1c2797e57dfefec61c0",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWI:RknOIU$*rDO?@aw{xui{wKODrEsANukWkqaKxtxuI:S#OXa1m,NuS#NGbHoL}[R*WVe.V@t7"
+        },
+        {
+          "id": "urn:dr:radio:image:674ed10124317303db97707a",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oSHd5F9]D%XSrDO?zVODxuNHwKODMxaeK4t6tRV@xatRJ7oLXRVsZiNuX8RQsos:}[R*NGr@RQxa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#39080B",
+            "#E0D6CA"
+          ]
+        },
+        "colors": {
+          "dark": "#39080B",
+          "light": "#E0D6CA"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/krigen-paa-isen.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Krigen på isen (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/krigen-paa-isen-4206269660000</link>
+        <description>Krigen på isen er en historie om, hvad der sker, når det bliver svært at skelne de gode fra de onde og menneske fra soldat. Det er den virkelige fortælling om et umage venskab, der får stor betydning for et vigtigt slag, der foregår i det nordøstlige Grønland under anden verdenskrig. Slaget bliver helt afgørende for den krig, der samtidig udspiller sig i Europa. 
+Vært og manuskript: Louise Witt-Hansen.
+Klid og lyddesign: Mathias Sørensen.
+Historisk konsulent: Tilo Krause.
+Producent: Jakob Sloma Damsholt.
+Tak til Arktisk Institut for brug af materiale.
+Produceret for DR af Drive Studios ApS.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:35 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/krigen-paa-isen.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/krigen-paa-isen.jpg</url>
+            <title>Krigen på isen (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/krigen-paa-isen-4206269660000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/krigen-paa-isen.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Historie</category>
+        <itunes:category text="Historie" />
+        <item>
+            <guid isPermaLink="false">16122393341</guid>
+            <link>https://www.dr.dk/lyd/p1/krigen-paa-isen/krigen-paa-isen-1/krigen-paa-isen-1-6-det-foerste-moede-16122393341</link>
+            <title>1:6 - Det første møde</title>
+            <description>Tilværelsen som fangstmand og patruljemedlem i Nordøstgrønland ændrer sig drastisk for Marius Jensen, da han sammen med sine kammerater opdager mystiske fodspor i sneen, og finder en jakke med hagekors. For den tyske kommandant, Herman Ritter, betyder det, at han igen drages ind i den krig, han har forsøgt at undslippe.
+Produceret for DR af Drive Studios ApS.</description>
+            <pubDate>Tue, 20 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba8c0733d1c06721e6/d8a738fc7de8ffb8510750903a7927fb490d2cb6131cd2b6a0b421f67090b408" 
+                type="audio/mpeg" 
+                length="35170075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba8c0733d1c06721e6/d3fd15173c6b4aa8d0b8d31d146e82bd47d4301c49ce33614e6d95d243450392" 
+                type="audio/mpeg" 
+                length="11723419" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba8c0733d1c06721e6/a5655efa3a7e301bc067e4a73dcf5423dbcc54aca47a9f49098093798a58bae8" 
+                type="audio/x-m4a" 
+                length="47169061" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba8c0733d1c06721e6/30ffe3f23d3eb0e271e0bf0e738faf5782734f91ceac273e7acb876dbb46924c" 
+                type="audio/x-m4a" 
+                length="35445705" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba8c0733d1c06721e6/7efa42fdbfc71283ce2577341da73e0f9e2b13c6c61a08c01b80bcd4c1937396" 
+                type="audio/x-m4a" 
+                length="12000025" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393342</guid>
+            <link>https://www.dr.dk/lyd/p1/krigen-paa-isen/krigen-paa-isen-1/krigen-paa-isen-2-6-angreb-16122393342</link>
+            <title>2:6 - Angreb</title>
+            <description>Ritters tyske mænd jager Marius og hans kammerater. De angriber den danske vejrstation, og det sætter Ritter i et dilemma, der samtidig bringer ham i konflikt med sine egne mænd. På vejrstationen finder han et telegram, der får afgørende betydning for hans beslutninger. 
+Produceret for DR af Drive Studios ApS.</description>
+            <pubDate>Tue, 27 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:22:58</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba4456a269e53a7044/83bd1cce68a2711dac0b4c706a83ffe430294d0cc8e6c830014696d809059009" 
+                type="audio/mpeg" 
+                length="33078043" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba4456a269e53a7044/8404cd23c112999a0e13f4d648c5efe5d8e05d880a8234c3207a4c6ac58479c5" 
+                type="audio/mpeg" 
+                length="11026075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba4456a269e53a7044/ef5ad8e2154fdd19e436ea3b31762cb552e336f61f96a63c156cc3842f08038b" 
+                type="audio/x-m4a" 
+                length="44363321" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba4456a269e53a7044/29008bb035560df418ec28409d56ac8f8f47811ce1fdc51bd866464f8a6fd755" 
+                type="audio/x-m4a" 
+                length="33337345" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddba4456a269e53a7044/d0680bf0acafc8d576a307d20b44cced66b2b018f4532f143c88463cd61f5da2" 
+                type="audio/x-m4a" 
+                length="11286350" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393343</guid>
+            <link>https://www.dr.dk/lyd/p1/krigen-paa-isen/krigen-paa-isen-1/krigen-paa-isen-3-6-drabet-16122393343</link>
+            <title>3:6 - Drabet</title>
+            <description>Tyskerne skyder og dræber et ungt medlem af den danske patrulje. Samtidig bliver Marius taget til fange, og står nu for første gang ansigt til ansigt med Ritter. Drabet sætter gang i spekulationerne hos Ritter, der også oplever stigende spændinger i forholdet til sine egne mænd.
+Produceret for DR af Drive Studios ApS.</description>
+            <pubDate>Tue, 04 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbb8c0733d1c06721ed/9625f28aa1f9af83788b1385e02e96555f73b7d9488025be5c302ca5db5b88ed" 
+                type="audio/mpeg" 
+                length="29210779" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbb8c0733d1c06721ed/f504745a3e2f8fdf1571e62748c0fde9512170e77f13e884cd214ce26574fc60" 
+                type="audio/mpeg" 
+                length="9736987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbb8c0733d1c06721ed/b42fba5f526bbbcb9bdd3bddad181e7c8e6ec82cfa3f1c9fd6aa494854f0dda8" 
+                type="audio/x-m4a" 
+                length="39176835" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbb8c0733d1c06721ed/3556a3d49e755acd2c770e636ef2acab8ccc1e408c8b9cbf17d25ac9e5d5649f" 
+                type="audio/x-m4a" 
+                length="29439897" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbb8c0733d1c06721ed/4ac55d280c6eec3eabc0d281a053bc830a57072a89064daf9b7f201632c451bd" 
+                type="audio/x-m4a" 
+                length="9966879" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393344</guid>
+            <link>https://www.dr.dk/lyd/p1/krigen-paa-isen/krigen-paa-isen-1/krigen-paa-isen-4-6-en-ny-plan-16122393344</link>
+            <title>4:6 - En ny plan</title>
+            <description>Ritter er tynget af drabet på Eli Knudsen, og langsomt begynder en modig plan at tage form i hans hoved. Marius overvejer mulighederne for at undslippe sit fangenskab, og snart viser det sig, at de to fjender måske har samme interesser. 
+Produceret for DR af Drive Studios ApS.</description>
+            <pubDate>Tue, 11 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721f4/ab64aa354dcacb739493c4635543530a2eb36d1a1c3da5f1525056d63e7713d8" 
+                type="audio/mpeg" 
+                length="30151387" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721f4/cfab143f41fa3a82c5fc914a81b7f269a06bbc849fcd2daba79338d296e38426" 
+                type="audio/mpeg" 
+                length="10050523" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721f4/80df223be869b41dcd00e3c11186c58fe8d52a601d3a8eb9f56370bf2d34371f" 
+                type="audio/x-m4a" 
+                length="40438270" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721f4/58ee7eaa82c484a1ccc04cf1218c5cef2a6fd92050d9d41b24386549ed20fa6c" 
+                type="audio/x-m4a" 
+                length="30387805" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721f4/330427da508554d987d7ba815d91df1d8f9243d3ea2a7ede83d2040e9df2701c" 
+                type="audio/x-m4a" 
+                length="10287935" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393345</guid>
+            <link>https://www.dr.dk/lyd/p1/krigen-paa-isen/krigen-paa-isen-1/krigen-paa-isen-5-6-en-mystisk-overgivelse-16122393345</link>
+            <title>5:6 - En mystisk overgivelse</title>
+            <description>De to fjender er nu alene på isen, venskabet mellem dem begynder at vokse. Ved en hytte glemmer Ritter sit gevær, og Marius udnytter muligheden til at overmande ham. Sådan lyder i hvert fald den officielle forklaring. Men meget tyder på, at det slet ikke er sådan det er foregået. 
+Produceret for DR af Drive Studios ApS.</description>
+            <pubDate>Tue, 18 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:18:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc4456a269e53a7051/192994bcd5622d2e15893a70137bd24dbac7fc0d2e748b111292cf05b606abd8" 
+                type="audio/mpeg" 
+                length="27195931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc4456a269e53a7051/afc3dbb1b0174afb969c6b0153987ab09f3b33bcc995e93ef171336e7eef5062" 
+                type="audio/mpeg" 
+                length="9065371" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc4456a269e53a7051/79560d96e1ae177b2d786ecb59b8f49ffc22756a4cd5f839e5a5ac79abcc4979" 
+                type="audio/x-m4a" 
+                length="36474754" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc4456a269e53a7051/baad58f6c78737c9da0891fd40fa251dfb0f901166ffdfe5831e593212c262d3" 
+                type="audio/x-m4a" 
+                length="27409381" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc4456a269e53a7051/d7d72d644ad1e723db2002dd28cf3b8b03a7ebfe0385ab79c2ff6efee689184f" 
+                type="audio/x-m4a" 
+                length="9279528" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393346</guid>
+            <link>https://www.dr.dk/lyd/p1/krigen-paa-isen/krigen-paa-isen-1/krigen-paa-isen-6-6-mange-loegne-16122393346</link>
+            <title>6:6 - Mange løgne</title>
+            <description>Historien tager endnu en vild udvikling, da Marius og Ritter møder tyskerne et sted de slet ikke burde være. Det kaster Ritter ud i flere desperate løgne, der skal afgøre om de begge kan komme helskindet ud af det ubehagelige møde.
+Produceret for DR af Drive Studios ApS.</description>
+            <pubDate>Tue, 25 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721fb/fe0c7e7e30e0d1978b1df3c6e5df33c109dcaa522020239bb3aee2660e903d69" 
+                type="audio/mpeg" 
+                length="37603675" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721fb/b843e1f06e4338fc48575b55a7767761535e4d6cec3222c3d583fb51003b633c" 
+                type="audio/mpeg" 
+                length="12534619" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721fb/250971307822eeb853610ad0dac22c82c663b094688aefbd240d552940e7aaeb" 
+                type="audio/x-m4a" 
+                length="50432859" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721fb/59ce3a66fa87799adf3b46f266bbfcdb46c7d84e4f7a5d91e0640d0317f39d52" 
+                type="audio/x-m4a" 
+                length="37898237" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486ddbc8c0733d1c06721fb/ec8b8b81d0f01720d487fdf6adc3c5bae27fe1a4c60ea67fa97078723742a2ab" 
+                type="audio/x-m4a" 
+                length="12830138" />
+        </item>
+    </channel>
+</rss>

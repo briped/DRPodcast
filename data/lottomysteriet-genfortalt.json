@@ -1,0 +1,1137 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5612055206000",
+  "sortLetter": "l",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar"
+  ],
+  "numberOfEpisodes": 8,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-06-25T05:07:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/lottomysteriet-genfortalt",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5612055206000",
+  "productionNumber": "5612055206000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242",
+  "slug": "lottomysteriet-genfortalt-5612055206000",
+  "title": "Lottomysteriet - Genfortalt",
+  "punchline": "Efter 16 år genoplives mysteriet om de 9,3 uindløste lottomillioner",
+  "description": "I en lille kiosk ved Esbjerg forlader en mand en lottokupon med en gevinst på 9,3 millioner kroner. Manden, der har vundet de mange millioner, bliver aldrig fundet, men 16 år senere bliver mysteriet igen vakt til live, da Danske Spil fortæller, at de stadig er villige til at udbetale gevinsten, hvis den rette vinder dukker op. Pludselig viser det sig, at en række mænd i mere end 16 år har forsøgt at bevise, at de er den rigtige vinder.\n\"Lottomysteriet\" udkom oprindeligt i radioen i 2018. Dette er en genfortalt udgave, hvor historien er blevet pudset af og skrevet om til et vaskeægte podcast-mysterium.\nTilrettelæggelse: Jens Vithner Hansen, Nicholas Durup Thomsen og Signe Mansdotter.\nKlip og lyddesign: Signe Mansdotter.\nHar du en historie, vi bør undersøge nærmere? Kontakt os via dr.dk/tipos eller skriv til drundersoeger@proton.me",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:670e5496f341a59a1bcc0cff",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NGRv.l]~%vof-i%J}+ElepsSNxae%vslVvI[r?bH",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A670e5496f341a59a1bcc0cff&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A670e5496f341a59a1bcc0d00&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d01",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oER]@;=YtPe?%F$~}+ESV]smNLobpZwJRVNLi{t5VINLWq$yg2Rkx=oL$fI[r?WE?Vw]I[$fNLbH",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A670e5496f341a59a1bcc0d01&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A670e5496f341a59a1bcc0d00&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#3F0202",
+        "#FFB808"
+      ]
+    },
+    "colors": {
+      "dark": "#3F0202",
+      "light": "#FFB808"
+    }
+  },
+  "sSlug": "lottomysteriet-genfortalt",
+  "rssUri": "https://xmpl.dk/podcast/lottomysteriet-genfortalt.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802466001",
+      "durationMilliseconds": 1155055,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802466001",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:00:00+02:00",
+      "startTime": "2024-06-25T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/lottomysteriet-genfortalt-1-8-den-mystiske-mand-i-kiosken-11802466001",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:6661bfab7937d2cab8cad249",
+      "series": {
+        "title": "Lottomysteriet - Genfortalt",
+        "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242",
+        "slug": "lottomysteriet-genfortalt-5612055206000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000",
+        "learnId": "urn:dr:ocs:audio:content:series:5612055206000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9458412,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/5a64208e7a1621e23381fb330b6c9e1b742e812403855b56c7f96be538f225a5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 27940451,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/fb046ebfd6a016a4143d341c8bf9f6d36518538d6741352ff6588a16863aeb50"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 37181452,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/0abe49ef88596f922c79dc6581f6e718ac7b31e6dbee870d9e415a03ef2efcb2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9241296,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/c5a9f40a4492764a9fe9a7fe54477f508ad641ac4c1dc4b97dc827c35b21a8e2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 27723216,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/e862e022795289965c1cf117294e933704991a46ad26ad351836c206f8e9012e"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/f6bf7c5abfda9944b7e7621a4c9691d9d8281936705a910188b237bb90b850a2"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802466001",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6661bfab7937d2cab8cad245",
+      "slug": "lottomysteriet-genfortalt-1-8-den-mystiske-mand-i-kiosken-11802466001",
+      "title": "1:8: Den mystiske mand i kiosken",
+      "description": "Jagten på de 9,3 millioner kroners rette ejermand tager sin begyndelse, men det viser sig at være en sværere opgave end først antaget.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0cff",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NGRv.l]~%vof-i%J}+ElepsSNxae%vslVvI[r?bH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d01",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oER]@;=YtPe?%F$~}+ESV]smNLobpZwJRVNLi{t5VINLWq$yg2Rkx=oL$fI[r?WE?Vw]I[$fNLbH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3F0202",
+            "#FFB808"
+          ]
+        },
+        "colors": {
+          "dark": "#3F0202",
+          "light": "#FFB808"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802466002",
+      "durationMilliseconds": 1472324,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802466002",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:01:00+02:00",
+      "startTime": "2024-06-25T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/lottomysteriet-genfortalt-2-8-den-pensionerede-mejerist-11802466002",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:6661bfab7937d2cab8cad251",
+      "previousId": "urn:dr:radio:episode:6661bfab7937d2cab8cad245",
+      "series": {
+        "title": "Lottomysteriet - Genfortalt",
+        "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242",
+        "slug": "lottomysteriet-genfortalt-5612055206000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000",
+        "learnId": "urn:dr:ocs:audio:content:series:5612055206000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12056091,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/c725276cab5c1a479219fef4db59a24fb5ca99b9bfa267574416fb97299ae927"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 35614491,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/baa35637b1bdc06173e7e3cb0b35be1ad18852609c13326d5e6b4c4837f7781e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 47393655,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/75fb00abc1644c6ec5e52a773b6128b2a88ff9ed616b59ac188b8040d864e377"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11779463,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/c2df527af8ef1dae1a4cf9a1d271448d9d8610b5d8f320b3bd298c37fbfaf693"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 35337479,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/019fbd6f3ef3412876df4b66af954e60a24ea44f69234d1a927cda32136bc62f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/b386b3d3450f4d0906bc57a18783bcdf4d3da4df989aece031d05a096c0c9bf1"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802466002",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:6661bfab7937d2cab8cad249",
+      "slug": "lottomysteriet-genfortalt-2-8-den-pensionerede-mejerist-11802466002",
+      "title": "2:8: Den pensionerede mejerist",
+      "description": "Hvis man har brugt 300.000 kroner på at jagte en vinderkupon, så må man vel være den rette ejer? Den 83-årige pensionerede mejerist, Johannes Nielsen, har ihærdigt jagtet de mange millioner og er overbevist om, at han er vinderen. Men der er nogle ting ved hans historie, der ikke helt hænger sammen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0cff",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NGRv.l]~%vof-i%J}+ElepsSNxae%vslVvI[r?bH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d01",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oER]@;=YtPe?%F$~}+ESV]smNLobpZwJRVNLi{t5VINLWq$yg2Rkx=oL$fI[r?WE?Vw]I[$fNLbH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3F0202",
+            "#FFB808"
+          ]
+        },
+        "colors": {
+          "dark": "#3F0202",
+          "light": "#FFB808"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802466003",
+      "durationMilliseconds": 1694326,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802466003",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:02:00+02:00",
+      "startTime": "2024-06-25T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/lottomysteriet-genfortalt-3-8-kasseapparatsaelgerens-angstanfald-11802466003",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:6661bfab7937d2cab8cad255",
+      "previousId": "urn:dr:radio:episode:6661bfab7937d2cab8cad249",
+      "series": {
+        "title": "Lottomysteriet - Genfortalt",
+        "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242",
+        "slug": "lottomysteriet-genfortalt-5612055206000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000",
+        "learnId": "urn:dr:ocs:audio:content:series:5612055206000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13873700,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/5d44ffb8580361d75bf3e83715677c410c151e78b01700d0ed4166867a059f31"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 40984079,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/bf374f1c791d36f760d1631ac5d9183d09d9afd3d638c0433561d04b637148aa"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 54539232,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/d957594bc5e70489df4d286fcd059706ab8e5a464d66498d29cc49f8502f4adf"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13555462,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/85a688dc5bc4d389d08f5bf44acbc7ca6fa9ca3b85519adc1725d60c13574d87"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 40665478,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/c34d6e32e2b3468727dbdf2f28aa77833cf5af9bc5bb45f6c6a710b1fe621424"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/34c3d7fe12223b8651eec7a94eb077108207c601624900f3bedb6206e171d254"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802466003",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:6661bfab7937d2cab8cad251",
+      "slug": "lottomysteriet-genfortalt-3-8-kasseapparatsaelgerens-angstanfald-11802466003",
+      "title": "3:8: Kasseapparatsælgerens angstanfald",
+      "description": "Mejeristen Johannes anklager kasseapparat-sælgeren Christian for at have stjålet den eftertragtede kupon tilbage i 2002. Christian siger derimod, at han selv har købt vinderkuponen, men endte med at efterlade den i kiosken. Hvorfor efterlod han den? Og taler han sandt?",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0cff",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NGRv.l]~%vof-i%J}+ElepsSNxae%vslVvI[r?bH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d01",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oER]@;=YtPe?%F$~}+ESV]smNLobpZwJRVNLi{t5VINLWq$yg2Rkx=oL$fI[r?WE?Vw]I[$fNLbH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3F0202",
+            "#FFB808"
+          ]
+        },
+        "colors": {
+          "dark": "#3F0202",
+          "light": "#FFB808"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802466004",
+      "durationMilliseconds": 981047,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802466004",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:03:00+02:00",
+      "startTime": "2024-06-25T05:03:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/lottomysteriet-genfortalt-4-8-taxachauffoerens-tommelfingre-11802466004",
+      "order": 100004,
+      "nextId": "urn:dr:radio:episode:6661bfac7937d2cab8cad259",
+      "previousId": "urn:dr:radio:episode:6661bfab7937d2cab8cad251",
+      "series": {
+        "title": "Lottomysteriet - Genfortalt",
+        "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242",
+        "slug": "lottomysteriet-genfortalt-5612055206000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000",
+        "learnId": "urn:dr:ocs:audio:content:series:5612055206000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 8033640,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/12db9112b09e1de8343d9c446091cfa3f0dfc799aa9edfe6bd1a2f92b9d41d78"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 23731375,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/0a54b5371992601edfd580a1ab94e595e61f53ebd9a0f652fcd67de1417e84d8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 31580240,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/683c3c8e55637605cf943f8541093fc1d262cc760e3dae992aa9ee50c096b6ec"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 7849226,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/4e7c514f314386987f5c8d076f2a347bbbc19d3242806d9ae61e31c6a1cdabe1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 23546762,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/234d350921fcb0e3407a75f28e0b201bbc9bf33f2eed221329747facff6df3b9"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/37eca6d9af10f4875e5c4dccf5ca228da37766878b1333eadbf000795b833c59"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802466004",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:03:00+02:00",
+      "id": "urn:dr:radio:episode:6661bfab7937d2cab8cad255",
+      "slug": "lottomysteriet-genfortalt-4-8-taxachauffoerens-tommelfingre-11802466004",
+      "title": "4:8: Taxachaufførens tommelfingre",
+      "description": "En lokal taxachauffør har brugt årevis på at glemme alt om den lottokupon, han mener at have efterladt i Strandvejens Kiosk, og så er han rasende på Danske Spil over deres håndtering af sagen. For han er sikker på, at han kan bevise, at han er den rette ejer - hvis bare han fik lov.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0cff",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NGRv.l]~%vof-i%J}+ElepsSNxae%vslVvI[r?bH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d01",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oER]@;=YtPe?%F$~}+ESV]smNLobpZwJRVNLi{t5VINLWq$yg2Rkx=oL$fI[r?WE?Vw]I[$fNLbH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3F0202",
+            "#FFB808"
+          ]
+        },
+        "colors": {
+          "dark": "#3F0202",
+          "light": "#FFB808"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802466005",
+      "durationMilliseconds": 1177471,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802466005",
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:04:00+02:00",
+      "startTime": "2024-06-25T05:04:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/lottomysteriet-genfortalt-5-8-den-pressede-arbejdsmand-11802466005",
+      "order": 100005,
+      "nextId": "urn:dr:radio:episode:6661bfac7937d2cab8cad25d",
+      "previousId": "urn:dr:radio:episode:6661bfab7937d2cab8cad255",
+      "series": {
+        "title": "Lottomysteriet - Genfortalt",
+        "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242",
+        "slug": "lottomysteriet-genfortalt-5612055206000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000",
+        "learnId": "urn:dr:ocs:audio:content:series:5612055206000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9641800,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/35df82fd7709465d10fe5e295d5c81c14d1fbf31029d3fa5ea83ec5ed15033c0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 28482251,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/05eade7948b5cba2b8fb0972752f91e0afcc143af9702955ecb5fcba7cb9f6dc"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 37902464,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/4971a2281a34b7139fb6d33c190b66c706cc19bee87c1dd67340a1be1180e75b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9420741,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/ec1a5d9c28880f12d241fe2b74e49a87bba1ee9b644e53f081d02160708b1a7c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 28261317,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/8b2ce92a2819352a12a151ddb3b125111de80e04586f76195212988ccb0d521a"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/61dacbcc95b41b768b5e31ed7990467fd239d0198d49e5ce5e029a58a1709917"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802466005",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:04:00+02:00",
+      "id": "urn:dr:radio:episode:6661bfac7937d2cab8cad259",
+      "slug": "lottomysteriet-genfortalt-5-8-den-pressede-arbejdsmand-11802466005",
+      "title": "5:8: Den pressede arbejdsmand",
+      "description": "Er Danske Spil virkelig \"til glæde og gavn\", som de påstår? Det er en lokal arbejdsmand ikke helt sikker på, for han er overbevist om, at gevinsten tilhører ham. Og så ved han præcis, hvilket kendetegn der er på kuponen - det er nemlig ham, der har tegnet det.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0cff",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NGRv.l]~%vof-i%J}+ElepsSNxae%vslVvI[r?bH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d01",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oER]@;=YtPe?%F$~}+ESV]smNLobpZwJRVNLi{t5VINLWq$yg2Rkx=oL$fI[r?WE?Vw]I[$fNLbH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3F0202",
+            "#FFB808"
+          ]
+        },
+        "colors": {
+          "dark": "#3F0202",
+          "light": "#FFB808"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802466006",
+      "durationMilliseconds": 1253310,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802466006",
+      "episodeNumber": 6,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:05:00+02:00",
+      "startTime": "2024-06-25T05:05:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/lottomysteriet-genfortalt-6-8-jaegeren-og-den-sjaeldne-albinoraev-11802466006",
+      "order": 100006,
+      "nextId": "urn:dr:radio:episode:6661bfac7937d2cab8cad261",
+      "previousId": "urn:dr:radio:episode:6661bfac7937d2cab8cad259",
+      "series": {
+        "title": "Lottomysteriet - Genfortalt",
+        "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242",
+        "slug": "lottomysteriet-genfortalt-5612055206000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000",
+        "learnId": "urn:dr:ocs:audio:content:series:5612055206000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 10262768,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/d9c5aeb44ff0e00b3c91e21a3954b29a4b3e8c5beaa346874154f16f51be19b5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 30316651,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/f75a929040adb61e802cc0abf58f38111fb61b4214077761801b77d2b0587b09"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 40343612,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/b51ea897be7177278d7bcd7792e5bf5d94f05777f4499903f7b92f0c3404162c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 10027466,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/ece5a9083be048e3d6450121c7c8a1a61b6711b90ab5b5a809cf00d209dd783c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 30081482,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/7f794e923189c425cd4d483093b7b9a351457a61178a1c0909c3edac97f566a7"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/63abe613bd2a7200e31def3b936a5371bec140e593eac771dfb88d2ee4e94d98"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802466006",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:05:00+02:00",
+      "id": "urn:dr:radio:episode:6661bfac7937d2cab8cad25d",
+      "slug": "lottomysteriet-genfortalt-6-8-jaegeren-og-den-sjaeldne-albinoraev-11802466006",
+      "title": "6:8: Jægeren og den sjældne albinoræv",
+      "description": "En jæger har fået en sjælden albinoræv på kornet, og det får ham til at glemme alt om den kupon, han har efterladt på disken i Strandvejens Kiosk i 2002. Noget han inderligt har fortrudt lige siden, for han er så overbevist om, at det er ham, der er den rette vinder af de 9,3 millioner kroner, at han stadig jagter gevinsten.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0cff",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NGRv.l]~%vof-i%J}+ElepsSNxae%vslVvI[r?bH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d01",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oER]@;=YtPe?%F$~}+ESV]smNLobpZwJRVNLi{t5VINLWq$yg2Rkx=oL$fI[r?WE?Vw]I[$fNLbH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3F0202",
+            "#FFB808"
+          ]
+        },
+        "colors": {
+          "dark": "#3F0202",
+          "light": "#FFB808"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802466007",
+      "durationMilliseconds": 1111953,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802466007",
+      "episodeNumber": 7,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:06:00+02:00",
+      "startTime": "2024-06-25T05:06:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/lottomysteriet-genfortalt-7-8-det-sagnomspundne-kendetegn-11802466007",
+      "order": 100007,
+      "nextId": "urn:dr:radio:episode:6661bfac7937d2cab8cad265",
+      "previousId": "urn:dr:radio:episode:6661bfac7937d2cab8cad25d",
+      "series": {
+        "title": "Lottomysteriet - Genfortalt",
+        "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242",
+        "slug": "lottomysteriet-genfortalt-5612055206000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000",
+        "learnId": "urn:dr:ocs:audio:content:series:5612055206000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 9105423,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/d242f2f4740c3339f9df5ab3aad92d3ec1dd58e12ffc062803d3b36f60fedee8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 26897623,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/c94007abe7afee19fbae91329afa75b0ed280542adf98a83daf8a079983e2c97"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 35793679,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/a9578d8e2342967dc20bf28a87c50262489ddbaae73eb2363a5288a5e9afbaa6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 8896516,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/a3ce641af8213e73ab23f28473e808d01734e3c9fcfcca7664727ffb649b2161"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 26688772,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/f8ce8f9a52360cad0d900de2779df11006a64c35650509bb1762b311a007110c"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/a7cb710eec4a45a5929045ebfbc03ed9b746d50c44ba8fd54f238218b2dac488"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802466007",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:06:00+02:00",
+      "id": "urn:dr:radio:episode:6661bfac7937d2cab8cad261",
+      "slug": "lottomysteriet-genfortalt-7-8-det-sagnomspundne-kendetegn-11802466007",
+      "title": "7:8: Det sagnomspundne kendetegn",
+      "description": "Et tilfælde leder os på sporet af en person, der var helt tæt på kuponen, den dag den blev efterladt. Og hun giver os en overraskende information, der vender op og ned på hele mysteriet.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0cff",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NGRv.l]~%vof-i%J}+ElepsSNxae%vslVvI[r?bH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d01",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oER]@;=YtPe?%F$~}+ESV]smNLobpZwJRVNLi{t5VINLWq$yg2Rkx=oL$fI[r?WE?Vw]I[$fNLbH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3F0202",
+            "#FFB808"
+          ]
+        },
+        "colors": {
+          "dark": "#3F0202",
+          "light": "#FFB808"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802466008",
+      "durationMilliseconds": 1947870,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802466008",
+      "episodeNumber": 8,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:07:00+02:00",
+      "startTime": "2024-06-25T05:07:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/lottomysteriet-genfortalt-8-8-til-glaede-og-gavn-11802466008",
+      "order": 100008,
+      "previousId": "urn:dr:radio:episode:6661bfac7937d2cab8cad261",
+      "series": {
+        "title": "Lottomysteriet - Genfortalt",
+        "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242",
+        "slug": "lottomysteriet-genfortalt-5612055206000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000",
+        "learnId": "urn:dr:ocs:audio:content:series:5612055206000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15949645,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/4511cdd3da74183953e5e3c17778d7b1c559617f23b2ce08aefd6512fcd9564e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 47116739,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/4b0df7d8241f99c58509d4f919a8b92f53290a0cccb34b3c99edabf279e37c91"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 62700369,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/8428fe55b9e5e08bd7648139ccf5a1fed44ca72c239cf007bd59b9b6acac0a19"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 15583930,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/7dd9612f3a14edddb90ab1cce44b0a89774e8f3e0f8e7ee77e9ea904da1afd78"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 46750906,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/c3e8f9e88c75dae03f6ace97d3ef7d6cdb013a78b6e356aff6b5d8c2eab6e88f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/e798f0e06fca10ca133353b6351d054bfe8983efe9e6124abd9be0b63cb32833"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802466008",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:07:00+02:00",
+      "id": "urn:dr:radio:episode:6661bfac7937d2cab8cad265",
+      "slug": "lottomysteriet-genfortalt-8-8-til-glaede-og-gavn-11802466008",
+      "title": "8:8: Til glæde og gavn?",
+      "description": "På den lokale bodega i Esbjerg er lottospil noget, der skaber glæde og sammenhold - det samme kan man ikke sige er tilfældet hos den række af mænd, vi har talt med. Så vil Danske Spil lægge vinderkuponen frem og endegyldigt lukke mysteriet?",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0cff",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NGRv.l]~%vof-i%J}+ElepsSNxae%vslVvI[r?bH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d01",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oER]@;=YtPe?%F$~}+ESV]smNLobpZwJRVNLi{t5VINLWq$yg2Rkx=oL$fI[r?WE?Vw]I[$fNLbH"
+        },
+        {
+          "id": "urn:dr:radio:image:670e5496f341a59a1bcc0d00",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oGR]^]=rx?oL%F%0}+JCjFs,R.obt%$fV_NejFoyVINeX7$yg2Rlx=j[xCJBniWE-+n$I[xCNKkA"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3F0202",
+            "#FFB808"
+          ]
+        },
+        "colors": {
+          "dark": "#3F0202",
+          "light": "#FFB808"
+        }
+      }
+    }
+  ]
+}

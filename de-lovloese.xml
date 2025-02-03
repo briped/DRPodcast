@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/de-lovloese.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>De lovløse (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/de-lovloese-3337857881000</link>
+        <description>Danmark har gennem tiden leveret et ikke ubetydeligt bidrag til bunken af storslåede kupmagere, gangstere, cowboy outlaws og sørøvere. Mange af dem er bare gået lidt i glemmebogen.
+I serien 'De Lovløse' fortæller Emil Rothstein-Christensen alle de vanvittige og hæsblæsende historier om danskere, der er endt langt uden for lands lov og ret, men ikke desto mindre har været med til at ændre både Danmarks- og verdenshistorien.
+Det er actionfyldte lydfortællinger baseret på den vilde virkelighed.
+Produceret for DR af MonoMono.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:04 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/de-lovloese.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/de-lovloese.jpg</url>
+            <title>De lovløse (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese-3337857881000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/de-lovloese.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <item>
+            <guid isPermaLink="false">16122293148</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-1/de-lovloese-prolog-16122293148</link>
+            <title>Prolog</title>
+            <description>En lille introduktion til første sæson af 'De Lovløse', hvor Emil Rothstein-Christensen fortæller vanvittige og hæsblæsende historier om danskere, der er endt langt uden for lands lov og ret, men ikke desto mindre har været med til at ændre både Danmarks- og verdenshistorien.
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Thu, 03 Feb 2022 05:59:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:03:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61fa55d56c731729bc591d93/f3c7a2efdc37d08fdb19280ceec337c4199bdb33dadfcd92997aa156e07da7c6" 
+                type="audio/mpeg" 
+                length="5165659" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61fa55d56c731729bc591d93/6c99605787c1f3bd5bd7fc0b3aef21dcd618ad11809f171e55a700333c672bb4" 
+                type="audio/mpeg" 
+                length="1721947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61fa55d56c731729bc591d93/2ea612d0d912ae4464fa59aaa7c23021189efc2361eae479ddfae7aee4743364" 
+                type="audio/x-m4a" 
+                length="5206729" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61fa55d56c731729bc591d93/7eb688e0ef6617afa4d6c2f85f0b6688df67baff5da0295f85d6c08993d0baf8" 
+                type="audio/x-m4a" 
+                length="1763914" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293141</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-1/de-lovloese-jokum-gulliksen-1-7-havmandens-sidste-rejse-16122293141</link>
+            <title>Jokum Gulliksen 1:7 - Havmandens sidste rejse</title>
+            <description>Skibet 'Havmanden' stævner ud fra Københavns havn en novemberdag i slutningen af 1600-tallet, med kursen mod Caribien. Lasten er fyldt med straffefanger, de forbrydere, der kun akkurat er sluppet for galgen. De skal bruges som gratis arbejdskraft i Danmarks nye koloni på Skt. Thomas. Blandt de her fanger sidder Jokum Gulliksen, en stolt sømand, der tidligere har været skipper på selvsamme skib, som han nu er fange på. Og han drømmer om hævn - en blodig hævn!
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Johan Heinsen, lektor v. Institut for Politik og Samfund, Aalborg Universitet.
+
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Thu, 03 Feb 2022 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e170431527cb306577a/54ebf6dd66ecc453413c072481275e9f60dacc7ac8f0ba520e913e623a10b66f" 
+                type="audio/mpeg" 
+                length="40439323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e170431527cb306577a/3e3264a8280f706189dd92f655f99f4d3ed7a815303a22977155565203a3512f" 
+                type="audio/mpeg" 
+                length="13479835" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e170431527cb306577a/c0954a808c24d4e8238b60620cd8506d74fc741b89c670ba2461b1f0800d2046" 
+                type="audio/x-m4a" 
+                length="40756433" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e170431527cb306577a/6537381a6ca101507715bb4bacc772a88797017786b7c6dac3c1d6dffde1a2f5" 
+                type="audio/x-m4a" 
+                length="13797556" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293142</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-1/de-lovloese-jokum-gulliksen-2-7-de-aereloeses-kaptajn-16122293142</link>
+            <title>Jokum Gulliksen 2:7 - De æreløses kaptajn</title>
+            <description>Der er optræk til mytteri på Havmanden - og Jokum Gulliksen står klar i kulissen til at springe til som ny kaptajn. Men der kommer til at flyde meget blod på dækket inden Gulliksen får det som han vil have det. Men ingen kan forudse hvad der sker på havet. Og Gulliksens store sørøverplot, ender med at føre mytteristerne et meget ubehageligt sted hen.
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Johan Heinsen, lektor v. Institut for Politik og Samfund, Aalborg Universitet.
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Thu, 03 Feb 2022 06:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e170431527cb306577e/376bc95da7e2045d65a8a313e4df2c5d5daa79cb51fb64804d6dfe8356e78259" 
+                type="audio/mpeg" 
+                length="43485787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e170431527cb306577e/1061a0a9bc4fd424d738bce85e20df2e43cec4812de6f08a11156c395f313866" 
+                type="audio/mpeg" 
+                length="14495323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e170431527cb306577e/70a65c0401c913d600a9c289099aff6fd0e0fee58436c6dad1f5e337391ee0c6" 
+                type="audio/x-m4a" 
+                length="43826693" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e170431527cb306577e/068ff235942581bd3fc9c113f410cdf2cbca127dc49adec6c84ec853ed680016" 
+                type="audio/x-m4a" 
+                length="14836872" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293143</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-1/de-lovloese-joergen-jurgensen-3-7-urmagerens-soen-16122293143</link>
+            <title>Jørgen Jürgensen 3:7 - Urmagerens søn</title>
+            <description>Den kongelige hofurmagers søn, Jørgen, er til at blive sindssyg af. Han er umulig i skolen, han er en plage derhjemme og ude på gaden roder han sig altid ind i slagsmål. Så da han fylder 14 år bliver han sendt ud med et engelsk skib for at lære sig lidt disciplin. Jørgen er med til at fange hvaler og grundlægge kolonier i Australien som en del af den britiske flåde, og da han endelig vender hjem igen, har han transformeret sig til en ægte britisk gentleman. Uheldigvis falder det bare sammen med briternes bombardement af København - og med ét mistænker hele byen urmagerens søn for, at være britisk spion. 
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Søren Mentz, museumsleder, Museum Amager.
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Thu, 03 Feb 2022 06:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e180431527cb3065785/c74678d1438d2c7cb084a9b45e2622ea9ebcbb03d5e124d8a04aa3c74bc03278" 
+                type="audio/mpeg" 
+                length="41258971" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e180431527cb3065785/6d12979e856a7818312f72c7486969d8c48d2287d6e64842b44b984deaf3406a" 
+                type="audio/mpeg" 
+                length="13753051" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e180431527cb3065785/e551d48c65b9699d10786bf05ced857d8f05a4f5eea6274ae1017bd9c44df55d" 
+                type="audio/x-m4a" 
+                length="41582553" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e180431527cb3065785/5332e6becaeba6a8e0f8a1bf730416b376bc6c5734ebec13bcef592dc691a5a1" 
+                type="audio/x-m4a" 
+                length="14077118" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293144</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-1/de-lovloese-joergen-jurgensen-4-7-islands-hersker-16122293144</link>
+            <title>Jørgen Jürgensen 4:7 - Islands hersker</title>
+            <description>Livet som luksuskrigsfange i England begynder at kede Jørgen. Men et par bajere med to islandske sømænd på en bar i London ændrer alt. Og snart rager Jørgen sig uklar med både den engelske og danske konge, da han stikker af fra England, for at gøre sig selv til hersker over Island.
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Søren Mentz, museumsleder, Museum Amager.
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Thu, 03 Feb 2022 06:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e180431527cb306578e/396c19f585d8a49a9a977e80f6472a8cfcfc4aef0f216cf0dd05b3bf099265d8" 
+                type="audio/mpeg" 
+                length="41144923" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e180431527cb306578e/e72db6fc97926bc436ca7e1a79409a6f7494ece560b370c106235b99ac42dd15" 
+                type="audio/mpeg" 
+                length="13715035" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e180431527cb306578e/384e850d3009becea30eca3dfc08667249b209b438cb19540cc7a99a18a55b8f" 
+                type="audio/x-m4a" 
+                length="41467461" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e180431527cb306578e/4455cbb7e0ccf673eed4fd1acb7c8cfff882afc17a6157c402f0d75b8d4dc64e" 
+                type="audio/x-m4a" 
+                length="14038356" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293145</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-1/de-lovloese-joergen-jurgensen-5-7-king-of-the-convicts-16122293145</link>
+            <title>Jørgen Jürgensen 5:7 - King of the Convicts</title>
+            <description>Jørgen er en knækket mand. Han drikker for meget og lider af ludomani. Han ryger ind og ud af fængsler og er på alle måder på vej til at gå i hundene. Men da han står med en dødsdom hængende over sig, og alt ser helt sort ud, får han en ny og uventet chance for genoprejsning på den anden side af jorden.
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Søren Mentz, museumsleder, Museum Amager
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Thu, 03 Feb 2022 06:04:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e194230c009a3e59f72/950ce3a6cd187159b8613ca9cf8880bd50336bc53f6ddd9a5a36daaf94e635fe" 
+                type="audio/mpeg" 
+                length="43484059" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e194230c009a3e59f72/c31ed9d1e2113a51e408a413c48bbe1bcd8bc9ee4840c7eb0d1784da7cae751e" 
+                type="audio/mpeg" 
+                length="14494747" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e194230c009a3e59f72/e026ce4e9a5a7e4f350862454db40d453fce2c7155fe64aa69eb0da5cf884700" 
+                type="audio/x-m4a" 
+                length="43824681" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e194230c009a3e59f72/cbcea0ba928cb29c918237b8b711c08706ff4779fc3781e464bde0d93a7d92bd" 
+                type="audio/x-m4a" 
+                length="14836348" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293146</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-1/de-lovloese-jane-horney-6-7-guldfasanen-16122293146</link>
+            <title>Jane Horney 6:7 - Guldfasanen</title>
+            <description>Under anden verdenskrig gør en ung og yderst charmerende kvinde sig særligt bemærket i det tredje riges presseklubber, hvor hun får en magtfuld og meget mistænkelig omgangskreds af tyske topnazister og ss-officere. Hun er egentlig døbt Ebba Charlotte, men skifter identitet til den sexede femme fatale Jane Horney. Men er den unge dansk-svenske kvinde nazistisk spion? Eller danser hun i virkeligheden en dødsensfarlig dans som dobbeltagent? 
+I redaktionen: Emil Rothstein-Christensen, Kirstine Leth Schütze, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Frederik Strand, museumsleder, Politimuseet.
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Thu, 03 Feb 2022 06:05:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e194230c009a3e59f7c/06c1b988a6cd6b7c4e643e8565616941b44db0c1d27892a920eb0d8d4f72f237" 
+                type="audio/mpeg" 
+                length="40533787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e194230c009a3e59f7c/b44960f87e3d1b7b7a129aab5bbeed503b0389fa030cdae54cc86b544374446e" 
+                type="audio/mpeg" 
+                length="13511323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e194230c009a3e59f7c/90d11bbc3978df7312eea009eac27e84c844b9b734a64c60c3809127359bc26f" 
+                type="audio/x-m4a" 
+                length="40851341" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f24e194230c009a3e59f7c/20cae2061fa34767f130def6253d4752cf92207abe76c9e4c09130055b639290" 
+                type="audio/x-m4a" 
+                length="13829821" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293147</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-1/de-lovloese-jane-horney-7-7-morgen-over-oeresund-16122293147</link>
+            <title>Jane Horney 7:7 - Morgen over Øresund</title>
+            <description>I København indlogerer Jane Horney sig på Hotel Nordland i København. Og mens hun ses sammen med besættelsesmagtens pressefolk og den dubiøse politiadvokat Vilhelm Leifer, så kommer Jane også helt ind under huden på den danske modstandsbevægelse. Men rygterne vokser om Janes tyske forbindelser og mod krigens slutning hvirvles hendes skæbne ind i et dødsensfarligt krydsfelt mellem den engelske efterretningstjeneste, tyske topnazister og danske modstandsmænd. 
+I redaktionen: Emil Rothstein-Christensen, Kirstine Leth Schütze, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Frederik Strand, museumsleder, Politimuseet.
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Thu, 03 Feb 2022 06:06:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61fa55d56c731729bc591d8e/de8fcb801e43fe7b8bfbde3dac1b290c54a58a91d53192a8b9ceba7d92baa313" 
+                type="audio/mpeg" 
+                length="43477723" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61fa55d56c731729bc591d8e/4f552da0285c57fe11e705047ff20246b82b84bf056c37e2b9679328d3dbe4b4" 
+                type="audio/mpeg" 
+                length="14492635" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61fa55d56c731729bc591d8e/d873840964a8ed00dfcf54dee4fbf414c890745dc26d7bc0343271c05112a991" 
+                type="audio/x-m4a" 
+                length="43818413" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61fa55d56c731729bc591d8e/1bf58444558e1b483eb5fc31e5a853c52c233c503d6f78981f9a0016ceadc05f" 
+                type="audio/x-m4a" 
+                length="14834209" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293161</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-2/de-lovloese-willard-erastus-1-7-mormonpraestens-soen-16122293161</link>
+            <title>Willard Erastus 1:7 - Mormonpræstens søn</title>
+            <description>I en lille flække i Utah bor familien Christensen. Faren er præst og et ret fremtrædende medlem af det mormonsamfund, som er ved at vokse op omkring Salt Lake City i midten af 1800-tallet.
+Men en af hans sønner, Willard, er ikke helt så from som de andre børn. Og en nat sætter han sig op på sin hest og rider væk fra byen, sit hjem og sin familie. Han må op i bjergene. Han er 14 år gammel og på flugt. Og fra nu af, kommer hans liv til at udvikle sig til et cowboyeventyr, som man ellers kun skulle tro fandtes i tegneserier og B-film. 
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Torben Grøngaard Jeppesen, Museumsdirektør emeritus og adjungeret professor ved SDU.
+Matt Warners stemme: Brian Soderquist.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 21 Apr 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501933d1763b0b65f2ddb4/f5f92c79dd059ccee95c3f15b1173500aa4bedd35cee07cd5e09d07b7ff26d0b" 
+                type="audio/mpeg" 
+                length="42045211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501933d1763b0b65f2ddb4/f8e66b640d13e49f9e46edcad88bfbb3a07e22473a61e73f7a215b2303c2784d" 
+                type="audio/mpeg" 
+                length="14015131" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501933d1763b0b65f2ddb4/090610a350a390d02d2a54d093b90b0796a0ee443a697984c54bcd1c85d7f7cb" 
+                type="audio/x-m4a" 
+                length="42374617" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501933d1763b0b65f2ddb4/bad66a9385a286261d65660caa0df81738c8f37d28e84c22527050ddf2ca0dad" 
+                type="audio/x-m4a" 
+                length="14345447" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293162</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-2/de-lovloese-willard-erastus-2-7-a-square-shooting-cowboy-16122293162</link>
+            <title>Willard Erastus 2:7 - "A Square Shooting Cowboy"</title>
+            <description>Willard Erastus alias Matt Warner og hans bande er på flugt. De har fået hele det vilde vestens lov -og ordenshåndhævere på nakken, efter at de har slået fire sheriffer ihjel.
+Flugten fører Matt ind i den rige mineby Telluride og her møder han en fyr, som bliver en ven for livet - og som senere også kommer til at stå som en af cowboy-tidens største legender og anti-helte: Butch Cassidy. Og så skal der røves banker!
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Jakob Stegelmann.
+Matt Warners stemme: Brian Soderquist.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 21 Apr 2022 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501934d1763b0b65f2ddb7/43150198fb6577fa8869cbc146de6fa97379308fd299d45c99284ce7922c21f6" 
+                type="audio/mpeg" 
+                length="41589595" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501934d1763b0b65f2ddb7/3353c9bd2c297aa32895a871135ee6cf067b1d12a8c76a0da00e5f39d4988530" 
+                type="audio/mpeg" 
+                length="13863259" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501934d1763b0b65f2ddb7/57e085470c6b4e59c0914ee179d231503c3ef7bc71f13af7c79dc2cc3a488a84" 
+                type="audio/x-m4a" 
+                length="41915373" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501934d1763b0b65f2ddb7/cc674b34ae1fb8db836d48982ce2290b6ec3b017611123523c4d257f6f7ad219" 
+                type="audio/x-m4a" 
+                length="14189972" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293163</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-2/de-lovloese-willard-erastus-3-7-bryllupsrejsen-16122293163</link>
+            <title>Willard Erastus 3:7 - Bryllupsrejsen</title>
+            <description>Matt skjuler sig for sine forfølgere i en lille mormonlandsby i en dal mellem sneklædte bjerge. Og før han ved af de,t er han blevet gift med en meget ung pige, Rose Morgan, som han er fuldstændigt forelsket i.
+Men da sherifferne begynder at røre på sig, må han væk - og flugten bliver forklædt som bryllupsrejse.
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Torben Grøngaard Jeppesen, Museumsdirektør emeritus og adjungeret professor ved SDU.
+Matt Warners stemme: Brian Soderquist.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 21 Apr 2022 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501934a734ddd693b8451c/18b9f0a8f3380bfcbf9b9998aee4934e0e02e3e46c4de88e1772253cb60371df" 
+                type="audio/mpeg" 
+                length="37726363" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501934a734ddd693b8451c/1aa4f134d311b5a9186e65bdba00935371d0323eac0d2f09781203d283109540" 
+                type="audio/mpeg" 
+                length="12575515" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501934a734ddd693b8451c/43ffe7182d0758b81ab035374fc3cd0f0f5962a8f3d0e2f7a86bba0dfc3b2e0c" 
+                type="audio/x-m4a" 
+                length="38022173" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501934a734ddd693b8451c/c43884226e6d813c828caf4a471193bc6f82af10618167180a5f189a38a2530c" 
+                type="audio/x-m4a" 
+                length="12871998" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293164</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-2/de-lovloese-willard-erastus-4-7-fortrydelse-og-straf-16122293164</link>
+            <title>Willard Erastus 4:7 - Fortrydelse og straf</title>
+            <description>Matt gør alt hvad han kan for at blive lovlydig, men fortiden bliver ved med at indhente ham. Og før alting kan blive godt igen, må han og hans lille familie betale en helt urimelig og sønderknusende høj pris.
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Torben Grøngaard Jeppesen, Museumsdirektør emeritus og adjungeret professor ved SDU.
+Matt Warners stemme: Brian Soderquist.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 21 Apr 2022 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501933d1763b0b65f2ddad/dc753bedb9a553275fac0e58e93629ba5f7244972239679df61f9318a19183fb" 
+                type="audio/mpeg" 
+                length="44142427" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501933d1763b0b65f2ddad/1334bef98a9d219b9b50e2e65257f3bbdabce92f98ec1fba58685411c04ea234" 
+                type="audio/mpeg" 
+                length="14714203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501933d1763b0b65f2ddad/91ada74f22916f4c3469ad10cad2f3cfa040fd044e2bf27e036b87cde6b74c90" 
+                type="audio/x-m4a" 
+                length="44488233" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501933d1763b0b65f2ddad/b288220cf5bdab33f7bc533074bc0c7753e1eba2f2793418ee81eeabcc32bfc8" 
+                type="audio/x-m4a" 
+                length="15060819" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293165</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-2/de-lovloese-ferdinand-winsloew-5-7-i-mulighedernes-land-16122293165</link>
+            <title>Ferdinand Winsløw 5:7 - I mulighedernes land</title>
+            <description>Ferdinands liv burde egentlig have været nemt. Han kommer fra en pæn og respekteret familie, han har et godt job og han er charmerende og vellidt. Men Ferdinand har en last. Han kan godt lide, "at samle rigdomme", som han selv udtrykker det. Og den tilbøjelighed fører ham først i fængsel, så om på den anden side af Atlanten og i krig, inden den gør ham til måske den mest upopulære skandinav i USA - et land med mange fristelser og endnu flere spildte muligheder.
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann og Rune Sparre Geertsen.
+Medvirkende: Anders Bo Rasmussen, Center for Amerikanske Studier, SDU
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 12 May 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501935d1763b0b65f2ddc1/bf92515103b6d8250514babea0df3fbecc4dfc742ff76e764682664f52af451b" 
+                type="audio/mpeg" 
+                length="47807515" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501935d1763b0b65f2ddc1/922f0f99aa778b0eac5ee070437d1e71b2f20ea4a95ac83d05c3170d064fcb3f" 
+                type="audio/mpeg" 
+                length="15935899" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501935d1763b0b65f2ddc1/e347b16724e23eb6a2f8bb323eb6267745ceaaac7ec9042a9e35145fe8d5f669" 
+                type="audio/x-m4a" 
+                length="48182289" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62501935d1763b0b65f2ddc1/6b643f827d36fc74ebb252ad65bc92a40dc5102104e8062ac0c6898f5b4b069b" 
+                type="audio/x-m4a" 
+                length="16311178" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293166</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-2/de-lovloese-chris-madsen-6-7-svindlersoldaten-16122293166</link>
+            <title>Chris Madsen 6:7 - Svindlersoldaten</title>
+            <description>17 årige Christen fra Fyn vil gerne være noget stort, noget flot og ædelt. Desværre kniber det med succesoplevelserne. Men hvis man ikke kan være en succes i virkeligheden, kan man jo i det mindste få folk omkring én til at tro, at man er det. Så Christen går på 0,5 fra uskyldig teenager til forhærdet svindler og forbryder.
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann, Inge Scheel Kjelstrup og Rune Sparre Geertsen.
+Medvirkende: Ole Sønnichsen, seniorredaktør hos Lindhardt &#x26; Ringhof.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 26 May 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628ddc933f3b36d4c2977810/cdab4a610cd3491a3da1b8eeb29e8d0fb539ff86065cec49b2d7e092e0cc2715" 
+                type="audio/mpeg" 
+                length="43645915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628ddc933f3b36d4c2977810/1e0c4e9b4f17af44697a2c6d99d3bb9594427ba6df88410103f97af8f11bd6ca" 
+                type="audio/mpeg" 
+                length="14548699" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628ddc933f3b36d4c2977810/1972481076e3f0b8ebc770239185ca132215d21d22b39031fd120a4312924173" 
+                type="audio/x-m4a" 
+                length="43988141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628ddc933f3b36d4c2977810/b84df81c105fac394ccf1246b155338859e6fd1cb28495983f45f426cafd367e" 
+                type="audio/x-m4a" 
+                length="14891412" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293167</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-2/de-lovloese-chris-madsen-7-7-supersheriffen-16122293167</link>
+            <title>Chris Madsen 7:7 - Supersheriffen</title>
+            <description>Christen bliver til Chris. Hans fortid bliver slettet. Nu eksisterer kun løgnen - men den bærer ham til gengæld langt! Så langt at han bliver sat til at jagte den forhærde forbryderbande The Dalton Gang! Fuldstændig ligesom Lucky Luke.
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann, Inge Scheel Kjelstrup og Rune Sparre Geertsen.
+Medvirkende: Ole Sønnichsen, seniorredaktør hos Lindhardt &#x26; Ringhof.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 26 May 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628ddcb76f7eec4fd8e6ce23/77ea08000ed6ff7911f10c2131e36d5ed068a4b0407868fa35b2c22d0601995f" 
+                type="audio/mpeg" 
+                length="42045787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628ddcb76f7eec4fd8e6ce23/510f73fb0bc378d56c6ddacf54b0283e357c5b3cb4e4f66328d1cfc8d77dc6b0" 
+                type="audio/mpeg" 
+                length="14015323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628ddcb76f7eec4fd8e6ce23/a4d4fc4413e0012d1b885ee44cb80a26b2750a724d1fe4a8ed6192b5d362210a" 
+                type="audio/x-m4a" 
+                length="42375109" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628ddcb76f7eec4fd8e6ce23/d2549dab6fa630f62ff4a3d5690cf271251151677c0ad81facaa6ab2e4fec857" 
+                type="audio/x-m4a" 
+                length="14345604" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293168</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-2/de-lovloese-bonus-og-behind-the-scenes-16122293168</link>
+            <title>Bonus &#x26; Behind the Scenes</title>
+            <description>Emil Rothstein og Tobias Ingemann tager i denne her helt unikke specialudsendelse lytterne med på en tur bag kulisserne på deres lovløse lydfortællinger. Her får du blandt andet svar på hvordan man giver en fantasislange liv, hvordan man udnytter sin work/life-balance til fulde og hvad en fireårigs forhold til en sang om ost kan føre med sig. Tempoet er stadig skyhøjt og fyldt med action. Og snart - meget snart - kommer der oven i købet en helt ny ægte sæson af De Lovløse.
+
+Tilrettelæggelse: Emil Rothstein-Christensen og Tobias Ingemann.
+Lyddesign: Tobias Ingemann.
+Redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 10 Oct 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:18:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633fdacdcf34d4e5bae27ac3/4182054ae65de295beb39c70f638b2a17eb6384d4ac056948ed89f859f36d133" 
+                type="audio/mpeg" 
+                length="26913115" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633fdacdcf34d4e5bae27ac3/874a7f1a72e9828400822e145a7ac8f5f20e6152b1a913e6a27226257bcb0a06" 
+                type="audio/mpeg" 
+                length="8971099" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633fdacdcf34d4e5bae27ac3/6e6cf1be2c1ae0eb587a7d334149e5f6ef1b1479bfa9308acce002916e195262" 
+                type="audio/x-m4a" 
+                length="36095135" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633fdacdcf34d4e5bae27ac3/01bb1fb01f0da8b5fdd2f53182df5a7ef062e80aca8d4fa92319784acfebdf48" 
+                type="audio/x-m4a" 
+                length="27124081" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633fdacdcf34d4e5bae27ac3/86d154b3eb01a0b6a0cf0a0643f50aa07c5a76734553ee83be25120d175cb171" 
+                type="audio/x-m4a" 
+                length="9183053" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293321</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-3/de-lovloese-casper-holstein-1-4-en-konge-foedes-16122293321</link>
+            <title>Casper Holstein 1:4 - En konge fødes</title>
+            <description>I 1876 bliver en dreng født på Kongens tværgade 9A i Christianssted på Skt. Croix. Som alle andre efterkommere af de tidligere slavegjorte er han dansk statsborger, lærer dansk i skolen - og har også dansk, måske endda adeligt, blod i årene. Det ligger ikke i kortene på det her tidspunkt, men i en ikke så fjern fremtid kommer den lille dreng til at være en af det mest magtfulde sorte mænd i hele Amerika.
+
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann, Isa Naja Buhl og Rune Sparre Geertsen.
+Medvirkende: Per Nielsen, cand.mag. i historie og forfatter.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 31 Oct 2022 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff9514c57f9f719d27463/674ea56ead83b9491cd27e4cc0acc945f30f042284cd96999c28ef75b2ca9ea8" 
+                type="audio/mpeg" 
+                length="42730075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff9514c57f9f719d27463/c782810412a4c5bc6fa63b4a21127f0ec04509563dbc9bc798be21ac7003df29" 
+                type="audio/mpeg" 
+                length="14243419" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff9514c57f9f719d27463/54ebaff1389c8e4e3e4fe9a5956937c8ae8ac90a4b5051208b96185608c2867e" 
+                type="audio/x-m4a" 
+                length="57308517" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff9514c57f9f719d27463/308e758aab5d76776182267fa17bddbb43bdc6b8464248a2c52bd63b86bb71b4" 
+                type="audio/x-m4a" 
+                length="43065025" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff9514c57f9f719d27463/770114ed11c1310070b5eabb4ff03321cf5ae00c0e0ca83935a114bed67cd43e" 
+                type="audio/x-m4a" 
+                length="14579036" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293322</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-3/de-lovloese-casper-holstein-2-4-the-numbers-king-16122293322</link>
+            <title>Casper Holstein 2:4 - The numbers king</title>
+            <description>Casper og hans mor bliver en del af det dansk vestindiske miljø i Harlem, hvor alle hjælper hinanden med at klare sig gennem tilværelsen. Men en dag får Casper uventet hjælp fra en langt mere priviligeret, rigere og hvidere kant. Det bliver starten på en meget indbringende business - på den forkerte side af loven.
+
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann, Isa Naja Buhl og Rune Sparre Geertsen.
+Medvirkende: Per Nielsen, cand.mag. i historie og forfatter.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 31 Oct 2022 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff950cf34d4e5bae29bff/05e64ca3711b510d36fd48f76aef713eec4c4ed63ae627e1a593cd80c0f7e909" 
+                type="audio/mpeg" 
+                length="46536283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff950cf34d4e5bae29bff/385929c9458006199a72cbf15b99201d03284d170e6cc9df8fa2484cdecb04bf" 
+                type="audio/mpeg" 
+                length="15512155" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff950cf34d4e5bae29bff/78ae629b99f977c0af8f16361c052b756b46ce0b625fe080ff465b38294a2a1a" 
+                type="audio/x-m4a" 
+                length="62413277" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff950cf34d4e5bae29bff/acfa3d832c94030b87b7e5036cb2949cda90995873a61407e5915f6963cdee2f" 
+                type="audio/x-m4a" 
+                length="46901045" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff950cf34d4e5bae29bff/18fc38d219a59f7c7e4bdb92b909835cb36e7de0582a2c2a5f503321caa608f1" 
+                type="audio/x-m4a" 
+                length="15877461" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293323</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-3/de-lovloese-casper-holstein-3-4-kidnapningen-16122293323</link>
+            <title>Casper Holstein 3:4 - Kidnapningen</title>
+            <description>Harlems ukronede konge er forsvundet. Ingen aner hvor han er. Hele Harlem er ramt af ængstelse - for Casper holder både hånden over og under flere tusinde af bydelens indbyggere. Er det den hvide mafia der står bag? Og hvorfor? Det kan du måske finde ud af ved at lytte med her...
+
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann, Isa Naja Buhl og Rune Sparre Geertsen.
+Medvirkende: Per Nielsen, cand.mag. i historie og forfatter.
+Produceret for DR af MonoMono</description>
+            <pubDate>Mon, 31 Oct 2022 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c05/dcbe4583d36144703628246ecec96ce339ccd6bfc76b5a5f8a2a7940f5766888" 
+                type="audio/mpeg" 
+                length="46245403" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c05/709050231b26d1c5ec98698d830edf649b99d1d320e0d981225027f2c70eaaf9" 
+                type="audio/mpeg" 
+                length="15415195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c05/e2c3af51fa8a43635b3b0ab36746e86fb77bd631adf191605da765b33816cbba" 
+                type="audio/x-m4a" 
+                length="62023198" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c05/bb9ef2eca4a5ee39364f35caa896c5c573137596bc727f6d7a4470596693f0ef" 
+                type="audio/x-m4a" 
+                length="46607933" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c05/6ea820b7db7a533c3822f1bc48330bec844d4b8c24f2e12fcff02873a8a9f6e2" 
+                type="audio/x-m4a" 
+                length="15778248" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122293324</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-3/de-lovloese-casper-holstein-4-4-vestindiens-messias-16122293324</link>
+            <title>Casper Holstein 4:4 - Vestindiens Messias</title>
+            <description>I 1918 vender Casper for første gang tilbage til sin fødeø, St. Croix, der netop er blevet officielt amerikansk. Men det syn der møder ham, er ikke noget han bryder sig om. Så han sætter sig for at bruge sin allerede anseelige formue på at udbedre de mange skader som først slaveriet, men siden USA militærdiktatur på øerne, har skabt. Det bliver et livsprojekt og noget man stadig ikke har glemt på The US Virgin Islands. Og da Casper dør i 1944 bliver han hyldet af et optog på flere tusinde mennesker med marchorkester, bannere og sange.
+
+I redaktionen: Emil Rothstein-Christensen, Tobias Ingemann, Isa Naja Buhl og Rune Sparre Geertsen.
+Medvirkende: Per Nielsen, cand.mag. i historie og forfatter.
+Produceret for DR af MonoMono</description>
+            <pubDate>Mon, 31 Oct 2022 05:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c08/f16ae8be80fa489ead739d6e0903cdb7ca97b4fc4fe19b19043cf33ecd5b2c90" 
+                type="audio/mpeg" 
+                length="52774939" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c08/873cec88c882bcb3f4d2fff74ebb5190b22d169990db067f23b8a52a3d558b30" 
+                type="audio/mpeg" 
+                length="17591707" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c08/ce6a0177e442b0ad080090ff05045de888e722cc6b094cd3903af906ff21ab89" 
+                type="audio/x-m4a" 
+                length="70780390" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c08/c2fc689dc3ccf6dcd06346fd933b147df5dc4ab80e051ff9f15dc5059f94b7b8" 
+                type="audio/x-m4a" 
+                length="53188601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633ff952cf34d4e5bae29c08/4287a8a0903567df10b9418c257d22f7472cdec7930aa818edf9ee7dea3446a1" 
+                type="audio/x-m4a" 
+                length="18005808" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393402</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-4/de-lovloese-else-christensen-1-6-ginnungagab-16122393402</link>
+            <title>Else Christensen 1:6 - Ginnungagab</title>
+            <description>Vi starter helt fra begyndelsen. Vi skal have skabt både verden og guderne og menneskeslægten.
+Det er ligesom grundlaget - og derudfra kan en mangfoldig og mystisk verden udfolde sig. En verden hvor heltemod, vikingestyrke og nordisk mytologi stadig gælder. Og hvor det gælder om at kæmpe for den nordiske hvide mands overlevelse. Også selvom man sidder i en trailerpark i Florida og drikker kaffe.
+Vært og tilrettelæggelse: Emil Rothstein-Christensen.
+Lyddesign og tilrettelæggelse: Tobias Ingemann.
+Redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 20 Apr 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40113e77cd020d09e4d9/00b310aa511ff1386b595e589fe8cb7e0070ece48331e4c4102ac0c0e23abf7b" 
+                type="audio/mpeg" 
+                length="30037111" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40113e77cd020d09e4d9/12d1f2fe083acbfa0528ead644af41c5d6c7d3ed19180cfd8f7f550b5f5ff53b" 
+                type="audio/mpeg" 
+                length="10012663" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40113e77cd020d09e4d9/bdbee1086ec7145f01836e3654a698aa584c444e545f62317de21eb402afa08d" 
+                type="audio/x-m4a" 
+                length="40284583" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40113e77cd020d09e4d9/bf9899002a65ef55dddd410ffcd4ba066e3ba3c339a32bab1d7290a3a4b42db4" 
+                type="audio/x-m4a" 
+                length="30272287" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40113e77cd020d09e4d9/37cafbd3b77a57d3e680db2f45ead8facd0cbd11aa24207899caff38a14635fe" 
+                type="audio/x-m4a" 
+                length="10247723" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393403</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-4/de-lovloese-else-christensen-2-6-else-og-aage-16122393403</link>
+            <title>Else Christensen 2:6 - Else og Aage</title>
+            <description>Tredivernes København er en politisk og ideologisk smeltedigel. Anarkister, kommunister og nazister råber op og slås i gaderne og på barerne.
+Midt i mellem næsten samtlige standpunkter sidder et nyforelsket par; Aage og Else. En dansk politisk version af Bonnie og Clyde. De drømmer om at omstyrte samfundet, men de aner endnu ikke hvor langt væk, de små skridt de tager her i København, kommer til at føre dem.
+Vært og tilrettelæggelse: Emil Rothstein-Christensen.
+Lyddesign og tilrettelæggelse: Tobias Ingemann.
+Redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 20 Apr 2023 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:43</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a912c/e01d5af13e40483ce2678fa8f5b692c060582e85dd86cf0d370650bf50abf0f0" 
+                type="audio/mpeg" 
+                length="57201852" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a912c/9747479eeb86b993def7a0a83d71594526c58527272954bb3735fa7bcffb69b9" 
+                type="audio/mpeg" 
+                length="19067580" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a912c/0d4804743b3d2cecb3a4be145f5e7f452d6794e6d23cf66b939a1b4ea2fb5127" 
+                type="audio/x-m4a" 
+                length="76716793" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a912c/7112242dd03a3c116e006eb0c65732adb4a11506c21f11a01d2337b58b37aac4" 
+                type="audio/x-m4a" 
+                length="57649491" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a912c/10ce9d826a99e4d78420c1426716450f2afd9b4fc676c25d71cf4d493f4bd4ed" 
+                type="audio/x-m4a" 
+                length="19514981" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393404</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-4/de-lovloese-else-christensen-3-6-landsforraederen-16122393404</link>
+            <title>Else Christensen 3:6 - Landsforræderen?</title>
+            <description>Det er ikke let for Else og Aage at finde den politiske balance i det nazibesatte Danmark. Både besættelsesmagten og politiet har øje på dem - og med god grund. For det unge par har meget at skjule. Blandt andet alle deres våben!
+Vært og tilrettelæggelse: Emil Rothstein-Christensen.
+Lyddesign og tilrettelæggelse: Tobias Ingemann.
+Elses stemme: Bodil Jørgensen.
+Redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 20 Apr 2023 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:43</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40108009a0db540a9111/7c05cce010c3b552da17b3ca2f42b2394ac5e6819f74ee01872c777edfb56c78" 
+                type="audio/mpeg" 
+                length="42800123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40108009a0db540a9111/14181afe55b8b8e1733f45f1df6623c3f62403870663664e33662663f34ed93d" 
+                type="audio/mpeg" 
+                length="14267003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40108009a0db540a9111/309457e3a884dc415c239b4223868a620fe7b17e1e13ff530860ac10e671fb47" 
+                type="audio/x-m4a" 
+                length="57401921" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40108009a0db540a9111/a09d66fcfc71e7f776279cba855038b1304603dc6fd4a9ae936bc3d69722057d" 
+                type="audio/x-m4a" 
+                length="43135255" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40108009a0db540a9111/77da0819e0a099ecc45f202b11873748edae957b36ca7fc67db707ec750d2938" 
+                type="audio/x-m4a" 
+                length="14601889" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393405</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-4/de-lovloese-else-christensen-4-6-enter-the-folkmother-16122393405</link>
+            <title>Else Christensen 4:6 - Enter - The Folkmother</title>
+            <description>I det her afsnit skal du høre den storslåede Beretning om hvordan den ganske almindelige pige Else Christensen, født Ochsner, fra Esbjerg, bliver til hele verdens odinistiske Folkmother. En origin story som vi kender dem fra både historier om superhelte - og superskurke. 
+Vært og tilrettelæggelse: Emil Rothstein-Christensen.
+Lyddesign og tilrettelæggelse: Tobias Ingemann.
+Medvirkende: Peder Byberg, religionshistoriker.
+Elses stemme: Bodil Jørgensen.
+Redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 20 Apr 2023 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:58</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40163e77cd020d09e4f5/9567f7acfea522261ba5b6649f63214541aa2f868e00b77ea734e8900cc61427" 
+                type="audio/mpeg" 
+                length="46040698" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40163e77cd020d09e4f5/9c0463f5b3b1f34b4675fddb71ca2bb1a0a6b4a861b3d03e0c79600136cbebe5" 
+                type="audio/mpeg" 
+                length="15347194" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40163e77cd020d09e4f5/7eef520b913ebb4b74d8b48f3d1e275fcf2663e40ff838c2065ca904916762c7" 
+                type="audio/x-m4a" 
+                length="61747899" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40163e77cd020d09e4f5/0575b80fd1b0dd45e8769737c182df5b9fe850ee7cfb1211639ae1d6b4e3e6c5" 
+                type="audio/x-m4a" 
+                length="46401151" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40163e77cd020d09e4f5/da7fd9d0a8901add65731fbc381267b5f26a3fe02818f6e4b80b4a906a4a19ba" 
+                type="audio/x-m4a" 
+                length="15707359" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393406</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-4/de-lovloese-else-christensen-5-6-vrede-hvide-vikinger-16122393406</link>
+            <title>Else Christensen 5:6 - Vrede, hvide vikinger</title>
+            <description>Else bruger sine Folkmother-superkræfter til at tiltrække nye medlemmer til sin organisation. Og det er et helt særligt segment hun har fundet sig: Vrede, hvide mænd der har vendt samfundet ryggen, og som hun kan plukke i Floridas forskellige statsfængsler. Men uden at ane uråd er Else også selv på vej om på den forkerte side af tremmerne.
+Vært og tilrettelæggelse: Emil Rothstein-Christensen.
+Lyddesign og tilrettelæggelse: Tobias Ingemann.
+Elses stemme: Bodil Jørgensen.
+Redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 20 Apr 2023 05:04:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a9125/8eabc571a8178fa49093c403a356b08ff29dcd6300f948bf454d7887e40ffddf" 
+                type="audio/mpeg" 
+                length="39418426" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a9125/c1662cae7f3276e2b1c7aeb183da74b9c0aeaad3dad7c0d792dbfb8b4c8411fd" 
+                type="audio/mpeg" 
+                length="13139770" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a9125/5d1749ab6429ff8721069aa9840dd0ec153d785260e841881696ba63e12b9958" 
+                type="audio/x-m4a" 
+                length="52866532" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a9125/2b61c4b49238209e075d0ffa406f5d788dd6e62b995823d8ed33cc5d8552fc25" 
+                type="audio/x-m4a" 
+                length="39727087" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40148009a0db540a9125/2e2b1791954a86d927ab54bda7470ec9dd015f8d8a780b6e012b38672ed68922" 
+                type="audio/x-m4a" 
+                length="13448212" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393407</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-4/de-lovloese-else-christensen-6-6-the-folk-mother-is-loose-16122393407</link>
+            <title>Else Christensen 6:6 - The Folk Mother Is Loose</title>
+            <description>Else er centrum for et følelsesladet og intenst retssalsdrama, helt som vi kender det fra 'Ally McBeal' eller 'A Few Good Men'. Det er en kamp mellem en lille 80-årig kvinde og det store brutale system. Men udenfor retsalen er odinister i gang med at tage sagen i egen hånd. De kræver "Freedom for the Folk Mother" og sælger støtte t-shirts med Elses billede på. 
+Vært og tilrettelæggelse: Emil Rothstein-Christensen.
+Lyddesign og tilrettelæggelse: Tobias Ingemann.
+Elses stemme: Bodil Jørgensen.
+Redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 20 Apr 2023 05:05:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:43:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40133e77cd020d09e4e7/a938d02abd46d01e4d4f82750b7703518e58ea44b67b65937f716ef58b1d9992" 
+                type="audio/mpeg" 
+                length="62914036" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40133e77cd020d09e4e7/33042475663600c45d3f50ed75846fccace868b183368bb291cf59e1cbe24f44" 
+                type="audio/mpeg" 
+                length="20971636" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40133e77cd020d09e4e7/aa600dc95b7739ba5c02e1797e8ea10a2fd6ded3461d3821ce69f4d4f5168c1d" 
+                type="audio/x-m4a" 
+                length="84377977" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40133e77cd020d09e4e7/aa85678f4ce4eba2efb0b4ac5c78d933d734be91b80a36221beac5a346a6ac78" 
+                type="audio/x-m4a" 
+                length="63406611" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:641c40133e77cd020d09e4e7/32dbe99147c2c05614ef61e1f79dbe49e3e7c505dd11985cf2664e02533f8833" 
+                type="audio/x-m4a" 
+                length="21463745" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393411</guid>
+            <link>https://www.dr.dk/lyd/special-radio/de-lovloese/saeson-5/de-lovloese-kongen-af-vesterbro-1-7-historien-om-svend-thevis-16122393411</link>
+            <title>Kongen af Vesterbro 1:7 - Historien om Svend Thevis</title>
+            <description>En jødisk familie flygter fra forfølgelser i Rusland i starten af 1900-tallet. Familien Ziwes ender i Danmark, hvor de slår sig ned i et af Københavns slumkvarterer. Børnene i familien lærer gadens love, og hvad der skal til for at skaffe penge. Ingen havde forudset, at drengen Abraham Ziwes et stykke ude i fremtiden kommer til at være på alles læber - og alle avisforsider - som den berygtede konge af Vesterbro, Svend Thevis...
+
+Fortæller og manus: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Trailerstemme: Simon Munkholm Philipsen.
+Medvirkende: Felix Ziwes.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfa110f46bbff3127c/2e9ec11bfc86f7cc0588c11eb7db730ed7039714277260afe366ea9c065e9a81" 
+                type="audio/mpeg" 
+                length="46504362" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfa110f46bbff3127c/82ad7079003a45c136679b9e5b1c2261a7f2c1c263787c409b3b6a6901b87324" 
+                type="audio/mpeg" 
+                length="15501738" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfa110f46bbff3127c/29f0762e7a1b10a369b92dc4356ff50907fc4656423f288cafd660dcb41b284f" 
+                type="audio/x-m4a" 
+                length="62369330" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfa110f46bbff3127c/c1a8f9149dc2dfffacc7bfe0450458da05321c14c7712225d79c5b127a04ae05" 
+                type="audio/x-m4a" 
+                length="46868009" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfa110f46bbff3127c/a12eb4e6dcdf7db530ed6bccfacf1e8582b8a4ac81c266444160d5106715f15e" 
+                type="audio/x-m4a" 
+                length="15866454" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393412</guid>
+            <link>https://www.dr.dk/lyd/special-radio/de-lovloese/saeson-5/de-lovloese-kongen-af-vesterbro-2-7-edderkoppens-kronprins-16122393412</link>
+            <title>Kongen af Vesterbro 2:7 - Edderkoppens kronprins?</title>
+            <description>Efterkrigstiden er en lovløs periode i København, hvor et organiseret forbrydersyndikat styrer både den sorte børs og en del af politiet. "Edderkoppen" kalder man den store bagmand. Men da han omsider bliver fældet af et par ihærdige journalister, er der jo et sæde ledigt i toppen af det lyssky hierarki. Og på sin blok noterer en af journalisterne navnet på en driftig tøjgrosserer, som han mener er den nye stærke mand.
+
+Fortæller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Medvirkende: Felix Ziwes, Birte Ziwes.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e1f0310093f059dba0/6b27ea96fdc2c32533108a18f593b52f8dd697e1dbb1e54e42930c30b9ab24e5" 
+                type="audio/mpeg" 
+                length="46779690" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e1f0310093f059dba0/f2777f70e9ea586f37ca6666e6be6d729750a99f995e2a612824fbf84444d5a5" 
+                type="audio/mpeg" 
+                length="15593514" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e1f0310093f059dba0/a321a86cb420134638883759e8687775a599cb741e01c27189f1751e55f5477a" 
+                type="audio/x-m4a" 
+                length="62738769" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e1f0310093f059dba0/1788552f55178fc6287ce7b376b8c9c22fe0b4276b255f0f1f9db4d68e5aa1f6" 
+                type="audio/x-m4a" 
+                length="47145533" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e1f0310093f059dba0/af0187e33020fed894ee1a015e0e5bd2c72bd3e5e87ca89c267a6823c2f1c321" 
+                type="audio/x-m4a" 
+                length="15960250" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393413</guid>
+            <link>https://www.dr.dk/lyd/special-radio/de-lovloese/saeson-5/de-lovloese-kongen-af-vesterbro-3-7-pornogrosseren-16122393413</link>
+            <title>Kongen af Vesterbro 3:7 - Pornogrosseren</title>
+            <description>Egentlig ville han ikke have noget med det smuds at gøre. Men pengene er simpelthen for gode. Så tøjgrosserer Svend Thevis hopper med på pornovognen, og bliver nu for alvor kendt i offentligheden som "pornogrosseren". Men det nye marked, han har bevæget sig ind på, sætter ekstra skub i de mange rygter, der er begyndt at køre om ham.
+
+Fortæller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Medvirkende: Felix Ziwes, Birte Ziwes, Jørgen Jensen.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:58</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db90/46005b22ff98241bf0a0462006bcd14a18db15494b53379fa6655a9f2fc06584" 
+                type="audio/mpeg" 
+                length="53248170" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db90/a413b3aa07973a77a92daf3cf53e920e7f778ccbd948892c4662fab2bf56ea88" 
+                type="audio/mpeg" 
+                length="17749674" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db90/cd517f110893a40d1bf19460459905df05f4eced38971912b262d0caa8b17629" 
+                type="audio/x-m4a" 
+                length="71414195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db90/ff07090078e382005bfe7ed479f39b9bb2ea42d8351283c5b1fade70a19c59e5" 
+                type="audio/x-m4a" 
+                length="53664821" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db90/fee4145cd959f055a797aa722911a83c0e10b223d3be3a8905e6dffacd21a53d" 
+                type="audio/x-m4a" 
+                length="18166965" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393414</guid>
+            <link>https://www.dr.dk/lyd/special-radio/de-lovloese/saeson-5/de-lovloese-kongen-af-vesterbro-4-7-gorilla-med-et-strygejern-16122393414</link>
+            <title>Kongen af Vesterbro 4:7 - Gorilla med et strygejern</title>
+            <description>Svend sidder varetægtsfængslet i isolation, sigtet for grov narkokriminalitet. Han har ingen indflydelse på, hvad der sker uden for fængslets mure, hvor historierne om hans hær af barske gorillaer tager til. Imens kæmper Svend forsvarsadvokat for at bevise, at politi og anklagemyndighed bevidst er i gang med at få en uskyldig mand dømt.
+
+Fortæller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Medvirkende: Jørgen Jensen, Jan Erik Kornerup Jensen.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db98/0cadfbbbc5a1d52cc6e7bd379efad792fa1cc89074b039ba1d996e8a2afee34c" 
+                type="audio/mpeg" 
+                length="43950378" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db98/1e65e63a9e143c25e96eb790a7e885540da78cccd1d09bf1cf88544da88980ee" 
+                type="audio/mpeg" 
+                length="14650410" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db98/3e8fa75dd90a1091b6ada78ac192a5be1de1516277254b350080218783e49efa" 
+                type="audio/x-m4a" 
+                length="58944125" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db98/ab11f7c23161f7fa6acb2215f47c40129f6c37ccca62dd5c3b9ff129ff626ee9" 
+                type="audio/x-m4a" 
+                length="44294225" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dff0310093f059db98/fc0e5277b87317c8294bb300a72797acef04fc77f27eac23165a116f0dec9024" 
+                type="audio/x-m4a" 
+                length="14995062" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393415</guid>
+            <link>https://www.dr.dk/lyd/special-radio/de-lovloese/saeson-5/de-lovloese-kongen-af-vesterbro-5-7-en-saunaklub-for-stroemere-16122393415</link>
+            <title>Kongen af Vesterbro 5:7 - En saunaklub for strømere</title>
+            <description>Den stort anlagte sag mod Svend smuldrer fuldstændigt. Vidnerne fremstår utroværdige, og på Københavns Politigård er alt ved at  gå op i hat og briller og interne magtkampe. Men på formiddagsavisernes redaktioner er man stadig ikke i tvivl om, at Svend må være den store bagmand.
+
+Fortæller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann
+Medvirkende: Jørgen Jensen, Jan Erik Kornerup Jensen.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05:04:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfdd03ee38da9cb772/d9ba752da6bddf18871e6130262609343fb0b18f7dd314e25faa681239a01790" 
+                type="audio/mpeg" 
+                length="57604458" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfdd03ee38da9cb772/7a24fffaca7e79eb9525344e24ddd7327c4debc46ba9eb381c2322573b8254b7" 
+                type="audio/mpeg" 
+                length="19201770" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfdd03ee38da9cb772/8e6d343ad69b605a2048479a24c140a298837321c341bde9e62b87e14eda7500" 
+                type="audio/x-m4a" 
+                length="77256343" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfdd03ee38da9cb772/1bee99c81de76b95d318aaf4b53ebdfbb3697efa00b45230113abdc37ed9b1f7" 
+                type="audio/x-m4a" 
+                length="58055037" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3dfdd03ee38da9cb772/91bddcfad15b5d7f396f14c362ca6b4b9339e3b04d55c7258bdd8b1191a700cd" 
+                type="audio/x-m4a" 
+                length="19653275" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393416</guid>
+            <link>https://www.dr.dk/lyd/special-radio/de-lovloese/saeson-5/de-lovloese-kongen-af-vesterbro-6-7-sheriffen-fra-station-city-16122393416</link>
+            <title>Kongen af Vesterbro 6:7 - Sheriffen fra Station City</title>
+            <description>Svend sidder endnu engang på anklagebænken. Denne gang ser det rigtig sort ud.
+Men så begynder der at komme sprækker i anklageskriftet - og pludselig bliver alt vendt på hovedet. Hvem er det egentlig, der er de onde?
+
+Fortæller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Medvirkende: Jørgen Jensen, Jan Erik Kornerup Jensen, Lasse Ellegaard.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05:05:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0a110f46bbff31289/131f7cf7a81b229f16e6cf22cafccadeeb9f0388c48ec6b19c41dc12fc3d6858" 
+                type="audio/mpeg" 
+                length="64814250" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0a110f46bbff31289/e410fceb5b125d1199c176407fab5d9988ca5b994e0705124ce8af855940fe2b" 
+                type="audio/mpeg" 
+                length="21605034" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0a110f46bbff31289/13a174a52fff62035736a872d86e6e87ef7e306867339358aa44665dd75a2756" 
+                type="audio/x-m4a" 
+                length="86926031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0a110f46bbff31289/7ce1fcb2ad538a21269c79d7e4f946d7872f078cb8d45f312fa3c94307de6f3b" 
+                type="audio/x-m4a" 
+                length="65321389" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0a110f46bbff31289/9a949b935fd9bf0e9c5a5a60dd28607d86a37af7963aa4dd2cfa35d03baf3453" 
+                type="audio/x-m4a" 
+                length="22112737" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393417</guid>
+            <link>https://www.dr.dk/lyd/special-radio/de-lovloese/saeson-5/de-lovloese-kongen-af-vesterbro-7-7-nemesis-16122393417</link>
+            <title>Kongen af Vesterbro 7:7 - Nemesis</title>
+            <description>En lang og opslidende kamp mod politi, anklagemyndighed og flere store aviser er til ende. Svend har vundet flere skrivebordssejre. Men reelt har det været kampe uden vindere. Alle har tabt - og vi siger farvel til Svend.
+
+Fortæller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Medvirkende: Birte Ziwes, Felix Ziwes, Jørgen Jensen, Jan Erik Kornerup Jensen, Jeppe Facius, Anders-Peter Mathiassen.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05:06:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0dd03ee38da9cb77a/c95d90e4b78712da4073bae6b48db62246428b3db74c2bb75390b324dd3a1abd" 
+                type="audio/mpeg" 
+                length="52671018" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0dd03ee38da9cb77a/99c057dc0b76b9d38b32357c060a53128b06cd13c2a3204869ffbaa1b9bc7d07" 
+                type="audio/mpeg" 
+                length="17557290" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0dd03ee38da9cb77a/5c72ce1b4956dde01366ae00b66a379cc34e35990a36856357ad548da1da608a" 
+                type="audio/x-m4a" 
+                length="70640246" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0dd03ee38da9cb77a/8fe1716566df9f8edcb7d629f3225b2ae44293b9e71b4190a0936733c9720415" 
+                type="audio/x-m4a" 
+                length="53083277" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b3e0dd03ee38da9cb77a/744549ddf55e4635c6c2c14fd5262d3f1e24598fa5c98f298dcc37ff7f15f8b1" 
+                type="audio/x-m4a" 
+                length="17970099" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493001</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-6/de-lovloese-balladen-om-sidsel-1-4-jagten-paa-andres-aschenberg-16122493001</link>
+            <title>Balladen om Sidsel 1:4 - Jagten på Andres Aschenberg</title>
+            <description>En mand kommer løbende gennem Københavns små stinkende gader i 1728. Han er på jagt efter en fyr, som han plejede at regne for en af sine venner. Men sådan har han det ikke mere. Han føler sig udnyttet, bestjålet og ført bag lyset af sin "ex-ven", Andres Aschenberg. Men det er ikke kun et personligt opgør. Andres har forsøgt at udnytte og snyde hele samfundet!  Så nu er hævnens time kommet. 
+
+Tilrettelæggelse: Kirstine Leth Schütze, Emil Rothstein-Christensen.
+Medvirkende: Tyge Krogh, seniorforsker v. Rigsarkivet.
+Lyddesign: Tobias Ingemann.
+Originalmusik &#x26; tekst: Signe Marie Bang, Tobias Ingemann, Emil Rothstein-Christensen.
+Redaktør: Rune Sparre Geertsen.
+DR Redaktør: Cecilie Egholm Tonnesen.
+Produceret af MonoMono.</description>
+            <pubDate>Tue, 25 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c969fe/07a383b7d863818fc036728d6e9dc8c1e1618e874626de3566e904031492e031" 
+                type="audio/mpeg" 
+                length="52258046" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c969fe/4968004438f1481c4348a1dec1eccf96fc17d1623a8f4a447a374345f31d7236" 
+                type="audio/mpeg" 
+                length="17419646" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c969fe/2b26ff154157048583ca8cac71bcd7b87eae4c81d705b7dd2d6a8c58184c112c" 
+                type="audio/x-m4a" 
+                length="70086232" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c969fe/55b02bb7630d4e4a933a00a59db8a0fcbec99dadbd96cb96b9e9bc8368e9e3d8" 
+                type="audio/x-m4a" 
+                length="52666951" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c969fe/9dcc57e92b6e194ef5908f7add6bece9919a1c205ae843aefb2f768d69ee0350" 
+                type="audio/x-m4a" 
+                length="17828332" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493002</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-6/de-lovloese-balladen-om-sidsel-2-4-hvad-er-du-for-et-menneske-16122493002</link>
+            <title>Balladen om Sidsel 2:4 - Hvad er du for et menneske?</title>
+            <description>Den unge kvinde Bodil Marie har et problem. Hun er gravid - men der er ingen far til barnet. Hun søger hjælp hos den mere erfarne Sidsel Andersdatter, og sammen lægger de en storstilet plan, som skal redde Bodil Marie og hendes kommende barn fra alle de pinsler, som Sidsel selv har været udsat for i løbet af sit liv. Planen er overambitiøs og den er farlig, men den er også uhyre snedig.
+
+Tilrettelæggelse: Kirstine Leth Schütze, Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Originalmusik &#x26; tekst: Signe Marie Bang, Tobias Ingemann, Emil Rothstein-Christensen.
+Redaktør: Rune Sparre Geertsen.
+DR Redaktør: Cecilie Egholm Tonnesen.
+Produceret af MonoMono.</description>
+            <pubDate>Tue, 25 Jun 2024 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:36</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a04/82a6d9a132a518f57a77fa0a9edf224df50302635a2771bec47a5ebde08bcaac" 
+                type="audio/mpeg" 
+                length="46963449" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a04/c4d7047b28e4f91a34948ec41b32c81e79ec939a5dc67ba15c0730811cb201bd" 
+                type="audio/mpeg" 
+                length="15654777" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a04/7a9b22db9877f86fae81ea2bef7c958915d4ee87e6a51409610501939dafd2df" 
+                type="audio/x-m4a" 
+                length="62985999" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a04/c8dc185a2fa4580b90f16a07aa2fe4eff8ea9de4b0e0f18fab25e5e92e1db1c7" 
+                type="audio/x-m4a" 
+                length="47331431" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a04/1c8e9b8024365ee6ec369d57bc6ee14571336f772e4059716abaf5df8d8cd44c" 
+                type="audio/x-m4a" 
+                length="16022283" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493003</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-6/de-lovloese-balladen-om-sidsel-3-4-en-tordenskjold-paa-tordenskjold-16122493003</link>
+            <title>Balladen om Sidsel 3:4 - En Tordenskjold på Tordenskjold</title>
+            <description>Kanonkuglerne falder om ørerne på Andres, der febrilsk forsøger at holde styr på matrosernes afrevne arme og ben midt i al blodet. Det er ikke let at føre krig mod svensken med Tordenskjold i spidsen. Og Andres er ikke længere den mand han plejede at være, da han endelig vender hjem til familien igen.
+
+Tilrettelæggelse: Kirstine Leth Schütze, Emil Rothstein-Christensen.
+Medvirkende: Dan H. Andersen - forfatter og historiker.
+Lyddesign: Tobias Ingemann.
+Originalmusik &#x26; tekst: Signe Marie Bang, Tobias Ingemann, Emil Rothstein-Christensen.
+Redaktør: Rune Sparre Geertsen.
+DR Redaktør: Cecilie Egholm Tonnesen.
+Produceret af MonoMono.</description>
+            <pubDate>Tue, 25 Jun 2024 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a08/b9e705284bfd7e475489e399d2a9ffa577605c177828586f58956f8efa11c323" 
+                type="audio/mpeg" 
+                length="49664896" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a08/7b634181da5f5d4a7cdfd93eb2aa8c3f22378278a07120efbf5f42229de9f078" 
+                type="audio/mpeg" 
+                length="16555264" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a08/4b985087a10789f120d3041dd13e606bbdb082c2e79cfd574d1b8a54d2f3144d" 
+                type="audio/x-m4a" 
+                length="66608976" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a08/e7ec8bfc6f6a25e0b7043dbcab2cd61b8a4011ed9f56e4499f0b41b62d7b60c5" 
+                type="audio/x-m4a" 
+                length="50053859" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a08/a5727732498b569badb168b8fd47f4c7528a44ed21f7ab41250285044225665a" 
+                type="audio/x-m4a" 
+                length="16943840" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493004</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-6/de-lovloese-balladen-om-sidsel-4-4-et-menneske-som-alle-andre-mennesker-16122493004</link>
+            <title>Balladen om Sidsel 4:4 - Et menneske som alle andre mennesker!</title>
+            <description>Endnu engang er det tid til retssalsdrama i De Lovløse. Alle er der. Nu skal sandheden langt om længe frem i lyset! Nu begynder jorden for alvor at brænde under Sidsel, Andres og Bodil Marie.
+Tilrettelæggelse: Kirstine Leth Schütze, Emil Rothstein-Christensen.
+Medvirkende: Tyge Krogh - seniorforsker v. Rigsarkivet, Dan H. Andersen - forfatter og historiker.
+Lyddesign: Tobias Ingemann.
+Originalmusik &#x26; tekst: Signe Marie Bang, Tobias Ingemann, Emil Rothstein-Christensen.
+Redaktør: Rune Sparre Geertsen.
+DR Redaktør: Cecilie Egholm Tonnesen.
+Produceret af MonoMono.</description>
+            <pubDate>Tue, 25 Jun 2024 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a0c/34320a94186678b2a4f3a64aee5e62dfe32a81fa6d461b70fc51a9feb0418edd" 
+                type="audio/mpeg" 
+                length="49248440" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a0c/4072f78c8a564ce6e805bab31970858711857f90fa095b447a6de5ac0f8f03b4" 
+                type="audio/mpeg" 
+                length="16416440" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a0c/89019db2f18bb7a22429c595484c295bcf1df277b27dc074d94b0f11084eaece" 
+                type="audio/x-m4a" 
+                length="66049929" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a0c/01cc851d108a0778610e3bde4d1d33d0df6a10e13509c010df2890590445d5f4" 
+                type="audio/x-m4a" 
+                length="49633867" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666171717937d2cab8c96a0c/68e6b34338c9a33b7d94da07915fee9978733b3c2201361fce1ba44291762979" 
+                type="audio/x-m4a" 
+                length="16801685" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493401</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-7/de-lovloese-et-stykke-med-hedegaard-1-6-sagfoereren-fra-glostrup-16122493401</link>
+            <title>Et stykke med Hedegaard 1:6 - Sagføreren fra Glostrup</title>
+            <description>På restaurant Adlon i København kan man bestille "et stykke med Hedegaard", en laksemad opkaldt efter den rige stamkunde, Landsretssagfører Sven Hedegaard. En kæphøj herre i hovedstadens jetset. Men han har en hemmelighed. Og nu er landsretssagføreren i huj og hast taget till Monte Carlo. Han har brug for penge - meget hurtigt! Og de skal vindes på rouletten.
+
+Tilrettelæggelse &#x26; research: Tobias Ingemann, Anton Færch &#x26; Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Tema: Alex McKenzie.
+Medvirkende: Buster Bruun.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Egholm Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 16 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c5/7a316e7d7af592265b5df7ebf1e46c1a3657cb4b99491b3586dfd5c2e9c6ead3" 
+                type="audio/mpeg" 
+                length="51493692" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c5/468bc4a6e1840fae6ce2861555d0dbc99d1263be4974e28f8e896553d87a66df" 
+                type="audio/mpeg" 
+                length="17164860" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c5/5accb1fc476c33ec4bd76a3af06a2a0410e6850847e5f825beb64587e1bc6cd0" 
+                type="audio/x-m4a" 
+                length="69061661" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c5/558f98c78e5cf4337255dbe471a11deb1eba9fcf51e6726f5158a580c60939be" 
+                type="audio/x-m4a" 
+                length="51897055" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c5/fb5889566a6c894a81204157dde96108eb033d6c0b94a51ac9509fc3554ad2b3" 
+                type="audio/x-m4a" 
+                length="17567777" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493402</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-7/de-lovloese-et-stykke-med-hedegaard-2-6-goodbye-hedera-16122493402</link>
+            <title>Et stykke med Hedegaard 2:6 - Goodbye, Hedera</title>
+            <description>Sven Hedegaard bliver trukket gennem sølet. Pressen, vennerne og retssystemet nyder nærmest at ydmyge og afskrive ham. Og værst af alt. På grund af Sven mister familien sin stolthed - symbolet på deres succes: Villaen Hedera på Hedegaardsvej i Glostrup. Nu er alt tabt. 
+
+Tilrettelæggelse &#x26; research: Tobias Ingemann, Anton Færch &#x26; Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Klavertema: Alex McKenzie.
+Medvirkende: Sussi Lester.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Egholm Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 16 Dec 2024 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea67e61fb353153fa4ad/68ff2091f18d592c46496958513bc53ad03022a9030cd7985a24692e46d5a370" 
+                type="audio/mpeg" 
+                length="40914877" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea67e61fb353153fa4ad/59b91cbdf0da19658d764e5e3286f36e97ab6c4bfc6b51d5b68a3b435651cbfa" 
+                type="audio/mpeg" 
+                length="13638589" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea67e61fb353153fa4ad/43b944c024c51bcd0e3a8df5c7c3f00d76432dc33cf7154a8cce05fb9ca3d02b" 
+                type="audio/x-m4a" 
+                length="54873679" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea67e61fb353153fa4ad/995b92cf4965949bd97aab9c5b3bfc724e9f453f81b02bf0e240f02cfb91b7e6" 
+                type="audio/x-m4a" 
+                length="41235363" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea67e61fb353153fa4ad/d3656871bbbeca62c7ba102222d3a569fd8b882fcb4c0b5151d0bdb1ccd787a8" 
+                type="audio/x-m4a" 
+                length="13958767" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493403</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-7/de-lovloese-et-stykke-med-hedegaard-3-6-kapselpraesidenten-af-slough-16122493403</link>
+            <title>Et stykke med Hedegaard 3:6 - Kapselpræsidenten af Slough</title>
+            <description>Otto Bruun er en succesfuld herre. Han har et internationalt leverpostejsbakke-kapsel-tube dynasti med hovedsæde i Europas største industrikvarter, i Slough, lidt uden for London.
+Og Otto kommer til at være Svens frelsende engel. Og kapselfabrikken i Slough bliver hans himmerige. Alt er sjovt og godt - lige indtil det ikke er det længere.
+
+Tilrettelæggelse &#x26; research: Tobias Ingemann, Anton Færch &#x26; Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Klavertema: Alex McKenzie.
+Medvirkende: Buster Bruun.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Egholm Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 16 Dec 2024 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c9/a99400f1b307196fe8cfda42e102fee56e008bb0b73bccbac3780a5e3ce468cd" 
+                type="audio/mpeg" 
+                length="40525496" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c9/1d75c8ded15a6da15ace1fde9e2173e82952200c9cef7442efc24926b3385e52" 
+                type="audio/mpeg" 
+                length="13508792" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c9/d03752eef73f20c978befc419ac07642fdc26998fe6dd16bc0f8a11e1344077e" 
+                type="audio/x-m4a" 
+                length="54351760" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c9/f85f835c22f31c7dc1cd805fd34f60ce3cbe0d28a96081afef79000708b2d428" 
+                type="audio/x-m4a" 
+                length="40843127" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea65aa7bc2beae0450c9/d5408e62ce651b64914561b802fd54937a3cbdf0c30fb53e64b2630369ef571c" 
+                type="audio/x-m4a" 
+                length="13826016" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493404</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-7/de-lovloese-et-stykke-med-hedegaard-4-6-kodenavn-window-16122493404</link>
+            <title>Et stykke med Hedegaard 4:6 - Kodenavn: WINDOW</title>
+            <description>Bomberne regner ned over London. The Battle of Britain er i gang. Nazityskland forsøger at indtage Svens nye fædreland. Men på fabrikken i Slough hamrer maskinerne løs - i al hemmelighed. Med kapsler og leverpostejsbakker skal krigslykken vendes! Men det er ultrahemmeligt.
+
+Tilrettelæggelse &#x26; research: Tobias Ingemann, Anton Færch &#x26; Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Klavertema: Alex McKenzie.
+Medvirkende: Buster Bruun, Isolde Hedegaard.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Egholm Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 16 Dec 2024 05:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea674a42ce2aa3653639/4bd2208f2b2f167f132277c0be238cc6294afc5f6db0f3b44d4aac67b017527d" 
+                type="audio/mpeg" 
+                length="37649533" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea674a42ce2aa3653639/3c7052e998eeaf79d0f01d44e3da90854b64959b1aa2aac44513444fcbfd1558" 
+                type="audio/mpeg" 
+                length="12550141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea674a42ce2aa3653639/87098537db1aab1c65d2545b6224471a00ab94b769dccc95ffd19a405e7cff6b" 
+                type="audio/x-m4a" 
+                length="50493991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea674a42ce2aa3653639/e5dc6e27f89cc96a1dca2b2fc8dd857fc7651230461321cd7aaca59fdfb2e92b" 
+                type="audio/x-m4a" 
+                length="37944287" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea674a42ce2aa3653639/d42c0359214564a76f9691122c889feba891f34ba35f933702ecc778c49c020e" 
+                type="audio/x-m4a" 
+                length="12844735" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493405</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-7/de-lovloese-et-stykke-med-hedegaard-5-6-the-french-connection-16122493405</link>
+            <title>Et stykke med Hedegaard 5:6 - The French Connection</title>
+            <description>Der går mystiske rygter om Sven efter krigen. Samtidig begynder hans spor i London at blive mere og mere utydelige. Indtil de lige pludselig dukker op igen. I Sydfrankrig. Men mystikken stopper ikke af den grund.
+
+Tilrettelæggelse &#x26; research: Tobias Ingemann, Anton Færch &#x26; Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Klavertema: Alex McKenzie.
+Medvirkende: Buster Bruun, Isolde Hedegaard, Sussi Lester, Stephen og Eliza Hedegaard.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Egholm Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 16 Dec 2024 05:04:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea669936bcec98c25d61/0f0feacbe69daa768ea8c8632469a05fcb5f34c69b10762fe68169e80691a7c5" 
+                type="audio/mpeg" 
+                length="61915256" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea669936bcec98c25d61/2547540354ac550d46be950b9620b01eb1599ef7fc32951e3ac768fce6e05de9" 
+                type="audio/mpeg" 
+                length="20638712" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea669936bcec98c25d61/519da32e272da383101405007bc91d294397c87cbb42e78cb54981491efc2ecf" 
+                type="audio/x-m4a" 
+                length="83038127" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea669936bcec98c25d61/f14b37f894ae49f19acfc501ae4282e18942ea59068b6de543de111886587139" 
+                type="audio/x-m4a" 
+                length="62399843" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea669936bcec98c25d61/65f5fb692be717092a7df03683767842cb39e2cd9e6efce2f023643f76b191ac" 
+                type="audio/x-m4a" 
+                length="21123003" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493406</guid>
+            <link>https://www.dr.dk/lyd/p1/de-lovloese/saeson-7/de-lovloese-et-stykke-med-hedegaard-6-6-prinser-og-praesidenter-16122493406</link>
+            <title>Et stykke med Hedegaard 6:6 - Prinser og præsidenter</title>
+            <description>Sven har kæmpet sig tilbage til toppen. En kraftpræstation, som indgyder respekt. Og respekt - det får Sven! Både fra Kongehuset og Det hvide hus. Ingen forbinder ham længere med al svindlen og de suspekte sammentræf. Men dybt inde i Sven ligger der stadig et lille stykke af fortiden, som han ikke kan give slip på.
+
+Tilrettelæggelse &#x26; research: Tobias Ingemann, Anton Færch &#x26; Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Klavertema: Alex McKenzie.
+Medvirkende: Buster Bruun, Isolde Hedegaard, Sussi Lester, Stephen og Eliza Hedegaard.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Egholm Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 16 Dec 2024 05:05:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:43:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea664a42ce2aa3653633/4d951d5e7bbf85c84cdbd62c1787a5945b0a760ea296c52d55291095cef634f7" 
+                type="audio/mpeg" 
+                length="62783868" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea664a42ce2aa3653633/0f6678ad1cbfb90692e11c36bf424b72b606000ad81a1e0192af52ecfbdda43e" 
+                type="audio/mpeg" 
+                length="20928252" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea664a42ce2aa3653633/ed469305ae8f948f1775a602784095a1eca58da7e066b08d9167e4c61c0517da" 
+                type="audio/x-m4a" 
+                length="84202813" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea664a42ce2aa3653633/bf1dbff1fc09775f4c25a6b0e0312f4fe75c1f7e45c3a1155abe75627dc486c4" 
+                type="audio/x-m4a" 
+                length="63274979" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746ea664a42ce2aa3653633/f033a6b38447a7d17c3e1ba0f706422e0cb08e90802bfa528a527197ac242e51" 
+                type="audio/x-m4a" 
+                length="21419189" />
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/forbrydelsens-anatomi.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Forbrydelsens Anatomi (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi-4675134318000</link>
+        <description>Hvad får et menneske til at slå ihjel? 
+I serien 'Forbrydelsens Anatomi' undersøger Sara Røjkjær Knudsen sammen med historikere og andre fagfolk omstændighederne bag nogle af Danmarks mest berygtede mord gennem tiden. 
+Produceret af Rikke Precht og Sara Røjkjær Knudsen.
+Redaktører: Hanne Barslund og Carsten Nielsen.
+forbrydelsens@dr.dk
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:08 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/forbrydelsens-anatomi.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/forbrydelsens-anatomi.jpg</url>
+            <title>Forbrydelsens Anatomi (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi-4675134318000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/forbrydelsens-anatomi.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Historie</category>
+        <itunes:category text="Historie" />
+        <item>
+            <guid isPermaLink="false">11032362001</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/rovmordet-paa-stien/forbrydelsens-anatomi-1-5-rovmordet-paa-stien-11032362001</link>
+            <title>1:5 - Rovmordet på stien</title>
+            <description>Den stille husmandsejer Niels Jørgensen ligger i grøftekanten i Ejby Ådal næsegrus i jorden med hovedet slået til plukfisk. Tilbage i huset ligger hans kone Marie og 12-årige søn Jørgen i en blodpøl. Samfundet skræmmes fra vid og sans af det brutale trippelmord. Lovløsheden er nået til den yderste grænse. 
+Medvirkende: 
+Søren Møgelvang Nielsen, forfatter.
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Lars Andersen, lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+I redaktionen: Rikke Precht.
+Klip og Lyddesign: Sara Røjkjær Knudsen.</description>
+            <pubDate>Tue, 20 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7d8904cd8f082ffd95/0201a0ba8d0e68e8d4b6a9f8e627dd1b1f24b095badabbdd76397738703c104d" 
+                type="audio/mpeg" 
+                length="39656539" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7d8904cd8f082ffd95/433b11191ecc2fda29b1ea6f6233a6707c87e6e344273b8eb76f55d35e803e5c" 
+                type="audio/mpeg" 
+                length="13218907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7d8904cd8f082ffd95/5f30bcbe1d696b0b9de1aa5f4bb6517b7ba01f75f439f8dbe057af6b86695dd1" 
+                type="audio/x-m4a" 
+                length="53186405" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7d8904cd8f082ffd95/051dc9eebee835b791b1a166d9b5776891bcab338c08e54773a5d52b4670a7e3" 
+                type="audio/x-m4a" 
+                length="39967489" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7d8904cd8f082ffd95/40573f34e6d4a222d2c87db33bd9347e16a0b0fe4ffc2b41f46b0f294fc64f7b" 
+                type="audio/x-m4a" 
+                length="13530541" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032362002</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/rovmordet-paa-stien/forbrydelsens-anatomi-2-5-kongens-mand-11032362002</link>
+            <title>2:5 - Kongens mand</title>
+            <description>Kong Christian den 8. kan ikke vende det blinde øje til den forfærdelige forbrydelse i Ejby, og han sender derfor landets skarpeste forhørsdommer afsted for at rydde op. Dommeren hedder Peter Munthe Brun og er kendt for at skaffe resultater, koste hvad det vil. 
+Medvirkende:  
+Søren Møgelvang Nielsen, forfatter.
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Lars Andersen, lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+I redaktionen: Rikke Precht.
+Klip og Lyddesign: Sara Røjkjær Knudsen.</description>
+            <pubDate>Tue, 27 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7b2f049931670ceea2/097e9f4788dbf865010cf3c123cd3fd16073e1229e6046338ce62b30054ed997" 
+                type="audio/mpeg" 
+                length="36417691" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7b2f049931670ceea2/44d6e3e74cd7b1cc093d19f3035bbf84865edf4dea4de705df2fe19796021b5e" 
+                type="audio/mpeg" 
+                length="12139291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7b2f049931670ceea2/3daff7a8271d2c0836c99e3fdddf46de89a53994c86533ce05af5c5184d27d4b" 
+                type="audio/x-m4a" 
+                length="48842451" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7b2f049931670ceea2/50829899bec0f9fac7816116ad81b148d4dc1105f26c10e8f4fddfef8d00e124" 
+                type="audio/x-m4a" 
+                length="36703201" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7b2f049931670ceea2/4a5e7325b9bd93d80267d4d7dd8aa1faabe916ef1816a31fa54b3dcacb08430f" 
+                type="audio/x-m4a" 
+                length="12425556" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032362003</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/rovmordet-paa-stien/forbrydelsens-anatomi-3-5-en-parade-af-forbrydere-11032362003</link>
+            <title>3:5 - En parade af forbrydere</title>
+            <description>Forhørsdommer Peter Munthe Brun indsnævrer kredsen af mistænkte og har fem navne på blokken. Men er det hælerkongen, forbrydergeniet, sadisten eller en af de andre, som er skyldig i mord? 
+Medvirkende: 
+Søren Møgelvang Nielsen, forfatter.
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Lars Andersen, lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+I redaktionen: Rikke Precht.
+Klip og Lyddesign: Sara Røjkjær Knudsen.</description>
+            <pubDate>Tue, 04 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:42</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c8904cd8f082ffd8b/8007a2af30abd926bc7c852c97a6a58de6b39ea53fd87f5b7781c09688d664cd" 
+                type="audio/mpeg" 
+                length="41340187" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c8904cd8f082ffd8b/25cebfd8a8c45a4e1db79179f31e591d0915366d61240669f5c3c503a6810efd" 
+                type="audio/mpeg" 
+                length="13780123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c8904cd8f082ffd8b/1ec5744db097e63ebc5d575d8ca0b8c15673a98f85ad16afd0d6ac9af5eebd5f" 
+                type="audio/x-m4a" 
+                length="55444149" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c8904cd8f082ffd8b/09d423903426cafd61c0c8d2d6df7f6a8efea3cc60a73914964f1315007f401e" 
+                type="audio/x-m4a" 
+                length="41664105" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c8904cd8f082ffd8b/23e18baccd27ef576b37f6700662d5ab93762a46f28b23210703adbdefc1e0c0" 
+                type="audio/x-m4a" 
+                length="14105007" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032362004</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/rovmordet-paa-stien/forbrydelsens-anatomi-4-5-munthe-bruns-matchpoint-11032362004</link>
+            <title>4:5 - Munthe Bruns Matchpoint</title>
+            <description>Intensiv forhørsteknik er Munthe Bruns spidskompetence, og det sidste redskab han har i kassen for at kunne knække morderne og fremtvinge en tilståelse. Sagen nærmer sig sin afslutning. 
+Medvirkende: 
+Søren Møgelvang Nielsen, forfatter.
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Lars Andersen, lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+I redaktionen: Rikke Precht.
+Klip og Lyddesign: Sara Røjkjær Knudsen.</description>
+            <pubDate>Tue, 11 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7e2f049931670ceeb6/5a8b6c75cc9fd7da178ff7db6ac2cd6f470f9d1e47df115ab7e7990782fbd0d2" 
+                type="audio/mpeg" 
+                length="42337243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7e2f049931670ceeb6/0228bc60277b70496c73ef1692d190c80ae44943d6d56d49c0ebc376c54347ec" 
+                type="audio/mpeg" 
+                length="14112475" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7e2f049931670ceeb6/acc227bc4cddbc05b98db27a537269397382b8368a2949db4fbdfc60c7a1a158" 
+                type="audio/x-m4a" 
+                length="56781779" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7e2f049931670ceeb6/d2f1496d539b2d3321b5e8372b91bcbcf847616adf604d7163c7dc9e08b6440e" 
+                type="audio/x-m4a" 
+                length="42669229" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7e2f049931670ceeb6/e44c8381bf16d64b4f5e550908f8e125df147689bf59f3c85cb3bfc3f802b7b7" 
+                type="audio/x-m4a" 
+                length="14444979" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032362005</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/rovmordet-paa-stien/forbrydelsens-anatomi-5-5-de-famoese-sidste-ord-11032362005</link>
+            <title>5:5 - De famøse sidste ord</title>
+            <description>De skyldige får landets strengeste straf og skal halshugges ved daggry på galgebakken i Roskilde. Men det er ikke kun morderne, der mærker hammeren. Venslev-røvernes dage er talte.  
+Medvirkende: 
+Søren Møgelvang Nielsen, forfatter.
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Lars Andersen, lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+I redaktionen: Rikke Precht.
+Klip og Lyddesign: Sara Røjkjær Knudsen.</description>
+            <pubDate>Tue, 18 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c2f049931670ceea8/d51972c4cb3b8de95d42cd7df8144a1566e99260564c56463c3ad1edb6a0b0e8" 
+                type="audio/mpeg" 
+                length="41589595" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c2f049931670ceea8/22a816f65d78e11a3abbcead966184b7853a7f6ecce45f7e692a925a8339e01d" 
+                type="audio/mpeg" 
+                length="13863259" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c2f049931670ceea8/818cee2ff2408fd265191c02b847e7298257ec57b552dc1480ab5bc4e32124b9" 
+                type="audio/x-m4a" 
+                length="55778627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c2f049931670ceea8/1b13809cc7208aba7a649764fa9c46261002d648e6cd160984ecc39713cb8908" 
+                type="audio/x-m4a" 
+                length="41915325" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481dc7c2f049931670ceea8/1350cdcc1776867ac388ed36affaa742b8495d886bf1edfc1c14a60356fb5f9a" 
+                type="audio/x-m4a" 
+                length="14189894" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462001</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-1-6-de-fire-lig-11032462001</link>
+            <title>Et klassemord: 1:6 - De fire lig</title>
+            <description>En kold morgen i november 1841 bliver fire maltrakterede lig fundet ved et fattighus i Vendsyssel. Alle er blevet tævet ihjel. Herredsfogeden Heiberg er på sit livs sværeste sag: Hvem har dræbt de fire mennesker fra fattighuset, og hvorfor skulle de dø på så grusom en måde?
+Gennem 6 episoder undersøger bibliotekar Martin Schmidt-Nielsen og journalist Sara Røjkjær Knudsen, hvordan klasseskel kunne være altafgørende for din skæbne i 1840'ernes Danmark.
+I redaktionen: Rikke Precht, tilrettelægger.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+Klip og lyddesign: Sara Røjkjær Knudsen. 
+forbrydelsens@dr.dk</description>
+            <pubDate>Thu, 29 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee1d/4fb1b3f800353070d3c5021eb351c94abf503315271f9e988d65f18703844850" 
+                type="audio/mpeg" 
+                length="43211964" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee1d/41be934899c92b697d8e765c853e0dc00dd05692ef8628e41552fb6b34bfe158" 
+                type="audio/mpeg" 
+                length="14404284" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee1d/23ddd139572b54d7b7d5508ac672fd11fada2d1484bdb3999ff4a0108ac7f0d2" 
+                type="audio/x-m4a" 
+                length="57954085" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee1d/6c3c55d6cb4cfe459b255e1808f3d56afb88603ecd31dd5698f6148ee04a5bf2" 
+                type="audio/x-m4a" 
+                length="43550135" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee1d/3eeb13bae13378e5d4042fe0c3ef8d4857d201fbb3b8bde3d0489d6f71b7e58e" 
+                type="audio/x-m4a" 
+                length="14743278" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462002</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-2-6-et-hadet-hus-11032462002</link>
+            <title>Et klassemord: 2:6 - Et hadet hus</title>
+            <description>Heiberg kæmper med at få folk til at tale i Stagsted. Ingen vil rigtig fortælle, hvad de så og hørte den aften, hvor Maren, hendes sønner og Skov-Christian blev banket ihjel. Men de færreste savner dem. 
+Medvirkende: 
+Sara Røjkjær Knudsen: vært og tilrettelægger
+Martin Schmidt-Nielsen: bibliotekar og historieentusiast
+Lars Andersen: lektor i moderne i historie, Aalborg Universitet med speciale i kriminalsager fra 1800-tallet.
+I redaktionen: Rikke Precht, tilrettelægger 
+Redaktører: Carsten Nielsen og Hanne Barslund.
+Klip og lyddesign: Sara Røjkjær Knudsen.
+forbrydelsens@dr.dk</description>
+            <pubDate>Thu, 29 Feb 2024 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee24/a00c55dd68a42d2f022bb814eac08fa64d47ea8db95a7f96397996c0104b53ed" 
+                type="audio/mpeg" 
+                length="40452347" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee24/00e2b6a4205db12f784ddc52290bfd8536da352af63643512fb388d66a6e962c" 
+                type="audio/mpeg" 
+                length="13484411" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee24/c7833cc7acd338ab38f05f04c4abe8c41d462496b2a59f2d14c0e1a5f0b6d2fc" 
+                type="audio/x-m4a" 
+                length="54252860" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee24/7c2b25bfffe5f935a3de6ce763ea84ce1f52ddef6ff7f6cecb377c32d66a1083" 
+                type="audio/x-m4a" 
+                length="40768887" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee24/0eda4e27f95879505bd4dbccdf81f1dbc3b5e0d85f21e940df93fbb215971df8" 
+                type="audio/x-m4a" 
+                length="13801924" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462003</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-3-6-soelle-liv-11032462003</link>
+            <title>Et klassemord: 3:6 - Sølle liv</title>
+            <description>Endelig står et vidne frem og giver Heiberg et navn, der kan føre ham videre i efterforskningen. Samtidig får han etableret et billede af de fire ofres sølle liv og kriminelle levned før forbrydelsen.
+Medvirkende: 
+Sara Røjkjær Knudsen: vært og tilrettelægger.
+Martin Schmidt-Nielsen: bibliotekar og historieentusiast.
+Lars Andersen: lektor i moderne i historie, Aalborg Universitet.
+I redaktionen: Rikke Precht, tilrettelægger.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+Klip og lyddesign: Sara Røjkjær Knudsen.
+forbrydelsens@dr.dk</description>
+            <pubDate>Thu, 29 Feb 2024 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee28/57b5ba3b0f01c8ab53dee4f0af385141b164fd6fb44d2a901ef1ad9ec058aa88" 
+                type="audio/mpeg" 
+                length="38014141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee28/05ac1494a577637f0a589b21d9522e765aebe48e938dec67d01383a4cf1bd5d8" 
+                type="audio/mpeg" 
+                length="12671677" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee28/1c2add54cbf41671026d183ddcb99fa97f991574f03ec867d86084b0892e17a0" 
+                type="audio/x-m4a" 
+                length="50982865" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee28/1d8bd7e62fcb4738293d7bd68bfde2e520373597aafa15774d732c2043d603d7" 
+                type="audio/x-m4a" 
+                length="38311599" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a74b46a5796b2bdee28/3f8663de7dab3dd1780b38c530c7102e47ca39b7a559c9f525e1fba6362a96e3" 
+                type="audio/x-m4a" 
+                length="12970105" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462004</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-4-6-norden-for-lands-lov-og-ret-11032462004</link>
+            <title>Et klassemord: 4:6 - Norden for lands lov og ret</title>
+            <description>Aviserne skriver om drabssagen i Stagsted, og uret tikker for Heiberg, hvis han vil opklare sagen uden kongens indblanding. Heiberg presser på for at få hans hovedmistænkte til at tilstå. 
+Medvirkende: 
+Sara Røjkjær Knudsen: vært og tilrettelægger.
+Martin Schmidt-Nielsen: bibliotekar og historieentusiast.
+Lars Andersen: lektor i moderne i historie, Aalborg Universitet.
+I redaktionen: Rikke Precht, tilrettelægger.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+Klip og lyddesign: Sara Røjkjær Knudsen.
+forbrydelsens@dr.dk</description>
+            <pubDate>Thu, 29 Feb 2024 05:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75b46a5796b2bdee30/5a1432f3801bf082eb6d069d77e42a7a3c0defe548aa14b28103171df9152f4c" 
+                type="audio/mpeg" 
+                length="36572410" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75b46a5796b2bdee30/667b693579a8ce8d35e3c325d9ef47164faf3812c4960b0def92f29f24d5708b" 
+                type="audio/mpeg" 
+                length="12191098" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75b46a5796b2bdee30/cfb05aec4d9f657f73069113829bbf0a25ec2195445fddc42957652badeab9dd" 
+                type="audio/x-m4a" 
+                length="49049208" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75b46a5796b2bdee30/1b5e8281985dea89fdb63732425afd7bcf3b939cf9470bc548fa6c38480c17cd" 
+                type="audio/x-m4a" 
+                length="36858577" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75b46a5796b2bdee30/8f599f0b2be798542c56e077e5423dc503c692f9b0f6285b318911b13202b6ed" 
+                type="audio/x-m4a" 
+                length="12478341" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462005</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-5-6-rosedonten-11032462005</link>
+            <title>Et klassemord: 5:6 - Rosedonten</title>
+            <description>Nyheden om det lovløse Vendsyssel er landet på kongens bord. Han sender en af sine berygtede kommissionsdomstole afsted, og det får store konsekvenser. Ikke bare for de skyldige bag drabet på Maren og hendes familie, men for hele herredet.  
+Medvirkende: 
+Sara Røjkjær Knudsen: vært og tilrettelægger.
+Martin Schmidt-Nielsen: bibliotekar og historieentusiast.
+Lars Andersen: lektor i moderne i historie, Aalborg Universitet med speciale i kriminalsager fra 1800-tallet.
+Janne Bak: besøgschef Voergaard Slot.
+I redaktionen: Rikke Precht, tilrettelægger.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+Klip og lyddesign: Sara Røjkjær Knudsen.
+forbrydelsens@dr.dk</description>
+            <pubDate>Thu, 29 Feb 2024 05:04:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75125e7e02ec85e71f/a1c736ac674fa73dc5d6707315da025a8eb94c12eed8885a23da2d95536aecda" 
+                type="audio/mpeg" 
+                length="41867001" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75125e7e02ec85e71f/0c3fa7a58ffbf99e7e1bca47a9f52b6d0952b7aeceed50f249cdf05a57fbd30f" 
+                type="audio/mpeg" 
+                length="13955961" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75125e7e02ec85e71f/afb20f8555f37d676938edaca69f07c14603bdaa9efede60a4e1698920224c42" 
+                type="audio/x-m4a" 
+                length="56150104" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75125e7e02ec85e71f/f1f0a8cd41b8c103517ed0fe4e3ef644a5adca9e98bb000c20ce2f9d01fa5936" 
+                type="audio/x-m4a" 
+                length="42194563" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75125e7e02ec85e71f/e52da2810e575753c73a562281e07c1770a9c892122bc0138d5422393e8b5e4f" 
+                type="audio/x-m4a" 
+                length="14284558" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462006</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-6-6-frelser-eller-forbryder-11032462006</link>
+            <title>Et klassemord: 6:6 - Frelser eller forbryder</title>
+            <description>Drabsmændene er dømt til livstid i tugthus for deres forbrydelse mod Maren, hendes sønner og Skov-Christian. Men hvorfor bliver de hyldet for deres ugerning på en mindesten, som stadig står i Stagsted i dag? 
+Medvirkende: 
+Sara Røjkjær Knudsen: vært og tilrettelægger.
+Martin Schmidt-Nielsen: bibliotekar og historieentusiast.
+Lars Andersen: lektor i moderne i historie, Aalborg Universitet.
+Birgit Hansen, borgmester (S) Frederikshavn kommune.
+Preben Tamborg Pedersen, efterkommer.
+I redaktionen: Rikke Precht, tilrettelægger.
+Redaktører: Carsten Nielsen og Hanne Barslund.
+Klip og lyddesign: Sara Røjkjær Knudsen. 
+forbrydelsens@dr.dk</description>
+            <pubDate>Thu, 29 Feb 2024 05:05:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75a3739ba9348c1437/e8d00e1e7adebdfe9285b5264c76a01ad0174b1a91026b9f6dc48a34802d0d4e" 
+                type="audio/mpeg" 
+                length="46810809" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75a3739ba9348c1437/c386065bfee4e48ca6bad3436afb1a3899ccf0fc6ef63aeac5196a286108ec03" 
+                type="audio/mpeg" 
+                length="15603897" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75a3739ba9348c1437/a74abd1e5380ecca20f3734bb2eb27c15a9a900d988f96892fda17ba55b3e506" 
+                type="audio/x-m4a" 
+                length="62780601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75a3739ba9348c1437/4cfcabad215a428c0b20777cd14bb216535561ff891ff53c60e0598fc52a2fc5" 
+                type="audio/x-m4a" 
+                length="47177147" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c61a75a3739ba9348c1437/568ab5b3c1422d4c1c2c0046bf286e177434255c54977439facbaad1f528ef1d" 
+                type="audio/x-m4a" 
+                length="15971084" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462007</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-ekstramateriale-11032462007</link>
+            <title>Et klassemord - Ekstramateriale</title>
+            <description>Sæson 2 af Forbrydelsens anatomi om mordet på Maren, hendes sønner og Skov-Christian er slut. Men hvis du gerne vil gå videre med sagen på egen hånd, så kan du få inspiration i det her ekstra afsnit. 
+Medvirkende: 
+Martin Schmidt-Nielsen; bibliotekar.
+Birgit S. Hansen; borgmester Frederikshavn Kommune.
+Rikke Precht; vært og tilrettelægger. 
+Sara Røjkjær Knudsen; vært og tilrettelægger.</description>
+            <pubDate>Fri, 24 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:21:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664f08616c14bfedd62d9a31/b3f444793ac57d55a927489a25e94b174606b0369b2497f95d15749f6d905299" 
+                type="audio/mpeg" 
+                length="31490359" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664f08616c14bfedd62d9a31/1669dcae761b4c0acbeabfa8dc16ca7b63a3cb78cc3f5541b11ca2f91314fb90" 
+                type="audio/mpeg" 
+                length="10497079" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664f08616c14bfedd62d9a31/2a556488e0a22c402a32d7ceb96b7b9dc970ed00d6e93038a6da0b95be36640f" 
+                type="audio/x-m4a" 
+                length="42233255" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664f08616c14bfedd62d9a31/6451bb949b4e868052b2aab9c32d430465b4383361a692762a2ff2ceb2a2e934" 
+                type="audio/x-m4a" 
+                length="31736763" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664f08616c14bfedd62d9a31/5336b04d15f5521cef360c67327708bd92a21f17f0525a18074deba3b6c76998" 
+                type="audio/x-m4a" 
+                length="10743467" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462101</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/barneliget-paa-fejoe/forbrydelsens-anatomi-barneliget-paa-fejoe-1-4-bylten-paa-kirkegaarden-11032462101</link>
+            <title>Barneliget på Fejø: 1:4 -  Bylten på kirkegården</title>
+            <description>En forårsmorgen i maj 1881 finder den lokale kirkegraver på Fejø liget af et spædbarn. Alt tyder på, at en kvinde har skjult sin graviditet, født alene og dræbt barnet. Efterforskningen går i gang og hurtigt kommer en ung kvinde ved navn Ane i søgelyset. 
+Medvirkende: 
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Niels Sloth; gårdejer og øboer på Fejø.
+Jørgen Nielsen (Krudt); pensioneret kirkegraver og øboer på Fejø.
+Lars Andersen; lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Agnete Birger Madsen; historiker og forfatter.
+Tilrettelægger, Rikke Precht.
+Redaktører: Carsten Nielsen og Hanne Barslund.</description>
+            <pubDate>Tue, 25 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2297e40614b67ac8d2b1/c116fbd83de7d722f483e694b0f97417e630b490d5193f20946882558e7a2fb9" 
+                type="audio/mpeg" 
+                length="47458816" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2297e40614b67ac8d2b1/7c8eadac141af1ca7746b86bad59beb367bac81b871f5beb4512d3da5078557e" 
+                type="audio/mpeg" 
+                length="15819904" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2297e40614b67ac8d2b1/a2cd3f904fe5bfe7a4d51b57209b4527c72a3158e9d77f3ca29a7ee37f4e339b" 
+                type="audio/x-m4a" 
+                length="63650009" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2297e40614b67ac8d2b1/0db45b006d3413fd92d66c6376fe3c49a010b4c8f2d786786be4b8f784f6834e" 
+                type="audio/x-m4a" 
+                length="47830371" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2297e40614b67ac8d2b1/aa2809dcab582a51f7c9e2a083bb54a60e5d456759b829b302292a60282d95ab" 
+                type="audio/x-m4a" 
+                length="16191201" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462102</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/barneliget-paa-fejoe/forbrydelsens-anatomi-barneliget-paa-fejoe-2-4-en-falden-kvinde-11032462102</link>
+            <title>Barneliget på Fejø: 2:4 - En falden kvinde</title>
+            <description>Rygterne svirrer fortsat om Ane samtidig med, at der ankommer en ny birkedommer til øen. Han hedder Freuchen og er nærmest ustoppelig i sin mission for at finde barnemordersken og rense ud i usædeligheden og den moralsk fordærvede underklasse. 
+Medvirkende:
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Rasmus Kjærboe; museumsinspektør på Den Hirschsprungske Samling. 
+Lars Andersen; lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Agnete Birger Madsen; historiker og forfatter.
+Tilrettelægger; Rikke Precht. 
+Redaktører: Carsten Nielsen og Hanne Barslund.</description>
+            <pubDate>Tue, 25 Jun 2024 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:41:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298a63f4ccc1ed858a1/358773f69779a084e5203b079b728dccd9779201a973f432f06ab55e62b56bc1" 
+                type="audio/mpeg" 
+                length="59221305" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298a63f4ccc1ed858a1/d06d8c6e259fcfcfeee228407d749057cc4568d4b15cfa1287d3e398f8a17bd7" 
+                type="audio/mpeg" 
+                length="19740729" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298a63f4ccc1ed858a1/34143e14f62ead2f0de98ae478547c681a40ff2e09f880b3355abf8df0163a1d" 
+                type="audio/x-m4a" 
+                length="79424947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298a63f4ccc1ed858a1/63f045f60dd8710fe6c054d0223e2d548f3a77d67e1c28ab7cea09f968b085c8" 
+                type="audio/x-m4a" 
+                length="59684579" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298a63f4ccc1ed858a1/70dd577930972a0160ba57cb393aa3ace8ca9e22ec9b4acf801dac180915c8d9" 
+                type="audio/x-m4a" 
+                length="20203867" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462103</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/barneliget-paa-fejoe/forbrydelsens-anatomi-barneliget-paa-fejoe-3-4-himmel-over-helvede-under-11032462103</link>
+            <title>Barneliget på Fejø: 3:4  - Himmel over, helvede under</title>
+            <description>Ane er buret inde i Christianshavns kvindefængsel. På trods af sin tilståelse fastholder hun, at hun aldrig har født et barn. En dag ankommer yderligere to kvinder fra Fejø dømt for barnemord. Det gør fængselslægen mistænksom: Hvordan kan Danmarks mindste retskreds have så mange barnemordersker iblandt sig?
+Medvirkende:
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Lars Andersen; lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Agnete Birger Madsen; historiker og forfatter.
+Tilrettelægger; Rikke Precht.
+Redaktører: Carsten Nielsen og Hanne Barslund.</description>
+            <pubDate>Tue, 25 Jun 2024 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c22997e073b9ab6346e2c/2fd14343cbd5abea2d6af11948bc4b846f1a8fede0043e511243c72131ff571a" 
+                type="audio/mpeg" 
+                length="36622528" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c22997e073b9ab6346e2c/1c703bdf78084e44f3af013943c4655838a24a6e26f170c0031241e1732d1a44" 
+                type="audio/mpeg" 
+                length="12207808" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c22997e073b9ab6346e2c/db9535c0747153f6918291e2c65ef7aeb93ee9ce248bcc57a3a655a03cbdefa5" 
+                type="audio/x-m4a" 
+                length="49116449" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c22997e073b9ab6346e2c/8f91055a581bf5fa94d0dfb7e3dd4cb6833bcb685cb3b2547ef3c1aaee8301c8" 
+                type="audio/x-m4a" 
+                length="36909151" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c22997e073b9ab6346e2c/8a908751a5b2f1fa2fc406fa3e5fc39b3f1783f0369ffd3a4a76adb5bf2d26f4" 
+                type="audio/x-m4a" 
+                length="12494341" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462104</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/barneliget-paa-fejoe/forbrydelsens-anatomi-barneliget-paa-fejoe-4-4-skyldig-til-det-modsatte-er-bevist-11032462104</link>
+            <title>Barneliget på Fejø: 4: 4 -  Skyldig til det modsatte er bevist</title>
+            <description>Er Ane skyldig i barnedrab eller er hun blevet udsat for et justitsmord? Det spørgsmål skal Justitsministeriets udsendte opklare. Meget står på spil for Ane, men også for det danske retssystem. I kulissen lurer progressive kræfter. De venter på en sag, der kan være rambuk og ændre retsplejen i Danmark. 
+Medvirkende:: 
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Lars Andersen; lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Agnete Birger Madsen; historiker og forfatter.
+Oplæsning; Anders Aamand.
+Tilrettelægger; Rikke Precht. 
+Redaktører: Carsten Nielsen og Hanne Barslund.</description>
+            <pubDate>Tue, 25 Jun 2024 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298e40614b67ac8d2b9/f045aeb9696628f32088d748764fc6c0d6a6c57187015f462efcd4cfa3ab71c6" 
+                type="audio/mpeg" 
+                length="47848763" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298e40614b67ac8d2b9/03b8a8a3d90c23f9acb7cba9f6c3c3cedddb438b05aedaa2cd1ca820833d15ca" 
+                type="audio/mpeg" 
+                length="15949883" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298e40614b67ac8d2b9/9a70d6ea7dfa99ea45266f07e3328373a913750646d350e8e22d04fc49f23374" 
+                type="audio/x-m4a" 
+                length="64172479" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298e40614b67ac8d2b9/9c206e880efd4acff97986a7c32fb500c0c98eef5b0e7272ff7bcc48723e55df" 
+                type="audio/x-m4a" 
+                length="48223071" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c2298e40614b67ac8d2b9/6ddd7f7f2e7f2ecec456c1f814ffa1cd9ebcaaef0a146b19fed9c1377e59f937" 
+                type="audio/x-m4a" 
+                length="16324111" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462201</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/lejemordet-i-ugledige/forbrydelsens-anatomi-lejemordet-i-ugledige-1-5-den-doede-enke-11032462201</link>
+            <title>Lejemordet i Ugledige 1:5 - Den døde enke</title>
+            <description>En sen september aften i 1858 bliver en enke skudt i halsen med et jagtgevær af en person, der ligger gemt bag en busk. Landsbyen snakker om, at det nok er ham, de kalder for Balle-Lars, der har skudt hende. Men de lokale myndigheder mener, at enkens stedsøn har et stærkt motiv. Han stod nemlig til at arve gården. 
+Medvirkende: 
+Sara Røjkjær Knudsen, vært 
+M.C. Hansen, sangskriver og folkemusiker
+Eva Damsgård, journalist og forfatter 
+Ditlev Tamm, professor emeritus, jura og retshistorie 
+I redaktionen: Asger Hinsch
+Redaktører: Hanne Barslund og Carsten Nielsen</description>
+            <pubDate>Tue, 26 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0bc/e12fb69e9b4b2638032779e25d5f348e1247e7afccbea9f5186347ce4d142e21" 
+                type="audio/mpeg" 
+                length="46848242" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0bc/8fc34163735b6a6a021e2c3b0982a7a399af55221563f866d3d2b50fb16e22a2" 
+                type="audio/mpeg" 
+                length="15616370" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0bc/a11a60c9887b261ace70a1e3a2196912533f613ab3f814b8a41575a187aa690c" 
+                type="audio/x-m4a" 
+                length="62830788" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0bc/aa8c508d8a0660b63f7826b5c1296865c308964da9fd93445873590bbcd98b31" 
+                type="audio/x-m4a" 
+                length="47214791" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0bc/36be75918c17998d3c5c8a766509a8e6dd603f93176681643d7a2ec8fa471d4b" 
+                type="audio/x-m4a" 
+                length="15982808" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462202</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/lejemordet-i-ugledige/forbrydelsens-anatomi-lejemordet-i-ugledige-2-5-det-daarlige-selskab-11032462202</link>
+            <title>Lejemordet i Ugledige 2:5 - Det dårlige selskab</title>
+            <description>Balle-Lars drikker brændevin med sin svoger og kommer til at tage munden for fuld. Hele landsbyen ved, at Balle-Lars kan være en pralhals, men hvorfor? Hvad kommer han af? 
+Medvirkende: 
+Sara Røjkjær Knudsen, vært 
+M.C. Hansen, sangskriver og folkemusiker
+Eva Damsgård, journalist og forfatter 
+Ditlev Tamm, professor emeritus, jura og retshistorie 
+I redaktionen: Asger Hinsch
+Redaktører: Hanne Barslund og Carsten Nielsen</description>
+            <pubDate>Tue, 26 Nov 2024 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924fe0b5e9724f50851/925a26e0e1c32445fd2e65fe47d826d56755fd30b3ea035bb29a141f599f44c0" 
+                type="audio/mpeg" 
+                length="38937457" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924fe0b5e9724f50851/84c6c1f85c46566bbb8d3c25f25f510c9cae6bb563f00927a48277b901e81525" 
+                type="audio/mpeg" 
+                length="12979441" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924fe0b5e9724f50851/eed610e0aaf837bad27d995d605cc33debb116710c45d4ed43b4346d0fa86e3c" 
+                type="audio/x-m4a" 
+                length="52220953" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924fe0b5e9724f50851/a882d5a4b2840b5bf842b181b78e44accd059267d36ac7508b2bb51eb6b2507b" 
+                type="audio/x-m4a" 
+                length="39242023" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924fe0b5e9724f50851/995af88b01c30c3de8bfea6adf8920f93cb31d9268ca38cf24054e80c3e97871" 
+                type="audio/x-m4a" 
+                length="13284025" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462203</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/lejemordet-i-ugledige/forbrydelsens-anatomi-lejemordet-i-ugledige-3-5-faelden-klapper-11032462203</link>
+            <title>Lejemordet i Ugledige 3:5 - Fælden klapper</title>
+            <description>Opklaringen af mordet på enken i Ugledige kommer op på højeste niveau i retssystemet, da en kommissionsdomstol bliver nedsat. Balle-Lars bliver sat i fængsel på Nytorv og presset til det yderste. En dag får han nok. 
+Medvirkende: 
+Sara Røjkjær Knudsen, vært 
+M.C. Hansen, sangskriver og folkemusiker
+Eva Damsgård, journalist og forfatter 
+René Sørensen, erhvervsmand Præstø 
+Ditlev Tamm, professor emeritus, jura og retshistorie 
+Michael Bach, bibliotekar 
+I redaktionen: Asger Hinsch
+Redaktører: Hanne Barslund og Carsten Nielsen</description>
+            <pubDate>Tue, 26 Nov 2024 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0c4/4f481df2b35dc56475e66b232deb98cfbd71d7de50313b4c2f34c30076e76eef" 
+                type="audio/mpeg" 
+                length="44927867" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0c4/b2e3e1c38aac739c0fe79c0ebb4b01ec5f4ef85bc64cdb9db44c887c36053a90" 
+                type="audio/mpeg" 
+                length="14976251" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0c4/1bc87805486256af75cc5f93340f91f75f634ea32237eaf6236570cde2295df8" 
+                type="audio/x-m4a" 
+                length="60254985" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0c4/922a8c7f8ca1c7294410a052184343556bc889e3301c809967d236343a951f62" 
+                type="audio/x-m4a" 
+                length="45279303" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39249936bcec98a1b0c4/5a7fe4138786dd8a539ad3bac41a7f8e5b4754dba9bd13c851001309c31c093c" 
+                type="audio/x-m4a" 
+                length="15327669" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462204</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/lejemordet-i-ugledige/forbrydelsens-anatomi-lejemordet-i-ugledige-4-5-plageaanden-11032462204</link>
+            <title>Lejemordet i Ugledige 4:5 - Plageånden</title>
+            <description>Præsten Jacob Gjellebøl bliver sendt til Præstø for at forberede Balle-Lars på at dø, og præsten har en helt særlig mission. Han vil få Balle-Lars til at tilstå og angre sin forbrydelse. Men Lars bliver ved med at nægte sig skyldig. 
+Medvirkende: 
+Sara Røjkjær Knudsen, vært 
+M.C. Hansen, sangskriver og folkemusiker
+Gitte Bjerre, fængselspræst, Møgelkær kirke 
+Ditlev Tamm, professor emeritus, jura og retshistorie 
+I redaktionen: Asger Hinsch
+Redaktører: Hanne Barslund og Carsten Nielsen</description>
+            <pubDate>Tue, 26 Nov 2024 05:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924593cb960bcddd31f/87349590b01cbfa528a96d17a7f2dfb0129cb5c45e75e801a1db1f1759b1c828" 
+                type="audio/mpeg" 
+                length="41213246" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924593cb960bcddd31f/0ee550320c87cd365ad4f4431f8573284b098fdd825925aad508734086bb3b00" 
+                type="audio/mpeg" 
+                length="13738046" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924593cb960bcddd31f/ebdecd4ea8380791d1ca06a66ae7ee7d047e2a306207253ac82596b316080040" 
+                type="audio/x-m4a" 
+                length="55273151" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924593cb960bcddd31f/f7f89582847a2d98893a1a8c323a3115917d873fac7ec67f09f688a74c9daf50" 
+                type="audio/x-m4a" 
+                length="41535639" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f3924593cb960bcddd31f/24e75baa8ec4550ec4c5cf8409038299db040acce626ac60038c5588120686a9" 
+                type="audio/x-m4a" 
+                length="14060399" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032462205</guid>
+            <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/lejemordet-i-ugledige/forbrydelsens-anatomi-lejemordet-i-ugledige-5-5-de-sidste-sekunder-paa-skafottet-11032462205</link>
+            <title>Lejemordet i Ugledige 5:5 - De sidste sekunder på skafottet</title>
+            <description>Ved daggry samles op mod 4.000 mennesker på galgebakken i Lekkende skov. De er kommet for at se Balle-Lars få landets strengeste straf. Offentlige henrettelser havde en opdragende effekt, men kommer Balle-Lars til at gå i døden med anger over den forbrydelse, han er dømt for? 
+Medvirkende: 
+Sara Røjkjær Knudsen, vært 
+M.C. Hansen, sangskriver og folkemusiker
+Berit Christensen; museumsinspektør Museum Sydøstdanmark 
+Eva Damsgård, journalist og forfatter 
+Ditlev Tamm, professor emeritus, jura og retshistorie 
+I redaktionen: Asger Hinsch 
+Redaktører: Hanne Barslund og Carsten Nielsen</description>
+            <pubDate>Tue, 26 Nov 2024 05:04:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:16</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39259936bcec98a1b0c8/539db91473fc0ce444cc4c101c77a29d5ce6529a34ff268976047d11d67c5ae0" 
+                type="audio/mpeg" 
+                length="40711544" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39259936bcec98a1b0c8/0cc93254cf53d43f3e840b7d09d462f4e171a540d4da09fec93c4816bb404aa1" 
+                type="audio/mpeg" 
+                length="13570808" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39259936bcec98a1b0c8/7f14afefcc48a8e9dcca2baa72074970ac8fc9f0b18a4a1ac5320d7887117a4d" 
+                type="audio/x-m4a" 
+                length="54600213" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39259936bcec98a1b0c8/b93622fa158e46a8376e71c4babfcbc819503407dfdd3d3afb8357e96061281b" 
+                type="audio/x-m4a" 
+                length="41029919" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673f39259936bcec98a1b0c8/ce147b47f16096ca53729962e9ebcc8e658b30733c7f15e1cc0d1bded955915d" 
+                type="audio/x-m4a" 
+                length="13889221" />
+        </item>
+    </channel>
+</rss>

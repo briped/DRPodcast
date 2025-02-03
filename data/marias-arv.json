@@ -1,0 +1,613 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5624711337000",
+  "sortLetter": "m",
+  "channel": {
+    "title": "P1",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+    "slug": "p1",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p1"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar",
+    "Kultur"
+  ],
+  "numberOfEpisodes": 4,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-06-25T05:03:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p1/marias-arv-5624711337000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/marias-arv",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5624711337000",
+  "productionNumber": "5624711337000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:666848ebe40614b67ab7059f",
+  "slug": "marias-arv-5624711337000",
+  "title": "Marias arv",
+  "description": "Marias mor løb ud foran et tog, da Maria var 25 år. Selvmordet efterlod Maria i chok og med en angst for fremtiden. Maria undersøger i denne serie, hvordan en familietragedie og et traume rammer de pårørende i generationer. Hun er opsat på at gøre sig fri af den tavshed, skam, skyld og angst, der er fulgt med. For sine børns skyld. Tilrettelæggelse: Maria Lorentsen og Mette Willumsen.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67015e13b90c51f5c091cdd3",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NZDwseJmQ5,;tQK5ODsUw^S#bHnOOqsAt7Sgenj?",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e13b90c51f5c091cdd3&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67015e13b90c51f5c091cdd4",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e13b90c51f5c091cdd4&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67015e13b90c51f5c091cdd5",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oNF6E|6RLe|FcYENFxz=#mO?nOj?Kh,rx[R-t6s.-ooyX8iwnPXSt+b]$gV[IVr?axR6j]o|nOkC",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e13b90c51f5c091cdd5&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67015e13b90c51f5c091cdd4",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e13b90c51f5c091cdd4&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#16202C",
+        "#72C2A5"
+      ]
+    },
+    "colors": {
+      "dark": "#16202C",
+      "light": "#72C2A5"
+    }
+  },
+  "sSlug": "marias-arv",
+  "rssUri": "https://xmpl.dk/podcast/marias-arv.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032406301",
+      "durationMilliseconds": 1608823,
+      "categories": [
+        "Dokumentar",
+        "Kultur"
+      ],
+      "productionNumber": "11032406301",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:00:00+02:00",
+      "startTime": "2024-06-25T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/marias-arv/marias-arv-1/marias-arv-1-4-chokket-11032406301",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:666848ece40614b67ab705a8",
+      "series": {
+        "title": "Marias arv",
+        "id": "urn:dr:radio:series:666848ebe40614b67ab7059f",
+        "slug": "marias-arv-5624711337000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/marias-arv-5624711337000",
+        "learnId": "urn:dr:ocs:audio:content:series:5624711337000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13173600,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a2/a63db6bb435388d89dbdee277ce0ebbb25d24e6d89d67e05fc14121d6de121f0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 38915931,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a2/f38079b30b77e00b03fe1addb1cf40c9b197a8714487367f309dfa2d5d557418"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 51786896,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a2/816033bf3b9f74c5339adf43c531b4fede8fdb200e0d048c8cb816f3f2853f18"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12871542,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a2/6836412c04c43645e763c4a85239ad662db17ca75856325569dedc53a948675b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 38613750,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a2/95c0cfa16e3e61c8b79d3eaad217f8ad2053702ad546c5fda4acf8fb694661fa"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a2/68c1f10b33d1337219416d2b4875129f286b15555ddedd26ce2cfd0fff15f21f"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032406301",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:666848ece40614b67ab705a2",
+      "slug": "marias-arv-1-4-chokket-11032406301",
+      "title": "1:4 - Chokket",
+      "description": "Da Maria får besked om sin mors selvmord, forsvinder meningen med livet. Maria ser nærmere på det halve år, der førte op til tragedien, og på hvordan et traume opstår. Medvirkende: Maria Lorentsen og psykolog Anette Holmgren. Tilrettelæggelse: Maria Lorentsen og Mette Willumsen. Redaktører: Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67024d604673f49a519148d4",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NZDwseJmQ5,;tQK5ODsUw^S#bHnOOqsAt7Sgenj?"
+        },
+        {
+          "id": "urn:dr:radio:image:67024d604673f49a519148d5",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC"
+        },
+        {
+          "id": "urn:dr:radio:image:67024d604673f49a519148d5",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e13b90c51f5c091cdd5",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oNF6E|6RLe|FcYENFxz=#mO?nOj?Kh,rx[R-t6s.-ooyX8iwnPXSt+b]$gV[IVr?axR6j]o|nOkC"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#16202C",
+            "#72C2A5"
+          ]
+        },
+        "colors": {
+          "dark": "#16202C",
+          "light": "#72C2A5"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032406302",
+      "durationMilliseconds": 1612111,
+      "categories": [
+        "Dokumentar",
+        "Kultur"
+      ],
+      "productionNumber": "11032406302",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:01:00+02:00",
+      "startTime": "2024-06-25T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/marias-arv/marias-arv-1/marias-arv-2-4-smerten-11032406302",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:666848ece40614b67ab705ae",
+      "previousId": "urn:dr:radio:episode:666848ece40614b67ab705a2",
+      "series": {
+        "title": "Marias arv",
+        "id": "urn:dr:radio:series:666848ebe40614b67ab7059f",
+        "slug": "marias-arv-5624711337000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/marias-arv-5624711337000",
+        "learnId": "urn:dr:ocs:audio:content:series:5624711337000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13200511,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a8/238e9f471f8a95af8ec32ee0bf2a77840b4e65f7501bef5f0f620dec11e86791"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 38995419,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a8/45ca6cdf57d52975fb00e2bf4ed57a6a3931bde67b2bbc352a00333f746de1da"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 51892547,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a8/5c76e4739d4903a73049b2be75b93eaa305119bd4fcc533bb64d24a480cfadf0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12897844,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a8/095a892753666ca43d9685002caa8f1ffb6b4cac5aa435e8f8d5cbdb4fab4583"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 38692660,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a8/fde644a37d06a6cdc5b814cbfc3757549fe5e2c36fb081c617b5cc86ca00e96a"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705a8/18e3bcd2e6d80ff5cc897cc2f37f79b6098da96d2e95dafa5c48934195e3088b"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032406302",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:666848ece40614b67ab705a8",
+      "slug": "marias-arv-2-4-smerten-11032406302",
+      "title": "2:4 - Smerten",
+      "description": "Efter morens selvmord forsøger Maria at skubbe tragedien væk fra sine tanker. Men hun lider. Hun får smerter i brystet, angstanfald og taber håret. I episoden undersøger hun, hvorfor hendes krop reagerer så voldsomt. Medvirkende: Maria Lorentsen, psykolog Anette Holmgren og Marias mand, Benjamin. Tilrettelæggelse: Maria Lorentsen og Mette Willumsen. Redaktører: Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67024d60f82a0aeaabff2f59",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NZDwseJmQ5,;tQK5ODsUw^S#bHnOOqsAt7Sgenj?"
+        },
+        {
+          "id": "urn:dr:radio:image:67024d60f82a0aeaabff2f58",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC"
+        },
+        {
+          "id": "urn:dr:radio:image:67024d60f82a0aeaabff2f58",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e13b90c51f5c091cdd5",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oNF6E|6RLe|FcYENFxz=#mO?nOj?Kh,rx[R-t6s.-ooyX8iwnPXSt+b]$gV[IVr?axR6j]o|nOkC"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#16202C",
+            "#72C2A5"
+          ]
+        },
+        "colors": {
+          "dark": "#16202C",
+          "light": "#72C2A5"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032406303",
+      "durationMilliseconds": 1578751,
+      "categories": [
+        "Dokumentar",
+        "Kultur"
+      ],
+      "productionNumber": "11032406303",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:02:00+02:00",
+      "startTime": "2024-06-25T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/marias-arv/marias-arv-1/marias-arv-3-4-tavsheden-11032406303",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:666848ede40614b67ab705b2",
+      "previousId": "urn:dr:radio:episode:666848ece40614b67ab705a8",
+      "series": {
+        "title": "Marias arv",
+        "id": "urn:dr:radio:series:666848ebe40614b67ab7059f",
+        "slug": "marias-arv-5624711337000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/marias-arv-5624711337000",
+        "learnId": "urn:dr:ocs:audio:content:series:5624711337000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12927344,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705ae/06fa99325f6a662f15579120f4d147989380c842b8e2d7b3717573f8a4b5ee24"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 38188323,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705ae/bf46aa472dcf00b3343a9b9fdb3a21d54d7560b4b656da0ea9ef873f602e7a37"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 50818704,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705ae/4b6a032fc823a78a70ad26fac37aac4896a5e336a0d41e8b1d93cdf30470b37d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12630960,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705ae/377a0e10e9d657e762dc947d105c578add79b806b84e10e5051356baaf947f14"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 37892016,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705ae/8fa8cb9b79bb9b7011e428771d36d5256238cac38120f054d73333a181797d0e"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ece40614b67ab705ae/83ee237a5d2f2d0921a6e247e991a1e47303539ded1cdac4b7a7fd27b12bba28"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032406303",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:666848ece40614b67ab705ae",
+      "slug": "marias-arv-3-4-tavsheden-11032406303",
+      "title": "3:4 - Tavsheden",
+      "description": "Maria er vokset op i tavshed om alt det, der er svært. Marias mor mistede selv sin far til selvmord, da hun var i 20´erne, men ville ikke tale om det. Maria undersøger, om tavshed gør alting værre. Medvirkende: Maria Lorentsen, psykolog Anette Holmgren, Marias far, Torben, og mand, Benjamin. Tilrettelæggelse: Maria Lorentsen og Mette Willumsen. Redaktører: Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67024d60cb01870908a9e4c1",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NZDwseJmQ5,;tQK5ODsUw^S#bHnOOqsAt7Sgenj?"
+        },
+        {
+          "id": "urn:dr:radio:image:67024d60cb01870908a9e4c2",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC"
+        },
+        {
+          "id": "urn:dr:radio:image:67024d60cb01870908a9e4c2",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e13b90c51f5c091cdd5",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oNF6E|6RLe|FcYENFxz=#mO?nOj?Kh,rx[R-t6s.-ooyX8iwnPXSt+b]$gV[IVr?axR6j]o|nOkC"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#16202C",
+            "#72C2A5"
+          ]
+        },
+        "colors": {
+          "dark": "#16202C",
+          "light": "#72C2A5"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032406304",
+      "durationMilliseconds": 1625743,
+      "categories": [
+        "Dokumentar",
+        "Kultur"
+      ],
+      "productionNumber": "11032406304",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-25T05:03:00+02:00",
+      "startTime": "2024-06-25T05:03:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/marias-arv/marias-arv-1/marias-arv-4-4-fremtiden-11032406304",
+      "order": 100004,
+      "previousId": "urn:dr:radio:episode:666848ece40614b67ab705ae",
+      "series": {
+        "title": "Marias arv",
+        "id": "urn:dr:radio:series:666848ebe40614b67ab7059f",
+        "slug": "marias-arv-5624711337000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/marias-arv-5624711337000",
+        "learnId": "urn:dr:ocs:audio:content:series:5624711337000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13312147,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ede40614b67ab705b2/bc1dedf55390dd4df27645bb2de11a176120751a80ee7482d179d5d4d052b7a7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 39325123,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ede40614b67ab705b2/e1ca28582fa036e60d114f6267793f8c86cdfd86d6984a80c58f495e0ecada57"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 52331327,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ede40614b67ab705b2/a021fecfc1c3a06b76a2bfbdb8f2106218e4197bf26c8e77321758bc54be84b6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13006898,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ede40614b67ab705b2/f21d5b5f18afae7d150226e4acf17bdb8a5163e8e3af4060dd804a12084234ca"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 39019826,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ede40614b67ab705b2/f8235fe39c7e04d63d066b1c83122755ce5e5a52d39fc540a462384f326bb943"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666848ede40614b67ab705b2/dbb9783730335e4e86ec6c43c578dca7fb0a3ecb7b566e416aaff2369d4249b6"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032406304",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:03:00+02:00",
+      "id": "urn:dr:radio:episode:666848ede40614b67ab705b2",
+      "slug": "marias-arv-4-4-fremtiden-11032406304",
+      "title": "4:4 - Fremtiden",
+      "description": "Maria vil ikke holde sin mors selvmord hemmeligt. Hun vil gøre op med traumet og tavsheden. Men hun er i tvivl om, hvordan hun kan fortælle sine børn om morens selvmord. \nMedvirkende: Maria Lorentsen, psykolog Anette Holmgren, Marias søstre, Sara og Ditte. Tilrettelæggelse: Maria Lorentsen og Mette Willumsen. Redaktører: Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67024d617a30717b6277a6ac",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NZDwseJmQ5,;tQK5ODsUw^S#bHnOOqsAt7Sgenj?"
+        },
+        {
+          "id": "urn:dr:radio:image:67024d617a30717b6277a6ad",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC"
+        },
+        {
+          "id": "urn:dr:radio:image:67024d617a30717b6277a6ad",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oMEyxV2[Lx|?cYENBov#w]KinOn%GY$jtkS5t6s.%Lg3S#a0nPXSt+Xl$hV[IVrsaeR6fRo|nOkC"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e13b90c51f5c091cdd5",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oNF6E|6RLe|FcYENFxz=#mO?nOj?Kh,rx[R-t6s.-ooyX8iwnPXSt+b]$gV[IVr?axR6j]o|nOkC"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#16202C",
+            "#72C2A5"
+          ]
+        },
+        "colors": {
+          "dark": "#16202C",
+          "light": "#72C2A5"
+        }
+      }
+    }
+  ]
+}

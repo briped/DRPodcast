@@ -1,0 +1,741 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5444397043000",
+  "sortLetter": "b",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar"
+  ],
+  "numberOfEpisodes": 5,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-04-09T05:04:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen-5444397043000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/besaettelsen",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5444397043000",
+  "productionNumber": "5444397043000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:660d1502642679cbc1073335",
+  "slug": "besaettelsen-5444397043000",
+  "title": "Besættelsen",
+  "punchline": "En familiehistorie om kærlighed, krig og løgne under nazisternes besættelse",
+  "description": "Besættelsen er en årtier lang familiehistorie om kærlighed, krig og løgne under nazisternes besættelse af Danmark under Anden Verdenskrig. Arne Øland har aldrig kendt sin far. Hans mor nægtede at tale om hverken Arnes far eller sin egen fortid. En dag slipper lidt af hemmeligheden alligevel ud, og en vild historie udfolder sig. En historie, der udvikler sig til en besættelse for Arne. Spørgsmålet er, hvor godt vi egentlig kender vores forældre, og hvad det gør ved børn ikke at kende deres ophav?",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965c",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NLSUdoso@EsTF1xF=xjtNGjtW;a|vgazK4j[%Maz",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffe95bef5ae10d56a7965c&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffe95bef5ae10d56a7965d&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965e",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oIRlkUso{0WBDO-9={WXWBjuS4j[*yWX9Gof-;R+-Bofi_R*W;oJH=ayyDs:O@aysAWBnixZbvNa",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffe95bef5ae10d56a7965e&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffe95bef5ae10d56a7965d&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#251928",
+        "#FF8639"
+      ]
+    },
+    "colors": {
+      "dark": "#251928",
+      "light": "#FF8639"
+    }
+  },
+  "sSlug": "besaettelsen",
+  "rssUri": "https://xmpl.dk/podcast/besaettelsen.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122494201",
+      "durationMilliseconds": 1443893,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122494201",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-04-09T05:00:00+02:00",
+      "startTime": "2024-04-09T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-1-5-hemmeligheden-16122494201",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:660d1502642679cbc1073338",
+      "series": {
+        "title": "Besættelsen",
+        "id": "urn:dr:radio:series:660d1502642679cbc1073335",
+        "slug": "besaettelsen-5444397043000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen-5444397043000",
+        "learnId": "urn:dr:ocs:audio:content:series:5444397043000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 11824205,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ceda0/8749389d6463c63f490456132260e7bf48d192a7d59c7b697351649b72bac35e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 34926675,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ceda0/9939801133a6ddd19a517440e454e6842cb5b1b99e83a29cadad1fed706ad2e2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 46478316,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ceda0/874d31276ee0b5a7b3f8f267a7b84b25313f302157524c62f62735fcca4acd56"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11552116,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ceda0/30d89130a2d4af54f1e83e15476abb7d11d0d2a97343f989ed6ea5c4fca4baff"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 34655476,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ceda0/c9b159fd40fb41dfb0495363665b5030c0e9424527f93756ae2b828fb813a928"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ceda0/8ce24b90041e371fbe45ad0ee200afd74cd667ab418e20dc354049c791cce50a"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122494201",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-04-09T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:660d1503ab6e73d3ed7ceda0",
+      "slug": "besaettelsen-1-5-hemmeligheden-16122494201",
+      "title": "1:5 - Hemmeligheden",
+      "description": "En hyggelig fætter-kusine-fest udvikler sig voldsomt for Arne, da en hemmelighed kommer frem. Pludselig siger alle omkring bordet, at de godt ved, hvem Arnes far er - noget som Arne selv ikke har en anelse om. Det bliver for Arne starten på et opgør med sin mors fortid. En fortid hun har holdt skjult for ham.\n\nTilrettelægger: Anne Pilegaard Petersen.\nLyddesign: Tobias Ingemann.\nRedaktør: Rune Sparre Geertsen.\nMedvirkende: Arne Øland, Birgit Wessel, Anne-Mette Ribe, Malthe Øland Ribe.\nIndtaling af brev: Grete Tulinius.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965c",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NLSUdoso@EsTF1xF=xjtNGjtW;a|vgazK4j[%Maz"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oIRlkUso{0WBDO-9={WXWBjuS4j[*yWX9Gof-;R+-Bofi_R*W;oJH=ayyDs:O@aysAWBnixZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#251928",
+            "#FF8639"
+          ]
+        },
+        "colors": {
+          "dark": "#251928",
+          "light": "#FF8639"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122494202",
+      "durationMilliseconds": 1475909,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122494202",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-04-09T05:01:00+02:00",
+      "startTime": "2024-04-09T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-2-5-brevet-16122494202",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:660d1503642679cbc107333d",
+      "previousId": "urn:dr:radio:episode:660d1503ab6e73d3ed7ceda0",
+      "series": {
+        "title": "Besættelsen",
+        "id": "urn:dr:radio:series:660d1502642679cbc1073335",
+        "slug": "besaettelsen-5444397043000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen-5444397043000",
+        "learnId": "urn:dr:ocs:audio:content:series:5444397043000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12086287,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502642679cbc1073338/659a170ab40a2dbe2769654a855e60ad7b091bffcbeebde7e4d44929a282f10d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 35701155,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502642679cbc1073338/f62c9af59cc08cd09fbe8db88c0725aaf501305269227efaafc1b90c2ca565e3"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 47509019,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502642679cbc1073338/0baae9e7fe989653fd60dfec99f7daa96768fd84a57313534feb7291303267f7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11808242,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502642679cbc1073338/4ad95bf73928a8a45d63b2c29c9f5b6e9b3b3089c2e4e8d657b8c136093c49c5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 35423858,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502642679cbc1073338/520ff247c9d8820f9aeb90bad9afede6e21781034ac5e63b0ee25da6616b187e"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502642679cbc1073338/62d399472e0b8787ee480ab3de851b04fabd5b84ac1b2419c9460f7d16990a02"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122494202",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-04-09T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:660d1502642679cbc1073338",
+      "slug": "besaettelsen-2-5-brevet-16122494202",
+      "title": "2:5 - Brevet",
+      "description": "Lilli svarer på Arnes brev, hvor han kræver at få svar på, hvem hans far er. \"Det er ikke nogen Barbara Cartland roman\", skriver hun. Derimod er det en historie om en helt ung pige, som først ender i et ulykkeligt ægteskab, og bagefter bliver stormende forelsket i en mand, man ikke bør forelske sig i. \n\nTilrettelægger: Anne Pilegaard Petersen.\nLyddesign: Tobias Ingemann.\nRedaktør: Rune Sparre Geertsen.\nMedvirkende: Arne Øland, Birgit Wessel, Anne-Mette Ribe, Malthe Øland Ribe.\nIndtaling af brev: Grete Tulinius.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965c",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NLSUdoso@EsTF1xF=xjtNGjtW;a|vgazK4j[%Maz"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oIRlkUso{0WBDO-9={WXWBjuS4j[*yWX9Gof-;R+-Bofi_R*W;oJH=ayyDs:O@aysAWBnixZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#251928",
+            "#FF8639"
+          ]
+        },
+        "colors": {
+          "dark": "#251928",
+          "light": "#FF8639"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122494203",
+      "durationMilliseconds": 1601933,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122494203",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-04-09T05:02:00+02:00",
+      "startTime": "2024-04-09T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-3-5-befrielsen-16122494203",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:660d1502240d8ecbc364d6f7",
+      "previousId": "urn:dr:radio:episode:660d1502642679cbc1073338",
+      "series": {
+        "title": "Besættelsen",
+        "id": "urn:dr:radio:series:660d1502642679cbc1073335",
+        "slug": "besaettelsen-5444397043000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen-5444397043000",
+        "learnId": "urn:dr:ocs:audio:content:series:5444397043000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13118132,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503642679cbc107333d/bb153dc4c30aac94ee19793e05c056bb40c72b124bb5fb1cc1b88a70bf61a50e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 38749215,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503642679cbc107333d/d118bf8921f99f062eaa9b97bef24cbcb4c0f9adcfe011dcd8adbeff63476809"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 51565231,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503642679cbc107333d/8bbba14dd0286174dcfad8cdf82277b8e430cbd7b4603b051785f84a3b1118b6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12816441,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503642679cbc107333d/5202a8cd545843749233a7d48a463f302663f2e9de15a5247b0215db1494eb73"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 38448441,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503642679cbc107333d/d7baf125f99e4a533c3fb6713fa9c92e1b6e50a94c07564cb20443cb1876e6a8"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503642679cbc107333d/86b22421d1449d65cee4f440f9e236411399d7103fe8277a03c9a5c7270eed76"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122494203",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-04-09T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:660d1503642679cbc107333d",
+      "slug": "besaettelsen-3-5-befrielsen-16122494203",
+      "title": "3:5 - Befrielsen",
+      "description": "Da Danmark bliver befriet 4. maj 1945 er Lilli gravid og Carl forsvundet. Mens folkemængden jubler, begynder hendes mareridt. Hun bliver taget med af modstandsbevægelsen for at blive afhørt og senere interneret. En fængselsstraf venter om hjørnet. \n\nTilrettelægger: Anne Pilegaard Petersen.\nLyddesign: Tobias Ingemann.\nRedaktør: Rune Sparre Geertsen.\nMedvirkende: Arne Øland, Birgit Wessel, Anne-Mette Ribe, Malthe Øland Ribe.\nIndtaling af brev: Grete Tulinius.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965c",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NLSUdoso@EsTF1xF=xjtNGjtW;a|vgazK4j[%Maz"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oIRlkUso{0WBDO-9={WXWBjuS4j[*yWX9Gof-;R+-Bofi_R*W;oJH=ayyDs:O@aysAWBnixZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#251928",
+            "#FF8639"
+          ]
+        },
+        "colors": {
+          "dark": "#251928",
+          "light": "#FF8639"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122494204",
+      "durationMilliseconds": 2110901,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122494204",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-04-09T05:03:00+02:00",
+      "startTime": "2024-04-09T05:03:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-4-5-arnes-krig-16122494204",
+      "order": 100004,
+      "nextId": "urn:dr:radio:episode:660d1503ab6e73d3ed7ced9c",
+      "previousId": "urn:dr:radio:episode:660d1503642679cbc107333d",
+      "series": {
+        "title": "Besættelsen",
+        "id": "urn:dr:radio:series:660d1502642679cbc1073335",
+        "slug": "besaettelsen-5444397043000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen-5444397043000",
+        "learnId": "urn:dr:ocs:audio:content:series:5444397043000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 17285377,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502240d8ecbc364d6f7/f6dad01f847d214e670d991cf4f4c44cdb09059b56a1ef59f24ac9bfaa547f7e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 51060099,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502240d8ecbc364d6f7/93bf0a7ecc1e4099690ba7a3ee4df47f330d967f4f3073c196d2ac901c7d097a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 67947872,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502240d8ecbc364d6f7/ea41993f3bbfcfdb7454444877d8f1a316c77077d49d94dc480edf1fc0ace5f4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 16888186,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502240d8ecbc364d6f7/7f5db27e7b2a96fbad301dd52372c696f1bfe23bda31308f28aabdd82303b4b6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 50663674,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502240d8ecbc364d6f7/f260181d8818cc27e83197268e0ccec99902eec96bd0a1ce195067ad450a30da"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1502240d8ecbc364d6f7/5a71cdbd18080aa4d2f4b700fd458de2f194b86db13173d5e7e9df4e2a0b46dd"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122494204",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-04-09T05:03:00+02:00",
+      "id": "urn:dr:radio:episode:660d1502240d8ecbc364d6f7",
+      "slug": "besaettelsen-4-5-arnes-krig-16122494204",
+      "title": "4:5 - Arnes krig",
+      "description": "Arnes besættelse af at finde sandheden om sin far begynder. Han går nærmest i krig med myndighederne for at få adgang til sin faderskabssag, og finder samtidig ud af at der er hundredevis af andre krigsbørn som ham, hvor skammen er smittet fra mor til barn.\n\nTilrettelægger: Anne Pilegaard Petersen.\nLyddesign: Tobias Ingemann.\nRedaktør: Rune Sparre Geertsen.\nMedvirkende: Arne Øland, Birgit Wessel, Anne-Mette Ribe, Malthe Øland Ribe.\nIndtaling af brev: Grete Tulinius.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965c",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NLSUdoso@EsTF1xF=xjtNGjtW;a|vgazK4j[%Maz"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oIRlkUso{0WBDO-9={WXWBjuS4j[*yWX9Gof-;R+-Bofi_R*W;oJH=ayyDs:O@aysAWBnixZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#251928",
+            "#FF8639"
+          ]
+        },
+        "colors": {
+          "dark": "#251928",
+          "light": "#FF8639"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122494205",
+      "durationMilliseconds": 2703716,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122494205",
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "publishTime": "2024-04-09T05:04:00+02:00",
+      "startTime": "2024-04-09T05:04:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-5-5-hvad-er-en-far-16122494205",
+      "order": 100005,
+      "previousId": "urn:dr:radio:episode:660d1502240d8ecbc364d6f7",
+      "series": {
+        "title": "Besættelsen",
+        "id": "urn:dr:radio:series:660d1502642679cbc1073335",
+        "slug": "besaettelsen-5444397043000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/besaettelsen-5444397043000",
+        "learnId": "urn:dr:ocs:audio:content:series:5444397043000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 22138145,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ced9c/4004e723ce8bc98e0c2b0d2f3a0389500eac7eb3f17d475b855f66f5d383bcc2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 65398891,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ced9c/b017cab05f5c48ceb2c13fd13d0539badec2bd6f4ea8316e9c83d97085bd13df"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 87029013,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ced9c/3d34511453b24547f7915c26c811f9747d6411e8d5066ebd8d7bf1e560ba81e8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 21630590,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ced9c/4532e6579cc230e140992d6da6f38fc0c0aa9d4de9645412c8375ca8b25149f3"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 64890878,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ced9c/0eb9c72c610a8cbcfa4685973444e48e5d87e616bd3c054751fc2fdedfbdaf6b"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660d1503ab6e73d3ed7ced9c/d69f1639ca30a88d9b8d5529fcad1a5b8b59714e91edb5c2b7fab7496fc00aac"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122494205",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-04-09T05:04:00+02:00",
+      "id": "urn:dr:radio:episode:660d1503ab6e73d3ed7ced9c",
+      "slug": "besaettelsen-5-5-hvad-er-en-far-16122494205",
+      "title": "5:5 - Hvad er en far?",
+      "description": "Arnes jagt på sin far og hjælpen til de andre krigsbørn fylder mere og mere, og ironisk nok ender det med at slide på forholdet til hans egen familie. Da Arne endelig får kontakt til sin fars familie i Kroatien, rejser han afsted med sin søn Malthe. På rejsen opstår spørgsmålet for alvor: hvad er en far? \n\nTilrettelægger: Anne Pilegaard Petersen.\nLyddesign: Tobias Ingemann.\nRedaktør: Rune Sparre Geertsen.\nMedvirkende: Arne Øland, Birgit Wessel, Anne-Mette Ribe, Malthe Øland Ribe.\nIndtaling af brev: Grete Tulinius.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965c",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NLSUdoso@EsTF1xF=xjtNGjtW;a|vgazK4j[%Maz"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965e",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oIRlkUso{0WBDO-9={WXWBjuS4j[*yWX9Gof-;R+-Bofi_R*W;oJH=ayyDs:O@aysAWBnixZbvNa"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe95bef5ae10d56a7965d",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJRv5_w^{JaeDO$i^Pf6aeoKS4fk*yWW9Gof-;R+-Boei_R*W;oJH?WVyDofO@ayn%R+aexZbvNa"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#251928",
+            "#FF8639"
+          ]
+        },
+        "colors": {
+          "dark": "#251928",
+          "light": "#FF8639"
+        }
+      }
+    }
+  ]
+}

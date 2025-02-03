@@ -1,0 +1,3980 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5515048827000",
+  "sortLetter": "l",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Aktualitet"
+  ],
+  "numberOfEpisodes": 30,
+  "presentationType": "CurrentAffairs",
+  "groupingType": "Yearly",
+  "latestEpisodeStartTime": "2024-12-20T05:00:00+01:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/lyssky",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5515048827000",
+  "productionNumber": "5515048827000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Desc",
+  "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+  "slug": "lyssky-5515048827000",
+  "title": "Lyssky",
+  "punchline": "Følg med, når DR's krimiredaktion kaster lys over samfundets mørke sider",
+  "description": "DR's podcast om aktuelle kriminalsager. \nDR's krimiredaktion kaster lys over samfundets mørke sider og giver perspektiv på politiets efterforskninger, kriminelles hemmeligheder og indsigt i vores retssystem.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66f3cefe8168ebc64d4f1a47&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66f3cefe8168ebc64d4f1a48&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66f3cefe8168ebc64d4f1a49&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66f3cefe8168ebc64d4f1a48&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#13182E",
+        "#BB9BAE"
+      ]
+    },
+    "colors": {
+      "dark": "#13182E",
+      "light": "#BB9BAE"
+    }
+  },
+  "sSlug": "lyssky",
+  "rssUri": "https://xmpl.dk/podcast/lyssky.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465036",
+      "durationMilliseconds": 2184668,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465036",
+      "publishTime": "2024-12-20T05:00:00+01:00",
+      "startTime": "2024-12-20T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-unge-maend-anklaget-for-doedelig-traefaeldning-11802465036",
+      "order": 638702640001031036,
+      "previousId": "urn:dr:radio:episode:665581bfbe7905fb09c8dadb",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 17888465,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/03dba46f92cb77a750195a07ae0beb77b7539f35336f7fc897280b59177bb329"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 52844387,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/805a4914ab0b24afae613ca73d0a9e4db1c71a6028b5922580da14010fd7dfed"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 70322001,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/7be964c4a8e5098060aa3bfed06820d767b14f49c4904678ce38633850817060"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 17478230,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/db6d1c5563031fa47d53bebeea590f00b430a1f500e941ab98ef5adf18b6beb5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 52433750,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/d63d3ca1e022b538c2de558b74c5a1447d29c5b19335265aaae83cb42c92fd33"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/b7d1ef505cbc3c70333d028be473fed8281d33b8c5ee0dfa0e55dccb28a4060b"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465036",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-20T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:665581b9be7905fb09c8daad",
+      "slug": "lyssky-unge-maend-anklaget-for-doedelig-traefaeldning-11802465036",
+      "title": "Unge mænd anklaget for dødelig træfældning",
+      "description": "Det fremstår både meget voldsomt og yderst tilfældigt, da en mand tidligere på året kører på en mørk vej, og et grantræ pludseligt vælter ned i hans bil og dræber ham på stedet. Seks unge mænd har i denne uge været i retten tiltalt for uagtsomt manddrab efter at have fældet det store træ. Men hvorfor skulle træet fældes på en mørk aften i marts? Vi spørger Trine Maria Ilsøe, der var med i Retten i Næstved, da hele ni unge mænd var tiltalt for uagtsomt manddrab i sagen - træet, der dræbte manden i bilen, er nemlig ikke det eneste, der blev fældet ned over vejbanerne i den periode.\nMedvirkende: Trine Maria Ilsøe, retskorrespondent i DR, og Louise Dalsgaard, retsanalytiker i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465035",
+      "durationMilliseconds": 2275381,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465035",
+      "publishTime": "2024-12-13T05:00:00+01:00",
+      "startTime": "2024-12-13T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-beskederne-som-banderne-aldrig-troede-vi-skulle-se-11802465035",
+      "order": 638696592001030035,
+      "nextId": "urn:dr:radio:episode:665581b9be7905fb09c8daad",
+      "previousId": "urn:dr:radio:episode:665581bebe7905fb09c8dac9",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 18631164,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/1db5a49ff1e508e6982e4952ace65657583ec21a2be4ddf319d2cb609011c7be"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 55038487,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/189d78088a2838411795f256016ca295082d9368a0e465588e3deb422dbaf59d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 73241816,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/a61f1450241742889bc70b3b5f39f177ef7d97ab79cada7d6c65763c3fc5dd40"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 18203975,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/b38a6708b486b2e799dfa0711629965d399a60987bfed9e8c892a0e65a05fa3a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 54611015,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/84008a0557d247f6ee54652ff0e3867229a767c49ed3aeb1704addf91e735043"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/a84d63be30c9812638c628cf42d1ac1e219b838a1eae0dfdbdb4ebad2767a124"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465035",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-13T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:665581bfbe7905fb09c8dadb",
+      "slug": "lyssky-beskederne-som-banderne-aldrig-troede-vi-skulle-se-11802465035",
+      "title": "Beskederne, som banderne aldrig troede, vi skulle se",
+      "description": "Oftere og oftere ser vi, at den helt afgørende bevisbyrde i sager om bandekriminalitet er intern kommunikation mellem kriminelle fra forskellige krypterede tjenester. Det er samtaler, der blandt andet handler om planlægning af forbrydelser, men som politiet får mere og mere adgang til. Derfor taler vi i det her afsnit om de krypterede tjenester - hvorfor de er ideelle at bruge for mennesker med lyssky intentioner, og hvordan politiet nu alligevel bliver bedre til at knække de ellers så sikre kommunikationsformer.\nMedvirkende: Louise Dalsgaard, retsanalytiker i DR, Peter Christian Bech-Nielsen, tech-korrespondent og redaktionschef på Radar, og Frederik Hagemann-Nielsen, retsreporter i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465034",
+      "durationMilliseconds": 1715557,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465034",
+      "publishTime": "2024-12-06T05:00:00+01:00",
+      "startTime": "2024-12-06T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-narkodoemt-dansker-smidt-i-thailandsk-faengsel-11802465034",
+      "order": 638690544001029034,
+      "nextId": "urn:dr:radio:episode:665581bfbe7905fb09c8dadb",
+      "previousId": "urn:dr:radio:episode:665581bebe7905fb09c8dad1",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14047497,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/91106738f1739be5ae58586ef772f1f454ced20aefd383685a620c3e12186ae5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 41497491,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/e33cb8ccff7ea8f31fb27ffb0adbd10824edf9b784f27c09b765229d0206edbd"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 55222193,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/d82781bb8286f8baf4c09c8557650252b72d18267e4c2c740244a8220d586f36"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13725388,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/7ccabd715e09a7f9ed3263bf77145a6d7503f00d8bb1d144fed9edfbcb71c009"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 41175244,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/cba81821124c8f3f31b3d800cb8104434d95fd43430587061d1036e0f6637588"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/c83dd2854720aa02fa2432d63deafe8e192c562c5bf33df01ac8d4331a9bc5db"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465034",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-06T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:665581bebe7905fb09c8dac9",
+      "slug": "lyssky-narkodoemt-dansker-smidt-i-thailandsk-faengsel-11802465034",
+      "title": "Narkodømt dansker smidt i thailandsk fængsel",
+      "description": "Lige nu er en dansk mand fanget bag tremmer i et hårdkogt fængsel i Thailand, hvor der sidder op mod 80 indsatte per celle. Dér har danske John afsonet, siden han i 2021 fik en dom for salg af stoffer i Pattaya, Thailand. Men selvom han længe har forsøgt at blive overflyttet til et fængsel i Danmark, så er de danske myndigheder ude af stand til at hjælpe ham. Vi taler om, hvorfor Udenrigsministeriet ikke har mulighed for at skride ind, når en dansker sidder i et fængsel, som han selv beskriver som helvede på jord.\nMedvirkende: Trine Maria Ilsøe, retskorrespondent.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465033",
+      "durationMilliseconds": 2244372,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465033",
+      "publishTime": "2024-11-29T05:00:00+01:00",
+      "startTime": "2024-11-29T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-agent-samsams-sidste-forsoeg-11802465033",
+      "order": 638684532001028033,
+      "nextId": "urn:dr:radio:episode:665581bebe7905fb09c8dac9",
+      "previousId": "urn:dr:radio:episode:665581afbe7905fb09c8da5f",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 18377187,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/4ce78e240b9c35a4e33723bacc62ae4b4e5b080086f3340f1d88a68da78d9d53"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 54288171,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/4402350aedaeb6ee34063cfe9f1d054bbfcf6a969f7303dc3fbc798a678fe86b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 72243447,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/cd2cbad4109fdb940a51df5eafa1e9f6c3dc0c403adc2c4b2874fc199f7a3793"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 17955915,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/b33906e7c3ee98fd54b6ac6dff7a68c110be0e5b6550b2e59691d44e4a51943f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 53866827,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/d89290bb7ccdbc30c82b26939cc65534ddc7d79d03fc23702c0f36d5f8a27847"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/21743ce6d8937231f85716bcd991d646425ad952f73a4b1237c79c57826fbacb"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465033",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-11-29T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:665581bebe7905fb09c8dad1",
+      "slug": "lyssky-agent-samsams-sidste-forsoeg-11802465033",
+      "title": "Agent Samsams sidste forsøg?",
+      "description": "Var Ahmed Samsam terrorist, eller var han agent for de danske efterretningstjenester? Det spørgsmål har i efterhånden mange år hængt i luften i én af dansk retshistories mest komplekse sager nogensinde. Og nu har Ahmed Samsam taget sagen mod PET og FE i Højesteret - en sag, der på mange måder er langt udover det sædvanlige. Vi taler om, hvad Ahmed Samsam vil have ud af den her sag, hvad det betyder, at den skal i Højesteret, og hvad det er, der gør retssagen så speciel.\nMedvirkende: Louise Dalsgaard, retsanalytiker i DR og Frederik Hagemann-Nielsen, retsreporter i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465032",
+      "durationMilliseconds": 1867619,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465032",
+      "publishTime": "2024-11-22T05:00:00+01:00",
+      "startTime": "2024-11-22T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-bag-tremmer-i-kvindefaengslet-11802465032",
+      "order": 638678448001027032,
+      "nextId": "urn:dr:radio:episode:665581bebe7905fb09c8dad1",
+      "previousId": "urn:dr:radio:episode:665581be385dfedb00eadaee",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15292525,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/326df7acbc9f7ede4b1c98e8724db69bd1ea5443800e5d9f4026960de5489a19"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 45175551,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/7aa0b42e7b9eed68028696db6de0ff4f87daf553bbcfef5bd1fec5399fba1d23"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 60116725,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/f08ef4b0bd14f0423213b9ae513da0fb8e41b3f7b16a7c906dba732093a8e5e7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14941901,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/97db5168d72b1cafc435f3b9c2cfda6f9a9ff1f7995b641f6a843dded003b4e5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 44824781,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/553cf85c106f0a7dedd4bbfe388b77576a1e7ace7360c2d8c81062df13b6cdb4"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/2129754d8c8cffc106cbb101a74893ca1907260c44a7be8c41db4bda8ab3dbec"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465032",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-11-22T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:665581afbe7905fb09c8da5f",
+      "slug": "lyssky-bag-tremmer-i-kvindefaengslet-11802465032",
+      "title": "Bag tremmer i kvindefængslet",
+      "description": "Danmark har kun ét rent kvindefængsel. Jyderup Fængsel. Men lige nu overvejer politikere og retsordførere, om vi skal have endnu et, selvom fængselsbetjentene og Fængselsforbundet siger nej. Men hvordan er det at sidde i et fængsel sammen med 140 andre kvinder, der er så overfyldt, at de indsatte bliver tvunget til at dele celler på syv og ni kvadratmeter? Vi spørger en tidligere indsat, der har afsonet i Jyderup Fængsel.\nMedvirkende: Ditte Gulløve, tidligere indsat i Jyderup Fængsel.\nVært: Trine Maria Ilsøe.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465031",
+      "durationMilliseconds": 1771760,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465031",
+      "publishTime": "2024-11-15T05:00:00+01:00",
+      "startTime": "2024-11-15T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-naar-teenagere-stikker-med-kniv-11802465031",
+      "order": 638672400001026031,
+      "nextId": "urn:dr:radio:episode:665581afbe7905fb09c8da5f",
+      "previousId": "urn:dr:radio:episode:665581b7be7905fb09c8daa0",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14507732,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/2cd71a19157a1aa30001c0e650294c8813453c9b197b675926a076032be0c174"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 42857155,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/4393b3412592b59cda2642b405f85ae011a8ecadacea280cf57d1797f4e8a556"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 57031520,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/c68318e2f7358a4ca3ac2e3cd200b58d96d64dc95d3831d9720a70fcb06b34a6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14175056,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/7f9318fc450ea97e20e5c9a5d42b5f099219e9ba98748be53392a5b17af41a56"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 42524240,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/a172a4e56dfceba87243615c6731d0f5dc02fbccf12ac586735b1dc634e4fdd5"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/13c2cefac5e9b4661ae63bd66a8371929391af1c4cf5e4f9d5176447eac4c1da"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465031",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-11-15T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:665581be385dfedb00eadaee",
+      "slug": "lyssky-naar-teenagere-stikker-med-kniv-11802465031",
+      "title": "Når teenagere stikker med kniv",
+      "description": "En 15-årig dreng er i den her uge blevet idømt tre års fængsel for et knivoverfald i Husum tidligere på året. Det er bare én af mange sager det seneste stykke tid, hvor helt unge teenagere har stukket andre unge med kniv. Vi bruger sagen fra Husum til at stille spørgsmålene - hvorfor sker det, hvilke miljøer kommer de her unge gerningsmænd fra, og hvad gør politiet for at forebygge det?\nMedvirkende: Tommy Laursen, politiinspektør ved Københavns Politi, og Jacob Steinmetz, traumelæge på Rigshospitalet.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465030",
+      "durationMilliseconds": 2335409,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465030",
+      "publishTime": "2024-11-08T05:00:00+01:00",
+      "startTime": "2024-11-08T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-knivdraebte-ung-far-i-indkoersel-11802465030",
+      "order": 638666352001025030,
+      "nextId": "urn:dr:radio:episode:665581be385dfedb00eadaee",
+      "previousId": "urn:dr:radio:episode:665581b7385dfedb00eadac1",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 19122616,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/6a1d47430209468b2c59ffff1223f96402403c67f2f3bb1907fd7fa63328c64d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 56490575,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/25375ce999282e3d27688b782d7887bcb7bc32285923f7cd2673f8ddd9bb17cb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 75174008,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/5c7026c0131d2bea003eebd4b02c1bd7e404a64c825c115e96e82cc8ea8d6a42"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 18684170,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/3614e6d93365d5bd1f183f11075ebd13541eb0bde11f6dfaf7b8ab7834bfd235"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 56051594,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/b8338dd1b386014c75dd37be1243d46d8c3899ff5ec845700abf69527fa31c39"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/5e2e8ecb7fcef8167d7dd4187e945de605425578bd5fcc878762439c1d72b978"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465030",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-11-08T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:665581b7be7905fb09c8daa0",
+      "slug": "lyssky-knivdraebte-ung-far-i-indkoersel-11802465030",
+      "title": "Knivdræbte ung far i indkørsel",
+      "description": "Retten i Randers har vurderet, at den 32-årige Mikkel Bartholdy Pedersen er så farlig, at han er blevet idømt forvaring. Det sker, efter han knivdræbte en 30-årig mand i hans egen indkørsel. Vi taler om, hvad der skal til, før en gerningsmand kan blive idømt forvaring, og hvad det egentlig betyder at sidde i forvaring i Danmark. Derudover skal vi også omkring episoden med de to håndgranater, der blev kastet mod den israelske ambassade tilbage i oktober. Her har anklageren nemlig forsøgt at forlænge de to unge svenskeres varetægtsfængsling.\nMedvirkende: Julie Laursen, ph.d. og lektor i kriminologi, og Frederik Hagemann-Nielsen, retsreporter i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465029",
+      "durationMilliseconds": 2364660,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465029",
+      "publishTime": "2024-11-01T05:00:00+01:00",
+      "startTime": "2024-11-01T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-fra-efterlysning-til-drabssag-efter-fire-aar-fandt-politiet-knoglerester-11802465029",
+      "order": 638660304001024029,
+      "nextId": "urn:dr:radio:episode:665581b7be7905fb09c8daa0",
+      "previousId": "urn:dr:radio:episode:665581bd385dfedb00eadae1",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 19362136,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/a0a1b1310169a9b596ce3ab965a74dbf535c8d658d032a303d7b8e4facff0730"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 57197979,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/d13f750eeffbf7e67a5ebb9de6155a58a7d8724329cd254958f601e52851e988"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 76115384,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/414ab72904c16bbf3076ca63f26aad3454078945250101e587c5e9c54fdf5aee"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 18918219,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/3911ab2ac454bbb1ca949a91ad4ed1c7442e2b7f5edff77860256f054695bacf"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 56753739,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/444e06643351cfb925942f56a1be092695eb12b1f14414537e4d0ccfdf271288"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/a35082568b9245513f9c931bd224a3c493b85e90b76e32849a9e0583dbf0612f"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465029",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-11-01T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:665581b7385dfedb00eadac1",
+      "slug": "lyssky-fra-efterlysning-til-drabssag-efter-fire-aar-fandt-politiet-knoglerester-11802465029",
+      "title": "Fra efterlysning til drabssag: Efter fire år fandt politiet knoglerester",
+      "description": "Den 30. april 2020 var den sidste dag, Jimmi Lillelund blev set i live. Hans ekskone Maria meldte ham hurtigt savnet, og det blev startskuddet på en periode over næsten fire år, hvor politiet ledte efter Jimmi uden at finde andet end hans efterladte bil. Indtil nu hvor der er sket en udvikling i sagen. Tre personer er nemlig blevet sigtet for drabet på Jimmi Lillelund. Vi taler om politiets arbejde, der nu har ført til en sigtelse, og om hvordan det er at være pårørende og at skulle følge med i politiets arbejde fra sidelinjen i komplet uvished.\nMedvirkende: Bent Isager-Nielsen, tidligere drabschef i Rejseholdet, tidligere efterforskningschef og politiinspektør, og Maria Busk, ekskone til Jimmi Lillelund.\nVært: Caroline Clante\nTilrettelægger: Joakim Kruse Rasmussen",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465028",
+      "durationMilliseconds": 1847175,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465028",
+      "publishTime": "2024-10-25T05:00:00+02:00",
+      "startTime": "2024-10-25T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-bye-bye-bandidos-11802465028",
+      "order": 638654220001023028,
+      "nextId": "urn:dr:radio:episode:665581b7385dfedb00eadac1",
+      "previousId": "urn:dr:radio:episode:665581b3385dfedb00eadaaa",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15125219,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/9afd2e7ef2524a06b9b8ef5aa8febcfc245a78c7d840de0c67a990ff1f6410eb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 44681175,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/b503567cd6d376359ac71da4d39db6296c3bedc71701effacb566c9b0a62a8a7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 59458943,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/2e95b6d37081981525b870eadbd3d45d66e58c21e682e397b86e40a25bbda75e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14778312,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/dc29ac5f04d6036a2dd2b3dea2f483a746ee5d54764936ec8303e91a8a5c5d4b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 44334024,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/d3ee8cfe73d7c0f2bf597cf43f8ee3af4e0a1b7581c91682b8ca8265a2653363"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/ad21a6283ade56deab01b0db6d3bab93080c355c470e16a5a14ccfc7405e33a8"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465028",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-10-25T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581bd385dfedb00eadae1",
+      "slug": "lyssky-bye-bye-bandidos-11802465028",
+      "title": "Bye bye, Bandidos?",
+      "description": "Ni mænd med tilknytning til rockergruppen Bandidos er blevet fængslet efter et 13 timer langt grundlovsforhør i mandags. De er sigtet i en sag om fire drabsforsøg, og de nægter sig alle skyldige. Sagen er et led i en meget større historie - nemlig om den internationale rockergruppe Bandidos skal forbydes eller ej. Det er en sag, som skal for retten i starten af det nye år, og derfor taler vi om justitsministerens ønske om at opløse Bandidos - hvad det kræver, og om et forbud overhovedet vil have en effekt.\nMedvirkende: Trine Maria Ilsøe, retskorrespondent i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465027",
+      "durationMilliseconds": 2282957,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465027",
+      "publishTime": "2024-10-18T05:00:00+02:00",
+      "startTime": "2024-10-18T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-kugleregn-paa-christiania-11802465027",
+      "order": 638648172001022027,
+      "nextId": "urn:dr:radio:episode:665581bd385dfedb00eadae1",
+      "previousId": "urn:dr:radio:episode:665581b5be7905fb09c8da8c",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 18693171,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/450d61da31c3532c4cb7ebfacc90f07bbf4f3d02bb54e901b67bba14a7471d8b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 55221631,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/97c96db41486b1d364a06af0aca3ce8a4d47aacc58ce0f7036cde981059e030d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 73485487,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/1ca33a5a3ee58c9fbe5c76d7e3256837c531ab57f8d2df2dfaf81a17c1d2638d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 18264649,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/11ed5d54342fac2d53a83aa3d3f56f8450e63174201d6023fbce5db6794c53a5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 54793033,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/9ece1673923b691057c209df05fefc39c15217d4ef8320c7c6c64c922a9be45f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/64bddc255970f372708278dd1f2568190da1a28cbdfaeebfe0686ac64c2638d5"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465027",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-10-18T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581b3385dfedb00eadaaa",
+      "slug": "lyssky-kugleregn-paa-christiania-11802465027",
+      "title": "Kugleregn på Christiania",
+      "description": "Fem personer bliver ramt af skud, da Stjerneskibet på Christiania bliver stormet af bevæbnede mænd den 26. august 2023. En 30-årig mand dør på stedet, og sagen ender med at forandre Christiania, som vi har kendt det siden 1970'erne - og netop den sag er nu for retten ved Københavns Byret. Her afgiver forurettede, der blev ramt af skud, deres forklaring om, hvad der skete den aften i august. Derfor fortæller vi, hvad det var for et Christiania, der blev angrebet, hvordan stedet forandrede sig derefter, og hvilken virkelighed, der nu er at finde på Christiania, efter hashmarkedets centrale åre, Pusher Street, er revet op - brosten for brosten.\nMedvirkende: Trine Maria Ilsøe, retskorrespondent i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465026",
+      "durationMilliseconds": 2001298,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465026",
+      "publishTime": "2024-10-11T05:00:00+02:00",
+      "startTime": "2024-10-11T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-joedisk-kvinde-jeg-er-tryg-fordi-jeg-er-anonym-11802465026",
+      "order": 638642124001021026,
+      "nextId": "urn:dr:radio:episode:665581b3385dfedb00eadaaa",
+      "previousId": "urn:dr:radio:episode:665581b1385dfedb00eada96",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 16387003,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/f7cfe32362de730f0ea060ba34bcd938c14d794acb722c6815c72dabbafc513d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 48408747,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/6aafb5dad18072e161cd0cc3ffd7cb3c26608b509d08a9d76f31f4256799c91c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 64419455,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/69816f143edc3f38099ea098a20a31c646d2ef085da499bcdb5e62a5972c0851"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 16011342,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/2f7bb3a85c9439c843e39b4acb033eb6b2d68d4bd10eb6b29d92d9cc3ceac323"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 48033102,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/f952c67a2658a67dee0d7b0f4983b777476cfb9c97b2911175e83d5f180fbbf2"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/13342185505015afea5aedcd2319a6a013059b445d1ceb616bdf03d9a358bf36"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465026",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-10-11T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581b5be7905fb09c8da8c",
+      "slug": "lyssky-joedisk-kvinde-jeg-er-tryg-fordi-jeg-er-anonym-11802465026",
+      "title": "Jødisk kvinde: Jeg er tryg, fordi jeg er anonym",
+      "description": "De to unge svenske drenge, der mistænkes for i sidste uge at have kastet to håndgranater mod den israelske ambassade, er nu blevet sigtet for terror. To andre helt unge drenge er siden også blevet pågrebet, og den ene anholdt, for forsøg på forsætlig brandstiftelse på en anden adresse nær ambassaden - på årsdagen for Hamas' angreb på Israel. Midt i alt det står særligt én befolkningsgruppe - nemlig jøderne. Derfor spørger vi en anonym, jødisk kvinde, hvordan en terrorsigtelse som denne påvirker hende, og om hun mener, at det er sikkert at være jøde i Danmark i dag.\nMedvirkende: Trine Maria Ilsøe, retskorrespondent i DR, og en anonym jødisk kvinde.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465025",
+      "durationMilliseconds": 1546931,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465025",
+      "publishTime": "2024-10-04T05:00:00+02:00",
+      "startTime": "2024-10-04T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-to-haandgranater-paa-en-villavej-11802465025",
+      "order": 638636076001020025,
+      "nextId": "urn:dr:radio:episode:665581b5be7905fb09c8da8c",
+      "previousId": "urn:dr:radio:episode:665581b6be7905fb09c8da98",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12666912,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/324f5eecafc9b26b0b35d798afc2cd4dfa659c7fe112b7aa0b51ee56755f4b30"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 37418939,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/d3d0127d60116b3704c97e0d1b3558a2882394929dace83d1764d6d04c31c046"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 49794724,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/ed8a2e8e6893dc54e1b8fd15d698c60024706b63c293da355c396a23f6a605b7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12376398,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/c70ae7b37ac349d106c07a5f1d683f64b6f0c15d0b0ae126e83055ecb03fe87c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 37128270,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/37d58618bcc9a15c8ccdf9011fe90a703a416d01c4db9c0445e119937ccab609"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/5e69e56c2cbc5a5b8798afb4612d73a94b13609ce9e4ccd6ab9f515f34cf3053"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465025",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-10-04T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581b1385dfedb00eada96",
+      "slug": "lyssky-to-haandgranater-paa-en-villavej-11802465025",
+      "title": "To håndgranater på en villavej",
+      "description": "Natten til onsdag, omkring klokken 03:20, skete der to eksplosioner i et område omkring Strandagervej og Lundevangsvej i Hellerup nord for København - omkring 100 meter fra den israelske ambassade. Få timer derefter fortalte politiet på et pressemøde, at de havde anholdt tre unge svenskere på Københavns Hovedbanegård, sigtet for ulovlig våbenbesiddelse. To af dem blev torsdag fremstillet i grundlovsforhør. Vi samler trådene og taler om, hvad det var i politiets efterforskningsarbejde, der gjorde, at de få timer efter eksplosionerne kunne anholde tre mistænkte i sagen.\nMedvirkende: Trine Maria Ilsøe, retskorrespondent i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465024",
+      "durationMilliseconds": 2368572,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465024",
+      "publishTime": "2024-09-27T05:00:00+02:00",
+      "startTime": "2024-09-27T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-handlet-solgt-og-tatoveret-paa-ryggen-11802465024",
+      "order": 638630028001019024,
+      "nextId": "urn:dr:radio:episode:665581b1385dfedb00eada96",
+      "previousId": "urn:dr:radio:episode:665581b0be7905fb09c8da65",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 19394124,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/8005fd5262bd1b3411c27d1383caf8901e285118cce5d41facd53f5405421c93"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 57292407,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/ea60b9f2f8ded153ce38ce7d84b818b7d9b794e45ddc3cd692e127cbc93b73f9"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 76241152,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/0e0a02b61acd81e3376ea0bd168fdb3d478094f7cd2b76a49429e1cf6228b709"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 18949513,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/0ea1a246cd60ef6599644f873881af8cd6c84c875ce7079861e41833d3515bb5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 56847625,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/30b0766b58ad191e87ecf545e79d33b42c1e1153f55b8ecb3d6a96e064ba6b91"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/5047832394fdec80c5926c484a055a620e81ab860c683291c333cca714282296"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465024",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-27T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581b6be7905fb09c8da98",
+      "slug": "lyssky-handlet-solgt-og-tatoveret-paa-ryggen-11802465024",
+      "title": "Handlet, solgt og tatoveret på ryggen",
+      "description": "En rumænsk mand bliver i starten af 2024 dømt for menneskehandel, hvor han tvang fire kvinder ud i prostitution blandt andet i Hvidovre. Det bliver startskuddet til en rejse ind i menneskehandlernes verden, hvor børn og unge kvinder bliver handlet og solgt som en vare, mens bagmænd bruger beskidte tricks og gennemtænkte metoder til at rekruttere nye ofre til prostitution. Og her er det ikke unormalt, at kvinderne bliver tatoveret med bagmandens navn, så ingen er i tvivl om, hvem hun tilhører.\nMedvirkende: Trine Maria Ilsøe, retskorrespondent i DR, og Jakob Stobbe, tilrettelægger på Kriminelt.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465023",
+      "durationMilliseconds": 2362627,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465023",
+      "publishTime": "2024-09-20T05:00:00+02:00",
+      "startTime": "2024-09-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-faar-papprinsen-saerbehandling-af-politiet-11802465023",
+      "order": 638623980001018023,
+      "nextId": "urn:dr:radio:episode:665581b6be7905fb09c8da98",
+      "previousId": "urn:dr:radio:episode:665581b9be7905fb09c8dab1",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 19345567,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/8d7f336d5082c7c3341e5130f8f52b05a775a02608a133aa9e2d6230550bc625"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 57148947,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/8c7407e0216ac9bce87d0f4b447a0d0bd09ab0c0fa0b3e7465aa628a72b77afb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 76050235,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/ceeb1b0084fc3447da8edf5b6c5ed113f0ae11f2b47a19f97d70d3884c062a8d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 18901902,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/8d81613fb196efdbe7114a801f9fd95c140944b4dd402792ce8960a68fba567b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 56704782,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/29edcf10c26b9e8c1c1e7e174bcd37edc20a4155ac18a0fc5dc9130f9ff3c96f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/816631fe0ba9bbb436b9c182688fd95452020d6e0a59d5333a4827b87d49d288"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465023",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-20T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581b0be7905fb09c8da65",
+      "slug": "lyssky-faar-papprinsen-saerbehandling-af-politiet-11802465023",
+      "title": "Får papprinsen særbehandling af politiet?",
+      "description": "Anklagerne og anmeldelserne har de seneste måneder stået i kø mod Marius Borg Høiby, søn af den norske kronprinsesse Mette-Marit og papsøn til Norges kommende konge, kronprins Haakon. Og nu har norsk politi anholdt endnu en person for at have truet en ekskæreste til Marius Borg Høiby og bedt hende trække anmeldelsen mod ham tilbage. Vi taler om Marius Borg Høibys kriminelle løbebane, og om der er andre regler i retssystemet, når man er forbundet til kongefamilien.\nVi skal også forbi retten på Frederiksberg i København. Her er der nemlig faldet første dom i sagerne med de unge svenskere, som de seneste måneder har udført grov kriminalitet på bestilling i Danmark.\nMedvirkende: Joakim Reigstad, nordisk korrespondent hos NRK, og Frederik Hagemann-Nielsen, retsreporter i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465022",
+      "durationMilliseconds": 2367023,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465022",
+      "publishTime": "2024-09-13T05:00:00+02:00",
+      "startTime": "2024-09-13T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-terrorbrand-med-bandeforbindelser-11802465022",
+      "order": 638617932001017022,
+      "nextId": "urn:dr:radio:episode:665581b0be7905fb09c8da65",
+      "previousId": "urn:dr:radio:episode:665581b2385dfedb00eadaa2",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 19381560,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/98da2b1519c30bfa8aba0bd406424530151af8649ad4e402c7ddbde6e0ac42f5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 57255255,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/7cab1e77e51bd26e1aaa0054f5c4104e19c4d43a8a8678b0a5cbf746f14bca68"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 76191652,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/c5ce1ed6434bc187a8f3e23362339b201693dee265eb1eb7f7b405acd929bd11"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 18937034,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/61d0dfd2c955b7a83d2b476f8c0a0b911a516d12aaf6578b0a05d65c6018e2b2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 56810186,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/bc17fb64cc962f5743f3de3d6d916471fd6a00ff45b1028a6b465b50bc69d83a"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/69487ed00964ff019faa7ba6d1b08ed93f03987bc8ca575b5894c7bc80547245"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465022",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-09-13T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581b9be7905fb09c8dab1",
+      "slug": "lyssky-terrorbrand-med-bandeforbindelser-11802465022",
+      "title": "Terrorbrand med bandeforbindelser",
+      "description": "En brand i en ældre jødisk kvindes lejlighed fik i denne uge en alvorlig udvikling. For en 21-årig mand med relation til banden Loyal to Familia er nu ikke alene sigtet for at have påsat branden, men for terror. Vi taler om, hvad det betyder, når bander bliver involveret i terrorsager. Og når der opstår et krydsfelt mellem organiserede kriminelle og mennesker med en helt anden dagsorden.\nMedvirkende: Trina Maria Ilsøe, retskorrespondent i DR, og Frederik Hagemann-Nielsen, retsreporter i DR.\nVært: Caroline Clante.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465020",
+      "durationMilliseconds": 1718607,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465020",
+      "publishTime": "2024-08-30T05:00:00+02:00",
+      "startTime": "2024-08-30T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-svenske-teenagere-i-blodig-bandekonflikt-11802465020",
+      "order": 638605836001015020,
+      "nextId": "urn:dr:radio:episode:665581b9be7905fb09c8dab1",
+      "previousId": "urn:dr:radio:episode:665581b4385dfedb00eadab2",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14072487,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/c399da6cad06506b0609fb8880ba45256eea765afc4401d6286214bb51736ca3"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 41571243,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/492bdcc96fbfbbf67845b716ac379ffd71c053318c75fad46992f1c49e5d93b0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 55320435,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/038df8451cbe93282cc65f306140d9a128dcfbf46bb0b75a5219f57dcd9dd4a6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13749770,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/07565f73003ce583a4f22b2b57938d43f335516597d504bd522d10a1ba98b1d8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 41248394,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/6106ee0589355cbb9fa3a669a917d317eee83961f93f5b6bb21523f707ff43e3"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/bce253d24a4c7c2a2f92e3f2ce6c5ef2546a1471244ac92e15196e3a0d67ce1d"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465020",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-08-30T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581b2385dfedb00eadaa2",
+      "slug": "lyssky-svenske-teenagere-i-blodig-bandekonflikt-11802465020",
+      "title": "Svenske teenagere i blodig bandekonflikt",
+      "description": "Helt unge, svenske drenge er den seneste tid blevet rekrutteret og brugt i den danske bandekonflikt. Her får de til opgave at udføre alt fra skyderi og eksplosioner til drab. DR's Europakorrespondent Anna Gaarslev har besøgt familien til en 17-årig svensk dreng, der lige nu sidder varetægtsfængslet for drabsforsøg i en sag om skyderi i Kolding. Vi taler om, hvad de her unge, svenske drenge kommer fra, hvorfor de vælger at tage turen over Øresund for at begå kriminalitet i en dansk bandekonflikt, og hvad det er for et kriminelt miljø, de er rundet af.\nMedvirkende: Anna Gaarslev, Europa-korrespondent i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465019",
+      "durationMilliseconds": 1681022,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465019",
+      "publishTime": "2024-08-21T05:00:00+02:00",
+      "startTime": "2024-08-21T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-efter-haandgranater-drab-og-skud-er-bandekonflikten-forbi-11802465019",
+      "order": 638598060001014019,
+      "nextId": "urn:dr:radio:episode:665581b2385dfedb00eadaa2",
+      "previousId": "urn:dr:radio:episode:665581b5be7905fb09c8da88",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13764720,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/5c71106671d90f39686119be6632f0e837a7f8c3d4c0081adaf8788d77e449a2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 40662059,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/a788145d93cd090269b3b5be9a4d935a047b5e9e5c5ef86e448d0c2044722c0b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 54110428,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/5afed841288bb6fc2c1edca01728b9a7d6d3222f8f070930753006a3ae3f25f9"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13449100,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/d71416093f0699de7714ddf9fc4e7de958a0a5f41ff98b4f76a0aef9b1b2c621"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 40346380,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/0e871b8e13603e75729aa13c697e7cd7d4d3a91fa4328cecf0839bd93be9adc1"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/57a5bbb8765f647cf562f24088942926eef3f7f1ad90d3b510176e042c270e87"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465019",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-08-21T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581b4385dfedb00eadab2",
+      "slug": "lyssky-efter-haandgranater-drab-og-skud-er-bandekonflikten-forbi-11802465019",
+      "title": "Efter håndgranater, drab og skud - er bandekonflikten forbi?",
+      "description": "En massiv bandekonflikt har de seneste måneder udspillet sig med centrum i København, der dækker over drabsforsøg, eksplosioner og anholdelser af flere rekrutterede svenskere. Og mens vi andre så småt begyndte at komme tilbage fra sommerferie, kulminerede konflikten, da en mand blev skudt og dræbt på Nørrebro. Men efter hændelser og angreb på stribe har konflikten nu stået stille siden sidste uge. Vi forsøger derfor at give et overblik og tale om, hvad der mon sker herfra.\nMedvirkende: Frederik Hagemann-Nielsen, retsreporter i DR.\nVært: Caroline Clante.\nTilrettelægger: Joakim Kruse Rasmussen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465016",
+      "durationMilliseconds": 1822540,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465016",
+      "publishTime": "2024-08-02T05:00:00+02:00",
+      "startTime": "2024-08-02T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-indhentet-af-bandemiljoeet-11802465016",
+      "order": 638581644001013016,
+      "nextId": "urn:dr:radio:episode:665581b4385dfedb00eadab2",
+      "previousId": "urn:dr:radio:episode:66558139be7905fb09c8d82d",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14923415,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/e36901fd25f5fa14a755d4353d538620e510b2556a77f25c5c47e955ee0bee7a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 44085143,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/e14fd66a23b98a14c70c8fc30b68d6b12af08a51aec6a871cbcbd194eef8f7fb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 58665815,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/c369b6279b8c2675b942f8e69251d0cf947c4834ee67240c6e4c56a37b837b97"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14581324,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/51721461448ceb7fc0977ce99fe6ca59facf8b230c0be7d1245d0074b9f58eca"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 43743052,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/60635e46dcaef1c1b6ed5bdcc519129f67ac88b0ef4bc99fa67da0263ca058f1"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/d485981ba7022d36d7d42f67a3aa72c84a2eb0946df2ed709f4707041badb483"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465016",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-08-02T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:665581b5be7905fb09c8da88",
+      "slug": "lyssky-indhentet-af-bandemiljoeet-11802465016",
+      "title": "Indhentet af bandemiljøet",
+      "description": "For øjnene af sin treårige søn blev en 27-årig mand i november 2022 likvideret som en del af en bandekonflikt. Hans barndomsven er tiltalt i sagen, der starter denne måned. I programmet fortæller den 27-åriges efterladte hustru om episoden, og bandeekspert Andreas Hogsted giver et bud på, hvorfor bandemiljøet kan være svært at slippe - selv når man har forladt det. \nVært: Dan Bjerregaard.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465012",
+      "durationMilliseconds": 1531897,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465012",
+      "publishTime": "2024-07-05T05:00:00+02:00",
+      "startTime": "2024-07-05T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-et-blodigt-fodaftryk-11802465012",
+      "order": 638557452001012012,
+      "nextId": "urn:dr:radio:episode:665581b5be7905fb09c8da88",
+      "previousId": "urn:dr:radio:episode:66558140be7905fb09c8d861",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12543772,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/a3cf50ade2ee14d2b36b013b50fe0e2a7f1cdd61024062bdf49992fb7b33261f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 37055207,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/1a44b95afde91844881fda4853fd4ebdb0ad0b0fa101092cbbe840e5143f03ee"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 49310560,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/882c6081e61a5205a6c034cdd1969805ab122c08a8a9a76200a9b53cd282cfea"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12256202,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/1a4eb9460a3ec82a574069d7220ba82e43e55712a6765e12c4880fedaceb2ae1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 36767690,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/159c2f5f0ee2059b407d7e3350012233721679463f62a008c3e37f398f1906bb"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/1829e57ddd3931add1b010d213f4870acc3323233531cdcaaf5edb12c7725d0b"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465012",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-07-05T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:66558139be7905fb09c8d82d",
+      "slug": "lyssky-et-blodigt-fodaftryk-11802465012",
+      "title": "Et blodigt fodaftryk",
+      "description": "Nytårsnat 1990 blev 23-årige Hanne With dræbt i sin lejlighed på Nørrebro, og lige siden har politiet gemt et blodigt fodaftryk. Det er blandt beviserne mod en 54-årige mand, der nu sidder på anklagebænken. DR's retsreporter Caroline Clante er i studiet og fortæller om sagen.\nVært: Dan Bjerregaard.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465011",
+      "durationMilliseconds": 1234145,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465011",
+      "publishTime": "2024-06-28T16:00:00+02:00",
+      "startTime": "2024-06-28T16:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-livstid-11802465011",
+      "order": 638551800001011011,
+      "nextId": "urn:dr:radio:episode:66558139be7905fb09c8d82d",
+      "previousId": "urn:dr:radio:episode:66558143be7905fb09c8d871",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 10105929,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/a8169e39bd8db8446b4eb29b198a9f862df4d7909d425ac88354015df165c257"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 29853247,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/0235649969ab00649e45584e077f369d707e419d885612218476fe6d96114b82"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 39726861,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/90958a722786d50980c4a1c1a68dddac5381fb2388ce1ff78a9474d15ff10e0d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9873996,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/17a64534d334cf0f5ebd371845dfbdcc1272f6d5ad10172035b09383047cd72f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 29621196,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/95b5865a69c7a45df1a71eee076356360d1b4932ad80936297150974f1aa65f6"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/d6c17a316fc93958957af51f63e5b360c42f38c62dcbe63dedfa3176d6decf3b"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465011",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-28T16:00:00+02:00",
+      "id": "urn:dr:radio:episode:66558140be7905fb09c8d861",
+      "slug": "lyssky-livstid-11802465011",
+      "title": "Livstid",
+      "description": "Sådan lød det, da Philip Westh blev dømt i Kirkerupsagen. Vi taler om det foreløbige punktum i sagen og om den kollektive sorg. Medvirkende: Trine Maria Ilsøe og Bent Isager-Nielsen. \nVært: Dan Bjerregaard.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465010",
+      "durationMilliseconds": 1842497,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465010",
+      "publishTime": "2024-06-21T05:00:00+02:00",
+      "startTime": "2024-06-21T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-monster-eller-ej-11802465010",
+      "order": 638545356001010010,
+      "nextId": "urn:dr:radio:episode:66558140be7905fb09c8d861",
+      "previousId": "urn:dr:radio:episode:6655813a385dfedb00ead834",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15086919,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/fd4df9a7713a0d068e425b263b6b0ba913165ccab2fc1e3c03be4d2494a58394"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 44568243,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/5bda4e9ee2d30bf33ce6661ed7388eeea02cf5739d70aa8da6518e2870bb5a8c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 59308839,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/5ba9636d5dbab7be2ec816bc1b5b32a033e0cecb8f82c0f193766b7efa2074e0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14740871,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/b70f820c69368611ee2110606356fd81e5618e9d3b079aee236b4609bbddedc6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 44221703,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/8b76bc911557a5ce46b73b4ab4b541541605e1e156d2f15c0f876322d34bda62"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/c369191a1d4bd6fdfb20445badcf410ea40e3e15362098b2b4e8c58ab899f81b"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465010",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-21T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:66558143be7905fb09c8d871",
+      "slug": "lyssky-monster-eller-ej-11802465010",
+      "title": "Monster eller ej",
+      "description": "Kirkerupsagen nærmer sig sin afslutning, og onsdag kom både forsvarer og anklager med deres afsluttende bemærkninger. Vi ser nærmere på de to vidt forskellige fremstillinger af sagen og de juridiske stridspunkter.\nMedvirkende: Trine Maria Ilsøe.\nVært: Dan Bjerregaard.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465009",
+      "durationMilliseconds": 1538177,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465009",
+      "publishTime": "2024-06-14T05:00:00+02:00",
+      "startTime": "2024-06-14T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-morder-faeldet-af-hemmelig-agent-11802465009",
+      "order": 638539308001009009,
+      "nextId": "urn:dr:radio:episode:66558143be7905fb09c8d871",
+      "previousId": "urn:dr:radio:episode:6655813cbe7905fb09c8d840",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12595275,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/d41efab4a29344185e47aa245ccae6e48f70c5db4bff1f0915d09adf828715b1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 37207331,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/08d52e987044c90afe2ea1f0a80a31f405458bdf275fb175aa40a8c3d02facd9"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 49513343,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/704413257052096a8b849e22fa89592a1e328b3b4fbe7067c3a29d5059a14a92"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12306317,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/c4041dd56f3d161b0568c69972692dd13e3d6ea1112ae55d030cad833eb79530"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 36918029,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/5624ce87ada552db787e4c011242111dda78775f8367972509f0c37fe8657c4a"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/71ec51e75d0323c1d5b2f22cd1b5d972d9be3cf6466da3df48c1b52d14e95ba4"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465009",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-14T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6655813a385dfedb00ead834",
+      "slug": "lyssky-morder-faeldet-af-hemmelig-agent-11802465009",
+      "title": "Morder fældet af hemmelig agent",
+      "description": "Højgravide Louise Borglit blev dræbt i 2016, men der skulle en hemmelig PET agent til at fælde hendes morder. Han blev i denne uge idømt forvaring i sagen, hvor det utraditionelle efterforskningsskridt nåede hele vejen til Højesteret. DR's retsreporter Frederik Hagemann fortæller om sagen. \nVært: Dan Bjerregaard.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465008",
+      "durationMilliseconds": 2125303,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465008",
+      "publishTime": "2024-06-07T05:00:00+02:00",
+      "startTime": "2024-06-07T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-dna-detektiven-i-vidneskranken-11802465008",
+      "order": 638533260001008008,
+      "nextId": "urn:dr:radio:episode:6655813a385dfedb00ead834",
+      "previousId": "urn:dr:radio:episode:66558140be7905fb09c8d85a",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 17402356,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/6599a826507c71ea0bc62de6ad7f9938eaa9c89118a8cc6968e168e5f021054f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 51408339,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/9f6957e51b3bcb466cacc9e882b09ced60b8dca3817630faa917cf46af30aef7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 68411456,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/9e5df2d0450e750a3733c3167134f70a691812d9bf76d14c613960f9c84cfd09"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 17003402,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/5b1fe45a958d613fcaca3cc8c50bc17e82a3fe764e443b315a29e3858ba0e8a4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 51009290,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/5e3a9e52db0a5a011192e82170d8bf7ffd7e1b94a8f64e69d9e1710c6a8897fb"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/29f42ed7fd36faf4dae62988016b40bad9e8718faa788b3a5acb7a39aa3f6532"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465008",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-07T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6655813cbe7905fb09c8d840",
+      "slug": "lyssky-dna-detektiven-i-vidneskranken-11802465008",
+      "title": "DNA-detektiven i vidneskranken",
+      "description": "Konklusionen var opsigtsvækkende, da den danske dna-forsker Eske Willerslev vidnede i Kirkerupsagen. Forsvarsadvokat Karina Skou mener dog ikke, at retten skal lægge vægt på resultaterne. Til sidst i programmet vender vi en 29 år gammel drabssag, som Københavns Politi nu anser som værende opklaret på baggrund af forbedrede dna-beregninger. \nVært: Dan Bjerregaard.\nMedvirkende: Trine Maria Ilsøe og Caroline Clante.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465007",
+      "durationMilliseconds": 2004247,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465007",
+      "publishTime": "2024-05-31T05:00:00+02:00",
+      "startTime": "2024-05-31T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-emilie-mengs-sidste-maaltid-11802465007",
+      "order": 638527212001007007,
+      "nextId": "urn:dr:radio:episode:6655813cbe7905fb09c8d840",
+      "previousId": "urn:dr:radio:episode:6641c5574503bfd6696f9bd8",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 16411257,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/1c3427f189377b4f3f1b05c9b55ed31cae6c5703cc8d8c81f3fa07f4b48e5033"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 48480627,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/26d3f02ac85440e077c4e2bf149d06155747bb04fc4b1961c947383af588f260"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 64515153,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/54c54084a308f268ad30273a1c7a1b3fb6567b71f0e762bfdbe6fb7339ce7486"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 16034956,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/dfec49deccf1ae809a122406cedb174b1c2e229a70851932321e1f63cbf0aa25"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 48103948,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/e854e2980309b50f5104a198aa032facfb5c33979127bb8b618fa5b6585e702f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/48965403d53748514d55d3519181215ba12a6b158b723d8005396ab0519c74c4"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465007",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-31T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:66558140be7905fb09c8d85a",
+      "slug": "lyssky-emilie-mengs-sidste-maaltid-11802465007",
+      "title": "Emilie Mengs sidste måltid",
+      "description": "I Kirkerupsagen spørger anklageren indgående til pizza og McDonald's under afhøringen af Emilie Mengs venner. Vi vender også politiets arbejde med de grynede overvågningsbilleder af 0407-bilen og et usædvanligt efterforskningsskridt - brugen af en hypnotisør. \nMedvirkende: Trine Maria Ilsøe.\nVært: Dan Bjerregaard.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465006",
+      "durationMilliseconds": 2665068,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465006",
+      "publishTime": "2024-05-24T05:00:00+02:00",
+      "startTime": "2024-05-24T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-betjentene-der-befriede-den-13-aarige-og-rockernes-foedekaede-11802465006",
+      "order": 638521164001006006,
+      "nextId": "urn:dr:radio:episode:66558140be7905fb09c8d85a",
+      "previousId": "urn:dr:radio:episode:6641c556ce5ca8cff251001c",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 21821812,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/819287339b83a7d4203f2136e85058013cae6f8459f13e55bf8272940b221d45"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 64464415,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/d4d019217eb3f0333d750a684f157578c618efc5b9d078c8ba46f420b2457fce"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 85785588,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/0cee4c6fb70da1aa13b28ee032a62c84f17590f365fb0f0ce6248ebc4b84fe93"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 21321477,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/fb407b3dd01e806090037d211e1fcab0d6c11b896a929c8f7b3af8aaa69fdaf4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 63963525,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/70ca499118ff6e973dee4fc2128b276d883ffced35ca366593d8b276336f7c79"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/5b22e2a81ab77537d853868fef05829a6731d294997b282268da4620419c270b"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465006",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-24T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6641c5574503bfd6696f9bd8",
+      "slug": "lyssky-betjentene-der-befriede-den-13-aarige-og-rockernes-foedekaede-11802465006",
+      "title": "Betjentene der befriede den 13-årige og rockernes fødekæde",
+      "description": "Bremser et forbud mod Bandidos rekrutteringen til rockerklubben? Nej, siger Christian Breum, som selv har forladt miljøet. I Kirkerupsagen fortæller DR's retskorrespondent, Trine Maria Ilsøe, om vidneforklaringen fra de betjente, der befriede den 13-årige pige. \nMedvirkende: Trine Maria Ilsøe og Christian Breum.\nVært: Dan Bjerregaard.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465005",
+      "durationMilliseconds": 2009004,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465005",
+      "publishTime": "2024-05-14T15:00:00+02:00",
+      "startTime": "2024-05-14T15:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-kirkerup-sagen-dag-1-taperulle-gemte-paa-dna-11802465005",
+      "order": 638512884001005005,
+      "nextId": "urn:dr:radio:episode:6641c5574503bfd6696f9bd8",
+      "previousId": "urn:dr:radio:episode:6638a37606185e3b6d67ec88",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 16450232,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/e99c673f781a79325cb41e69420d642469893813bca5647acd0da11668dcafa8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 48595659,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/d7c4972b11a19ad8b92164b1aa6300d8d7bdb1ee85d1b43d61abd478068a3a74"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 64668232,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/b104227c9d365d0dfb2e6e3bc87062934a604193b4d20d775df3268af1e5f888"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 16072969,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/75287d87b048fe2d0b51722bc7f79c5a1b4a27d44f844159d66f66adcaf57e05"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 48217993,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/34ac267667224698108fe3003322a7ddab9a8a401e23fa481c40c7a7ad243db7"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/ad76ba9c7853e92350b839b2d404e1393ac19f88a4e191c96953fd1694656abf"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465005",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-14T15:00:00+02:00",
+      "id": "urn:dr:radio:episode:6641c556ce5ca8cff251001c",
+      "slug": "lyssky-kirkerup-sagen-dag-1-taperulle-gemte-paa-dna-11802465005",
+      "title": "Kirkerup-sagen dag 1: Taperulle gemte på DNA",
+      "description": "Da politiet befriede en 13-årige pige hos den 33-årige tiltalte, fandt de også en rulle tape, der blev brugt under drabet på Emilie Meng. Det mener sagens anklager - selv nægter den 33-årige sig skyldig. Tidligere drabschef Bent Isager Nielsen gæster studiet, og Trine Maria Ilsøe fortæller om sagens første dag fra Retten i Næstved. \nMedvirkende: Bent Isager-Nielsen og Tine Maria Ilsøe.\nVært: Dan Bjerregaard.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465004",
+      "durationMilliseconds": 1997809,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465004",
+      "publishTime": "2024-05-09T05:02:00+02:00",
+      "startTime": "2024-05-09T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/kirkerup-komplekset-3-3-1-afgoerende-minut-11802465004",
+      "order": 638508205201004004,
+      "nextId": "urn:dr:radio:episode:6641c556ce5ca8cff251001c",
+      "previousId": "urn:dr:radio:episode:6638a37406185e3b6d67ec7d",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 16358532,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/882a5b5ba8bd1619db92bf13b4f78d796cd7cad5a240d140201160a740a180bc"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 48324747,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/fb40af1e5b6cc3d09f909cd49596ed8913346f8ad4fa2214db99712bcbd285af"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 64307704,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/bfab554f680fdaef50bb625f2dd5a183dbb2033402b15f88eeaf794b02701713"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 15983499,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/df28b4786df552993409d180cd79065b584ef0d7bc4bea8c4b953558ab4bb32b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 47949579,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/0913b22db8db9ca91bc0b93e849f34e422694ac8e183b6ea53a20f2999a8fcbc"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/79122af29065087d85975d6efc79b78812bfee96efd9aa14e45c9b1119d1e3b4"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465004",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-09T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:6638a37606185e3b6d67ec88",
+      "slug": "kirkerup-komplekset-3-3-1-afgoerende-minut-11802465004",
+      "title": "Kirkerup-komplekset 3:3 - 1 afgørende minut",
+      "description": "En 15-årige pige fra Sorø kæmper for livet, da hun bliver overfaldet af en mand nær sin efterskole. Han har medbragt strips og forsøger at holde og voldtage hende. Han giver op, men efterlader sit DNA på pigen, og i sin flugt på vej tilbage til sin bil er han et enkelt minut fra at blive afsløret af en forbipasserende.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465003",
+      "durationMilliseconds": 1807604,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465003",
+      "publishTime": "2024-05-09T05:01:00+02:00",
+      "startTime": "2024-05-09T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/kirkerup-komplekset-2-3-6-maaneders-soegen-efter-meng-11802465003",
+      "order": 638508204601003003,
+      "nextId": "urn:dr:radio:episode:6638a37606185e3b6d67ec88",
+      "previousId": "urn:dr:radio:episode:6638a37505601f9e4fdba46a",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14801172,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/e9295f5df51ef41e1f538ea2e7fd7aab7873aa2f18df712e1f785ac1a6591013"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 43724111,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/e9344a58f9494f3e3bb215d1790da9fe2fff9b6168a6aab57933057ef66d922d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 58185448,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/778c89bcd68170049b9a99aa7689877231d6235e2bb5f772da4df4dff5417caa"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14461705,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/133d14ffbb5b2b51391e43d6f6d446511c93aa1d924051071851b5348b593a28"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 43384201,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/b0fa248183e57ba7d766d749eb50ffebf62001d9f2f6859d5842138988c0be14"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/a844fc9c930467d64fd6f36053b411e2011305bcc6a91e23da997a25e93f268d"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465003",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-09T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:6638a37406185e3b6d67ec7d",
+      "slug": "kirkerup-komplekset-2-3-6-maaneders-soegen-efter-meng-11802465003",
+      "title": "Kirkerup-komplekset 2:3 - 6 måneders søgen efter Meng",
+      "description": "Da den 17-årige Emilie Meng forsvinder efter en tur i byen, afventer politiet i første omgang situationen. Det skal dog vise sig, at sagen er meget mere alvorlig end kærestesorger, og politiet starter sin efterforskning bagud på tid. Den tragiske sag hænger som en sort sky over politiet i syv år og slår dybe revner i lokalsamfundet i Korsør.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465002",
+      "durationMilliseconds": 1997889,
+      "categories": [
+        "Aktualitet"
+      ],
+      "productionNumber": "11802465002",
+      "publishTime": "2024-05-09T05:00:00+02:00",
+      "startTime": "2024-05-09T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/kirkerup-komplekset-1-3-27-timer-i-kirkerup-11802465002",
+      "order": 638508204001002002,
+      "nextId": "urn:dr:radio:episode:6638a37406185e3b6d67ec7d",
+      "previousId": "urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 16359207,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/a85132226592a053acf193e52227ff72e16a6c33e2936c90de662d7226b615a7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 48326811,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/c5874fb195201d1bcb3245fb6d375c6147883a1aac3d3d6730cbf1af0149b383"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 64310475,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/5d3ec105daa1eddd94235f8af876749fa2b89250747a4e2ae0c77c720efa6714"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 15984070,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/881b3a5f1e0a28fceff18b3ba304583b4ace5b9d5603f01f273fdffb3cd022d4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 47951302,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/615a7032740d09cc3fd79ddfff02fbea0850186f2e0e8c35cd7cc9e98371d92b"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/702588b473932401d51451184df63cdc03bf469d446b8a651dd99b46ab451173"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465002",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-09T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6638a37505601f9e4fdba46a",
+      "slug": "kirkerup-komplekset-1-3-27-timer-i-kirkerup-11802465002",
+      "title": "Kirkerup-komplekset 1:3 - 27 timer i Kirkerup",
+      "description": "Da en 13-årige pige forsvinder fra Kirkerup og hendes cykel og mobiltelefon ligger efterladt i vejkanten ved politiet straks, at nu starter en kamp mod tiden. Der er noget helt galt. Politikredsen har tidligere fejlet i sagen om Emilie Meng, som blev fundet død. Derfor går en hæsblæsende jagt ind, hvor hele lokalområdet hjælper til.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802465001",
+      "durationMilliseconds": 40786,
+      "categories": [
+        "Ukategoriseret"
+      ],
+      "productionNumber": "11802465001",
+      "publishTime": "2024-05-07T05:00:00+02:00",
+      "startTime": "2024-05-07T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/trailer-lyssky-11802465001",
+      "order": 638506476001001001,
+      "nextId": "urn:dr:radio:episode:6638a37505601f9e4fdba46a",
+      "series": {
+        "title": "Lyssky",
+        "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec",
+        "slug": "lyssky-5515048827000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/lyssky-5515048827000",
+        "learnId": "urn:dr:ocs:audio:content:series:5515048827000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 335119,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/c8af2c3a432b3fd3fb70ef73d743e5d9da01e94a90773f5c46f050d9c2cee86d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 988431,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/66dfad7ed490727a128487873294c16227c36b7e50dd53ef2125620cbf34f9ac"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 1315103,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/a15f0bb49dc0d6611cf74e669abf50bfeadf8894e856e62f9c5152c3f9184c3c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 327179,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/ba38b2a9e4e1297fbe6ba46ab00eccc7fba4f13d2abfaf5b9d14436a311eabd8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 980747,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/e923d728daf3db9a3b1ffabe92c49eac45fd226b4d55519e1236f82cf1514f69"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/22ef57b8d25f099d8988545d2ca659a5fcc1d9a777a489101ef89d1ef788a003"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802465001",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-05-07T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2",
+      "slug": "trailer-lyssky-11802465001",
+      "title": "Trailer: Lyssky",
+      "description": "Hør med når DR's nye podcast Lyssky går i luften. Vi starter med at gå i dybden med en af nyere tids største drabssager, Kirkerupsagen, i en serie på tre afsnit - og følger derefter retssagen løbende over de kommende uger.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a47",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N35}Hy1IDPxZNZr?XUnhR*oJaxof4UNt^*afSNt6"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a49",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o77wW%jF#lxZWBW;-C$O$jw{jtR*4UxG-BjGt6R*w{w{w{s:oLW;_1r@jGs.WBbHbGaya|R*ayay"
+        },
+        {
+          "id": "urn:dr:radio:image:66f3cefe8168ebc64d4f1a48",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "o76@$iEfnOkCWBofkDaebHayazay01SexaRkt6WBa|jsfRoej[j[_1afWCofR*j[kBjuj[WBayWV"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#13182E",
+            "#BB9BAE"
+          ]
+        },
+        "colors": {
+          "dark": "#13182E",
+          "light": "#BB9BAE"
+        }
+      }
+    }
+  ]
+}

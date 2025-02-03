@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/lyssky.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Lyssky (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/lyssky-5515048827000</link>
+        <description>DR's podcast om aktuelle kriminalsager. 
+DR's krimiredaktion kaster lys over samfundets mørke sider og giver perspektiv på politiets efterforskninger, kriminelles hemmeligheder og indsigt i vores retssystem.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:36 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/lyssky.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/lyssky.jpg</url>
+            <title>Lyssky (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky-5515048827000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/lyssky.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Aktualitet</category>
+        <itunes:category text="Aktualitet" />
+        <item>
+            <guid isPermaLink="false">11802465036</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-unge-maend-anklaget-for-doedelig-traefaeldning-11802465036</link>
+            <title>Unge mænd anklaget for dødelig træfældning</title>
+            <description>Det fremstår både meget voldsomt og yderst tilfældigt, da en mand tidligere på året kører på en mørk vej, og et grantræ pludseligt vælter ned i hans bil og dræber ham på stedet. Seks unge mænd har i denne uge været i retten tiltalt for uagtsomt manddrab efter at have fældet det store træ. Men hvorfor skulle træet fældes på en mørk aften i marts? Vi spørger Trine Maria Ilsøe, der var med i Retten i Næstved, da hele ni unge mænd var tiltalt for uagtsomt manddrab i sagen - træet, der dræbte manden i bilen, er nemlig ikke det eneste, der blev fældet ned over vejbanerne i den periode.
+Medvirkende: Trine Maria Ilsøe, retskorrespondent i DR, og Louise Dalsgaard, retsanalytiker i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 20 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/d63d3ca1e022b538c2de558b74c5a1447d29c5b19335265aaae83cb42c92fd33" 
+                type="audio/mpeg" 
+                length="52433750" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/db6d1c5563031fa47d53bebeea590f00b430a1f500e941ab98ef5adf18b6beb5" 
+                type="audio/mpeg" 
+                length="17478230" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/7be964c4a8e5098060aa3bfed06820d767b14f49c4904678ce38633850817060" 
+                type="audio/x-m4a" 
+                length="70322001" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/805a4914ab0b24afae613ca73d0a9e4db1c71a6028b5922580da14010fd7dfed" 
+                type="audio/x-m4a" 
+                length="52844387" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8daad/03dba46f92cb77a750195a07ae0beb77b7539f35336f7fc897280b59177bb329" 
+                type="audio/x-m4a" 
+                length="17888465" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465035</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-beskederne-som-banderne-aldrig-troede-vi-skulle-se-11802465035</link>
+            <title>Beskederne, som banderne aldrig troede, vi skulle se</title>
+            <description>Oftere og oftere ser vi, at den helt afgørende bevisbyrde i sager om bandekriminalitet er intern kommunikation mellem kriminelle fra forskellige krypterede tjenester. Det er samtaler, der blandt andet handler om planlægning af forbrydelser, men som politiet får mere og mere adgang til. Derfor taler vi i det her afsnit om de krypterede tjenester - hvorfor de er ideelle at bruge for mennesker med lyssky intentioner, og hvordan politiet nu alligevel bliver bedre til at knække de ellers så sikre kommunikationsformer.
+Medvirkende: Louise Dalsgaard, retsanalytiker i DR, Peter Christian Bech-Nielsen, tech-korrespondent og redaktionschef på Radar, og Frederik Hagemann-Nielsen, retsreporter i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 13 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/84008a0557d247f6ee54652ff0e3867229a767c49ed3aeb1704addf91e735043" 
+                type="audio/mpeg" 
+                length="54611015" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/b38a6708b486b2e799dfa0711629965d399a60987bfed9e8c892a0e65a05fa3a" 
+                type="audio/mpeg" 
+                length="18203975" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/a61f1450241742889bc70b3b5f39f177ef7d97ab79cada7d6c65763c3fc5dd40" 
+                type="audio/x-m4a" 
+                length="73241816" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/189d78088a2838411795f256016ca295082d9368a0e465588e3deb422dbaf59d" 
+                type="audio/x-m4a" 
+                length="55038487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bfbe7905fb09c8dadb/1db5a49ff1e508e6982e4952ace65657583ec21a2be4ddf319d2cb609011c7be" 
+                type="audio/x-m4a" 
+                length="18631164" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465034</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-narkodoemt-dansker-smidt-i-thailandsk-faengsel-11802465034</link>
+            <title>Narkodømt dansker smidt i thailandsk fængsel</title>
+            <description>Lige nu er en dansk mand fanget bag tremmer i et hårdkogt fængsel i Thailand, hvor der sidder op mod 80 indsatte per celle. Dér har danske John afsonet, siden han i 2021 fik en dom for salg af stoffer i Pattaya, Thailand. Men selvom han længe har forsøgt at blive overflyttet til et fængsel i Danmark, så er de danske myndigheder ude af stand til at hjælpe ham. Vi taler om, hvorfor Udenrigsministeriet ikke har mulighed for at skride ind, når en dansker sidder i et fængsel, som han selv beskriver som helvede på jord.
+Medvirkende: Trine Maria Ilsøe, retskorrespondent.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 06 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/cba81821124c8f3f31b3d800cb8104434d95fd43430587061d1036e0f6637588" 
+                type="audio/mpeg" 
+                length="41175244" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/7ccabd715e09a7f9ed3263bf77145a6d7503f00d8bb1d144fed9edfbcb71c009" 
+                type="audio/mpeg" 
+                length="13725388" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/d82781bb8286f8baf4c09c8557650252b72d18267e4c2c740244a8220d586f36" 
+                type="audio/x-m4a" 
+                length="55222193" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/e33cb8ccff7ea8f31fb27ffb0adbd10824edf9b784f27c09b765229d0206edbd" 
+                type="audio/x-m4a" 
+                length="41497491" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dac9/91106738f1739be5ae58586ef772f1f454ced20aefd383685a620c3e12186ae5" 
+                type="audio/x-m4a" 
+                length="14047497" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465033</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-agent-samsams-sidste-forsoeg-11802465033</link>
+            <title>Agent Samsams sidste forsøg?</title>
+            <description>Var Ahmed Samsam terrorist, eller var han agent for de danske efterretningstjenester? Det spørgsmål har i efterhånden mange år hængt i luften i én af dansk retshistories mest komplekse sager nogensinde. Og nu har Ahmed Samsam taget sagen mod PET og FE i Højesteret - en sag, der på mange måder er langt udover det sædvanlige. Vi taler om, hvad Ahmed Samsam vil have ud af den her sag, hvad det betyder, at den skal i Højesteret, og hvad det er, der gør retssagen så speciel.
+Medvirkende: Louise Dalsgaard, retsanalytiker i DR og Frederik Hagemann-Nielsen, retsreporter i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 29 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/d89290bb7ccdbc30c82b26939cc65534ddc7d79d03fc23702c0f36d5f8a27847" 
+                type="audio/mpeg" 
+                length="53866827" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/b33906e7c3ee98fd54b6ac6dff7a68c110be0e5b6550b2e59691d44e4a51943f" 
+                type="audio/mpeg" 
+                length="17955915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/cd2cbad4109fdb940a51df5eafa1e9f6c3dc0c403adc2c4b2874fc199f7a3793" 
+                type="audio/x-m4a" 
+                length="72243447" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/4402350aedaeb6ee34063cfe9f1d054bbfcf6a969f7303dc3fbc798a678fe86b" 
+                type="audio/x-m4a" 
+                length="54288171" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bebe7905fb09c8dad1/4ce78e240b9c35a4e33723bacc62ae4b4e5b080086f3340f1d88a68da78d9d53" 
+                type="audio/x-m4a" 
+                length="18377187" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465032</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-bag-tremmer-i-kvindefaengslet-11802465032</link>
+            <title>Bag tremmer i kvindefængslet</title>
+            <description>Danmark har kun ét rent kvindefængsel. Jyderup Fængsel. Men lige nu overvejer politikere og retsordførere, om vi skal have endnu et, selvom fængselsbetjentene og Fængselsforbundet siger nej. Men hvordan er det at sidde i et fængsel sammen med 140 andre kvinder, der er så overfyldt, at de indsatte bliver tvunget til at dele celler på syv og ni kvadratmeter? Vi spørger en tidligere indsat, der har afsonet i Jyderup Fængsel.
+Medvirkende: Ditte Gulløve, tidligere indsat i Jyderup Fængsel.
+Vært: Trine Maria Ilsøe.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 22 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/553cf85c106f0a7dedd4bbfe388b77576a1e7ace7360c2d8c81062df13b6cdb4" 
+                type="audio/mpeg" 
+                length="44824781" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/97db5168d72b1cafc435f3b9c2cfda6f9a9ff1f7995b641f6a843dded003b4e5" 
+                type="audio/mpeg" 
+                length="14941901" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/f08ef4b0bd14f0423213b9ae513da0fb8e41b3f7b16a7c906dba732093a8e5e7" 
+                type="audio/x-m4a" 
+                length="60116725" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/7aa0b42e7b9eed68028696db6de0ff4f87daf553bbcfef5bd1fec5399fba1d23" 
+                type="audio/x-m4a" 
+                length="45175551" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581afbe7905fb09c8da5f/326df7acbc9f7ede4b1c98e8724db69bd1ea5443800e5d9f4026960de5489a19" 
+                type="audio/x-m4a" 
+                length="15292525" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465031</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-naar-teenagere-stikker-med-kniv-11802465031</link>
+            <title>Når teenagere stikker med kniv</title>
+            <description>En 15-årig dreng er i den her uge blevet idømt tre års fængsel for et knivoverfald i Husum tidligere på året. Det er bare én af mange sager det seneste stykke tid, hvor helt unge teenagere har stukket andre unge med kniv. Vi bruger sagen fra Husum til at stille spørgsmålene - hvorfor sker det, hvilke miljøer kommer de her unge gerningsmænd fra, og hvad gør politiet for at forebygge det?
+Medvirkende: Tommy Laursen, politiinspektør ved Københavns Politi, og Jacob Steinmetz, traumelæge på Rigshospitalet.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 15 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/a172a4e56dfceba87243615c6731d0f5dc02fbccf12ac586735b1dc634e4fdd5" 
+                type="audio/mpeg" 
+                length="42524240" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/7f9318fc450ea97e20e5c9a5d42b5f099219e9ba98748be53392a5b17af41a56" 
+                type="audio/mpeg" 
+                length="14175056" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/c68318e2f7358a4ca3ac2e3cd200b58d96d64dc95d3831d9720a70fcb06b34a6" 
+                type="audio/x-m4a" 
+                length="57031520" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/4393b3412592b59cda2642b405f85ae011a8ecadacea280cf57d1797f4e8a556" 
+                type="audio/x-m4a" 
+                length="42857155" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581be385dfedb00eadaee/2cd71a19157a1aa30001c0e650294c8813453c9b197b675926a076032be0c174" 
+                type="audio/x-m4a" 
+                length="14507732" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465030</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-knivdraebte-ung-far-i-indkoersel-11802465030</link>
+            <title>Knivdræbte ung far i indkørsel</title>
+            <description>Retten i Randers har vurderet, at den 32-årige Mikkel Bartholdy Pedersen er så farlig, at han er blevet idømt forvaring. Det sker, efter han knivdræbte en 30-årig mand i hans egen indkørsel. Vi taler om, hvad der skal til, før en gerningsmand kan blive idømt forvaring, og hvad det egentlig betyder at sidde i forvaring i Danmark. Derudover skal vi også omkring episoden med de to håndgranater, der blev kastet mod den israelske ambassade tilbage i oktober. Her har anklageren nemlig forsøgt at forlænge de to unge svenskeres varetægtsfængsling.
+Medvirkende: Julie Laursen, ph.d. og lektor i kriminologi, og Frederik Hagemann-Nielsen, retsreporter i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 08 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/b8338dd1b386014c75dd37be1243d46d8c3899ff5ec845700abf69527fa31c39" 
+                type="audio/mpeg" 
+                length="56051594" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/3614e6d93365d5bd1f183f11075ebd13541eb0bde11f6dfaf7b8ab7834bfd235" 
+                type="audio/mpeg" 
+                length="18684170" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/5c7026c0131d2bea003eebd4b02c1bd7e404a64c825c115e96e82cc8ea8d6a42" 
+                type="audio/x-m4a" 
+                length="75174008" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/25375ce999282e3d27688b782d7887bcb7bc32285923f7cd2673f8ddd9bb17cb" 
+                type="audio/x-m4a" 
+                length="56490575" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7be7905fb09c8daa0/6a1d47430209468b2c59ffff1223f96402403c67f2f3bb1907fd7fa63328c64d" 
+                type="audio/x-m4a" 
+                length="19122616" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465029</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-fra-efterlysning-til-drabssag-efter-fire-aar-fandt-politiet-knoglerester-11802465029</link>
+            <title>Fra efterlysning til drabssag: Efter fire år fandt politiet knoglerester</title>
+            <description>Den 30. april 2020 var den sidste dag, Jimmi Lillelund blev set i live. Hans ekskone Maria meldte ham hurtigt savnet, og det blev startskuddet på en periode over næsten fire år, hvor politiet ledte efter Jimmi uden at finde andet end hans efterladte bil. Indtil nu hvor der er sket en udvikling i sagen. Tre personer er nemlig blevet sigtet for drabet på Jimmi Lillelund. Vi taler om politiets arbejde, der nu har ført til en sigtelse, og om hvordan det er at være pårørende og at skulle følge med i politiets arbejde fra sidelinjen i komplet uvished.
+Medvirkende: Bent Isager-Nielsen, tidligere drabschef i Rejseholdet, tidligere efterforskningschef og politiinspektør, og Maria Busk, ekskone til Jimmi Lillelund.
+Vært: Caroline Clante
+Tilrettelægger: Joakim Kruse Rasmussen</description>
+            <pubDate>Fri, 01 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/444e06643351cfb925942f56a1be092695eb12b1f14414537e4d0ccfdf271288" 
+                type="audio/mpeg" 
+                length="56753739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/3911ab2ac454bbb1ca949a91ad4ed1c7442e2b7f5edff77860256f054695bacf" 
+                type="audio/mpeg" 
+                length="18918219" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/414ab72904c16bbf3076ca63f26aad3454078945250101e587c5e9c54fdf5aee" 
+                type="audio/x-m4a" 
+                length="76115384" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/d13f750eeffbf7e67a5ebb9de6155a58a7d8724329cd254958f601e52851e988" 
+                type="audio/x-m4a" 
+                length="57197979" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b7385dfedb00eadac1/a0a1b1310169a9b596ce3ab965a74dbf535c8d658d032a303d7b8e4facff0730" 
+                type="audio/x-m4a" 
+                length="19362136" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465028</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-bye-bye-bandidos-11802465028</link>
+            <title>Bye bye, Bandidos?</title>
+            <description>Ni mænd med tilknytning til rockergruppen Bandidos er blevet fængslet efter et 13 timer langt grundlovsforhør i mandags. De er sigtet i en sag om fire drabsforsøg, og de nægter sig alle skyldige. Sagen er et led i en meget større historie - nemlig om den internationale rockergruppe Bandidos skal forbydes eller ej. Det er en sag, som skal for retten i starten af det nye år, og derfor taler vi om justitsministerens ønske om at opløse Bandidos - hvad det kræver, og om et forbud overhovedet vil have en effekt.
+Medvirkende: Trine Maria Ilsøe, retskorrespondent i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 25 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/d3ee8cfe73d7c0f2bf597cf43f8ee3af4e0a1b7581c91682b8ca8265a2653363" 
+                type="audio/mpeg" 
+                length="44334024" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/dc29ac5f04d6036a2dd2b3dea2f483a746ee5d54764936ec8303e91a8a5c5d4b" 
+                type="audio/mpeg" 
+                length="14778312" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/2e95b6d37081981525b870eadbd3d45d66e58c21e682e397b86e40a25bbda75e" 
+                type="audio/x-m4a" 
+                length="59458943" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/b503567cd6d376359ac71da4d39db6296c3bedc71701effacb566c9b0a62a8a7" 
+                type="audio/x-m4a" 
+                length="44681175" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581bd385dfedb00eadae1/9afd2e7ef2524a06b9b8ef5aa8febcfc245a78c7d840de0c67a990ff1f6410eb" 
+                type="audio/x-m4a" 
+                length="15125219" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465027</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-kugleregn-paa-christiania-11802465027</link>
+            <title>Kugleregn på Christiania</title>
+            <description>Fem personer bliver ramt af skud, da Stjerneskibet på Christiania bliver stormet af bevæbnede mænd den 26. august 2023. En 30-årig mand dør på stedet, og sagen ender med at forandre Christiania, som vi har kendt det siden 1970'erne - og netop den sag er nu for retten ved Københavns Byret. Her afgiver forurettede, der blev ramt af skud, deres forklaring om, hvad der skete den aften i august. Derfor fortæller vi, hvad det var for et Christiania, der blev angrebet, hvordan stedet forandrede sig derefter, og hvilken virkelighed, der nu er at finde på Christiania, efter hashmarkedets centrale åre, Pusher Street, er revet op - brosten for brosten.
+Medvirkende: Trine Maria Ilsøe, retskorrespondent i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 18 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/9ece1673923b691057c209df05fefc39c15217d4ef8320c7c6c64c922a9be45f" 
+                type="audio/mpeg" 
+                length="54793033" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/11ed5d54342fac2d53a83aa3d3f56f8450e63174201d6023fbce5db6794c53a5" 
+                type="audio/mpeg" 
+                length="18264649" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/1ca33a5a3ee58c9fbe5c76d7e3256837c531ab57f8d2df2dfaf81a17c1d2638d" 
+                type="audio/x-m4a" 
+                length="73485487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/97c96db41486b1d364a06af0aca3ce8a4d47aacc58ce0f7036cde981059e030d" 
+                type="audio/x-m4a" 
+                length="55221631" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b3385dfedb00eadaaa/450d61da31c3532c4cb7ebfacc90f07bbf4f3d02bb54e901b67bba14a7471d8b" 
+                type="audio/x-m4a" 
+                length="18693171" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465026</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-joedisk-kvinde-jeg-er-tryg-fordi-jeg-er-anonym-11802465026</link>
+            <title>Jødisk kvinde: Jeg er tryg, fordi jeg er anonym</title>
+            <description>De to unge svenske drenge, der mistænkes for i sidste uge at have kastet to håndgranater mod den israelske ambassade, er nu blevet sigtet for terror. To andre helt unge drenge er siden også blevet pågrebet, og den ene anholdt, for forsøg på forsætlig brandstiftelse på en anden adresse nær ambassaden - på årsdagen for Hamas' angreb på Israel. Midt i alt det står særligt én befolkningsgruppe - nemlig jøderne. Derfor spørger vi en anonym, jødisk kvinde, hvordan en terrorsigtelse som denne påvirker hende, og om hun mener, at det er sikkert at være jøde i Danmark i dag.
+Medvirkende: Trine Maria Ilsøe, retskorrespondent i DR, og en anonym jødisk kvinde.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 11 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/f952c67a2658a67dee0d7b0f4983b777476cfb9c97b2911175e83d5f180fbbf2" 
+                type="audio/mpeg" 
+                length="48033102" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/2f7bb3a85c9439c843e39b4acb033eb6b2d68d4bd10eb6b29d92d9cc3ceac323" 
+                type="audio/mpeg" 
+                length="16011342" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/69816f143edc3f38099ea098a20a31c646d2ef085da499bcdb5e62a5972c0851" 
+                type="audio/x-m4a" 
+                length="64419455" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/6aafb5dad18072e161cd0cc3ffd7cb3c26608b509d08a9d76f31f4256799c91c" 
+                type="audio/x-m4a" 
+                length="48408747" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da8c/f7cfe32362de730f0ea060ba34bcd938c14d794acb722c6815c72dabbafc513d" 
+                type="audio/x-m4a" 
+                length="16387003" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465025</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-to-haandgranater-paa-en-villavej-11802465025</link>
+            <title>To håndgranater på en villavej</title>
+            <description>Natten til onsdag, omkring klokken 03:20, skete der to eksplosioner i et område omkring Strandagervej og Lundevangsvej i Hellerup nord for København - omkring 100 meter fra den israelske ambassade. Få timer derefter fortalte politiet på et pressemøde, at de havde anholdt tre unge svenskere på Københavns Hovedbanegård, sigtet for ulovlig våbenbesiddelse. To af dem blev torsdag fremstillet i grundlovsforhør. Vi samler trådene og taler om, hvad det var i politiets efterforskningsarbejde, der gjorde, at de få timer efter eksplosionerne kunne anholde tre mistænkte i sagen.
+Medvirkende: Trine Maria Ilsøe, retskorrespondent i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 04 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:46</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/37d58618bcc9a15c8ccdf9011fe90a703a416d01c4db9c0445e119937ccab609" 
+                type="audio/mpeg" 
+                length="37128270" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/c70ae7b37ac349d106c07a5f1d683f64b6f0c15d0b0ae126e83055ecb03fe87c" 
+                type="audio/mpeg" 
+                length="12376398" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/ed8a2e8e6893dc54e1b8fd15d698c60024706b63c293da355c396a23f6a605b7" 
+                type="audio/x-m4a" 
+                length="49794724" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/d3d0127d60116b3704c97e0d1b3558a2882394929dace83d1764d6d04c31c046" 
+                type="audio/x-m4a" 
+                length="37418939" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b1385dfedb00eada96/324f5eecafc9b26b0b35d798afc2cd4dfa659c7fe112b7aa0b51ee56755f4b30" 
+                type="audio/x-m4a" 
+                length="12666912" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465024</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-handlet-solgt-og-tatoveret-paa-ryggen-11802465024</link>
+            <title>Handlet, solgt og tatoveret på ryggen</title>
+            <description>En rumænsk mand bliver i starten af 2024 dømt for menneskehandel, hvor han tvang fire kvinder ud i prostitution blandt andet i Hvidovre. Det bliver startskuddet til en rejse ind i menneskehandlernes verden, hvor børn og unge kvinder bliver handlet og solgt som en vare, mens bagmænd bruger beskidte tricks og gennemtænkte metoder til at rekruttere nye ofre til prostitution. Og her er det ikke unormalt, at kvinderne bliver tatoveret med bagmandens navn, så ingen er i tvivl om, hvem hun tilhører.
+Medvirkende: Trine Maria Ilsøe, retskorrespondent i DR, og Jakob Stobbe, tilrettelægger på Kriminelt.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 27 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:28</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/30b0766b58ad191e87ecf545e79d33b42c1e1153f55b8ecb3d6a96e064ba6b91" 
+                type="audio/mpeg" 
+                length="56847625" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/0ea1a246cd60ef6599644f873881af8cd6c84c875ce7079861e41833d3515bb5" 
+                type="audio/mpeg" 
+                length="18949513" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/0e0a02b61acd81e3376ea0bd168fdb3d478094f7cd2b76a49429e1cf6228b709" 
+                type="audio/x-m4a" 
+                length="76241152" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/ea60b9f2f8ded153ce38ce7d84b818b7d9b794e45ddc3cd692e127cbc93b73f9" 
+                type="audio/x-m4a" 
+                length="57292407" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b6be7905fb09c8da98/8005fd5262bd1b3411c27d1383caf8901e285118cce5d41facd53f5405421c93" 
+                type="audio/x-m4a" 
+                length="19394124" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465023</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-faar-papprinsen-saerbehandling-af-politiet-11802465023</link>
+            <title>Får papprinsen særbehandling af politiet?</title>
+            <description>Anklagerne og anmeldelserne har de seneste måneder stået i kø mod Marius Borg Høiby, søn af den norske kronprinsesse Mette-Marit og papsøn til Norges kommende konge, kronprins Haakon. Og nu har norsk politi anholdt endnu en person for at have truet en ekskæreste til Marius Borg Høiby og bedt hende trække anmeldelsen mod ham tilbage. Vi taler om Marius Borg Høibys kriminelle løbebane, og om der er andre regler i retssystemet, når man er forbundet til kongefamilien.
+Vi skal også forbi retten på Frederiksberg i København. Her er der nemlig faldet første dom i sagerne med de unge svenskere, som de seneste måneder har udført grov kriminalitet på bestilling i Danmark.
+Medvirkende: Joakim Reigstad, nordisk korrespondent hos NRK, og Frederik Hagemann-Nielsen, retsreporter i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 20 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/29edcf10c26b9e8c1c1e7e174bcd37edc20a4155ac18a0fc5dc9130f9ff3c96f" 
+                type="audio/mpeg" 
+                length="56704782" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/8d81613fb196efdbe7114a801f9fd95c140944b4dd402792ce8960a68fba567b" 
+                type="audio/mpeg" 
+                length="18901902" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/ceeb1b0084fc3447da8edf5b6c5ed113f0ae11f2b47a19f97d70d3884c062a8d" 
+                type="audio/x-m4a" 
+                length="76050235" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/8c7407e0216ac9bce87d0f4b447a0d0bd09ab0c0fa0b3e7465aa628a72b77afb" 
+                type="audio/x-m4a" 
+                length="57148947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b0be7905fb09c8da65/8d7f336d5082c7c3341e5130f8f52b05a775a02608a133aa9e2d6230550bc625" 
+                type="audio/x-m4a" 
+                length="19345567" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465022</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-terrorbrand-med-bandeforbindelser-11802465022</link>
+            <title>Terrorbrand med bandeforbindelser</title>
+            <description>En brand i en ældre jødisk kvindes lejlighed fik i denne uge en alvorlig udvikling. For en 21-årig mand med relation til banden Loyal to Familia er nu ikke alene sigtet for at have påsat branden, men for terror. Vi taler om, hvad det betyder, når bander bliver involveret i terrorsager. Og når der opstår et krydsfelt mellem organiserede kriminelle og mennesker med en helt anden dagsorden.
+Medvirkende: Trina Maria Ilsøe, retskorrespondent i DR, og Frederik Hagemann-Nielsen, retsreporter i DR.
+Vært: Caroline Clante.</description>
+            <pubDate>Fri, 13 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:27</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/bc17fb64cc962f5743f3de3d6d916471fd6a00ff45b1028a6b465b50bc69d83a" 
+                type="audio/mpeg" 
+                length="56810186" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/61d0dfd2c955b7a83d2b476f8c0a0b911a516d12aaf6578b0a05d65c6018e2b2" 
+                type="audio/mpeg" 
+                length="18937034" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/c5ce1ed6434bc187a8f3e23362339b201693dee265eb1eb7f7b405acd929bd11" 
+                type="audio/x-m4a" 
+                length="76191652" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/7cab1e77e51bd26e1aaa0054f5c4104e19c4d43a8a8678b0a5cbf746f14bca68" 
+                type="audio/x-m4a" 
+                length="57255255" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b9be7905fb09c8dab1/98da2b1519c30bfa8aba0bd406424530151af8649ad4e402c7ddbde6e0ac42f5" 
+                type="audio/x-m4a" 
+                length="19381560" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465020</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-svenske-teenagere-i-blodig-bandekonflikt-11802465020</link>
+            <title>Svenske teenagere i blodig bandekonflikt</title>
+            <description>Helt unge, svenske drenge er den seneste tid blevet rekrutteret og brugt i den danske bandekonflikt. Her får de til opgave at udføre alt fra skyderi og eksplosioner til drab. DR's Europakorrespondent Anna Gaarslev har besøgt familien til en 17-årig svensk dreng, der lige nu sidder varetægtsfængslet for drabsforsøg i en sag om skyderi i Kolding. Vi taler om, hvad de her unge, svenske drenge kommer fra, hvorfor de vælger at tage turen over Øresund for at begå kriminalitet i en dansk bandekonflikt, og hvad det er for et kriminelt miljø, de er rundet af.
+Medvirkende: Anna Gaarslev, Europa-korrespondent i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Fri, 30 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/6106ee0589355cbb9fa3a669a917d317eee83961f93f5b6bb21523f707ff43e3" 
+                type="audio/mpeg" 
+                length="41248394" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/07565f73003ce583a4f22b2b57938d43f335516597d504bd522d10a1ba98b1d8" 
+                type="audio/mpeg" 
+                length="13749770" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/038df8451cbe93282cc65f306140d9a128dcfbf46bb0b75a5219f57dcd9dd4a6" 
+                type="audio/x-m4a" 
+                length="55320435" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/492bdcc96fbfbbf67845b716ac379ffd71c053318c75fad46992f1c49e5d93b0" 
+                type="audio/x-m4a" 
+                length="41571243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b2385dfedb00eadaa2/c399da6cad06506b0609fb8880ba45256eea765afc4401d6286214bb51736ca3" 
+                type="audio/x-m4a" 
+                length="14072487" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465019</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-efter-haandgranater-drab-og-skud-er-bandekonflikten-forbi-11802465019</link>
+            <title>Efter håndgranater, drab og skud - er bandekonflikten forbi?</title>
+            <description>En massiv bandekonflikt har de seneste måneder udspillet sig med centrum i København, der dækker over drabsforsøg, eksplosioner og anholdelser af flere rekrutterede svenskere. Og mens vi andre så småt begyndte at komme tilbage fra sommerferie, kulminerede konflikten, da en mand blev skudt og dræbt på Nørrebro. Men efter hændelser og angreb på stribe har konflikten nu stået stille siden sidste uge. Vi forsøger derfor at give et overblik og tale om, hvad der mon sker herfra.
+Medvirkende: Frederik Hagemann-Nielsen, retsreporter i DR.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+            <pubDate>Wed, 21 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/0e871b8e13603e75729aa13c697e7cd7d4d3a91fa4328cecf0839bd93be9adc1" 
+                type="audio/mpeg" 
+                length="40346380" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/d71416093f0699de7714ddf9fc4e7de958a0a5f41ff98b4f76a0aef9b1b2c621" 
+                type="audio/mpeg" 
+                length="13449100" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/5afed841288bb6fc2c1edca01728b9a7d6d3222f8f070930753006a3ae3f25f9" 
+                type="audio/x-m4a" 
+                length="54110428" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/a788145d93cd090269b3b5be9a4d935a047b5e9e5c5ef86e448d0c2044722c0b" 
+                type="audio/x-m4a" 
+                length="40662059" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b4385dfedb00eadab2/5c71106671d90f39686119be6632f0e837a7f8c3d4c0081adaf8788d77e449a2" 
+                type="audio/x-m4a" 
+                length="13764720" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465016</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-indhentet-af-bandemiljoeet-11802465016</link>
+            <title>Indhentet af bandemiljøet</title>
+            <description>For øjnene af sin treårige søn blev en 27-årig mand i november 2022 likvideret som en del af en bandekonflikt. Hans barndomsven er tiltalt i sagen, der starter denne måned. I programmet fortæller den 27-åriges efterladte hustru om episoden, og bandeekspert Andreas Hogsted giver et bud på, hvorfor bandemiljøet kan være svært at slippe - selv når man har forladt det. 
+Vært: Dan Bjerregaard.</description>
+            <pubDate>Fri, 02 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/60635e46dcaef1c1b6ed5bdcc519129f67ac88b0ef4bc99fa67da0263ca058f1" 
+                type="audio/mpeg" 
+                length="43743052" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/51721461448ceb7fc0977ce99fe6ca59facf8b230c0be7d1245d0074b9f58eca" 
+                type="audio/mpeg" 
+                length="14581324" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/c369b6279b8c2675b942f8e69251d0cf947c4834ee67240c6e4c56a37b837b97" 
+                type="audio/x-m4a" 
+                length="58665815" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/e14fd66a23b98a14c70c8fc30b68d6b12af08a51aec6a871cbcbd194eef8f7fb" 
+                type="audio/x-m4a" 
+                length="44085143" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665581b5be7905fb09c8da88/e36901fd25f5fa14a755d4353d538620e510b2556a77f25c5c47e955ee0bee7a" 
+                type="audio/x-m4a" 
+                length="14923415" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465012</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-et-blodigt-fodaftryk-11802465012</link>
+            <title>Et blodigt fodaftryk</title>
+            <description>Nytårsnat 1990 blev 23-årige Hanne With dræbt i sin lejlighed på Nørrebro, og lige siden har politiet gemt et blodigt fodaftryk. Det er blandt beviserne mod en 54-årige mand, der nu sidder på anklagebænken. DR's retsreporter Caroline Clante er i studiet og fortæller om sagen.
+Vært: Dan Bjerregaard.</description>
+            <pubDate>Fri, 05 Jul 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/159c2f5f0ee2059b407d7e3350012233721679463f62a008c3e37f398f1906bb" 
+                type="audio/mpeg" 
+                length="36767690" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/1a4eb9460a3ec82a574069d7220ba82e43e55712a6765e12c4880fedaceb2ae1" 
+                type="audio/mpeg" 
+                length="12256202" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/882c6081e61a5205a6c034cdd1969805ab122c08a8a9a76200a9b53cd282cfea" 
+                type="audio/x-m4a" 
+                length="49310560" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/1a44b95afde91844881fda4853fd4ebdb0ad0b0fa101092cbbe840e5143f03ee" 
+                type="audio/x-m4a" 
+                length="37055207" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558139be7905fb09c8d82d/a3cf50ade2ee14d2b36b013b50fe0e2a7f1cdd61024062bdf49992fb7b33261f" 
+                type="audio/x-m4a" 
+                length="12543772" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465011</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-livstid-11802465011</link>
+            <title>Livstid</title>
+            <description>Sådan lød det, da Philip Westh blev dømt i Kirkerupsagen. Vi taler om det foreløbige punktum i sagen og om den kollektive sorg. Medvirkende: Trine Maria Ilsøe og Bent Isager-Nielsen. 
+Vært: Dan Bjerregaard.</description>
+            <pubDate>Fri, 28 Jun 2024 16:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/95b5865a69c7a45df1a71eee076356360d1b4932ad80936297150974f1aa65f6" 
+                type="audio/mpeg" 
+                length="29621196" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/17a64534d334cf0f5ebd371845dfbdcc1272f6d5ad10172035b09383047cd72f" 
+                type="audio/mpeg" 
+                length="9873996" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/90958a722786d50980c4a1c1a68dddac5381fb2388ce1ff78a9474d15ff10e0d" 
+                type="audio/x-m4a" 
+                length="39726861" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/0235649969ab00649e45584e077f369d707e419d885612218476fe6d96114b82" 
+                type="audio/x-m4a" 
+                length="29853247" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d861/a8169e39bd8db8446b4eb29b198a9f862df4d7909d425ac88354015df165c257" 
+                type="audio/x-m4a" 
+                length="10105929" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465010</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-monster-eller-ej-11802465010</link>
+            <title>Monster eller ej</title>
+            <description>Kirkerupsagen nærmer sig sin afslutning, og onsdag kom både forsvarer og anklager med deres afsluttende bemærkninger. Vi ser nærmere på de to vidt forskellige fremstillinger af sagen og de juridiske stridspunkter.
+Medvirkende: Trine Maria Ilsøe.
+Vært: Dan Bjerregaard.</description>
+            <pubDate>Fri, 21 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:42</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/8b76bc911557a5ce46b73b4ab4b541541605e1e156d2f15c0f876322d34bda62" 
+                type="audio/mpeg" 
+                length="44221703" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/b70f820c69368611ee2110606356fd81e5618e9d3b079aee236b4609bbddedc6" 
+                type="audio/mpeg" 
+                length="14740871" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/5ba9636d5dbab7be2ec816bc1b5b32a033e0cecb8f82c0f193766b7efa2074e0" 
+                type="audio/x-m4a" 
+                length="59308839" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/5bda4e9ee2d30bf33ce6661ed7388eeea02cf5739d70aa8da6518e2870bb5a8c" 
+                type="audio/x-m4a" 
+                length="44568243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558143be7905fb09c8d871/fd4df9a7713a0d068e425b263b6b0ba913165ccab2fc1e3c03be4d2494a58394" 
+                type="audio/x-m4a" 
+                length="15086919" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465009</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-morder-faeldet-af-hemmelig-agent-11802465009</link>
+            <title>Morder fældet af hemmelig agent</title>
+            <description>Højgravide Louise Borglit blev dræbt i 2016, men der skulle en hemmelig PET agent til at fælde hendes morder. Han blev i denne uge idømt forvaring i sagen, hvor det utraditionelle efterforskningsskridt nåede hele vejen til Højesteret. DR's retsreporter Frederik Hagemann fortæller om sagen. 
+Vært: Dan Bjerregaard.</description>
+            <pubDate>Fri, 14 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/5624ce87ada552db787e4c011242111dda78775f8367972509f0c37fe8657c4a" 
+                type="audio/mpeg" 
+                length="36918029" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/c4041dd56f3d161b0568c69972692dd13e3d6ea1112ae55d030cad833eb79530" 
+                type="audio/mpeg" 
+                length="12306317" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/704413257052096a8b849e22fa89592a1e328b3b4fbe7067c3a29d5059a14a92" 
+                type="audio/x-m4a" 
+                length="49513343" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/08d52e987044c90afe2ea1f0a80a31f405458bdf275fb175aa40a8c3d02facd9" 
+                type="audio/x-m4a" 
+                length="37207331" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813a385dfedb00ead834/d41efab4a29344185e47aa245ccae6e48f70c5db4bff1f0915d09adf828715b1" 
+                type="audio/x-m4a" 
+                length="12595275" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465008</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-dna-detektiven-i-vidneskranken-11802465008</link>
+            <title>DNA-detektiven i vidneskranken</title>
+            <description>Konklusionen var opsigtsvækkende, da den danske dna-forsker Eske Willerslev vidnede i Kirkerupsagen. Forsvarsadvokat Karina Skou mener dog ikke, at retten skal lægge vægt på resultaterne. Til sidst i programmet vender vi en 29 år gammel drabssag, som Københavns Politi nu anser som værende opklaret på baggrund af forbedrede dna-beregninger. 
+Vært: Dan Bjerregaard.
+Medvirkende: Trine Maria Ilsøe og Caroline Clante.</description>
+            <pubDate>Fri, 07 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/5e3a9e52db0a5a011192e82170d8bf7ffd7e1b94a8f64e69d9e1710c6a8897fb" 
+                type="audio/mpeg" 
+                length="51009290" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/5b1fe45a958d613fcaca3cc8c50bc17e82a3fe764e443b315a29e3858ba0e8a4" 
+                type="audio/mpeg" 
+                length="17003402" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/9e5df2d0450e750a3733c3167134f70a691812d9bf76d14c613960f9c84cfd09" 
+                type="audio/x-m4a" 
+                length="68411456" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/9f6957e51b3bcb466cacc9e882b09ced60b8dca3817630faa917cf46af30aef7" 
+                type="audio/x-m4a" 
+                length="51408339" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655813cbe7905fb09c8d840/6599a826507c71ea0bc62de6ad7f9938eaa9c89118a8cc6968e168e5f021054f" 
+                type="audio/x-m4a" 
+                length="17402356" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465007</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-emilie-mengs-sidste-maaltid-11802465007</link>
+            <title>Emilie Mengs sidste måltid</title>
+            <description>I Kirkerupsagen spørger anklageren indgående til pizza og McDonald's under afhøringen af Emilie Mengs venner. Vi vender også politiets arbejde med de grynede overvågningsbilleder af 0407-bilen og et usædvanligt efterforskningsskridt - brugen af en hypnotisør. 
+Medvirkende: Trine Maria Ilsøe.
+Vært: Dan Bjerregaard.</description>
+            <pubDate>Fri, 31 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/e854e2980309b50f5104a198aa032facfb5c33979127bb8b618fa5b6585e702f" 
+                type="audio/mpeg" 
+                length="48103948" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/dfec49deccf1ae809a122406cedb174b1c2e229a70851932321e1f63cbf0aa25" 
+                type="audio/mpeg" 
+                length="16034956" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/54c54084a308f268ad30273a1c7a1b3fb6567b71f0e762bfdbe6fb7339ce7486" 
+                type="audio/x-m4a" 
+                length="64515153" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/26d3f02ac85440e077c4e2bf149d06155747bb04fc4b1961c947383af588f260" 
+                type="audio/x-m4a" 
+                length="48480627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558140be7905fb09c8d85a/1c3427f189377b4f3f1b05c9b55ed31cae6c5703cc8d8c81f3fa07f4b48e5033" 
+                type="audio/x-m4a" 
+                length="16411257" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465006</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-betjentene-der-befriede-den-13-aarige-og-rockernes-foedekaede-11802465006</link>
+            <title>Betjentene der befriede den 13-årige og rockernes fødekæde</title>
+            <description>Bremser et forbud mod Bandidos rekrutteringen til rockerklubben? Nej, siger Christian Breum, som selv har forladt miljøet. I Kirkerupsagen fortæller DR's retskorrespondent, Trine Maria Ilsøe, om vidneforklaringen fra de betjente, der befriede den 13-årige pige. 
+Medvirkende: Trine Maria Ilsøe og Christian Breum.
+Vært: Dan Bjerregaard.</description>
+            <pubDate>Fri, 24 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/70ca499118ff6e973dee4fc2128b276d883ffced35ca366593d8b276336f7c79" 
+                type="audio/mpeg" 
+                length="63963525" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/fb407b3dd01e806090037d211e1fcab0d6c11b896a929c8f7b3af8aaa69fdaf4" 
+                type="audio/mpeg" 
+                length="21321477" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/0cee4c6fb70da1aa13b28ee032a62c84f17590f365fb0f0ce6248ebc4b84fe93" 
+                type="audio/x-m4a" 
+                length="85785588" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/d4d019217eb3f0333d750a684f157578c618efc5b9d078c8ba46f420b2457fce" 
+                type="audio/x-m4a" 
+                length="64464415" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c5574503bfd6696f9bd8/819287339b83a7d4203f2136e85058013cae6f8459f13e55bf8272940b221d45" 
+                type="audio/x-m4a" 
+                length="21821812" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465005</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-kirkerup-sagen-dag-1-taperulle-gemte-paa-dna-11802465005</link>
+            <title>Kirkerup-sagen dag 1: Taperulle gemte på DNA</title>
+            <description>Da politiet befriede en 13-årige pige hos den 33-årige tiltalte, fandt de også en rulle tape, der blev brugt under drabet på Emilie Meng. Det mener sagens anklager - selv nægter den 33-årige sig skyldig. Tidligere drabschef Bent Isager Nielsen gæster studiet, og Trine Maria Ilsøe fortæller om sagens første dag fra Retten i Næstved. 
+Medvirkende: Bent Isager-Nielsen og Tine Maria Ilsøe.
+Vært: Dan Bjerregaard.</description>
+            <pubDate>Tue, 14 May 2024 15:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/34ac267667224698108fe3003322a7ddab9a8a401e23fa481c40c7a7ad243db7" 
+                type="audio/mpeg" 
+                length="48217993" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/75287d87b048fe2d0b51722bc7f79c5a1b4a27d44f844159d66f66adcaf57e05" 
+                type="audio/mpeg" 
+                length="16072969" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/b104227c9d365d0dfb2e6e3bc87062934a604193b4d20d775df3268af1e5f888" 
+                type="audio/x-m4a" 
+                length="64668232" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/d7c4972b11a19ad8b92164b1aa6300d8d7bdb1ee85d1b43d61abd478068a3a74" 
+                type="audio/x-m4a" 
+                length="48595659" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6641c556ce5ca8cff251001c/e99c673f781a79325cb41e69420d642469893813bca5647acd0da11668dcafa8" 
+                type="audio/x-m4a" 
+                length="16450232" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465004</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/kirkerup-komplekset-3-3-1-afgoerende-minut-11802465004</link>
+            <title>Kirkerup-komplekset 3:3 - 1 afgørende minut</title>
+            <description>En 15-årige pige fra Sorø kæmper for livet, da hun bliver overfaldet af en mand nær sin efterskole. Han har medbragt strips og forsøger at holde og voldtage hende. Han giver op, men efterlader sit DNA på pigen, og i sin flugt på vej tilbage til sin bil er han et enkelt minut fra at blive afsløret af en forbipasserende.</description>
+            <pubDate>Thu, 09 May 2024 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/0913b22db8db9ca91bc0b93e849f34e422694ac8e183b6ea53a20f2999a8fcbc" 
+                type="audio/mpeg" 
+                length="47949579" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/df28b4786df552993409d180cd79065b584ef0d7bc4bea8c4b953558ab4bb32b" 
+                type="audio/mpeg" 
+                length="15983499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/bfab554f680fdaef50bb625f2dd5a183dbb2033402b15f88eeaf794b02701713" 
+                type="audio/x-m4a" 
+                length="64307704" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/fb40af1e5b6cc3d09f909cd49596ed8913346f8ad4fa2214db99712bcbd285af" 
+                type="audio/x-m4a" 
+                length="48324747" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37606185e3b6d67ec88/882a5b5ba8bd1619db92bf13b4f78d796cd7cad5a240d140201160a740a180bc" 
+                type="audio/x-m4a" 
+                length="16358532" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465003</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/kirkerup-komplekset-2-3-6-maaneders-soegen-efter-meng-11802465003</link>
+            <title>Kirkerup-komplekset 2:3 - 6 måneders søgen efter Meng</title>
+            <description>Da den 17-årige Emilie Meng forsvinder efter en tur i byen, afventer politiet i første omgang situationen. Det skal dog vise sig, at sagen er meget mere alvorlig end kærestesorger, og politiet starter sin efterforskning bagud på tid. Den tragiske sag hænger som en sort sky over politiet i syv år og slår dybe revner i lokalsamfundet i Korsør.</description>
+            <pubDate>Thu, 09 May 2024 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/b0fa248183e57ba7d766d749eb50ffebf62001d9f2f6859d5842138988c0be14" 
+                type="audio/mpeg" 
+                length="43384201" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/133d14ffbb5b2b51391e43d6f6d446511c93aa1d924051071851b5348b593a28" 
+                type="audio/mpeg" 
+                length="14461705" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/778c89bcd68170049b9a99aa7689877231d6235e2bb5f772da4df4dff5417caa" 
+                type="audio/x-m4a" 
+                length="58185448" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/e9344a58f9494f3e3bb215d1790da9fe2fff9b6168a6aab57933057ef66d922d" 
+                type="audio/x-m4a" 
+                length="43724111" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37406185e3b6d67ec7d/e9295f5df51ef41e1f538ea2e7fd7aab7873aa2f18df712e1f785ac1a6591013" 
+                type="audio/x-m4a" 
+                length="14801172" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465002</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/kirkerup-komplekset-1-3-27-timer-i-kirkerup-11802465002</link>
+            <title>Kirkerup-komplekset 1:3 - 27 timer i Kirkerup</title>
+            <description>Da en 13-årige pige forsvinder fra Kirkerup og hendes cykel og mobiltelefon ligger efterladt i vejkanten ved politiet straks, at nu starter en kamp mod tiden. Der er noget helt galt. Politikredsen har tidligere fejlet i sagen om Emilie Meng, som blev fundet død. Derfor går en hæsblæsende jagt ind, hvor hele lokalområdet hjælper til.</description>
+            <pubDate>Thu, 09 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/615a7032740d09cc3fd79ddfff02fbea0850186f2e0e8c35cd7cc9e98371d92b" 
+                type="audio/mpeg" 
+                length="47951302" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/881b3a5f1e0a28fceff18b3ba304583b4ace5b9d5603f01f273fdffb3cd022d4" 
+                type="audio/mpeg" 
+                length="15984070" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/5d3ec105daa1eddd94235f8af876749fa2b89250747a4e2ae0c77c720efa6714" 
+                type="audio/x-m4a" 
+                length="64310475" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/c5874fb195201d1bcb3245fb6d375c6147883a1aac3d3d6730cbf1af0149b383" 
+                type="audio/x-m4a" 
+                length="48326811" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a37505601f9e4fdba46a/a85132226592a053acf193e52227ff72e16a6c33e2936c90de662d7226b615a7" 
+                type="audio/x-m4a" 
+                length="16359207" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802465001</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/trailer-lyssky-11802465001</link>
+            <title>Trailer: Lyssky</title>
+            <description>Hør med når DR's nye podcast Lyssky går i luften. Vi starter med at gå i dybden med en af nyere tids største drabssager, Kirkerupsagen, i en serie på tre afsnit - og følger derefter retssagen løbende over de kommende uger.</description>
+            <pubDate>Tue, 07 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:00:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/e923d728daf3db9a3b1ffabe92c49eac45fd226b4d55519e1236f82cf1514f69" 
+                type="audio/mpeg" 
+                length="980747" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/ba38b2a9e4e1297fbe6ba46ab00eccc7fba4f13d2abfaf5b9d14436a311eabd8" 
+                type="audio/mpeg" 
+                length="327179" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/a15f0bb49dc0d6611cf74e669abf50bfeadf8894e856e62f9c5152c3f9184c3c" 
+                type="audio/x-m4a" 
+                length="1315103" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/66dfad7ed490727a128487873294c16227c36b7e50dd53ef2125620cbf34f9ac" 
+                type="audio/x-m4a" 
+                length="988431" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6638a1a36d0e2e42f85f9bf2/c8af2c3a432b3fd3fb70ef73d743e5d9da01e94a90773f5c46f050d9c2cee86d" 
+                type="audio/x-m4a" 
+                length="335119" />
+        </item>
+    </channel>
+</rss>

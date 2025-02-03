@@ -1,0 +1,613 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:3059793998000",
+  "sortLetter": "m",
+  "channel": {
+    "title": "P1",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+    "slug": "p1",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p1"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar",
+    "Historie"
+  ],
+  "numberOfEpisodes": 4,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-12-29T05:03:00+01:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p1/modstandskvinderne-3059793998000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/den-ukendte-storspion-historien-om-jutta-graae",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:3059793998000",
+  "productionNumber": "3059793998000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:67615fd5f55b9722f8a4f481",
+  "slug": "modstandskvinderne-3059793998000",
+  "title": "Modstandskvinderne",
+  "description": "Revolver-Martha, Storfyrstinden, Lotte og Lillemor. Bag de dæk- og kælenavne gemmer der sig fire vidt forskellige kvinder, der alle er en del af den danske modstandsbevægelse. \nMed serien her kommer du med på en hæsblæsende tur ind i våbensmugling, gestapo-afhøringer og stikkerlikvideringer, når modstandskampen bliver (gen)fortalt af nogle af de vigtigste kvinder i bevægelsen. For heldigt nok, så findes der en guldgrube af gamle interviews, hvor de selv fortæller om deres illegale arbejde. Her sætter de ord på, hvorfor de vælger at kæmpe, hvad de oplevede - og hvad de særligt kunne - fordi de var kvinder! \nProduceret for DR af People's og MonoMono.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb66",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "N_SBc+oMr*n~f,oOojj^jXawWTayV$axkjj?aej^",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A676e5ef5ce6d3443e404bb66&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A676e5ef5ce6d3443e404bb67&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:676e608081654c75b6b5fc46",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "ogRuzgoNm^oYnGoOo,j_oNkAjvWZQiW9o[W7o{adx[fhV[W9e.jrx.ohWYagaeoNv-ogXOWAkCoN",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A676e608081654c75b6b5fc46&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A676e5ef5ce6d3443e404bb67&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#3C0606",
+        "#FFFE02"
+      ]
+    },
+    "colors": {
+      "dark": "#3C0606",
+      "light": "#FFFE02"
+    }
+  },
+  "sSlug": "modstandskvinderne",
+  "rssUri": "https://xmpl.dk/podcast/modstandskvinderne.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122411801",
+      "durationMilliseconds": 2169815,
+      "categories": [
+        "Dokumentar",
+        "Historie"
+      ],
+      "productionNumber": "16122411801",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-12-29T05:00:00+01:00",
+      "startTime": "2024-12-29T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/modstandskvinderne/modstandskvinderne-1/modstandskvinderne-klar-til-kamp-16122411801",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:67615fd9f55b9722f8a4f493",
+      "series": {
+        "title": "Modstandskvinderne",
+        "id": "urn:dr:radio:series:67615fd5f55b9722f8a4f481",
+        "slug": "modstandskvinderne-3059793998000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/modstandskvinderne-3059793998000",
+        "learnId": "urn:dr:ocs:audio:content:series:3059793998000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 17766897,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd8f55b9722f8a4f490/c9fec80cf9fd14a159ea0868a78f9ab5d202f834ebd77e0816610ced18861413"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 52485223,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd8f55b9722f8a4f490/6e8a1426a17a8d1e1efec511544a859690e265e219ff6b12d5b2a3d4eb48c51a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 69844333,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd8f55b9722f8a4f490/59ede877ea0efc11990b4046ffbe7f9c648afbe817e1e5e15cbb7d589f608576"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 17359353,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd8f55b9722f8a4f490/63ec3cdc3e01b419116bf880e390f1dcd05f0d3bb01e9b9bcbd3ce84057fb829"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 52077177,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd8f55b9722f8a4f490/b04bcab16b99d910847fa4de8084ef2ec5470c827fb3a405397e8489f7e5b7ee"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd8f55b9722f8a4f490/b9d8cd4c8948c583198dbd736f7189db0bea5120c048878c8c1a7d7578908cf7"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122411801",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-29T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:67615fd8f55b9722f8a4f490",
+      "slug": "modstandskvinderne-klar-til-kamp-16122411801",
+      "title": "Klar til kamp!",
+      "description": "Skolelærerinden Martha Uldall-Jessen står i grøften i den lille landsby Hoptrup, og ser tyske tanks rulle ind i landet d.5 maj. \nEdith Bonnesen er i '37 på besøg hos jødiske bekendte i Berlin - og det grundlægger et dybt had til nazisterne.\nDen 37-årige Jutta Graae ligner på overfladen en undseelig, sirlig bankassistent, men i kælderen under sparekassen, som hun arbejder i, begynder hun at lave en allieret kurércentral, hvor hun videregiver tophemmelige efterretningsoplysninger til englænderne. \nElisabeth Bomhoff bor det perfekte sted til illegalt arbejde, og kommer derfor ret tilfældigt ind i modstandsbevægelsen.\n\nFortæller, tilrettelæggelse og klip: Anne Pilegaard Petersen.\nTilrettelæggelse: Teitur Larsen.\nLyddesign: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR Redaktør: Cecilie Tonnesen.\nProduceret for DR af People's og MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb66",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N_SBc+oMr*n~f,oOojj^jXawWTayV$axkjj?aej^"
+        },
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN"
+        },
+        {
+          "id": "urn:dr:radio:image:676e608081654c75b6b5fc46",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "ogRuzgoNm^oYnGoOo,j_oNkAjvWZQiW9o[W7o{adx[fhV[W9e.jrx.ohWYagaeoNv-ogXOWAkCoN"
+        },
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3C0606",
+            "#FFFE02"
+          ]
+        },
+        "colors": {
+          "dark": "#3C0606",
+          "light": "#FFFE02"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122411802",
+      "durationMilliseconds": 2372097,
+      "categories": [
+        "Dokumentar",
+        "Historie"
+      ],
+      "productionNumber": "16122411802",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-12-29T05:01:00+01:00",
+      "startTime": "2024-12-29T05:01:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/modstandskvinderne/modstandskvinderne-1/modstandskvinderne-lillemor-og-doeds-pillerne-16122411802",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:67615fd9f55b9722f8a4f499",
+      "previousId": "urn:dr:radio:episode:67615fd8f55b9722f8a4f490",
+      "series": {
+        "title": "Modstandskvinderne",
+        "id": "urn:dr:radio:series:67615fd5f55b9722f8a4f481",
+        "slug": "modstandskvinderne-3059793998000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/modstandskvinderne-3059793998000",
+        "learnId": "urn:dr:ocs:audio:content:series:3059793998000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 19423083,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f493/b01ddf60f062ea6dc53baca7dd52be7d222f2e8579a43b15b45b814ff543ed0f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 57378051,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f493/82a3c5f532dbebaf93ef91ffbd9db6b3bc318547f84b3f7989ee78482f8e40ba"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 76355499,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f493/4998561f1d753bd00e4a6fcf254a54b73726bef723e05cc8ec9944c4c2b6c517"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 18977719,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f493/c2ff80d1c47eb5a5e5698d478f59f0837785084401877dd7d4a8261715b3014f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 56932279,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f493/0506c4dea2ba69e178b287d107a052637047fe259f2f97faef61786e0a4cfff3"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f493/a3ac6a72e82315a26cc9894324a140e8f5e5c13ab5de862126fd1fa54c36d997"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122411802",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-29T05:01:00+01:00",
+      "id": "urn:dr:radio:episode:67615fd9f55b9722f8a4f493",
+      "slug": "modstandskvinderne-lillemor-og-doeds-pillerne-16122411802",
+      "title": "Lillemor og døds-pillerne",
+      "description": "Edith Bonnesen bliver anholdt og ført til Shellhuset, Gestapos hovedkvarter i Danmark.\nLis Bomhoff får kælenavnet Lillemor af en af Danmarks mest eftersøgte modstandsmænd, Flammen. \nMartha Uldall-Jessen er i gang med at oprette sabortagegrupper - og det er svært, når man bor i en lille landsby og samtidig også har tyske soldater som nærmeste nabo! \nJutta Graae er dybt involveret i at sende tophemmelige efterretninger til englænderne. Men snart bliver en af deres kurérer taget, og så brænder jorden under hende. \n\nFortæller, tilrettelæggelse og klip: Anne Pilegaard Petersen.\nTilrettelæggelse: Teitur Larsen.\nLyddesign: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR Redaktør: Cecilie Tonnesen.\nProduceret for DR af People's og MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb66",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N_SBc+oMr*n~f,oOojj^jXawWTayV$axkjj?aej^"
+        },
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN"
+        },
+        {
+          "id": "urn:dr:radio:image:676e608081654c75b6b5fc46",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "ogRuzgoNm^oYnGoOo,j_oNkAjvWZQiW9o[W7o{adx[fhV[W9e.jrx.ohWYagaeoNv-ogXOWAkCoN"
+        },
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3C0606",
+            "#FFFE02"
+          ]
+        },
+        "colors": {
+          "dark": "#3C0606",
+          "light": "#FFFE02"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122411803",
+      "durationMilliseconds": 1744066,
+      "categories": [
+        "Dokumentar",
+        "Historie"
+      ],
+      "productionNumber": "16122411803",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-12-29T05:02:00+01:00",
+      "startTime": "2024-12-29T05:02:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/modstandskvinderne/modstandskvinderne-1/modstandskvinderne-bomber-og-lyseroede-nelliker-16122411803",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:67615fd9f55b9722f8a4f49c",
+      "previousId": "urn:dr:radio:episode:67615fd9f55b9722f8a4f493",
+      "series": {
+        "title": "Modstandskvinderne",
+        "id": "urn:dr:radio:series:67615fd5f55b9722f8a4f481",
+        "slug": "modstandskvinderne-3059793998000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/modstandskvinderne-3059793998000",
+        "learnId": "urn:dr:ocs:audio:content:series:3059793998000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14281027,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f499/7dc66e64892298f782a3beb8e1a351a7a80653bb310869e97c5403d75d09a2c0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 42187407,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f499/5d37cdf4b383726f85837543f75f93b6878f4f1ecaff89edff6ead52e7f16906"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 56140439,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f499/1518a0f0e2cda8eed4e3e640065d8577ccb0e1c1ef9feee7e890f1d66762fe40"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13953461,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f499/ea287ce3b1dbc112ea23300cd38cd48699d946d29b9662dde2fc087b9b6e5331"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 41859509,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f499/23a17418467dab9b9ee34ba09283d0e9af57336b1096c8c1bc2f95f0536e0035"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f499/74dc60565bc8ec0e7878f7e3d15d837ac081b455bc4636221e10c83c50d48266"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122411803",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-29T05:02:00+01:00",
+      "id": "urn:dr:radio:episode:67615fd9f55b9722f8a4f499",
+      "slug": "modstandskvinderne-bomber-og-lyseroede-nelliker-16122411803",
+      "title": "Bomber og lyserøde nelliker",
+      "description": "Edith Bonnesen har lavet en legendarisk flugt fra Gestapo, men efter den tror flere af hendes egne, at hun har slået en handel af med tyskerne - og det giver hende snart store problemer.\nJutta Graae er efter sin flugt havnet i Sverige, men snart bliver hun sendt til London af modstandsbevægelsen for at rådgive englænderne.\nDa store dele af modstandsbevægelsen i Sønderjylland bliver optrevlet, bliver Martha Uldall-Jessen pludselig leder af en sabortageenhed med 27 mand under sig! \nLis Bomhoff er fanget af Gestapo, og under et forhør har hun et meget, meget ubehageligt møde med chefen for det tyske, hemmelige politi, der ender med en invitation til at drikke lyserød champagne. \n\nFortæller, tilrettelæggelse og klip: Anne Pilegaard Petersen.\nTilrettelæggelse: Teitur Larsen.\nLyddesign: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR Redaktør: Cecilie Tonnesen.\nProduceret for DR af People's og MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb66",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N_SBc+oMr*n~f,oOojj^jXawWTayV$axkjj?aej^"
+        },
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN"
+        },
+        {
+          "id": "urn:dr:radio:image:676e608081654c75b6b5fc46",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "ogRuzgoNm^oYnGoOo,j_oNkAjvWZQiW9o[W7o{adx[fhV[W9e.jrx.ohWYagaeoNv-ogXOWAkCoN"
+        },
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3C0606",
+            "#FFFE02"
+          ]
+        },
+        "colors": {
+          "dark": "#3C0606",
+          "light": "#FFFE02"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122411804",
+      "durationMilliseconds": 2399063,
+      "categories": [
+        "Dokumentar",
+        "Historie"
+      ],
+      "productionNumber": "16122411804",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-12-29T05:03:00+01:00",
+      "startTime": "2024-12-29T05:03:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/modstandskvinderne/modstandskvinderne-1/modstandskvinderne-haandgranater-i-lommen-16122411804",
+      "order": 100004,
+      "previousId": "urn:dr:radio:episode:67615fd9f55b9722f8a4f499",
+      "series": {
+        "title": "Modstandskvinderne",
+        "id": "urn:dr:radio:series:67615fd5f55b9722f8a4f481",
+        "slug": "modstandskvinderne-3059793998000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/modstandskvinderne-3059793998000",
+        "learnId": "urn:dr:ocs:audio:content:series:3059793998000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 19643897,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f49c/47bdc5035ebba6e4a5eaaabbe20f034f6a243c8f6afdd1ff13da13235248c47a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 58030263,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f49c/9b3d5a46fa5b1974aa1b5c6ae7b4802c4f81bfbf443a08ef02e1652d63e5b731"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 77223413,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f49c/906c0af13b6a80e755ace8f5e24ae2f2fdc7cdce001d07a52ea12c67c1da45d7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 19193340,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f49c/c754a250c50d86f391bcc81e628ffb7446eb7b1473447ca0ecb311a2a7005842"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 57579132,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f49c/f36fe5b0a76bd198c59210fab0ea85efcf0ea30004abc0151b024853b5a7c682"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67615fd9f55b9722f8a4f49c/bb9f1d2c0a5b7251947375f8ce19da7430852c9707f86b0988b6c04d1832caa8"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122411804",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-29T05:03:00+01:00",
+      "id": "urn:dr:radio:episode:67615fd9f55b9722f8a4f49c",
+      "slug": "modstandskvinderne-haandgranater-i-lommen-16122411804",
+      "title": "Håndgranater i lommen",
+      "description": "I Frøslevlejren i Sønderjylland er Lis Bomhoff havnet i en rigtig træls situation: Hun er blevet formand for kvindebarakken, og det er en udsat position. \nMartha Uldall-Jessen er blevet leder af sabortagegruppen i den lille landsby Hoptrup. Og den 4. maj om morgenen får hun et vildt opkald fra en af modstandsbevægelsens kommandanter.\nJutta Graae sidder i Malmø og passer i krigens sidste tid en hemmelig telefonlinje mellem militærkontoret i det frie Sverige og så hærens ledelse i Danmark. \nFor Edith Bonnesen er det at leve almindeligt liv efter befrielsen ikke helt let. For når Gestapoanholdelser, våbensmugling og stikkerlikvideringer er blevet hverdagskost, så er det svært overhovedet at indse, at man måske har oplevet noget lidt udover det sædvanlige. \n\nFortæller, tilrettelæggelse og klip: Anne Pilegaard Petersen.\nTilrettelæggelse: Teitur Larsen.\nLyddesign: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR Redaktør: Cecilie Tonnesen.\nProduceret for DR af People's og MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb66",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "N_SBc+oMr*n~f,oOojj^jXawWTayV$axkjj?aej^"
+        },
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN"
+        },
+        {
+          "id": "urn:dr:radio:image:676e608081654c75b6b5fc46",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "ogRuzgoNm^oYnGoOo,j_oNkAjvWZQiW9o[W7o{adx[fhV[W9e.jrx.ohWYagaeoNv-ogXOWAkCoN"
+        },
+        {
+          "id": "urn:dr:radio:image:676e5ef5ce6d3443e404bb67",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "olRuzjohnDoZnFj^o,oPsqofjvWYQ$aeo]W8o{adxufjWCW9e.jrteohWYagaeoNrckCXNWAkCoN"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#3C0606",
+            "#FFFE02"
+          ]
+        },
+        "colors": {
+          "dark": "#3C0606",
+          "light": "#FFFE02"
+        }
+      }
+    }
+  ]
+}

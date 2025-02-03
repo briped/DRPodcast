@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/faldet-lydfoelsom-version.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Faldet - Lydfølsom version (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version-5421228843000</link>
+        <description>Det første Mads Ellesøe hører da han åbner sine øjne er hans 7-årige datter, der råber "FAR!". Så mærker han, hvordan det bløder fra baghovedet. Han er faldet og har slået hovedet ned i badeværelsesgulvet. Et slag, der udvikler sig til at blive en langvarig hjernerystelse. Midt i sin kamp for at blive rask, oplever Mads, ligesom mange andre med længerevarende hjernerystelser, at blive overladt til sig selv uden meget hjælp fra det danske sundhedssystem. Pludselig opdager Mads Ellesøe, at der i USA virker til at være en helt anden tilgang til at behandle hjernerystelser. Så han rejser afsted i håb om at finde kuren mod hjernerystelser.
+Vært og tilrettelæggelse: Mads Ellesøe.
+Tilrettelæggelse, mix og musik: Mikkel Rönnau, MonoMono.
+Redaktør: Jens Vithner.
+OBS - der findes en version af serien med musik og lyddesign med titlen "Faldet - Mysteriet om de rystede hjerner".
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:06 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/faldet-lydfoelsom-version.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/faldet-lydfoelsom-version.jpg</url>
+            <title>Faldet - Lydfølsom version (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version-5421228843000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/faldet-lydfoelsom-version.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <item>
+            <guid isPermaLink="false">11802418601</guid>
+            <link>https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-1-5-den-usynlige-fjende-lydfoelsom-version-11802418601</link>
+            <title>Faldet 1:5 - Den usynlige fjende - Lydfølsom version</title>
+            <description>Da Mads Ellesøe slår hovedet i badeværelsesgulvet, bliver hans liv sat på pause. De efterfølgende måneder oplever han, at ingen i sundhedssystemet kan fortælle ham, hvad han skal gøre for at blive rask. Han må flytte væk fra sin kæreste og børn, og ind på sit gamle børneværelse hos sin mor. Her begynder ét spørgsmål at trænge sig på: Er vi i Danmark gode nok til at behandle personer med længerevarende hjernerystelser?</description>
+            <pubDate>Tue, 26 Mar 2024 15:45:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:23:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/dc7a13dc6f4b28dd0576a57b0e7b8b4233b622df2dce032a219849612df88eef" 
+                type="audio/mpeg" 
+                length="33843920" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/724aff3f006ac11c0048b202220014555003ba2fa642ea7064db9c9bc49d80c6" 
+                type="audio/mpeg" 
+                length="11281616" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/2d6680ad8915af553ce1915075dd3bd200f1723fb941eeee67d6068588eac7b0" 
+                type="audio/x-m4a" 
+                length="45390704" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/a2e23bbc24fd985a2c57c81c337e9d5bff106193d05b7737e84fc4f0f3b8104d" 
+                type="audio/x-m4a" 
+                length="34109387" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/8a23e19a287c85200a6bca5d52dfa37de810cf23a68af525f9e1dc4c548f7030" 
+                type="audio/x-m4a" 
+                length="11547524" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802418602</guid>
+            <link>https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-2-5-nedrullede-gardiner-lydfoelsom-version-11802418602</link>
+            <title>Faldet 2:5 - Nedrullede gardiner - Lydfølsom version</title>
+            <description>Bag nedrullede gardiner oplever Mads, at tiden er ved at løbe ud for en hurtig helbredelse af hjernerystelsen. Spørgsmålet er, om Mads kan undgå at hans sygdom bliver kronisk, som en læge har advaret ham om.</description>
+            <pubDate>Wed, 27 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/e49e68b21d3464491c6143130d460138edc996dad7ae464029a5526e49465307" 
+                type="audio/mpeg" 
+                length="38281945" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/b8c09f61661d6a11dd0d93bbef9bd29741faa67558caebbd596f7809aa2f50dc" 
+                type="audio/mpeg" 
+                length="12760921" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/2d1ba50c601dce39963f54a09fd10567f607e4dc4f1a1accf0c1c66765a1c720" 
+                type="audio/x-m4a" 
+                length="51342080" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/f6328935dafe14137a831e64106738d05065a87c82cb8a875b022fbbb4e5ee6f" 
+                type="audio/x-m4a" 
+                length="38581543" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/15df45c8ff77b77279c4625bac3ffa58288c1e019b8a321ad901561f3003fdee" 
+                type="audio/x-m4a" 
+                length="13061572" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802418603</guid>
+            <link>https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-3-5-et-sidste-haab-lydfoelsom-version-11802418603</link>
+            <title>Faldet 3:5 - Et sidste håb - Lydfølsom version</title>
+            <description>Med ørepropper i ørerne sætter Mads Ellesøe sig i flyet mod USA. Gemmer de her på den behandling, der kan kurere hans langvarige hjernerystelse? Efter næsten to års sygdom er det måske hans allersidste mulighed for at blive rask.</description>
+            <pubDate>Wed, 27 Mar 2024 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:23:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/a404442355be0f19f623684b7f79767a467aea483f5c24a000f101d45860fcb9" 
+                type="audio/mpeg" 
+                length="33900914" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/5760119fd85f26ba54d888cb42cc175423b321ebeb65818e3cd071c41e1ee2f1" 
+                type="audio/mpeg" 
+                length="11300594" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/fb59680a2b7649c986e7a118f900bda1c937fed48cf0d207176ea9d658ac2fad" 
+                type="audio/x-m4a" 
+                length="45466852" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/14f438c31dd618c73d52278d68ee53d9149a781a2dc615655c1bdbf9ab4d0063" 
+                type="audio/x-m4a" 
+                length="34166579" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/bea2d614818b648d862b10301ba373bc2eaaabbdba5ad8188a089963b287938d" 
+                type="audio/x-m4a" 
+                length="11566813" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802418604</guid>
+            <link>https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-4-5-tigerens-oeje-lydfoelsom-version-11802418604</link>
+            <title>Faldet 4:5 - Tigerens øje  - Lydfølsom version</title>
+            <description>I Pittsburgh bliver Mads' verden vendt på hovedet. Lægerne beder ham gøre alt, som han har forsøgt at undgå de sidste to år. Masser af støj, træning og høj musik er kuren på hans rystede hjerne, siger de. Nu skal genoptræningsprogrammet vise sit værd de næste to uger. Men hvorfor har Mads fået den modsatte instruktion af lægerne i Danmark?</description>
+            <pubDate>Wed, 27 Mar 2024 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/a75df5420171512cab263dfb6086d473730af953ff4a0e4eafe0aa34a00fb387" 
+                type="audio/mpeg" 
+                length="36068429" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/7f3c6f7ee7ae184ca8d81e5b3dfd33fb13cd8d3864f1cb33e17fa83b9dfbd2c2" 
+                type="audio/mpeg" 
+                length="12023117" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/f1477ca51264bdbe9a990d4e28eda7d582ca9216af875f323b16382638302dbb" 
+                type="audio/x-m4a" 
+                length="48373616" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/a8b595222081e916425fe2d4e357649d212edca480cc579bc05f19b71b47c683" 
+                type="audio/x-m4a" 
+                length="36350851" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/1dbcfb9fb15659e19e95bf5b7c932c4ba79de952f6e39a108b7f21fe3750e120" 
+                type="audio/x-m4a" 
+                length="12306237" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802418605</guid>
+            <link>https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-5-5-bonusepisode-albertes-rejse-til-pittsburgh-lydfoelsom-version-11802418605</link>
+            <title>Faldet 5:5 - Bonusepisode - Albertes rejse til Pittsburgh - Lydfølsom version</title>
+            <description>19-årige Alberte har fået revet sit ungdomsliv midt over af en massiv hjernerystelse. Ligesom Mads søger hun løsningen i USA og nu mødes de for at tale om, hvilken effekt behandlingen har haft på hende.</description>
+            <pubDate>Wed, 27 Mar 2024 05:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:13:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/a9bab0779d11d527d927046998a1a7c680ee296dbecf0cb466c0f267d924ccd3" 
+                type="audio/mpeg" 
+                length="18851732" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/4a217c0b6929f7034a71f95a3e97898f4f802617f871c1e82c9503839b744cad" 
+                type="audio/mpeg" 
+                length="6284180" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/e750d578ea2c0f9f54198e8ae890a320a08c7558544dadc3cf51aa40097bdbcb" 
+                type="audio/x-m4a" 
+                length="25282752" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/d80d85d80a7d9c8549d6e68bc7f9d63d3f292a2f0588b81ff178852c38a63585" 
+                type="audio/x-m4a" 
+                length="18999123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/3c5fca693a694a57de02d84fced0b61dea506ec2b2b4ce3d533ca4da7e4a5c45" 
+                type="audio/x-m4a" 
+                length="6432848" />
+        </item>
+    </channel>
+</rss>

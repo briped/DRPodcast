@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/staa-af-raeset.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Stå af ræset (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/staa-af-raeset-5624728801000</link>
+        <description>Elna har travlt. Hun løber og løber for at nå tre børn, et arbejde, et bijob, et hus, et ægteskab. En dag ser hun en video af barfodede børn, der spiser gulerødder, de lige har hevet op af jorden. Det får Elna til at længes efter balance og bæredygtighed i sit liv. I programserien følger vi 45-årige Elna Bruun, der undersøger alt fra selvforsyning til minimalisme og købestop i jagten på en hverdag med ro og balance.
+Tilrettelæggelse og klip: Sara Røjkjær Knudsen.
+Redaktører: Hanne Barslund og Carsten Nielsen.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:46 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/staa-af-raeset.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/staa-af-raeset.jpg</url>
+            <title>Stå af ræset (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/staa-af-raeset-5624728801000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/staa-af-raeset.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Kultur</category>
+        <itunes:category text="Kultur" />
+        <item>
+            <guid isPermaLink="false">11032406401</guid>
+            <link>https://www.dr.dk/lyd/p1/staa-af-raeset/staa-af-raeset-1/staa-af-raeset-1-5-oppe-at-flyve-og-ude-at-skide-11032406401</link>
+            <title>1:5 - Oppe at flyve og ude at skide</title>
+            <description>Hvis Elna virkelig vil ændre på tempoet i sin og familiens hverdag, så har hun brug for mere tid. Derfor skal hun sammen med sin mand træffe en svimlende svær beslutning; Skal hun sige sit faste job op? Og hvad så med pensionen? Elna søger råd hos Jes Hjort, der engang selv solgte pensionsforsikringsordninger men nu ikke betaler så meget som en rød øre. 
+Elna Bruun: 45 år og journalist, meditations- og yogalærer, indehaver af Mindyourminutes.
+Hans Sørensen, ægtemand.
+Janne Glerup: arbejdslivsforsker Roskilde Universitet.
+Jes Hjort: grøntsagsavler og indehaver af Økotopen.
+Jesper Rangvid: økonomiprofessor og pensionsforsker CBS.
+Tilrettelæggelse og klip: Sara Røjkjær Knudsen.
+Redaktører: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6a/d6e38d70bd4bd5b394ca9647fd6bcbf96ce46b068ecea2d58882755c171144ec" 
+                type="audio/mpeg" 
+                length="45780351" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6a/a46a744a8548ef75e107d6f2fabd12c5e2c643abae693d2008848a6fc55d71ab" 
+                type="audio/mpeg" 
+                length="15260415" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6a/b9acd43abf8318e661731d59559028f6aa949e08b72ae4000ae646cf46435554" 
+                type="audio/x-m4a" 
+                length="61398337" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6a/4d4a1b716fef9f21f74a666d50abaa2982a985274d1a6927b65b5d570d4d73eb" 
+                type="audio/x-m4a" 
+                length="46138387" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6a/9ead641ad61af1b8b1a4ab8dd4aa0c99e13f85731a6ca859d273a78d2264ce56" 
+                type="audio/x-m4a" 
+                length="15618465" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032406402</guid>
+            <link>https://www.dr.dk/lyd/p1/staa-af-raeset/staa-af-raeset-1/staa-af-raeset-2-5-genvind-kontrollen-11032406402</link>
+            <title>2:5 - Genvind kontrollen</title>
+            <description>Elna har sagt sit faste job op og påtager sig at gennemgå alle udgifter i familien for at tjene penge ved at spare dem. Optimismen er stor, da hun opdager, hvordan familien forholdsvist smertefrit kan holde økonomien bæredygtig bl.a. ved at udskifte bilpakken. Men nogle gange overhales de økonomiske fornuftige beslutninger af virkeligheden. 
+Elna Bruun: 45 år og journalist, meditations- og yogalærer, indehaver af Mindyourminutes.
+Hans Sørensen, ægtemand.
+Janne Glerup, arbejdslivsforsker Roskilde Universitet.
+Tilrettelæggelse og klip: Sara Røjkjær Knudsen.
+Redaktører: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6e40614b67ab70960/3ac875566225fc8226be80d45628c599ac762c66c55948cbbc6fbc3f89f9e8df" 
+                type="audio/mpeg" 
+                length="44046589" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6e40614b67ab70960/250fdb88044dc41ef5f0c5283719031c71004123eaef21bb49b938b1d233a5ce" 
+                type="audio/mpeg" 
+                length="14682493" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6e40614b67ab70960/cf2c3093bba88fe18bb36b8e4a53f5211b7af3d26ed5088e88fa3fcebca13d5c" 
+                type="audio/x-m4a" 
+                length="59073312" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6e40614b67ab70960/3ee8f6c7966965400dd8a52e4db5870714fbf152f21cd838e8ba699ddc974e87" 
+                type="audio/x-m4a" 
+                length="44391243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6e40614b67ab70960/162849a6b00837f14065ce5c66fe22b3d098dcffc27fe7ad2a75fda9545ebbaa" 
+                type="audio/x-m4a" 
+                length="15027044" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032406403</guid>
+            <link>https://www.dr.dk/lyd/p1/staa-af-raeset/staa-af-raeset-1/staa-af-raeset-3-5-ind-til-benet-11032406403</link>
+            <title>3:5 - Ind til benet</title>
+            <description>"Less is more" er minimalismens slogan. Med det som fakkel vil Elna gennemføre en komplet oprydning af huset sammen med sin mand. Målet er at få øje på de ting, de allerede har, men skepsis omkring projektets værdi lurer rundt om hjørnet.  
+Elna Bruun: 45 år og journalist, meditations- og yogalærer, indehaver af Mindyourminutes.
+Hans Sørensen, ægtemand.
+Jane Ipsen Piper, forfatter og minimalist.
+Janne Glerup, arbejdslivsforsker Roskilde Universitet.
+Tilrettelæggelse og klip: Sara Røjkjær Knudsen.
+Redaktører: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6e/c7ec4d277b21e71fa65991a0c1f2a5c487d0f99ae4d3c4d1388ee05e2845b175" 
+                type="audio/mpeg" 
+                length="46222140" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6e/3c158e3f5dceef62ebd489e99a15c1cacdab07b862bb33d4499c3953a283e829" 
+                type="audio/mpeg" 
+                length="15407676" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6e/c6ebb8088ff9860e2ad21f272ba4f3a0bfa0a92749b28d8f325229ac2be94b89" 
+                type="audio/x-m4a" 
+                length="61990955" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6e/f14a0aedfbdb6a1d5c56180c71f2e67d21dd35c8561499ad1803b8486a2d0423" 
+                type="audio/x-m4a" 
+                length="46583759" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc6e/1c5f08d9c999c7a7012bcd93dff6f3cb24d062c52c89485da38aae2f1acdcde0" 
+                type="audio/x-m4a" 
+                length="15769215" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032406404</guid>
+            <link>https://www.dr.dk/lyd/p1/staa-af-raeset/staa-af-raeset-1/staa-af-raeset-4-5-vaek-med-bedoevelsen-11032406404</link>
+            <title>4:5 - Væk med bedøvelsen</title>
+            <description>Elna har genvundet kontrol over økonomien. Men en ting nager hende. Det føles som, at tiden stadig forsvinder ud af hænderne. Hun beslutter sig for at tracke sit skærmforbrug, for at se om det er mobilen, der stjæler den tid, der ellers burde være i tilværelsen. 
+Elna Bruun: 45 år og journalist, meditations- og yogalærer, indehaver af Mindyourminutes. 
+Camilla Mehlsen: medieanalytiker og forfatter til "Opmærksomhedstyveriet".
+Tilrettelæggelse og klip: Sara Røjkjær Knudsen.
+Redaktører: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc73/13f571651c652aeacfbc77e373323443991a00fbe21d9dd8efb47eee97a8fc86" 
+                type="audio/mpeg" 
+                length="38226688" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc73/c8aa1d6fdabac111def8b69b4f30478d321cbc2e60bce23a571caedeabfa3264" 
+                type="audio/mpeg" 
+                length="12742528" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc73/a663d8cea75d836d4249b3e8848b1adfb5e20dfb22e8318d2710b69c84b19b85" 
+                type="audio/x-m4a" 
+                length="51267892" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc73/5181095ca3aaebf0b052cbfe0ab8c6bf12f232e6577f4e3a9711bffb14410e32" 
+                type="audio/x-m4a" 
+                length="38525787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc73/62bf831b424ae8d7a62e0847dded4ab693fa77cfd50518266c8340ce5e7f2d95" 
+                type="audio/x-m4a" 
+                length="13041600" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032406405</guid>
+            <link>https://www.dr.dk/lyd/p1/staa-af-raeset/staa-af-raeset-1/staa-af-raeset-5-5-hold-kursen-11032406405</link>
+            <title>5:5 - Hold kursen</title>
+            <description>Der er kommet mere overskud i tilværelsen og i familien, oplever Elna. Hun drømmer om at holde kursen, men i medierne raser en hidsig debat om danskere, der går ned i arbejdstid, og det forstyrrer kompasset. Stempler man ud af samfundet, bare fordi man står af ræset? Elna møder ekspert i selvforsyning Yen Frydensberg Egebak, der minder hende om, hvordan man tager magten over sit eget liv. 
+Elna Bruun: 45 år og journalist, meditations- og yogalærer, indehaver af Mindyourminutes.
+Hans Sørensen, ægtemand.
+Yens Frydensberg Egebak, forfatter og ekspert i selvforsyning
+Janne Glerup, arbejdslivsforsker RUC. 
+Tilrettelæggelse og klip: Sara Røjkjær Knudsen.
+Redaktører: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05:04:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc79/189038114f2e0389e4ab332b218b48d2c5e36409783b7bfed380e3bb697261fb" 
+                type="audio/mpeg" 
+                length="39513464" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc79/35de6c5502951cf9e8d596d3a5d45ef2bccc2043e29d870260d0172c37a14d80" 
+                type="audio/mpeg" 
+                length="13171448" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc79/f9f8ec33f4e51f432908bc317f2aab2f3292ee878b9476a99c11e33c757a19c1" 
+                type="audio/x-m4a" 
+                length="52993493" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc79/a8988b655f9436f077ee1235417fc672c751cc18b6d9f47511d8dc19b71f2c5b" 
+                type="audio/x-m4a" 
+                length="39822487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666849b6a63f4ccc1ec0bc79/6d40867158cedb5ba0e4ad264b9021d5ded62c62acbd670d04c9695a66780969" 
+                type="audio/x-m4a" 
+                length="13480525" />
+        </item>
+    </channel>
+</rss>

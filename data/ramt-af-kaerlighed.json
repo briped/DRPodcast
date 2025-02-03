@@ -1,0 +1,1521 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5538079325000",
+  "sortLetter": "r",
+  "channel": {
+    "title": "P1",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+    "slug": "p1",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p1"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Kultur",
+    "Portrætter"
+  ],
+  "numberOfEpisodes": 11,
+  "presentationType": "Ongoing",
+  "groupingType": "None",
+  "latestEpisodeStartTime": "2025-01-02T05:00:00+01:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/ramt-af-kaerlighed",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5538079325000",
+  "productionNumber": "5538079325000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Desc",
+  "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+  "slug": "ramt-af-kaerlighed-5538079325000",
+  "title": "Ramt af kærlighed",
+  "punchline": "I følge Majse er kærlighed lige som dip til pommes frites - der er mange varianter",
+  "description": "Forfatter Maise Njors kærlighedsliv er ikke noget at prale af, hvis hun selv skal sige det. Men måske kan kærligheden til den eneste ene erstattes med kærlighed til venner, børn, forældre, kæledyr og kunst? I en ny serie dykker Maise ned i kærlighedens væsen og de mange former, den kan antage gennem livet. Hun undersøger kærligheden som drivkraft, både når den gør os lykkelige og det modsatte. Hun prøver at finde balancen mellem romantik og realisme, for heldigvis er kærlighed lige som tilbehør til pommes frites: Der er virkelig mange varianter.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cb6ac68322c7b3e5c07&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cb6ac68322c7b3e5c09&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cb6ac68322c7b3e5c08&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cb6ac68322c7b3e5c09&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#390F08",
+        "#DBB2D2"
+      ]
+    },
+    "colors": {
+      "dark": "#390F08",
+      "light": "#DBB2D2"
+    }
+  },
+  "sSlug": "ramt-af-kaerlighed",
+  "rssUri": "https://xmpl.dk/podcast/ramt-af-kaerlighed.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032526017",
+      "durationMilliseconds": 3402637,
+      "categories": [
+        "Kultur"
+      ],
+      "productionNumber": "11032526017",
+      "publishTime": "2025-01-02T05:00:00+01:00",
+      "startTime": "2025-01-02T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/ramt-af-kaerlighed-i-min-barndomsgade-falder-mine-skuldre-11032526017",
+      "order": 638713874025001017,
+      "previousId": "urn:dr:radio:episode:674623709936bcec98bf0327",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 27860595,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/712edc94cd8342548adea492817e1426a0d4d3b75d33fe55d6e140677836ae08"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82304195,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/2d265832c628b7feea75effa6305987dee7923feb35bc38667f65e413edb2f56"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 109525851,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/997a66c2718967c3a84a268544bb6a3a245fc3806634a96e174c688e6987ee79"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27222019,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/7188ea783aa73af3f4bbc41a000860d246b22e240d1476bfdaeb59a7c2e0a1f6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 81665155,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/c06f2d9d657eba4f1a864b56146f4df51051c8276d1ca7bc7f637256646d3f5b"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/9c2d8935c5dc945863dc0cc0d942d8c6244c31a0278d9ec548a13a1d978a441d"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032526017",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2025-01-02T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:6765850c6e05ffb3958f1058",
+      "slug": "ramt-af-kaerlighed-i-min-barndomsgade-falder-mine-skuldre-11032526017",
+      "title": "I min barndomsgade falder mine skuldre!",
+      "description": "Skoletiden er som en mørk skygge for Allan Olsen, men alt andet fra hjemstavnen er vidunderlige minder: \"Det er jo det sted, hvor jeg har haft alle mine første, vigtige dannende oplevelser - kys og sex og dér, hvor jeg først mødte musik!\"\nMaise byder Allan på en meget hård vingummi, som er et kærligt minde om hendes barndom. \nGæst: Allan Olsen, sanger og sangskriver. \nVært: Maise Njor. Tilrettelægger: Bettina Ohlsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428524",
+      "durationMilliseconds": 3385969,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428524",
+      "publishTime": "2024-12-26T05:00:00+01:00",
+      "startTime": "2024-12-26T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-har-jeg-vaeret-en-god-mor-11032428524",
+      "order": 638707824001010524,
+      "nextId": "urn:dr:radio:episode:6765850c6e05ffb3958f1058",
+      "previousId": "urn:dr:radio:episode:674623714a42ce2aa361f176",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 27724240,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/56a8a103160c777439a7c8cb85ca0120c25ae4415db652ed0a8f79c8465549f0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 81901175,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/795e5e52a4eda324c37b00b5612394418a6c2ab38f0502e351a3ae0fb95494ca"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 108989744,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/24c6d99042226b32f6a0f6f8e9926f00d47b6f58946e0a97d662e13a9df607d6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27088782,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/a971cd4167bf79824c1011afff92de4be59fc20bb0fcf8646e5a46216ab910ad"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 81265422,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/427ce389f5ebb6cd69ddab891e06879531cad77af6796769abcd2c1881920105"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/8d05cba3caccf767f87b410699535785085bdef1fbec32b246e361171692264f"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428524",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-26T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:674623709936bcec98bf0327",
+      "slug": "ramt-af-kaerlighed-har-jeg-vaeret-en-god-mor-11032428524",
+      "title": "Har jeg været en god mor?",
+      "description": "Det er med en vis bæven, at Maise Njor inviterer sine tre voksne døtre i studiet for at evaluere deres barndom og Maises indsats.\nFor kærligheden fra mor til døtre er betingelsesløs og urokkelig, men det gælder ikke nødvendigvis den anden vej.\nNu er Maise også blevet mormor, og så kan hendes datter smage sin egen medicin!\nGæster: Asta-Maja Njor Boisen, Betty-Marie Njor Boisen, Cornelia Njor Boisen. \nVært: Maise Njor. \nTilrettelægger: Bettina Ohlsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428514",
+      "durationMilliseconds": 3405536,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428514",
+      "publishTime": "2024-12-19T05:00:00+01:00",
+      "startTime": "2024-12-19T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-gamle-mennesker-i-nye-parforhold-11032428514",
+      "order": 638701776001009514,
+      "nextId": "urn:dr:radio:episode:674623709936bcec98bf0327",
+      "previousId": "urn:dr:radio:episode:67462370e61fb353153c5fde",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 27884361,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/3135ef6bc7d8bfa11fdd8c98723ca6e8c975b3d00d5ba264c155a4b084da8951"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82374323,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/08e09cdb0e122a144b96fff4243e71689d1027f8ef2291901e453876bb783889"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 109619273,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/a7f8b4db73cc79a40ce382ec6bb4d0bbc7374584fd37b6ecda9fe298b427315b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27245254,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/8ac1e8a9971765e040e05f380100c5b53876668000e0f75b285fa4627cc8c400"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 81734854,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/4a388ae75f90705184162e377884d900dc2d4361d42e971568f9baf9cc1663c2"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/cbeb7d93035f6d60d356de3643065350352aff8fd7ec638005af99176961a7a2"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428514",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-19T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:674623714a42ce2aa361f176",
+      "slug": "ramt-af-kaerlighed-gamle-mennesker-i-nye-parforhold-11032428514",
+      "title": "Gamle mennesker i nye parforhold",
+      "description": "Camilla Lindemann blev gift som 74-årig: \"At møde kærligheden og blive stanghamrende forelsket i min alder - det siger jeg ja tak til!\" Men hvordan finder man kærligheden i en moden alder, og føles det ligesom, da man var ung? Det vil Maise Njor gerne vide. \nGæst: Camilla Lindemann, journalist og forfatter.\nVært: Maise Njor.\nTilrettelægger: Bettina Ohlsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428504",
+      "durationMilliseconds": 3430389,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428504",
+      "publishTime": "2024-12-12T05:00:00+01:00",
+      "startTime": "2024-12-12T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-gammel-kaerlighed-ruster-ikke-altid-11032428504",
+      "order": 638695728001008504,
+      "nextId": "urn:dr:radio:episode:674623714a42ce2aa361f176",
+      "previousId": "urn:dr:radio:episode:674623716565d571840d9335",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 28087852,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/2e56c2b4493c55c8c02952f0566fa4f6ba1e861de25f4ba8d469f6c635b25c3d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82975551,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/f0f3d6545ef4569e6d389c8a939b178dd94eb1f9bd08e3b97961b4b8d7e63101"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 110419196,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/de0f683259d1b8a3ff5558918535ad1a062d2e5a7cf3bb75cbaa8635523eab5e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27443969,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/7d23a024cc0d090e44a7d96359418d33d2da5d886db9bf0662461782c5ea51d4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 82331009,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/d3309f76f5f5cb61006cf765203ab21c3af70d96e726c81e1481d070e22a276e"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/1e5d51020dee9ddf1096b023cc073b68309fa054fdc2696def9f9f7ffcbc9952"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428504",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-12T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:67462370e61fb353153c5fde",
+      "slug": "ramt-af-kaerlighed-gammel-kaerlighed-ruster-ikke-altid-11032428504",
+      "title": "Gammel kærlighed ruster ikke altid!",
+      "description": "Peter Sommer blev kæreste med Marianne, da de gik i gymnasiet i Skanderborg. Gennem årene har de været sammen og fra hinanden flere gange, men nu har de endelig lært at elske hinanden på en måde, der varer ved: \"Vores evne til at komme tilbage fra konflikterne er noget af det, jeg er mest glad for!\" \nMaise Njor vender også nogle gange tilbage til sin første kæreste.\nGæst: Peter Sommer, sanger og sangskriver. Vært: Maise Njor. Tilrettelægger: Bettina Ohlsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428494",
+      "durationMilliseconds": 3428094,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428494",
+      "publishTime": "2024-12-05T05:00:00+01:00",
+      "startTime": "2024-12-05T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-guld-loegn-og-kaerlighed-11032428494",
+      "order": 638689716001007494,
+      "nextId": "urn:dr:radio:episode:67462370e61fb353153c5fde",
+      "previousId": "urn:dr:radio:episode:673e69fff43ee13a098adab4",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 28069005,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/b0d96bb415cef011545061af05f4df3a91d9c65b4a693115f0a6f23e58629f03"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82919919,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/704892fe637b7ac71e666a39ab88f5360787ab60ac33ee1d786d54e8a0f1428e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 110345276,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/1d24e2db3e383508f724109b6dfa36df1e50c1bdc84a35eef6c5f6f6bff09cb0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27425729,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/93c8193d1cb4e98036503510a7c1d06852d1264240e1f07bc15c03a303d6cd64"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 82276289,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/b3d5858458e6a6e9c3d7878320775380f5462d5278228f640ef757cf920d9af7"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/01669eab4747580c93cf7a0e5c63c405cbebae40e7c6b8d432dc53ac5f6d29fa"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428494",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-12-05T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:674623716565d571840d9335",
+      "slug": "ramt-af-kaerlighed-guld-loegn-og-kaerlighed-11032428494",
+      "title": "Guld, løgn og kærlighed",
+      "description": "Smykker er lig med kærlighed - og en hel masse andet.\nGuldsmed Josephine Bergsøe fortæller historier fra sin lange karriere, hvor guld og ædelstene også har vist sig at gemme på historier om utroskab, ensomhed og hemmeligheder. \nOg Maise Njor tænker over, om det ville være okay med et hjemmelavet perlearmbånd fra en kæreste? \nGæst: Josephine Bergsøe, guldsmed, forfatter til bogen \"Boblerne i bækken\". Vært: Maise Njor. Tilrettelægger: Bettina Ohlsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428484",
+      "durationMilliseconds": 3413413,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428484",
+      "publishTime": "2024-11-28T05:00:00+01:00",
+      "startTime": "2024-11-28T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-10-ting-du-skal-vide-om-kaerlighed-11032428484",
+      "order": 638683668001006484,
+      "nextId": "urn:dr:radio:episode:674623716565d571840d9335",
+      "previousId": "urn:dr:radio:episode:666172cd7937d2cab8c96fe9",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 27948865,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/5ee6d2f3d420ebd9eca11655333689ca0d229be025807e6688154e8daef80aea"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82564851,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/3954894384944765d85fc7b0531c2fe59e62548a52793add48e4d9a723e7177a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 109872717,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/6e84a706b539d36e09f8a2c3415fab5809c1786b183a7d4e7401ed31ec864ec5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27308236,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/c9c96af84c3e1de6a6ca8515a657d46af19a8b36d06e9db0852ea8c87ad60052"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 81923788,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/b2538a8f6d668d1ead5758121608f092d4ff18e8ce0604660a803c42bf2d9f0c"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/d6c3f65259bd58a3e443412b6fbbf4604691b02924ef409cdf5c9e2608f0b51e"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428484",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-11-28T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:673e69fff43ee13a098adab4",
+      "slug": "ramt-af-kaerlighed-10-ting-du-skal-vide-om-kaerlighed-11032428484",
+      "title": "10 ting du skal vide om kærlighed",
+      "description": "Du må ikke bagtale din kæreste! Det er et af Dr. Love's kærlighedsbud. Og det lyder indlysende, men Maise Njors erfaring er, at kvinder ikke altid lever op til det råd. \nDr. Love hedder også Asger Neumann, og i mere end tyve år har han beskæftiget sig med parforholdet og giver her sine bedste råd til et langt og godt kærlighedsliv.\nGæst: Asger Neumann, psykolog, partner, HumanAct, ekstern lektor på Psykologisk Institut ved Aarhus Universitet. Vært: Maise Njor. Tilrettelægger: Bettina Ohlsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428313",
+      "durationMilliseconds": 3420991,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428313",
+      "publishTime": "2024-06-25T05:04:00+02:00",
+      "startTime": "2024-06-25T05:04:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-5-5-jeg-elsker-dig-min-ven-11032428313",
+      "order": 638548814401005313,
+      "nextId": "urn:dr:radio:episode:673e69fff43ee13a098adab4",
+      "previousId": "urn:dr:radio:episode:666172cd7937d2cab8c96fe5",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 28010824,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/ccf7d87b1dcceff53de65a6caf3ac5d86b37cf6bbc4b5a45859ec937d1634e3d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82748007,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/ca907a8dfe97bcdefbf2311d8402f3f34c3684476f832dd9538da87aa95fb68c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 110116448,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/0c9c529f56fba6dac3c764a799c43cd6b6f7feb3cffa6c5e4c234f51030817dc"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27368907,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/82b3b1cb75ca0da0611c50550fb0e35fbf5faff60b514b22a524807ff4508d49"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 82105803,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/bc599dba8ba6ad180fda7600ba87deb85f632501253278c7d05f6bcc7b1f8660"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/0a028f5e8959f4e17b5560e8cd53cfcc904253377d9edfde49f512b296fb9451"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428313",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:04:00+02:00",
+      "id": "urn:dr:radio:episode:666172cd7937d2cab8c96fe9",
+      "slug": "ramt-af-kaerlighed-5-5-jeg-elsker-dig-min-ven-11032428313",
+      "title": "5:5 - Jeg elsker dig, min ven!",
+      "description": "Maises børn og andre unge elsker hinanden til højre og venstre. Kærlighedserklæringer er i hvert fald nærmest standardhilsen for dem. Men kan man elske sine venner? Og skal man så sige det til dem? Hassan Preisler og Maise er gamle venner, og de var engang lige ved at blive kærester: \"Jeg er glad for, at vi aldrig blev det, for så havde vi nok ikke været venner i dag!\" \nVært: Maise Njor. Gæst: Hassan Preisler, Maises ven. Forfatter, dramatiker, radiovært og skuespiller.\nTilrettelæggelse: Maise Njor og Bettina Ohlsen. Redaktører: Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428303",
+      "durationMilliseconds": 3417031,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428303",
+      "publishTime": "2024-06-25T05:03:00+02:00",
+      "startTime": "2024-06-25T05:03:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-4-5-hvordan-elsker-jeg-mig-selv-11032428303",
+      "order": 638548813801004303,
+      "nextId": "urn:dr:radio:episode:666172cd7937d2cab8c96fe9",
+      "previousId": "urn:dr:radio:episode:666172cd7937d2cab8c96fe1",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 27978499,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/a59a32e799854535f99c8e203516530f2908b1743dc7d5d634f98a811aab229e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82652595,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/a5ad1aa9f434624b0df1de51f9ce9f023072730d6685df26e60adb0da76a468a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 109989499,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/aaad9431ba31b789eb755ac37e290a34923a206d430fbd3ac9a4de9fc2eb0041"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27337223,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/bf9d389c0ab5d99eaa1eb2c6ec50ee1b9d598b84673d51ee2f6c4294585ebb64"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 82010759,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/75e3e33217162ec4a9ce25d5eddfe74661cffab5c0cca609f50d61eaa6cef410"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/4d554a8ab5bb759b4ff224b080bc868f34a719ce5eaa7c858e7afca678dbb8f3"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428303",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:03:00+02:00",
+      "id": "urn:dr:radio:episode:666172cd7937d2cab8c96fe5",
+      "slug": "ramt-af-kaerlighed-4-5-hvordan-elsker-jeg-mig-selv-11032428303",
+      "title": "4:5 - Hvordan elsker jeg mig selv!?",
+      "description": "Maise er træt af ugeblads-mantraet om, at man skal elske sig selv, før man kan elske andre. \"Ingen drømmer vel om at finde en, der bare elsker sig selv på alle punkter\". På den anden side vil hun gerne holde mere af sig selv, som hun nu engang er. Også huden på benene, der kan minde om kogt kylling. Men hvordan lærer man det? Og er der alligevel noget om, at det så bliver lettere at åbne sit hjerte på klem for andre? \nVært: Maise Njor. \nGæst: Katinka Bjerregaard, sanger og sangskriver. Forfatter til bogen \"Klump - en kærlighedshistorie\". \nTilrettelæggelse: Maise Njor og Bettina Ohlsen. \nRedaktører: Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428293",
+      "durationMilliseconds": 3410887,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428293",
+      "publishTime": "2024-06-25T05:02:00+02:00",
+      "startTime": "2024-06-25T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-3-5-maise-soeger-mage-11032428293",
+      "order": 638548813201003293,
+      "nextId": "urn:dr:radio:episode:666172cd7937d2cab8c96fe5",
+      "previousId": "urn:dr:radio:episode:666172cd7937d2cab8c96fda",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 27928255,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/d431757d81f2e4aae1793c31e8069193f6ae29c3176740d1bbeda23c7f0b87c0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82503987,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/f1c6e16dedd0fe39f9929d80d8c6cfb77fd5ff87ee11388714f96c15aea6876e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 109791763,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/843e9ea2bc76993591d3d181dc77c4c35c72628339f1fddaf90165848464342a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27288076,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/a6b5ce47074d12c99cdec2268ee6368be6e6b6c48f9952a2804999c340de915e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 81863308,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/4944572d6757a764849bb2f9000fb1c25d7818b88bec19181336fb5dda0d9240"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/0867f1be772ff256774b60920e574f7a7231f12f696414e5c49e38c9f557e79b"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428293",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:02:00+02:00",
+      "id": "urn:dr:radio:episode:666172cd7937d2cab8c96fe1",
+      "slug": "ramt-af-kaerlighed-3-5-maise-soeger-mage-11032428293",
+      "title": "3:5 - Maise søger mage",
+      "description": "Maise vil ikke være hende den enlige dame, der snakker for meget med sin hund. Men strategien om at gå i byggemarkeder for at finde en mand har ikke virket. \"En biolog må vide noget om tiltrækning og parringsritualer hos menneskedyret. Og måske har han også gode råd om kærlighed og kurtisering fra andre arter. For vi er vel bare biologiske væsner, selv om vi pakker det ind i romantik?\"\nVært: Maise Njor: Gæst: Anders Kofoed, evolutionsbiolog og forfatter, bl.a. til bøgerne \"Meningen med livet: Menneskedyret fra fødsel til død\" og \"Den nødvendige far\".\nTilrettelæggelse: Maise Njor og Bettina Ohlsen. Redaktører: Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428283",
+      "durationMilliseconds": 3414703,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428283",
+      "publishTime": "2024-06-25T05:01:00+02:00",
+      "startTime": "2024-06-25T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-2-5-kaerlige-tumper-11032428283",
+      "order": 638548812601002283,
+      "nextId": "urn:dr:radio:episode:666172cd7937d2cab8c96fe1",
+      "previousId": "urn:dr:radio:episode:666172cc7937d2cab8c96fd5",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 27959484,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/21d0c720e070e84ed24d865ac78f44afcc7ab16ab880bcbe22bf985effc8cd23"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82596411,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/818b4817e3e0ae648fc38ceb5ec45289a53f8461ecc80de641dbefe97595358d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 109914532,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/b01fb45d6157a53af5c939ca804406b8f085f52a0baa96951623822ba74c3331"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27318600,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/c6a66d5551d70bc6f57ff4739b6689d10873bd987b35eef2b1bd8ad282f1de8b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 81954888,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/504d9c50afd51d2dbbaa3ae0184c10f77facf8e1f63d377656abe32a9f7f5fc9"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/26ab8f0d4d6d7f37967cff36b85043147532e35c5dd06018059f3d0df3143cf1"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428283",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:666172cd7937d2cab8c96fda",
+      "slug": "ramt-af-kaerlighed-2-5-kaerlige-tumper-11032428283",
+      "title": "2:5 - Kærlige tumper",
+      "description": "Maise var den første i sin familie, der blev skilt, og det ramte hårdt:  \"Jeg troede ikke, man blev skilt, når man havde tre børn\". I andre familier er det mere normalt end at blive sammen, og nogle kan nå at blive skilt flere gange. Rokker det ved vores forventninger til kærlighed, at forestillingen om den eneste sjældent holder i virkeligheden? Og hvorfor er vi sådan nogle tumper til parforhold?\nVært: Maise Njor. Gæst: Katrine Frøkjær Baunvig, 4. generationsskilt. Forfatter til bogen \"Den eneste ene\".\nTilrettelæggelse: Maise Njor og Bettina Ohlsen. Redaktører: Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032428273",
+      "durationMilliseconds": 3420943,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032428273",
+      "publishTime": "2024-06-25T05:00:00+02:00",
+      "startTime": "2024-06-25T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-1-5-kaerlighed-vendt-paa-hovedet-11032428273",
+      "order": 638548812001001273,
+      "nextId": "urn:dr:radio:episode:666172cd7937d2cab8c96fda",
+      "series": {
+        "title": "Ramt af kærlighed",
+        "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca",
+        "slug": "ramt-af-kaerlighed-5538079325000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000",
+        "learnId": "urn:dr:ocs:audio:content:series:5538079325000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 28010523,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/79be781004b5560ba1759a31f46ae2cb8451afc6f890a600390e8eff31ac922c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 82747023,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/d6a232f88e57221ef5637bf975ca4b20a7c0feb1222e31225bd354636680a2f3"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 110115075,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/2a97af33d05718697497e231ea79ec567c1cee36dde200cbf37a93c378f66ab8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 27368522,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/fb1440ac013a9d4a73cf4bcdb0d2f708f58bc5640aa37a01be3e4facb93871f2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 82104650,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/7a4e54b88b542f50573195ea030dfcb80d2e9ffc8d861d7d504e498d5567193b"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/a90157816ea449a7eca184677fa29b27de9679bb8374795de3c251a117ede053"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032428273",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-25T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:666172cc7937d2cab8c96fd5",
+      "slug": "ramt-af-kaerlighed-1-5-kaerlighed-vendt-paa-hovedet-11032428273",
+      "title": "1:5 - Kærlighed vendt på hovedet",
+      "description": "Maise har elsket sin far længere end noget andet levende menneske. Men hun véd, at det ikke varer ved, og at noget allerede er væk. For sådan er det med demens. \"Nogle gange lader jeg som om jeg har ondt i knæet. Så smører han det ind i Voltaren, og det føles som den omsorg, jeg fik, da jeg var barn.\" Den følelse kender skuespiller Iben Hjejle, og de to taler om, hvordan man bevarer kærligheden til den, der er ved at forsvinde.  \nVært: Maise Njor. Gæst: Iben Hjejle, datter af en far, der havde demens. Skuespiller. \nTilrettelæggelse: Maise Njor og Bettina Ohlsen. Redaktører: Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c07",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NYPWjnbb{dxGh|r?t7Osa#$kjsR5s*kCbJWBSgbH"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c08",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNbDlxs?w#+-:vgkRAVxbx^t,tSrT$lvgWASdRP$Tx^ITxaRiR%w}ORV@t8kCV@EKt7oNnhn4Sx"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cb6ac68322c7b3e5c09",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJNRv5xt?w#+-:vgkkAVxbx^t,tSrTxbvgWBSdRPx0x^ITxaRiR%w#OSV@tRkCV@EKozoNnhn4Sy"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#390F08",
+            "#DBB2D2"
+          ]
+        },
+        "colors": {
+          "dark": "#390F08",
+          "light": "#DBB2D2"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/kapitalisterne.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Kapitalisterne (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/kapitalisterne-3108286051000</link>
+        <description>Kapitalisterne er DR's ugentlige investeringspodcast, hvor Andrew Moyo har besøg af Jakob Ambrosius Garff og Oskar Bernhardtsen til en gennemgang af de bedste investeringer fra ugen, der gik.
+
+Vært: Andrew Moyo.
+Gæster: Jakob Ambrosius Garff, ansat ved dagbladet Børsen, og Oskar Bernhardtsen, ansat ved Saxo Bank. De optræder i denne podcast som privatpersoner.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:33 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/kapitalisterne.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/kapitalisterne.jpg</url>
+            <title>Kapitalisterne (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne-3108286051000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/kapitalisterne.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Aktualitet</category>
+        <itunes:category text="Aktualitet" />
+        <item>
+            <guid isPermaLink="false">13332496445</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-tak-for-alt-13332496445</link>
+            <title>TAK FOR ALT!</title>
+            <description>Drengene holder julefrokost i studiet med Rioja, Bordeaux og Bourgogne i glassene, imens de ser tilbage på 3,5 fantastiske år. De taler om ugens bets, årets bets, drengenes bedste investeringer, de største øjeblikke, de sjoveste stunder og slutter vemodigt af med et farvel og tak til alle, der lyttede med.</description>
+            <pubDate>Fri, 20 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:27:46</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858a5c7c5e5a901b21e3/46100b9f7077899e201f5a14e9cd088898729f73190f7882ee1844f7ae9dd58d" 
+                type="audio/mpeg" 
+                length="126399604" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858a5c7c5e5a901b21e3/4d051da95a3633e3ad9fe6ee5d55f0fd56bf09568b7ec0dc6374ddb59e4351b3" 
+                type="audio/mpeg" 
+                length="42133492" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858a5c7c5e5a901b21e3/b037b429abc68c44b6c3ab099d2ab2f61bb5fe22a9eb4bbd3e9139fea8888eef" 
+                type="audio/x-m4a" 
+                length="169521111" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858a5c7c5e5a901b21e3/d778857874d4b9078337897487e2650e47b112cee4a7109803f4d9bd6c682eba" 
+                type="audio/x-m4a" 
+                length="127388739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858a5c7c5e5a901b21e3/3915981a18de7c0013462c8862cf9eb309f922d82133cea4aafcd99c4de2d7f4" 
+                type="audio/x-m4a" 
+                length="43121835" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496444</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-kapitalisterne-lukker-naestsidste-episode-13332496444</link>
+            <title>KAPITALISTERNE LUKKER - næstsidste episode (!!!)</title>
+            <description>Ja, du læste rigtigt. Efter mere end 150 episoder lukker Danmarks sjoveste finanspodcast. Andrew skal på TV 2 og drengene skal ud og finde nye muligheder i den kreative branche.
+Jakob har derfor taget et glas afsindig lækkert Bourgogne med og snakken går om kvantecomputere, konsolidering i bankbranchen, årets vindere og tabere og meget andet godt.
+Vi slutter af med et brag næste fredag!</description>
+            <pubDate>Fri, 13 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:52:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685873d48e8010ddad13d/42d96d85a37fa20e3eae7131fc560e6b952b93ea223a0cdc58f8300c0a2c6923" 
+                type="audio/mpeg" 
+                length="75173627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685873d48e8010ddad13d/cb0a47c0de0d498eda20f57818d6be95e42dda86dbeb895dbcf90fb7bd15aca1" 
+                type="audio/mpeg" 
+                length="25058171" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685873d48e8010ddad13d/c359af347eeeac8f10713057c2f68b52f90dd4425c66deff0c552333f5137d81" 
+                type="audio/x-m4a" 
+                length="100819116" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685873d48e8010ddad13d/4067f6dff86a9f99b53e0599d38a5f59f2dd9989b46f15e89fb2c9f63b2c6ae8" 
+                type="audio/x-m4a" 
+                length="75761711" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685873d48e8010ddad13d/6891b9c95ccc89a935f5dbc34bda42504bef593aa866ccd1c8735938f9220eb2" 
+                type="audio/x-m4a" 
+                length="25646012" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496443</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-vi-snakker-all-time-high-og-investor-guide-for-25-13332496443</link>
+            <title>Vi snakker all time High og investor guide for 25</title>
+            <description>Holdet er atter samlet, og humøret er højt, for markedet har ramt nyt peak, så Oskar måtte lige få købt lidt ekstra aktiegodter på vej ind i studiet.
+Jakob har fokus på den europæiske bilkrise, som måske viser sig som en opkøbsmulighed.
+I glasset er der fabelagtig østrigsk naturvin fra Claus Preisinger.</description>
+            <pubDate>Fri, 06 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685825c7c5e5a901b21b8/77da96d6ac4c02c48c4424994f7b641e045c3a491d24ed6f403fd9f5ef4fb4dd" 
+                type="audio/mpeg" 
+                length="69174590" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685825c7c5e5a901b21b8/3a9d4294185aee898e4cfc700852c36f47ab626cc8628b260d508f86aa8a738c" 
+                type="audio/mpeg" 
+                length="23058494" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685825c7c5e5a901b21b8/d48ab1c81910530705b84b21d1643713a34c7ea05e99a6bd63cfce86f15d8a8a" 
+                type="audio/x-m4a" 
+                length="92774077" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685825c7c5e5a901b21b8/ee9ddec394363b8e94402246c96601c959ea9800b360b522bb7bcc4a6341e65e" 
+                type="audio/x-m4a" 
+                length="69716279" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685825c7c5e5a901b21b8/5360fa3f5d8f379beda6773ff9385e856be9dc142b7fb56ee60039514401c80e" 
+                type="audio/x-m4a" 
+                length="23599609" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496442</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-rammer-bitcoin-snart-100-000-og-ender-palantir-som-aarets-bedste-aktie-13332496442</link>
+            <title>Rammer Bitcoin snart 100.000 og ender Palantir som årets bedste aktie?</title>
+            <description>Esben Neupart fra GL21 er med for at forklare drengene, hvordan det egentlig fungerer med det der Bitcoin. Oskar har set Ringenes Herre Trilogi, og Jakob har været til en masse events, hvilket de forklarer mere om, imens de dykker ned i Palantir og Just Eat.
+Over et fremragende glas Duckhorn Migration Pinot Noir (2021) går snakken om ugens bets, der begge har råvarefokus.</description>
+            <pubDate>Fri, 29 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685833d48e8010ddad124/384a82ab59d857689c1bc226119377aefea728b9ab2f69f33f7f4e2358db926e" 
+                type="audio/mpeg" 
+                length="70590887" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685833d48e8010ddad124/94bc36f06abfc45af2d8900925394a1d9e1ea09cf6e876181a7829bb72652a02" 
+                type="audio/mpeg" 
+                length="23530535" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685833d48e8010ddad124/3a604047c79534975f472203bd444a37500c18845633af07e524d886d9b58862" 
+                type="audio/x-m4a" 
+                length="94673389" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685833d48e8010ddad124/49ad8e3184213768e5701e8fe932e8a54945733311a5c1f9f14598cd2ddf1012" 
+                type="audio/x-m4a" 
+                length="71143435" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685833d48e8010ddad124/20ab5034f63d107c11f6d9aa6ffeafafb89cb36a782427715e24badded27479d" 
+                type="audio/x-m4a" 
+                length="24082705" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496441</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-novos-nedtur-teslas-optur-og-nvidias-regnskabsfuser-13332496441</link>
+            <title>Novos nedtur, Teslas optur og Nvidias regnskabsfuser</title>
+            <description>Kapitalisterne dykker ned i ugens vildeste historie - og der er som altid gang i markederne. Novo er faldet 30% fra toppen, hvilket får Oskar til at se en mulighed for snart at købe op. Tesla er steget 60%, siden Trump trådte til, og i samme periode er Uber faldet 20% - er der noget markedet har overset? Nvidia har nu leveret så mange gange, at det er nærmest umuligt at gøre aktionærerne glade. Alt det - og meget mere - når de igennem i dagens episode.</description>
+            <pubDate>Fri, 22 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685895c7c5e5a901b21db/b894aa54bb9d5b258a1c568a9cb6b087ebe2dbf2a9c8aa046f4a0dd210df4997" 
+                type="audio/mpeg" 
+                length="69042023" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685895c7c5e5a901b21db/8bf9f90aec5405a047fa30f70635ed6bad3b51de32739785c27d13dadfbcfe5b" 
+                type="audio/mpeg" 
+                length="23014247" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685895c7c5e5a901b21db/ca3231299d459f28ab028c0e25ca0bd57b0f55729fa1232c2911676bf0360280" 
+                type="audio/x-m4a" 
+                length="92596227" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685895c7c5e5a901b21db/9aedacc726372a868b4f6f8ac77fb8c06a1d41b24cf72252f61591c05916a480" 
+                type="audio/x-m4a" 
+                length="69582587" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685895c7c5e5a901b21db/7f44acda46dff38b05e96d36bff039acc0b7e9f56dd204cae47158c7abbeb6a0" 
+                type="audio/x-m4a" 
+                length="23554311" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496440</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-andrews-foerste-aktier-og-en-haglbyge-af-overskrifter-fra-garff-13332496440</link>
+            <title>Andrews første aktier, og en haglbyge af overskrifter fra Garff</title>
+            <description>Oskar er hjemme med barn syg, så Jakob sørger for både snobbet bagværk, en kærlig opsang til Vestas, lidt usædvanlig rentenyt og et væld af dybt imponerende indsigter.
+Andrew har solgt sin bolig og får til sin skuffelse at vide, at overskuddet skal investeres ansvarligt. Noget med en elevator to succes.</description>
+            <pubDate>Fri, 15 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:43:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968583c26aeca6fab4430d/24a45330632f9019479459f6aa89efeb38a21b2ea56e4a53805ad1522c58f258" 
+                type="audio/mpeg" 
+                length="63111613" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968583c26aeca6fab4430d/a6c63391e1243ee8bb9236758520d5c8473df766096a68ad3f4e258b5b272b61" 
+                type="audio/mpeg" 
+                length="21037501" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968583c26aeca6fab4430d/78613271b64c34a2ddfa603a26b3b576537227f3f069f0ab73be1ab16459d7a2" 
+                type="audio/x-m4a" 
+                length="84642503" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968583c26aeca6fab4430d/369d1ea7147dc93e14468e06215562bf168bc41e1858be40100c5994fdff1004" 
+                type="audio/x-m4a" 
+                length="63605739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968583c26aeca6fab4430d/f84515c8c13100f9d792ad67aafc4a391959916a58f25289a0c7bafb2e0509a9" 
+                type="audio/x-m4a" 
+                length="21531119" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496439</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-groen-energi-i-dyb-nedtur-og-trumps-favoritter-overrasker-positivt-13332496439</link>
+            <title>Grøn energi i dyb nedtur og Trumps favoritter overrasker positivt</title>
+            <description>Jakob og Oskar vender valgresultatet, der betød store udsving i bestemte sektorer. Drengenes valgguide havde forudset, at en sejr til Trump ville få banket de grønne aktier i dørken og være godt for sort industri og finans - den viste sig at være spot on.
+Men hvad så nu, hvor vi er på den anden side af valget? Hvilke dele af Trumps valgløfter bliver til virkelighed, og hvad kan det komme til at betyde for aktiemarkedet fremadrettet?
+Det og den økonomiske verdenssituation vender de over en hjemmebagt bananpandekage - også alt det, der blev glemt under valget.</description>
+            <pubDate>Fri, 08 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cb513c3e7e1d7aacd/9c5d920c3c3c97141a74994aea75876f52403a3c8db76b14c310d3bbc8c99278" 
+                type="audio/mpeg" 
+                length="67208039" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cb513c3e7e1d7aacd/0c64b1e32c8affb5dced6c14322177613690598d0fa532813aa715b55e2ef291" 
+                type="audio/mpeg" 
+                length="22402919" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cb513c3e7e1d7aacd/e49932165be05334bcd8772ef54b3d09667d679f113485480b38f2183590f16f" 
+                type="audio/x-m4a" 
+                length="90135892" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cb513c3e7e1d7aacd/a2be111de1124b777906d57b67fdc9519f4058ffed2f4225483300906ac17782" 
+                type="audio/x-m4a" 
+                length="67733755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cb513c3e7e1d7aacd/0352ef30ca028082f734e7578ff028136cd40fb8e0169f1aed3d2d2c0a16e851" 
+                type="audio/x-m4a" 
+                length="22928492" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496438</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-kaos-paa-baade-finansmarkederne-og-i-studiet-hos-drengene-13332496438</link>
+            <title>Kaos på både finansmarkederne og i studiet hos drengene</title>
+            <description>Der er gang i regnskabssæsonen, valg i USA, og aktier der stiger helt vildt eller bliver halveret i værdi. Jakob og Oskar er blevet sendt i P8 Jazz-studiet, fordi DR har fået nyt IT-system. De har dog rigeligt på menuen, og der bliver talt om Better Collective og Jyske Bank, samt lavet et regnskabsoverblik og en lidt teknisk gennemgang af, hvad hedge fund managers har gang i på Wall Street.</description>
+            <pubDate>Fri, 01 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587163dfa22d596da6b/9fbfa7b8588dbe0b853c97d593ceec978e569177cc0b6f96d8af28676ca7a910" 
+                type="audio/mpeg" 
+                length="61688313" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587163dfa22d596da6b/5cdcc78f28009aa57b51b05e84df7e7557dcfadb07fe3e2ee786a6420e53a859" 
+                type="audio/mpeg" 
+                length="20563065" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587163dfa22d596da6b/505c787ef2bd9a25209979e7f34e56b6ae29f2360a321a05f75e562a39198f95" 
+                type="audio/x-m4a" 
+                length="82733657" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587163dfa22d596da6b/536db5088b6af896a6e5056759b7d63094f4f6eedc348689e5224abe83dca142" 
+                type="audio/x-m4a" 
+                length="62171179" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587163dfa22d596da6b/730c5be0c3115d164b66c5ccf7c06b21ff28a84b85b783267b5879675d768440" 
+                type="audio/x-m4a" 
+                length="21045601" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496437</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-trump-vinder-valget-og-kong-frederik-har-faaet-ny-computer-13332496437</link>
+            <title>Trump vinder valget, og Kong Frederik har fået ny computer</title>
+            <description>Der er vildt gang i de finansielle markeder. Danmark har fået ny supercomputer, og i den forbindelse besøger Nvidias direktør Kastrup. Aktiemarkedet spår sejr til Trump, og NNIT falder til bunden på en nedjustering.
+I glasset er Pinot Noir fra Egri i Ungarn.</description>
+            <pubDate>Fri, 25 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:02:28</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857fb513c3e7e1d7aa8a/fd8193d59828165068ea497a00a20d250b8b64b19ee0ad69e0042e43479920ad" 
+                type="audio/mpeg" 
+                length="89965223" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857fb513c3e7e1d7aa8a/19ca7b4cbe2be084c6d04f5d6668cab2deee8036763937778789e79ba27b5f32" 
+                type="audio/mpeg" 
+                length="29988647" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857fb513c3e7e1d7aa8a/4e783fa1bcc15179a8d3c92056982a554e60bc80f9d7ea0aa157d49e8dc01fd7" 
+                type="audio/x-m4a" 
+                length="120657907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857fb513c3e7e1d7aa8a/cfeb4c438c3f950f00ed11042bd8fa0cc2d3ec169d9eb8a382c37d0a8b8477dc" 
+                type="audio/x-m4a" 
+                length="90669691" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857fb513c3e7e1d7aa8a/9c53a47f7dc65c32f361754a3fa8419fde00d8856bc35370903b44a1c5d14096" 
+                type="audio/x-m4a" 
+                length="30692327" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496436</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-modegiganter-og-techselskaber-kollapser-paa-grund-af-kina-og-fejl-paa-hjemmeside-13332496436</link>
+            <title>Modegiganter og techselskaber kollapser på grund af Kina og fejl på hjemmeside</title>
+            <description>Moyo er vært på P3 Guld, så Jakob og Oskar er alene hjemme. De får dog teknisk assistance og godt selskab fra Morten Nabild, der bliver underholdt om ASML, Northvolt, LVMH &#x26; Boeing.
+
+Humøret er højt over en flaske Barolo, som Oskar konsekvent kalder en Supertoscaner.</description>
+            <pubDate>Fri, 18 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685879973a9c83748fa77/43aa0729280de48936e94501316c50fca9a1b607d4543e73b8b8a13e3a29a295" 
+                type="audio/mpeg" 
+                length="79648487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685879973a9c83748fa77/d1d2b396f6d9fa17bc64061f837dc7bb5e310a4e906f117617584546aef7c8f8" 
+                type="audio/mpeg" 
+                length="26549735" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685879973a9c83748fa77/a474c1b589025fc995fc3593fc6ffcb9c6bd3175f4f624ef320d617fe5542145" 
+                type="audio/x-m4a" 
+                length="106821449" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685879973a9c83748fa77/ddcb0107fe68cfc9cf82a67f3b570629944b7c72374b9a91c3a05f9ac7d5a118" 
+                type="audio/x-m4a" 
+                length="80272179" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685879973a9c83748fa77/b7eb75c98e8e00eed2a6272c7986939244fcb162974dc1c6981f8e5345f9f327" 
+                type="audio/x-m4a" 
+                length="27172769" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496435</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-oskar-i-kaempe-krise-over-at-jakob-er-inviteret-til-event-med-erhvervslivets-top-13332496435</link>
+            <title>Oskar i kæmpe krise over, at Jakob er inviteret til event med erhvervslivets top</title>
+            <description>Der er gang i den på markederne, hvor Equinor har købt en luns af Ørsted, Parken er udsat for opkøbsrygter, og den grønne omstilling i Danmark er under massivt pres. Jakob har taget en fanvin med tilhørende PowerPoint-slides med i studiet, imens han fortæller om et nyt niveau af networking. Oskar er blevet omtalt i medierne som professor og citerer derfor for første gang i programmets historie sig selv.</description>
+            <pubDate>Fri, 11 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:58:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685853d48e8010ddad130/06ba74318a3d246d3a402bf18e01a8433ca5aaf61065e0d0154bfa09cc00c30d" 
+                type="audio/mpeg" 
+                length="84748967" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685853d48e8010ddad130/cf5bb7c3f0ddebd8fead917d04b0cd1085d1d2b8e00c7ef3329d969b102596fa" 
+                type="audio/mpeg" 
+                length="28249895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685853d48e8010ddad130/11abda3dc4387d23c1e33395321d306e2f45b9e8c8411917b06a2d767c0847d9" 
+                type="audio/x-m4a" 
+                length="113662083" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685853d48e8010ddad130/75d1a6b4af9507d7e7ef6cb07d5dc4fdd23ab2ed0a51426e2057c61a52308afc" 
+                type="audio/x-m4a" 
+                length="85412663" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685853d48e8010ddad130/d2425c77cb846daf9e9b5fa4f2502192f1b28cfc50d8956578bd024ce7660bc8" 
+                type="audio/x-m4a" 
+                length="28912827" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496434</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-kina-brager-op-og-jakob-brager-ned-13332496434</link>
+            <title>Kina brager op, og Jakob brager ned</title>
+            <description>DER ER URO i verden og på markederne. Kapitalisterne runder i denne uge blandt andet atomkraft, krig og havnestrejke, og så taber Jakob ugens bets på den mest voldsomme måde i programmets historie.</description>
+            <pubDate>Fri, 04 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:00:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968584c26aeca6fab44315/3748bf70b4533e978d973db3e541c0d5afd948e57b9af3060e31743c044d1225" 
+                type="audio/mpeg" 
+                length="86667649" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968584c26aeca6fab44315/885d46e6f5b0538561763bc938b10593c90e081f676dfd71b5204c1f46f686a1" 
+                type="audio/mpeg" 
+                length="28889473" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968584c26aeca6fab44315/bff8d270cabe33b2b9a72b7017bf943c6b31c6dc3380940928ce0a51d5a0d142" 
+                type="audio/x-m4a" 
+                length="116234999" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968584c26aeca6fab44315/1105d9945eaf32482713a5dbe7fe6930cbbe21ce08a1f0d193e9c2f840d168c0" 
+                type="audio/x-m4a" 
+                length="87346039" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968584c26aeca6fab44315/91f1d00bdcdc28d0f3400f2e2e36d5117fcba05d3afda46f68bcffc3b3a33c78" 
+                type="audio/x-m4a" 
+                length="29567319" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496433</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-techgigant-skvatter-sammen-og-saa-er-der-rentefest-og-du-er-inviteret-13332496433</link>
+            <title>Techgigant skvatter sammen og så er der rentefest og du er inviteret</title>
+            <description>Jakob er hjemvendt fra en uge i Portugal. Med sig har han en fuldstændig frygtelig flaske portvin. Der bliver nippet til den, mens samtalen i denne uge står på de bedste investeringer, når renten er faldende, og hvorfor processorkongen Intel ikke kan lave penge midt i et AI-boom.</description>
+            <pubDate>Fri, 27 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859bc26aeca6fab4439b/a0a3f41f7c4d87053b20dfaed55b447fb5b39a9973a2cba30b4ecca60477061a" 
+                type="audio/mpeg" 
+                length="69953338" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859bc26aeca6fab4439b/2639696eada05ad0514331f0deb0ba08aa2c15d5b79e43087aa3a247b2575a67" 
+                type="audio/mpeg" 
+                length="23318074" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859bc26aeca6fab4439b/c834d4ea1a6fffed9df40905a83c8eafb79f2c9fc90740a4296169b9b718f907" 
+                type="audio/x-m4a" 
+                length="93818617" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859bc26aeca6fab4439b/f30f09df32e9cb3734ea95e7c0a39dee3b46d042f261c17d86556f8c6859f5fe" 
+                type="audio/x-m4a" 
+                length="70501107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859bc26aeca6fab4439b/27e09a48c396b339e6355a1c7aaf718737de6de57710524cf6131b09f9a0fb68" 
+                type="audio/x-m4a" 
+                length="23865245" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496432</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-han-byggede-en-milliardforretning-paa-to-aar-saadan-goer-man-13332496432</link>
+            <title>Han byggede en milliardforretning på to år - sådan gør man</title>
+            <description>Sander Janca har sammen med sit hold i Flatpay gjort, hvad alle iværksættere drømmer om; bygget en stor forretning på virkelig kort tid.
+Med Breezer i glasset deler han ud af sine erfaringer, fortæller sin historie, og giver sit bud på en sektor, der kunne være en seriøs guldgruppe.
+Tryk play og tag noter.</description>
+            <pubDate>Fri, 20 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685935c7c5e5a901b221b/e5b3544968482b8fa576d72ab257caf6f37ae3e870c706f8197aa671d54f363e" 
+                type="audio/mpeg" 
+                length="71340921" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685935c7c5e5a901b221b/21d912a0c56affc5ef1fdd17970c9a504744dfacee48b74a8283631141c8a1a5" 
+                type="audio/mpeg" 
+                length="23780601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685935c7c5e5a901b221b/42d0eb5cef0bfac3191f454adb9eff1cabaf97d2bdb44aba3a5323f68262e07b" 
+                type="audio/x-m4a" 
+                length="95679600" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685935c7c5e5a901b221b/f9f119ca5fed0dd19fad1e903c8bf16b3b2183003fe2e3e16b4fa5e47cf0cb9c" 
+                type="audio/x-m4a" 
+                length="71899571" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685935c7c5e5a901b221b/11f6202ebef9feada7ad15214a80aefb4c1ab06aa779d64ccdce27fc874d9d4e" 
+                type="audio/x-m4a" 
+                length="24338604" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496431</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-3-kriser-og-1-fyring-13332496431</link>
+            <title>3 kriser og 1 fyring</title>
+            <description>Der er kæmpe stemning i studiet til trods for markedet tilstand. Historierne byder på oliekrise, modekrise, banksvindel, og så får du faktisk også en guide til investering i forbindelse med det amerikanske valg. Med Bourgogne i glasset læser Kapitalisterne op fra brevkassen, hvor der bliver opfordret til, at en af dem skal fyres. Find ud af, hvordan det hele hænger sammen nu.</description>
+            <pubDate>Fri, 13 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:58:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858dc26aeca6fab44348/299f10ae8480c4e516b5d0b940dfdabfa3bc867b649715866a27ae153f5dd24d" 
+                type="audio/mpeg" 
+                length="84262333" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858dc26aeca6fab44348/99f18577aa6e44b502e20701d2db8c2d9c12ece1bd2e403d3d480c0a8325052b" 
+                type="audio/mpeg" 
+                length="28087741" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858dc26aeca6fab44348/6099cae1b1fdf3170f121d69bdc89beed9e55071e56c3a244f8ecff421757b37" 
+                type="audio/x-m4a" 
+                length="113009003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858dc26aeca6fab44348/4cdbee7a0f2d6a7a2146cbd52f745ff2c379a8fe0a19cbc8e793db0f1e3d4253" 
+                type="audio/x-m4a" 
+                length="84921959" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858dc26aeca6fab44348/0ac59e56854c91cc9fc2eee9c1040a32feeadabe7f13fa9cb94337de1d60ba67" 
+                type="audio/x-m4a" 
+                length="28746695" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496430</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-oskar-paa-all-inclusive-kaempe-opkoeb-og-daarlig-stemning-paa-markederne-13332496430</link>
+            <title>Oskar på All Inclusive, kæmpe opkøb og dårlig stemning på markederne</title>
+            <description>Sidste uges all time high - forventninger er aflyst uro og stigende nervøsitet. Det kan man overhovedet ikke mærke på Oskar, som er med fra sit hotelværelse på Mallorca, hvorfra han blandt andet laver en (for) grundig gennemgang spansk boliggigant. Jakob er så fokuseret på DSV's rygtede milliardopkøb af DB Schenker, at han fuldstændig glemmer sit ugens bet.</description>
+            <pubDate>Fri, 06 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:50:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685919973a9c83748fab1/49d9974c10f167ef11debe52a434c23afea971180f5e236587cfdacaeb9e2885" 
+                type="audio/mpeg" 
+                length="72338555" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685919973a9c83748fab1/b46340844bc4600ea1a88bc10f092de5fc143b28287a5659e736eb28aac453c8" 
+                type="audio/mpeg" 
+                length="24113147" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685919973a9c83748fab1/1fe6db5d1daeee5ce8d4621f8bfb759b9e00c27b02f59a7ec2d642234a25046b" 
+                type="audio/x-m4a" 
+                length="97017247" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685919973a9c83748fab1/8fc181995e732cbc91e205db36631db1b598bc5196f4f77cbe9790a29fdf607d" 
+                type="audio/x-m4a" 
+                length="72904695" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685919973a9c83748fab1/90e4744ef33a6e33bc2c5103cb584d8236aab34490b9f258f70bd5b0f888e3f0" 
+                type="audio/x-m4a" 
+                length="24678879" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496429</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-alexander-lacik-aabner-pandoras-aeske-13332496429</link>
+            <title>Alexander Lacik åbner Pandoras æske</title>
+            <description>Alexander Lacik, der er CEO i verdens største smykkeselskab Pandora, har lagt vejen forbi DR Byen. Oskar har aldrig forstået casen, men alligevel er Pandora steget &#x3E;300%, siden Alexander kom ombord i 2019. Vi dykker derfor ned i selskabets DNA, strategi og produktportefølje over to forskellige naturvine.
+Oskar indhenter Jakob i ugens bets, mens Oskar ser frem mod 'verdens vigtigste regnskab'.</description>
+            <pubDate>Fri, 30 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:03:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859a9973a9c83748fae8/ead3a8e77bcf22baa0db0623c912751634f203be6ce15e8ebe524b0a02762295" 
+                type="audio/mpeg" 
+                length="91672487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859a9973a9c83748fae8/77ac79a3a08a01b74bdda4757d4b40654e846a9e9edf9645651b66e7440ddeef" 
+                type="audio/mpeg" 
+                length="30557735" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859a9973a9c83748fae8/c3d8060a3d50760b054a5986d74adff4fa3740e2ca3083bed6d99f721a340db5" 
+                type="audio/x-m4a" 
+                length="122947141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859a9973a9c83748fae8/f514480a32a363b7db175507d37e05acb39ee14397d2bfe38433171891bbe1e2" 
+                type="audio/x-m4a" 
+                length="92390031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859a9973a9c83748fae8/525f379eaa6257a841c5072783283e54b725cad8aaf8e663dc72ea9ad0d441c7" 
+                type="audio/x-m4a" 
+                length="31274705" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496428</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-starbucks-har-hyret-verdens-dyreste-mand-vaabenaktier-bliver-vingeskudt-og-7-11-er-japansk-13332496428</link>
+            <title>Starbucks har hyret verdens dyreste mand, våbenaktier bliver vingeskudt og 7-11 er japansk?</title>
+            <description>Starbucks har hyret en ny CEO og givet ham 700.000.000 kroner i velkomstgave. Fremtiden for 7-11 er lidt uvis, da Japan har åbnet op for muligheden for at sælge sine selskaber til udlændinge. De tidligere kæmpevindere, SAAB og Rheinmetall, går usikkerhed og en hård fremtid i møde.
+Over tre chokoladecroissanter er stemningen enormt høj i programmet, der også vender Lundbeck, Carlsberg, Pandora, Harboe og andre nationalklenodier.</description>
+            <pubDate>Fri, 23 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685925c7c5e5a901b2210/7784940b31f5adadb414871726dc4d77e69a55fdba04da6a5b30b009b0b9a805" 
+                type="audio/mpeg" 
+                length="77960317" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685925c7c5e5a901b2210/c1ea9d3d4beee06da899104ce32ba2d0a38804d9ee47439b000082574e094f1d" 
+                type="audio/mpeg" 
+                length="25987069" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685925c7c5e5a901b2210/9ca4ee0d70b845af15f904a6e4261700e89b8fec3da26092991547bf30519541" 
+                type="audio/x-m4a" 
+                length="104556779" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685925c7c5e5a901b2210/e90cbf50bcb9edb15e712e507fdf205a5b5d54d8d419e9ee0d034215f8fdb411" 
+                type="audio/x-m4a" 
+                length="78570431" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685925c7c5e5a901b2210/f0bc300a3a06c97ed684bb772c714de55782d200cc84afcbeadd47a7cec76bf5" 
+                type="audio/x-m4a" 
+                length="26596715" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496427</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-vestas-i-modvind-bavarian-i-hopla-og-pandora-bliver-ved-med-at-overraske-13332496427</link>
+            <title>Vestas i modvind, Bavarian i hopla og Pandora bliver ved med at overraske</title>
+            <description>Kapitalisterne vender situationen på de finansielle markeder over et koldt glas hvid Bourgogne. Med det nye koncept (ugens fire tophistorier) får Oskar fortalt om sommerens uro verden over, samt Pandoras flotte regnskab, mens Jakob giver en røffel til Vestas og prøver at forklare, hvorfor Bavarian klarer sig så godt.
+I ugens bets vinder Jakob stort, mens Oskar prøver at få revanche med et dansk nationalklenodie, der har fået bøllebank.</description>
+            <pubDate>Fri, 16 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685813d48e8010ddad118/322a406390fe5891ded09ee4c9458e2aca5640c53504b226c5d3ec9b8d576f3f" 
+                type="audio/mpeg" 
+                length="80892071" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685813d48e8010ddad118/44683ac9c6c034c1d0570eb2937fe7d1bbcc4dd89dc662585b8aac1693b62d38" 
+                type="audio/mpeg" 
+                length="26964263" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685813d48e8010ddad118/a4819c38abe9c639a242db00d2cf4adbfc2b29a346f5a149b7ddc2de00cf1970" 
+                type="audio/x-m4a" 
+                length="108489367" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685813d48e8010ddad118/f39075822bd78bee75e2d695e9a7e08be32e273ec9adb9e9787a7573fdbf0628" 
+                type="audio/x-m4a" 
+                length="81525563" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685813d48e8010ddad118/0309913ce0d54ebe36788d8dcdec6165546b83ed7f2be6bea473cd7722f7990f" 
+                type="audio/x-m4a" 
+                length="27597047" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496426</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-nationalbankdirektoeren-byder-velkommen-til-en-ny-saeson-med-en-god-omgang-rentesnak-13332496426</link>
+            <title>Nationalbankdirektøren byder velkommen til en ny sæson med en god omgang rentesnak</title>
+            <description>Christian Kettel Thomsen er den kongeligt udnævnte nationalbankdirektør og besøger Kapitalisterne til en god snak om, hvad der egentlig foregår inde i Nationalbanken.
+Hvad laver en nationalbank egentlig, har Christian en WhatsApp-gruppechat med JPOW og Christine Lagarde, og kommer der en dansk kryptokrone?
+Humøret er højt, når den tidligere departementschef (og skibskok hos Mærsk) kommer forbi studiet.</description>
+            <pubDate>Fri, 09 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587c26aeca6fab44325/26d6207d7cd283298ee49d8013a36d712be72eff25b0933161829f6f3bd221e8" 
+                type="audio/mpeg" 
+                length="79707815" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587c26aeca6fab44325/caa1c8a00844d83e0430dbe136f1be3571c6bca8052a9309bcd4293d57b85713" 
+                type="audio/mpeg" 
+                length="26569511" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587c26aeca6fab44325/9e259bf8bd38d4589160b0bfa08ab46c4fec56fd63f394614d59354f032771d3" 
+                type="audio/x-m4a" 
+                length="106901043" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587c26aeca6fab44325/a3f36d01b394a6beb4ae477625f4b2d93a581c59ec9be382af4001cea33dca6e" 
+                type="audio/x-m4a" 
+                length="80331991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968587c26aeca6fab44325/8d9008c02b3f32ddad50e2663633493a8602a86c50b9053a2d307a0ba7e9477a" 
+                type="audio/x-m4a" 
+                length="27193067" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496425</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-allergisaesonen-er-over-os-alk-s-ceo-peter-halling-i-studiet-13332496425</link>
+            <title>Allergisæsonen er over os: ALK's CEO Peter Halling i studiet</title>
+            <description>ALK-Abellós CEO er inviteret i studiet til en snak om allergimedicin.
+Med en halv milliard allergigere globalt er der et enormt potentiale for ALK, der i dag har 2,5 millioner kunder. Med et glas 1'er Cru fra Bourgogne i glasset går snakken om ALK's strategi, investeringscasen og pipelinen, der blandt andet rummer medicin mod peanuts-allergi.
+Oskar vinder sæsonen med en flot stigning på 40% i Zealand Pharma, mens Jakob forsøger at få et sommerpoint med en investering i sydkoreansk gaming.</description>
+            <pubDate>Fri, 28 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859b5c7c5e5a901b2246/39f229294b5956adbb1f2a9be78a0d8ee2b25ea5b615f46a7ce3341af1d84465" 
+                type="audio/mpeg" 
+                length="69167015" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859b5c7c5e5a901b2246/cefb7a37f2ca0be5f09fbd59add34357130d3993a437eafd9904304b830ecbd9" 
+                type="audio/mpeg" 
+                length="23055911" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859b5c7c5e5a901b2246/7df108516e727298c988e0f7ca8c16247bae4b2b75c6f34df4ded365d6a4d206" 
+                type="audio/x-m4a" 
+                length="92763845" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859b5c7c5e5a901b2246/088224f672387f0cb4e960d8807f4d53121b4d50879c6330949f68cfd7c3603c" 
+                type="audio/x-m4a" 
+                length="69708419" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859b5c7c5e5a901b2246/5581bee2e1062bac7cb4825a56f6597f1601d78998ca7f6daae137cdb4818fff" 
+                type="audio/x-m4a" 
+                length="23596989" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496424</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-alex-vanopslagh-paa-besoeg-til-en-snak-om-aktier-skat-og-bitcoin-mining-13332496424</link>
+            <title>Alex Vanopslagh på besøg til en snak om aktier, SKAT og Bitcoin mining</title>
+            <description>Alex har lagt vejen forbi DR Byen, hvor han over et lunkent glas Bordeaux spår en hard landing og uvejr på aktiemarkedet.
+Det lykkes drengene at have en relativt sjov snak om skattesatser, hvor der er rørende enighed om, at de godt må sænkes.
+Vi gennemgår Borgens aktieportefølje, herunder hans egen. Den tegner et billede af en mand, der er glad for bitcoin miners, S&#x26;P 500 og tech.
+Som noget nyt i programmet er Alex både med i in- og outro og løfter sløret for, hvordan han egentlig sikrer sig magten ved næste valg.</description>
+            <pubDate>Fri, 21 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:50:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858f3d48e8010ddad165/995ec95e75dd3fa9c5d80f659b75f97575796acbc225c05746fe5ec0dadd60be" 
+                type="audio/mpeg" 
+                length="72438695" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858f3d48e8010ddad165/10158c1641f2bf6b82064bb8cf745eca37e64eaf8ea39fb4357142460405e9e1" 
+                type="audio/mpeg" 
+                length="24146471" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858f3d48e8010ddad165/1143762ccd1e3c2b2ca78f46bc4e0400518d15228e0611466c1b2b49ec4d4449" 
+                type="audio/x-m4a" 
+                length="97151677" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858f3d48e8010ddad165/32255b7a963ead4cbd552da8adfb6e1b150c41abe6ee6acb408474fb62a886c6" 
+                type="audio/x-m4a" 
+                length="73005843" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858f3d48e8010ddad165/85b5e9206cd95030818289e1b862f8c3f30af61d73f142c9b015e34a91dfd5ee" 
+                type="audio/x-m4a" 
+                length="24713093" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496423</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-nyt-koncept-i-kapitalisterne-flere-historier-flere-jokes-stadig-tung-vin-13332496423</link>
+            <title>Nyt koncept i Kapitalisterne: flere historier, flere jokes, stadig tung vin</title>
+            <description>Jakob og Oskar prøver kræfter med et nyt koncept, hvor de har hele seks historier med. Der bliver grinet over en flaske Chateau Fombrauge fra 1992, mens de dykker ned i Apple, Novo, GN &#x26; den store rentefest.
+I brevkassen diskuteres longevity, mens ugens bets leder efter det næste NVIDIA og håber på fortsat optur til en C25-genganger.</description>
+            <pubDate>Fri, 14 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b9973a9c83748fa90/5e0ff63b255879564f71e23a13b65e9fdfdaf2233fa77ec7cdd3341020235c83" 
+                type="audio/mpeg" 
+                length="69471143" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b9973a9c83748fa90/695bdc86d6a0ada59c9801e2fbedc778bbf3a58dfd95a3649d2b75a410e46290" 
+                type="audio/mpeg" 
+                length="23157287" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b9973a9c83748fa90/347d9bd202faf16c673bbe2da57612f414efe2e4a1670cc0defd42974509f709" 
+                type="audio/x-m4a" 
+                length="93171801" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b9973a9c83748fa90/42119f2897622af4b4dc2d64cef3a10a3cc5855b3e73c5e3728e5e3128bda8be" 
+                type="audio/x-m4a" 
+                length="70015035" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b9973a9c83748fa90/4a9acf0126f9376f996cedf0b61fc20046fdcf1de3c046db3f14673dce48800a" 
+                type="audio/x-m4a" 
+                length="23700697" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496422</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-rengoeringsgiganten-nilfisk-paa-besoeg-13332496422</link>
+            <title>Rengøringsgiganten Nilfisk på besøg</title>
+            <description>Kapitalisterne har fået besøg af René Svendsen-Tune, der er interim CEO i Nilfisk. Jakob &#x26; Oskar finder ud af, at selskabet laver meget andet end støvsugere og i øvrigt ikke taler om rengøringsmaskiner, men 'floor care'. René sætter ord på den strukturelle medvind, produktudvikling, konkurrencesituationen og giver tre gode grunde til at investere i selskabet.
+I glasset: Kapitalisternes sidste flaske Primitivo fra 2020.</description>
+            <pubDate>Fri, 07 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968593b513c3e7e1d7aaf4/3978830d387e71145db75355b8b3c6f55017eff114e337eda6392b0e5dd0f272" 
+                type="audio/mpeg" 
+                length="81235943" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968593b513c3e7e1d7aaf4/c43bff6a0cfc9e01306446572eefdf61fa0ec9908063f6af4965270d0f638b76" 
+                type="audio/mpeg" 
+                length="27078887" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968593b513c3e7e1d7aaf4/e316c3dd72a3dfd1af2778bf04b1ca7bba7bf2f59686a6212c6ba14c16eceb29" 
+                type="audio/x-m4a" 
+                length="108950304" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968593b513c3e7e1d7aaf4/1f7613ebb297a16ff4eab28bc525ab6f73c14c17cd4cc0fe43175274e30fe56a" 
+                type="audio/x-m4a" 
+                length="81871907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968593b513c3e7e1d7aaf4/8e3433df856b221c7d47cb3769598993b59d65f1bc2da0d5bca6d8963dc1f211" 
+                type="audio/x-m4a" 
+                length="27714272" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496421</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-nvidia-i-all-time-high-og-matas-med-ny-strategi-13332496421</link>
+            <title>NVIDIA i all time high og Matas med ny strategi</title>
+            <description>Oskar ser på, om NVIDIA snart rammer et Nokia-moment og kollapser, eller om festen kan blive ved? Matas har fået ny strategi, og Jakob dykker ned i en på overfladen kedelig case, som viser sig at være overraskende spændende.
+Drengene introducerer et nyt koncept, idet de har fået tilsendt en vin fra en lytter, og i ugens bets lykkes det endnu engang ikke Jakob at indhente Oskar.</description>
+            <pubDate>Fri, 31 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:53:19</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858e5c7c5e5a901b21fa/cb79738df6a2168841097c49bd4b5197d4cad334eb164f3db4ab49a85710d541" 
+                type="audio/mpeg" 
+                length="76779431" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858e5c7c5e5a901b21fa/7408ed7c3b6bdbe2ac80b1137e4d7d296a0a31d11f174f893afc0066104ebd06" 
+                type="audio/mpeg" 
+                length="25593383" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858e5c7c5e5a901b21fa/3cb5ad961b0bea5101f742074ff3ac0dc4389ada3eeca07ac2437b8e3e21ffa9" 
+                type="audio/x-m4a" 
+                length="102973317" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858e5c7c5e5a901b21fa/5aa154070a860a068fd76c30fa0f6f9c23db5df01e9bbf70e960841712a4aa26" 
+                type="audio/x-m4a" 
+                length="77380543" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858e5c7c5e5a901b21fa/db5ddf0a70e7e2a5d0dbc7a6e2ba504cca6a68eeb3ae4cb65d26bf0acdd2bc21" 
+                type="audio/x-m4a" 
+                length="26193945" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496420</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-tobaksbossen-i-studiet-13332496420</link>
+            <title>Tobaksbossen i studiet</title>
+            <description>Kapitalisterne har fået slukket brandalarmerne i studiet, for CEO i Scandinavian Tobacco Group, Niels Frederiksen, er på besøg til en snak om cigarer, etik, moral, snus og investeringsmuligheder i tobaksindustrien, og med sig har han et seriøst udvalg af håndrullede cigarer.</description>
+            <pubDate>Fri, 24 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:04:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857eb513c3e7e1d7aa81/a6ffa52bf62db9671d65296a5387ab40958b0769fe03c5c17e8c734f5fbf98a2" 
+                type="audio/mpeg" 
+                length="92262392" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857eb513c3e7e1d7aa81/96f3eb38e38f9a5529ca8f3ed831db705c249d2d19217348ef5757b462280ed3" 
+                type="audio/mpeg" 
+                length="30754424" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857eb513c3e7e1d7aa81/a20ebc604b18b9211ac02cff4e36172efb7a98e5032c6a2898f0db636a28fc9d" 
+                type="audio/x-m4a" 
+                length="123738593" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857eb513c3e7e1d7aa81/99afe319f10b9ac2060728ae746fddd2c83654940e2238ec6ed7e6c74477e9a9" 
+                type="audio/x-m4a" 
+                length="92984563" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857eb513c3e7e1d7aa81/ee62b6c3e74c30fb15b2f0405569945099b413ad33c280ace7cf97f19c835208" 
+                type="audio/x-m4a" 
+                length="31475933" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496419</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-krig-paa-boligmarkedet-og-meme-aktier-i-hopla-13332496419</link>
+            <title>Krig på boligmarkedet og MEME-aktier i hopla</title>
+            <description>Der er udbrudt en regulær priskrig på boligmarkedet, hvor det nu i visse tilfælde er billigere at få et banklån end realkreditlån. Jakob har derfor opfundet "Leje-pers guide til at komme ind på boligmarkedet", så folk kan forstå de ændrede dynamikker.
+Oskar er smuttet til MEME-land, hvor der er opfundet et nyt rating system til at vurdere, om der er potentiale i de små, usikre aktier.
+Over at glas hvid Bourgogne (Albert Sounit, 2023, Vieilles Vignes) vinder Oskar endnu engang ugens bets.</description>
+            <pubDate>Fri, 17 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:04:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b163dfa22d596da83/79015c28cec758f79a69cc1a6b12fdb7643089ed9dc51ac1324a765680cdbeb1" 
+                type="audio/mpeg" 
+                length="92250302" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b163dfa22d596da83/05b874ab44fed626aa0a92bd3e5694c1edd4c267d1b8a0fbb50ba4028f7e3655" 
+                type="audio/mpeg" 
+                length="30750398" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b163dfa22d596da83/250d1797389f14e8462789f1fdb43db6db8e701dc40a360a8fb9f0d777f23392" 
+                type="audio/x-m4a" 
+                length="123722596" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b163dfa22d596da83/6e099988ea7f6ee49876fcff04b5501d5db7720ebf92207435dc8a6231a6ea1c" 
+                type="audio/x-m4a" 
+                length="92972655" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858b163dfa22d596da83/2eb9fb36db560d49d25342d018c94439cb9dffa9e18aaf62fb13387676161396" 
+                type="audio/x-m4a" 
+                length="31471904" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496418</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-regeringen-boykotter-temu-og-apple-laver-verdenshistoriens-stoerste-aktietilbagekoeb-13332496418</link>
+            <title>Regeringen boykotter Temu, og Apple laver verdenshistoriens største aktietilbagekøb</title>
+            <description>Jakob har downloadet den kinesiske app Temu og får 1.400 kroner i velkomstbonus, der skal bruges på en frikadellehakker og et telt til 44 kroner. De dykker ned i investeringscasen for at forstå, hvordan det egentlig hænger sammen.
+Oskar tager et kig på pengemaskinen Apple, der laver verdenshistoriens største aktietilbagekøb.
+I glasset er et glas Chablis fra Moillard 2023 til 99 kr., der desværre ikke er værd at gå i SuperBrugsen efter.</description>
+            <pubDate>Fri, 10 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:01:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968599c26aeca6fab4438a/848aba6c36150a66e1920c3def829819d5c5a1b1eec29ae12d88b68536eae11f" 
+                type="audio/mpeg" 
+                length="88036775" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968599c26aeca6fab4438a/496579113f58ad5434bdc112fe0bd5c9bdbc550eccc212f1bed8de35bc68e856" 
+                type="audio/mpeg" 
+                length="29345831" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968599c26aeca6fab4438a/bd4f42c65740286c6f320fafa94064b98b8a1bd20a57a85b12adf82a93bcf4e4" 
+                type="audio/x-m4a" 
+                length="118071201" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968599c26aeca6fab4438a/b7b9318447f8b603b58632464c4ce1bd5d5cb2ad3fb6ca721e1b3d9448e6aafc" 
+                type="audio/x-m4a" 
+                length="88725863" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968599c26aeca6fab4438a/f85791a94c678fb994f490a8dcea5d55b261f3e3200f8f5df33ebc030dd4b42b" 
+                type="audio/x-m4a" 
+                length="30034365" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496417</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-svitzer-paa-slaeb-13332496417</link>
+            <title>Svitzer på slæb</title>
+            <description>Danmark har fået sin første børsnotering længe, idet Mærsk har sagt farvel til slæbebådsselskabet Svitzer, der stiger 15% på noteringen. De diskuterer, hvad der er hottest - det gamle og konjunkturfølsomme Mærsk eller det nye lidt kedelige Svitzer.
+Jakob har taget et glas (lidt for urtet) Gevrey-Chambertin (Domaine Henri Magnien 2021) med, som Oskar indtager i sin hættetrøje af cashmere, som ifølge ham selv er quiet wealth.</description>
+            <pubDate>Fri, 03 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859ab513c3e7e1d7ab1d/f25e98421533ef5360dd34a65b2c6b2eff48001c6614e434c02efd90cfdaa8b3" 
+                type="audio/mpeg" 
+                length="82029095" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859ab513c3e7e1d7ab1d/a13749527f0658e4a409a47f729c4c35b54f2d44831b90e1b4c1b87f1418c5b9" 
+                type="audio/mpeg" 
+                length="27343271" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859ab513c3e7e1d7ab1d/54b5e44f8dac3015ab1ec61e422e1abf9b1cbe5f7a4ae07897fbec10cc0449d2" 
+                type="audio/x-m4a" 
+                length="110013847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859ab513c3e7e1d7ab1d/0c50f42f05e2583116bf192445f0c35cccc8a089a2d656c63a29b88d28ae2937" 
+                type="audio/x-m4a" 
+                length="82671075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596859ab513c3e7e1d7ab1d/a41f6da055c253fed7bffb121c889a0f479e1f9234aa8a9ad8b4d04e55a9b1ad" 
+                type="audio/x-m4a" 
+                length="27984811" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496416</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-gratis-penge-i-indien-og-spotify-taet-paa-all-time-high-13332496416</link>
+            <title>Gratis penge i Indien og Spotify tæt på all time high</title>
+            <description>Jakob har fundet den store krukke med guld i Indien, som vækster helt vildt for tiden, og selv om Oskar er skeptisk, må han indrømme, at de indiske aktier og den strukturelle medvind godt kunne kaste nogle kroner af sig. Oskar har lavet et nyt og dybt originalt analyseværktøj til tech-virksomheder. Det bliver i programmet døbt Oskars Seven A's og bliver i denne omgang brugt til at forklare den stigning, vi ser i Spotify-aktien, som har klaret sig markant bedre end sine konkurrenter.</description>
+            <pubDate>Fri, 26 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:28</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858bb513c3e7e1d7aac4/948dfee7f95d6845130ce806b928ee8a01b8ddfce901ed62b4071bebf5af21a3" 
+                type="audio/mpeg" 
+                length="82771559" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858bb513c3e7e1d7aac4/d7811ac7ef0249bbaf297fc2aaaf6f7eccfe37fe0440c1f22c380524e91c8d07" 
+                type="audio/mpeg" 
+                length="27590759" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858bb513c3e7e1d7aac4/02ad23acf34a50b43de84ea2d528e9cdbe93512f698ab7f66452e78033dfec76" 
+                type="audio/x-m4a" 
+                length="111010120" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858bb513c3e7e1d7aac4/b792c39beac7c08a1c9713f791a91e36477972e498d72d8361c237be455f51e3" 
+                type="audio/x-m4a" 
+                length="83419851" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858bb513c3e7e1d7aac4/160be2139e447288382c4e8a54105a1f96cef7446d9e90c8002d3e3e7fa6a4e9" 
+                type="audio/x-m4a" 
+                length="28238228" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496415</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-tesla-i-bakgear-13332496415</link>
+            <title>Tesla i bakgear</title>
+            <description>Vi dykker dybt i bilindustrien, hvor Oskar leverer en analyse af Tesla, Porsche, Ferrari og BYD, mens Jakob stiller det store spørgsmål: kan man stadig værdiansætte Tesla som et teknologiselskab?
+Med Château de Ricaud (2021) i glasset er der højt humør i DR Byen, hvor Jakob indhenter point på at gå stik imod en tidligere C25 direktørs anbefaling.</description>
+            <pubDate>Fri, 19 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:54</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857d3d48e8010ddad101/fe0bd88ad3cc0224ee8e88ee74293cb75df9743bc71fa643f4d7d68a5a012f24" 
+                type="audio/mpeg" 
+                length="83391911" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857d3d48e8010ddad101/9076598e67b7e0c9820a35faad770f808136f3571e05a407b5848540c6dbb6aa" 
+                type="audio/mpeg" 
+                length="27797543" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857d3d48e8010ddad101/8b6213bf4a36240cf7aaed15b001ad4e57fed8af986586185d4adb417b00c09d" 
+                type="audio/x-m4a" 
+                length="111841629" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857d3d48e8010ddad101/257155e2fb67b216c00c2b4496be65dc72a1248ad49134cd5c61b84b4bc5e78c" 
+                type="audio/x-m4a" 
+                length="84044695" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857d3d48e8010ddad101/ee99afeab658e115860183f26c6cba324e48f6a1e4281e8843e6429c73b62a82" 
+                type="audio/x-m4a" 
+                length="28449785" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496414</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-guld-har-aldrig-vaeret-dyrere-og-vaabenaktier-falder-tungt-13332496414</link>
+            <title>Guld har aldrig været dyrere, og våbenaktier falder tungt</title>
+            <description>Der er gang i de finansielle markeder, hvor den tyske våbenaktie Rheinmetall ud af det blå faldt 12%. Når der er usikkerhed på markederne, søger investorerne mod guld, der aldrig nogensinde har været dyrere. I ugens bets har Oskar (endnu engang) ramt den helt perfekt, mens Jakob med et desperat short forsøger at indhente ham.
+Drengene deler en flaske Chulo, Maison Dréno fra 2022, der smager overraskende godt.</description>
+            <pubDate>Fri, 12 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685973d48e8010ddad191/177688af815485276231be9a082907d291bd22eaa4f2ade96521c4737a5c38e5" 
+                type="audio/mpeg" 
+                length="82512359" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685973d48e8010ddad191/a1d4623831b9a5088f57296b169025c52b0fa2b80b4d558132b311b168947f4d" 
+                type="audio/mpeg" 
+                length="27504359" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685973d48e8010ddad191/ccf927f1475cd4fd9a40456ffb7b8b1ce6011c8eea638c2e225236a01a12d110" 
+                type="audio/x-m4a" 
+                length="110661964" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685973d48e8010ddad191/742fce9413b43abd6284bc5c46e9657bca7adf9619ca8aeb4620b68582e9db4b" 
+                type="audio/x-m4a" 
+                length="83158203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685973d48e8010ddad191/8bde0913c6cee66724cc02018c19d55fa26de8f2f8510c69e115fbb263ea4c6e" 
+                type="audio/x-m4a" 
+                length="28149708" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496413</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-donald-trumps-sociale-medie-amok-og-tyskerne-bruger-solcellepaneler-som-hegn-13332496413</link>
+            <title>Donald Trumps sociale medie amok og tyskerne bruger solcellepaneler som hegn?</title>
+            <description>Oskar og Jakob er retur fra påskeferie og er klar til at vende de vildeste historier fra de finansielle markeder. Oskar kaster sig ud i en værdiansættelse af Donald Trumps sociale medier, der ifølge analysen skal ned med 95%. Jakob ser mod Tyskland og Holland, hvor prisen på solcellepaneler er faldet så meget, at de bliver brugt som hegn i villakvarterer.
+Jakob taber (som ventet) endnu engang ugens bet, men holder humøret højt over en flaske L'Anjou Blanc, Ch. de Plaisance fra Loire.</description>
+            <pubDate>Fri, 05 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685989973a9c83748fad9/f153c3124046369ddc69e4c82c4db3eea4266a8a26fa50cc3b769ab64adf4b12" 
+                type="audio/mpeg" 
+                length="79706663" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685989973a9c83748fad9/0a2fd5e5fc63bccbe74c113c0b41749eed80b16962f806dedae23f9b65ef473a" 
+                type="audio/mpeg" 
+                length="26569127" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685989973a9c83748fad9/7c4f5d2f925719d975ce17906b3d53e3b4b49a1edcc25dc76a1afb983d64b25a" 
+                type="audio/x-m4a" 
+                length="106899211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685989973a9c83748fad9/eea39e7e29d1d8ee1b0fa1612978db66f81ceea2083c4bc876a3373a7b25380c" 
+                type="audio/x-m4a" 
+                length="80330539" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685989973a9c83748fad9/1035510a966801216edba375d3a1736d01c58e48fddb5bf4d91c84d515926e94" 
+                type="audio/x-m4a" 
+                length="27193383" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496412</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-oelsmagning-med-carlsbergs-direktoer-jacob-aarup-andersen-13332496412</link>
+            <title>Ølsmagning med Carlsbergs direktør Jacob Aarup-Andersen</title>
+            <description>Jakob &#x26; Oskar har fået fint besøg af Carlsbergs CEO, der har taget et fad med kolde øl under armen. I godt selskab vender de sortimentet, strategien og investeringscasen, mens de smager på de våde varer.
+Carlsberg er desværre hverken det nye NVIDIA eller Novo, men Jacob ser alligevel ind i en spændende rejse med 4-6% omsætningsvækst, forbedrede marginer og ekspansion på tværs af kloden.</description>
+            <pubDate>Fri, 22 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:00:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968597c26aeca6fab4437e/6d291456a9d89ea085281f100cf905d8ebe3e48c6c7582688949f1bb1b801232" 
+                type="audio/mpeg" 
+                length="86491452" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968597c26aeca6fab4437e/28a2815ec1f4bed4575d71688cd97ebe6cb9f6f9db9cbcff6a5efb6627dd5fca" 
+                type="audio/mpeg" 
+                length="28830780" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968597c26aeca6fab4437e/67ca9e0c171c722780141ce3e0c6d678cf82312a3b434611267b1f2d03da9b9d" 
+                type="audio/x-m4a" 
+                length="115998075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968597c26aeca6fab4437e/b349ccb9f9c323fd227da49ee3c123af6f9dd6cf5a6918e829ba48869c20cb3a" 
+                type="audio/x-m4a" 
+                length="87168067" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968597c26aeca6fab4437e/c5109676b92ba0e42e66dd2ba334aeb9c2db74873bf30b0aa463824e97a23df8" 
+                type="audio/x-m4a" 
+                length="29507984" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496411</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-kaos-i-studiet-med-sinful-founder-mathilde-mackowski-13332496411</link>
+            <title>Kaos i studiet med Sinful founder, Mathilde Mackowski</title>
+            <description>Sinful er nu Nordens største sexshop. Co-founder Mathilde Mackowski velsigner studiet med enorm energi og tilstedevær til en snak om sin iværksætterrejse, men gider faktisk ikke rigtig tale forretning og tal, men forholder sig meget mere til ideer, visioner og at være noget for sine kunder. Oskar og Jakob er fuldstændig blæst bagover - mon ikke du bliver det samme?</description>
+            <pubDate>Fri, 15 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:01:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cc26aeca6fab44343/af3d63fb83d06c95ee22cbcb9040f45eb381ca01974932a672864c1f76acb4f3" 
+                type="audio/mpeg" 
+                length="88129511" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cc26aeca6fab44343/de9ac4ffe4906af9791454579e0399796bb60cb65ec4df2a614a8df83e25e457" 
+                type="audio/mpeg" 
+                length="29376743" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cc26aeca6fab44343/104e7806c29696957541650bb6999dbabf8aae6ae55655afed59101fa7e68425" 
+                type="audio/x-m4a" 
+                length="118195452" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cc26aeca6fab44343/6e898451bd41d068060618170fe28cc67dd015e8e46446ece05d131b36ba9643" 
+                type="audio/x-m4a" 
+                length="88819275" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858cc26aeca6fab44343/8dbc785628291328c36985529c441056cd8903c9894bac48e65f2837848b3678" 
+                type="audio/x-m4a" 
+                length="30066897" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496410</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-engangsendoskoper-i-milliardklassen-med-britt-meelby-fra-ambu-13332496410</link>
+            <title>Engangsendoskoper i milliardklassen med Britt Meelby fra Ambu</title>
+            <description>I denne uge får Kapitalisterne besøg af C25-selskabet Ambus CEO, Britt Meelby til en snak om kikkertoperationer, vækstforventninger og de 11.400% stigning, selskabet har leveret siden 2000.
+Aktien har dog været på en rutsjebanetur, og især Oskar vil gerne forstå, hvordan Britt kan sikre et par tusinde procent de næste år.</description>
+            <pubDate>Fri, 08 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:01:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968585163dfa22d596da60/a2cd6bc017feae9aa9efb0bd0c2b46d195ff705f25930d99fb81162e7d405b7d" 
+                type="audio/mpeg" 
+                length="89106407" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968585163dfa22d596da60/884e0de31c79c219f7b0fad87e0b04203256c961789c0291ae4659dfb2ed520a" 
+                type="audio/mpeg" 
+                length="29702375" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968585163dfa22d596da60/89d1e484878c202a813e809392ae36a6cae89b4cc7767b27e7246860321386b3" 
+                type="audio/x-m4a" 
+                length="119505748" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968585163dfa22d596da60/fa6ba7a797b5de508dd0213b3af257ba644cc515d1b5f0a1938467b5b17b28ed" 
+                type="audio/x-m4a" 
+                length="89803735" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968585163dfa22d596da60/d62e012910943703b114e449e0abb2fd9c24569e256263038859d8764b781089" 
+                type="audio/x-m4a" 
+                length="30400209" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496409</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-rolls-royce-er-ikke-en-bil-13332496409</link>
+            <title>Rolls-Royce er ikke en bil?</title>
+            <description>Drengene er alene i studiet og nyder en rolig aften uden direktørbesøg. Jakob underholder om Rolls-Royce (der åbenbart ikke producerer biler), og Oskar taler amerikansk storpolitik, når Nancy Pelosy viser sig at være blevet milliardær på aktie- og optionshandel, på trods af at hendes årsløn er 200.000 dollar.
+I glasset er programmets første lyttergave, en dåse med Blanc de Blancs fra Californien. Et mislykket eksperiment, som dog skaber en del glæde i studiet.</description>
+            <pubDate>Fri, 01 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685819973a9c83748fa59/804e33bb5327083262610865c3b7242701d6aa48f31f5963428ba82539d74535" 
+                type="audio/mpeg" 
+                length="83158631" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685819973a9c83748fa59/7935f5f0cecb518fd7a2e25c98e2d74ff22c087a188670a170510b7db5255368" 
+                type="audio/mpeg" 
+                length="27719783" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685819973a9c83748fa59/bf0ed4892a11ec692f7795243920126ea8c8d9b571fdb6106b3d54869331b59f" 
+                type="audio/x-m4a" 
+                length="111528553" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685819973a9c83748fa59/232737df45c2578b37a513ed0b66e214b40ce246dcf30722e452ff7bfe73c6e1" 
+                type="audio/x-m4a" 
+                length="83809447" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685819973a9c83748fa59/2c225a11a02d6039b24f25ea34aaf42b717dbd634ba86bdeb144229ad4210a70" 
+                type="audio/x-m4a" 
+                length="28370995" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496408</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-hoereapparater-for-milliarder-med-demant-ceo-soeren-nielsen-13332496408</link>
+            <title>Høreapparater for milliarder - med Demant CEO Søren Nielsen</title>
+            <description>Der er stort format i studiet, når Søren Nielsen lægger vejen forbi Kapitalisterne. Der er anstændig Pinot Noir fra Oregon i glasset, mens de snakker om værdiskabelse - både for deres kunder og aktionærer.
+Og nå ja, så er det gået virkelig galt for Jakob i Ugens Bets.</description>
+            <pubDate>Fri, 23 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:58:36</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857f5c7c5e5a901b21a4/60461541e94ef6df1cbddc51850cf8f1287c9a91417f9f60437628d7bc79a9a4" 
+                type="audio/mpeg" 
+                length="84397121" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857f5c7c5e5a901b21a4/0f7764f50e07b802806f11c5498b254a8b95188c821579059fc10f6a6dbc9067" 
+                type="audio/mpeg" 
+                length="28132673" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857f5c7c5e5a901b21a4/372360b72b36093e4e8e9bf44f1d0852d0c1afc51499c9a4e010625dafc50510" 
+                type="audio/x-m4a" 
+                length="113190028" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857f5c7c5e5a901b21a4/7edd4f511cfe2e156d8fa925a12fa0f481cdfa826acc756132fa2461a505cc18" 
+                type="audio/x-m4a" 
+                length="85057547" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596857f5c7c5e5a901b21a4/8978df61068f14e3bd79f7bcf74e4ee81bd408091e8077274b67847d685ca1bc" 
+                type="audio/x-m4a" 
+                length="28793533" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496407</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-jakob-har-vaeret-paa-burger-king-og-oskar-er-lun-paa-nogle-computerskabe-13332496407</link>
+            <title>Jakob har været på Burger King, og Oskar er lun på nogle computerskabe</title>
+            <description>Kapitalisterne er i studiet med de vigtigste bevægelser i finans. Oskar snakker AI-bølge med selskabet Super Micro Computer, som viser sig i virkeligheden at lave serverkabinetter, hvilket hverken er særlig "micro "eller "computer", men ikke desto mindre har det været en virkelig god investering, som hverken Oskar eller Jakob havde set.
+Jakob byder ind med en lidt risikabel analyse, som viser, at han måske skal købe Boeing-aktier på trods af, at aktien og selskabet er i heftig modvind efter flere frygtelige hændelser.</description>
+            <pubDate>Fri, 16 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:52:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685805c7c5e5a901b21ac/ffff52e78f271a749e0b29c975fe9ff62b2ef8fc5cd31d5bfead5de755994c15" 
+                type="audio/mpeg" 
+                length="75452407" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685805c7c5e5a901b21ac/2ac05cb72076afb78b922820f30c659838b3eb96de378207b0777ea0ad34fc26" 
+                type="audio/mpeg" 
+                length="25151095" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685805c7c5e5a901b21ac/7f0a2d12a1d977014a5a1f082d1afdcca1ff7e156d57622918fb72ba68c6bfc2" 
+                type="audio/x-m4a" 
+                length="101192799" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685805c7c5e5a901b21ac/8bfa7879135bdc13587112b26381cd1b250bcccdf3f9a7fabc5d177ebd3d1ae4" 
+                type="audio/x-m4a" 
+                length="76042419" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685805c7c5e5a901b21ac/4aebd4328d7f10e84af7970b0c968d15867e8e7aad5c9d98d620a5099ec53469" 
+                type="audio/x-m4a" 
+                length="25742065" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496406</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-fra-laege-til-ceo-i-c25-adam-steensberg-13332496406</link>
+            <title>Fra læge til CEO i C25, Adam Steensberg</title>
+            <description>Det her afsnit er vigtigt, for som Oskar siger: "Det er det, der er med Biotek. Der er høj risiko, og man fatter ikke en bjælde, af hvad der foregår".
+Biotek-kometen Zealand Pharmas aktie er steget over 400%, siden Adam Steensberg satte sig i CEO-stolen. Kapitalisterne spørger, om han har været heldig eller dygtig. Og så prøver de at forstå, hvordan deres bud på fedmemedicin, som ikke er godkendt endnu, kan få en plads i et marked, som Novo allerede dominerer.</description>
+            <pubDate>Fri, 09 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685905c7c5e5a901b2203/cabec695aaa181eac7cbb14beef8ef28a8e052db053418749672d63eed892dd3" 
+                type="audio/mpeg" 
+                length="68438375" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685905c7c5e5a901b2203/55a13e727e62270b52294287c052843cd8b68652ef0a81d72b883ec92b2a0378" 
+                type="audio/mpeg" 
+                length="22813031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685905c7c5e5a901b2203/777e1aedad98323a8d4daf5f2f830012592971bef209e7fa8a6e78033ee77a64" 
+                type="audio/x-m4a" 
+                length="91786140" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685905c7c5e5a901b2203/28ae2293085698d615993eff558f0b0c52db7e3badc03932dc4fb4f88fd2f5ae" 
+                type="audio/x-m4a" 
+                length="68973851" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685905c7c5e5a901b2203/cddbc24cb50d9d50acbab3f6482e79893c18c7c61f2871eb2e75eb8b7d35a407" 
+                type="audio/x-m4a" 
+                length="23349292" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496405</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-tommy-ahlers-byder-oskar-tilbage-fra-barselsland-13332496405</link>
+            <title>Tommy Ahlers byder Oskar tilbage fra barselsland</title>
+            <description>Tommy lægger vejen forbi DR til en snak om investering i den grønne omstilling. Man skal have de lange briller på, men så er det også vores generations største investeringsmulighed.
+Oskar er godt tilbage fra barsel, og imens vi diskuterer idealisme vs. kapitalisme over et godt glas vin anbefalet af Peter Sisseck, så stiger humøret i studiet, når Tommy deler ud af sin store viden om grønne investeringsmuligheder.
+I glasset: Marqués de Murrieta, Reserva 2018.</description>
+            <pubDate>Fri, 02 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:00:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685899973a9c83748fa83/fd47ff2e5fd70b0c7e941908a3254fe32c2e42036bd2e8e96c64caec6eaf6c53" 
+                type="audio/mpeg" 
+                length="87392231" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685899973a9c83748fa83/9130a1587ff46b663f93589586eb9d99fc32cb3fe981747715f0901aa4aeed7f" 
+                type="audio/mpeg" 
+                length="29130983" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685899973a9c83748fa83/eaaca71782baabd0c7fed4402faad58d5c0427edd4a10d60b8f3921521c3779b" 
+                type="audio/x-m4a" 
+                length="117206744" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685899973a9c83748fa83/158ce0715efd8b5614502fe93b8caa401386c4c02b491dbb1976dddd9f5feedc" 
+                type="audio/x-m4a" 
+                length="88076243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659685899973a9c83748fa83/4e1361360861cfea5030723aaa024d265f0b76a557fa5a84eeef765d9c22810b" 
+                type="audio/x-m4a" 
+                length="29815349" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496404</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-fra-toejsaelger-til-bankdirektoer-med-lunar-ceo-ken-villum-klausen-13332496404</link>
+            <title>Fra tøjsælger til bankdirektør - med Lunar CEO Ken Villum Klausen</title>
+            <description>Kan man tjene penge på at lave en bank?
+Hvordan overbeviser man de store investorer om at poste milliarder i god ide?
+Hvad gør man, når man som iværksætter står med ryggen mod muren?
+Det er et par af de spørgsmål, som Ken Villum Klausen besvarer, når han gæster studiet med stor Bourgogne, højt humør og gode råd.</description>
+            <pubDate>Fri, 26 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968581163dfa22d596da4e/c6be7b172343344890c9f066e782459e77502114986e0c54114aeb7a8200b71b" 
+                type="audio/mpeg" 
+                length="51830654" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968581163dfa22d596da4e/f6abe5649db4786b498c904a61ee9afd3e6d015e1ec9a9fd1bc3bc01ceeb155e" 
+                type="audio/mpeg" 
+                length="17277182" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968581163dfa22d596da4e/b0ee03668f215a689cde3ec6b8e01c295c97cae3125bc1e6185dccf04f3850ac" 
+                type="audio/x-m4a" 
+                length="69512657" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968581163dfa22d596da4e/416281f41cc7e98bd59af391b116f81da5bf9d8691b13bbd8f683c066e1fd4b4" 
+                type="audio/x-m4a" 
+                length="52236031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968581163dfa22d596da4e/91c029e1239f23c5c3a13c824bde1e61ba4b8ff808cca1ba7f92f48b77b0b12e" 
+                type="audio/x-m4a" 
+                length="17683569" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496403</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-boligmarkedet-forklaret-med-mira-lie-nielsen-13332496403</link>
+            <title>Boligmarkedet forklaret - med Mira Lie Nielsen</title>
+            <description>Er det et godt tidspunkt at købe en bolig? Hvad er det lige realkreditobligation er? Og hvorfor går kursen op og renten falder? Det er nogle af de spørgsmål, som du kan få besvaret én gang for alle (forhåbentlig), når Kapitalisterne får besøg af boligøkonom, chefanalytiker og ekspert fra Hammerslag, Mira Lie Nielsen</description>
+            <pubDate>Fri, 19 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968592163dfa22d596daae/e1143275d3b805b76269957d70192273870208fa98fe413d362301b4db406d2b" 
+                type="audio/mpeg" 
+                length="60753959" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968592163dfa22d596daae/1380d27c7a1ddeec0c0c8a699154f5b6c1eb974c818c1d1bdc50294da7b75b47" 
+                type="audio/mpeg" 
+                length="20251559" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968592163dfa22d596daae/aebdf8744d97427c8accdacd24fb36f0870b9565236e448da9af45af6b414169" 
+                type="audio/x-m4a" 
+                length="81480631" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968592163dfa22d596daae/3d02d8d13a5e710bc33c7b8bb8678640ec306c315af80a155fa113f70e488833" 
+                type="audio/x-m4a" 
+                length="61229403" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968592163dfa22d596daae/c84d7e7de9d694469c4b63cdeb8de3b042011ac4461ce05b92369932953e6b45" 
+                type="audio/x-m4a" 
+                length="20727675" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496402</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-fragtkaos-i-det-roede-hav-og-check-in-med-oskar-fra-barselsland-13332496402</link>
+            <title>Fragtkaos i Det Røde Hav &#x26; check-in med Oskar fra barselsland</title>
+            <description>Den er helt gal i Det Røde Hav, hvor Houthierne fra Yemen har foretaget en lang række sofistikerede angreb på adskillige skibe. Senioranalytiker fra Sydbank Mikkel Emil Jensen giver sit bud på implikationerne for aktiemarkedet, herunder om Mærsk og resten af rederierne er oppe eller nede i slutningen af 2024.
+Efter tre forsøg lykkes det at få Oskar med på en telefon - han har mildest talt fået ammehjerne. Der er ikke meget at berette fra barselsland udover pandekager med syltetøj og gåture rundt om Søerne i København.
+I glasset: Utrolig tvivlsom sekt, der smagte af en Somersby med bobler.</description>
+            <pubDate>Fri, 12 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968591163dfa22d596daa4/3ed6481d2e452658437b271d8f12fa32b5709dfaa346b168538be3c7d50133af" 
+                type="audio/mpeg" 
+                length="67189114" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968591163dfa22d596daa4/7c9407e0342ad7364cb077b98470113ab18890d2246b6065583bdf1d9926ec5e" 
+                type="audio/mpeg" 
+                length="22396666" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968591163dfa22d596daa4/ade853f258a723a7c35e0742f543ad5bc5067dbc7b6a61df14c924a0a387f0b6" 
+                type="audio/x-m4a" 
+                length="90110581" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968591163dfa22d596daa4/c4dee2d167d7f239151dcadf4ea0d7fb87e7c0041f5017a03f78dfb451e513ec" 
+                type="audio/x-m4a" 
+                length="67714675" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65968591163dfa22d596daa4/4c40444bfab206eb8313743b4f07ec8e76f1e80ef21ecb65da8caa1dc001a4f9" 
+                type="audio/x-m4a" 
+                length="22923149" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496401</guid>
+            <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-afsnit-100-med-mr-pingus-aka-peter-sisseck-13332496401</link>
+            <title>Afsnit 100 med mr. Pingus aka Peter Sisseck</title>
+            <description>Der er lykkerus og storytelling i studiet, for i anledning af Kapitalisternes afsnit 100 er en af verdens dygtigste winemakers og manden bag den berømte Pingus, Peter Sisseck, på besøg. Han deler sin vej til vinens verdenselite og fortæller lidt om forretningssiden af at være vinbonde. Jakob er ængstelig for sit første møde med rigtig, rigtig stor vin, og Oskar søger svar på, om han kan blive som Russell Crowe i A Good Year - alt i alt er det helt kanon.</description>
+            <pubDate>Fri, 05 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858d163dfa22d596da8c/de9b7fe2c25dc7fa6c9e4b1e931a8fe2c5716127dd13e95afae133a598008050" 
+                type="audio/mpeg" 
+                length="61082938" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858d163dfa22d596da8c/069010bd09ffcfb0f6b2b2ad9ba1ddc3371dd1f8b471e0840b3e59096dc0772f" 
+                type="audio/mpeg" 
+                length="20361274" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858d163dfa22d596da8c/25a137ff83fda7897b8d7781ccd98a6a2d0c6463e7c430db9789eb63c867074b" 
+                type="audio/x-m4a" 
+                length="81921519" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858d163dfa22d596da8c/06831e0f4020633fc8325a2a617e6f82d5b40576cd1552048961e4bbc46c7431" 
+                type="audio/x-m4a" 
+                length="61560799" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6596858d163dfa22d596da8c/b6ebe0cc8af55de2bd01c3e935c91756c4f5a3bd1ea6101aba16db3bb967e488" 
+                type="audio/x-m4a" 
+                length="20839884" />
+        </item>
+    </channel>
+</rss>

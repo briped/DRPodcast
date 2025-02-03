@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/min-ven-hermann-goring.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Min ven Hermann Göring (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000</link>
+        <description>Historien om et umage venskab mellem en jøde fra det bedre borgerskab i København, Hugo Rothenberg, og så én af de værste krigsforbrydere i verdenshistorien, nazisten Hermann Göring. Hvad skete der, da Hugo Rothenberg, højest usædvanligt, fik tilladelse af selveste Göring til at rejse rundt i Nazityskland i et forsøg på at redde så mange jøder som muligt fra den visse død? Det er en historie fuld af dilemmaer og paradokser. Men mest af alt er det fortællingen om den lille mand, der pludselig må finde sit heltemod frem, fordi han ved en tilfældighed engang åbnede sin dør for en tysk pilot.
+Produceret for DR af MonoMono.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:36 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/min-ven-hermann-goring.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/min-ven-hermann-goring.jpg</url>
+            <title>Min ven Hermann Göring (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/min-ven-hermann-goring.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Historie</category>
+        <itunes:category text="Historie" />
+        <item>
+            <guid isPermaLink="false">16122492351</guid>
+            <link>https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-1-6-vi-moedes-igen-16122492351</link>
+            <title>(1:6) Vi mødes igen</title>
+            <description>Louis har fået fat i et arkiv fyldt med dokumenter, lydoptagelser, dagbøger og breve, som har været i hans familie i lidt over 100 år. I arkivet tegner sig en mystisk historie om hans jødiske slægtning Hugo Rothenberg, som i 1938 opsøger Hermann Göring i Berlin for at indløse en gammel tjeneste. Men må man overhovedet forhandle med fjenden? Og hvad går dette mystiske venskab mellem en topnazist og en jøde ud på?
+
+Tilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.
+Klip og lyddesign: Mikkel Bøgeskov Andersson.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 09 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/4fca09dc9f34f4b62c864560c1731b62ed57153f818e3e750bffd2e879db4ee4" 
+                type="audio/mpeg" 
+                length="42678013" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/9e740f1e73fa8d7a5815c794006c1a4c352339335e21da5e23d4d5d3b17567a4" 
+                type="audio/mpeg" 
+                length="14226301" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/d27a0797d1182f91aa2e04b69185e420165b10cfbd3706e5fd9a4e6de4fa4f6f" 
+                type="audio/x-m4a" 
+                length="57237832" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/a26b5564caddfce037755b52279af1be96e6b59f10bdd52ccc8889d49c85e40e" 
+                type="audio/x-m4a" 
+                length="43011955" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823c2a02f3ed1efa0ac2/e8d27df1dd5fb968cb7d19f65795e5b46d4a940988e869c3800afc0bd282c952" 
+                type="audio/x-m4a" 
+                length="14560144" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492352</guid>
+            <link>https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-2-6-hoejt-at-flyve-16122492352</link>
+            <title>(2:6) Højt at flyve...</title>
+            <description>I 1919 kommer en ung tysk soldat til København. Han hedder Hermann Göring, og han bliver hurtigt berømt - både for sine kundskaber som pilot og for sine eskapader i det københavnske natteliv. På et tidspunkt går det så vidt, at en dansk-tysk jøde ved navn Hugo Rothenberg får til opgave at redde Göring ud af problemerne. Göring flytter ind hos familien Rothenberg, som langsomt får ham på ret køl. Og som tak skriver Göring et brev, hvori han lover at hjælpe Hugo, hvis det nogensinde skulle blive nødvendigt.
+
+Tilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.
+Klip og lyddesign: Mikkel Bøgeskov Andersson.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 09 Dec 2024 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/63e194f81ad98008ce76f49336362bfcfeb9ca50b3fcd1a594407e72d14d1ebf" 
+                type="audio/mpeg" 
+                length="45536123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/d10e8f3587af0df0b2e8c27b09737f4860569d933711f7e17895efd6f1f08929" 
+                type="audio/mpeg" 
+                length="15179003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/5113319eb217f3d1ac767258777ad44f40c3028f29890e9748c53f7dcb6a80cd" 
+                type="audio/x-m4a" 
+                length="61071468" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/0fb10387bc394ea03407ef5793bf174ce30648f9aa981e5b47325c495252442e" 
+                type="audio/x-m4a" 
+                length="45892783" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ac6/2ca51ca4d825ad5d7e72d67bff89afbe62d1550715fc06bfe118cc74a857ca7a" 
+                type="audio/x-m4a" 
+                length="15535324" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492353</guid>
+            <link>https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-3-6-verdens-stoerste-menneskehandel-16122492353</link>
+            <title>(3:6) Verdens største menneskehandel</title>
+            <description>Hugo har fået til opgave at starte forhandlinger med Göring om, hvordan de tyske jøder kan få lov at emigrere ud af Tyskland. Hugo må nu prøve at finde lande, der vil tage imod de tyske jøder - og samtidig finde ud af, hvem i udlandet, der vil betale omkostningerne. Men spørgsmålet er, om der overhovedet er nogen, der vil hjælpe og tage imod jøderne? Og hvad skal Hugo gøre, hvis planen går i vasken?
+
+Tilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.
+Klip og lyddesign: Mikkel Bøgeskov Andersson.
+Produceret for DR af MonoMono.
+,</description>
+            <pubDate>Mon, 09 Dec 2024 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:36</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/f49cb7d8cf2fa4400b1c9756fe93a8a3886efd12c6318f35503d091b6bd9da11" 
+                type="audio/mpeg" 
+                length="44088055" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/d45aa208f989f177f0b5fd6c205a5d0c28ba903a6e95b6eb022fcb46e2ab6a74" 
+                type="audio/mpeg" 
+                length="14696311" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/20a86864c09ce6114c0542d88c993a165d4837f9d32d96e2b65270a7fa99d0ca" 
+                type="audio/x-m4a" 
+                length="59129535" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/06ba4187f87585676caa60899681e7ee9ed6558b63ff9e90c53597f6b41fb66a" 
+                type="audio/x-m4a" 
+                length="44433471" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823f2a02f3ed1efa0adb/e51e67960cb50468e8de203baa0eebc511c3faa140d738ade372b03d9dea5181" 
+                type="audio/x-m4a" 
+                length="15041379" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492354</guid>
+            <link>https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-4-6-baade-billetter-og-bestikkelse-16122492354</link>
+            <title>(4:6) Både, billetter og bestikkelse</title>
+            <description>Hugo rejser nu i hemmelighed rundt i Europa for at dele hemmelige informationer. Men hans rejseaktiviteter gør, at danske, amerikanske og tyske efterretningstjenester begynder at holde øje med Hugo. Er Hugo hemmelig nazi-agent? Samtidig bliver situationen for de tyske jøder mere og mere kritisk. Hugo forsøger nu via hemmelige kanaler at redde jødiske flygtninge til neutrale lande. Men han kommer hurtigt til at sidde i nogle forfærdelige dilemmaer: Hvem kan det betale sig at redde? Og hvor skal de sendes hen? 
+
+Tilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.
+Klip og lyddesign: Mikkel Bøgeskov Andersson.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 09 Dec 2024 05:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/3f5c15ca20ffddfaf2c82589e277702a31aea160f3959badeed33db0a1679c36" 
+                type="audio/mpeg" 
+                length="41566327" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/090fd556b79f7b536b5727bbb2dd202ec60bf7bc9c8a17065568f5d036d36435" 
+                type="audio/mpeg" 
+                length="13855735" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/4c5b7024e21a8bcacb5e62f2cc4548887068005b32e09e54c1635d46f7807ff8" 
+                type="audio/x-m4a" 
+                length="55747155" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/5bf65afee8672d42968f014671caf2b7a5d78edbd08a2e27f972189e3209ff2f" 
+                type="audio/x-m4a" 
+                length="41891643" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823e7c5eeb49890077b8/594e349c535f79eedcc488b8edc4cadff7f6960c382198f966fcb75b59847730" 
+                type="audio/x-m4a" 
+                length="14180943" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492355</guid>
+            <link>https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-5-6-flugten-til-sverige-16122492355</link>
+            <title>(5:6) Flugten til Sverige</title>
+            <description>I efteråret 1943 sætter Gestapo jagten ind på de danske jøder. Hugo flygter sammen med sin nærmeste familie til Sverige, men det er ikke alle familiemedlemmer, det er lykkedes for at flygte. Flere er blevet taget og sendt til KZ-lejren Theresienstadt. Hugo må nu gribe til alle tænkelige - og utænkelige - muligheder for at hjælpe jøderne i lejren.
+
+Tilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.
+Klip og lyddesign: Mikkel Bøgeskov Andersson.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 09 Dec 2024 05:04:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/33a9a0abc6b95f338dcc818156949b8726b9778dd2e4ad02c9006f7b76323b00" 
+                type="audio/mpeg" 
+                length="44300026" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/03c3e32bdc993253c766d8d5c69e1fd664f4bb90939a3a7167e6ca9e389068d1" 
+                type="audio/mpeg" 
+                length="14766970" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/68b4000f0e51522d139bac172e6076e6c095f3383f0705b5c5b26277cb7236dd" 
+                type="audio/x-m4a" 
+                length="59413815" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/f169dca61be74ba99ab5bbf8d10e386eeea145131df62ad73ab8c281ffc30bdd" 
+                type="audio/x-m4a" 
+                length="44647203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0aca/29785bad5230ae5da94c4c081a7e02ca721556159aaacd08345a47f689dc194e" 
+                type="audio/x-m4a" 
+                length="15113691" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492356</guid>
+            <link>https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring/min-ven-hermann-goring-2024/min-ven-hermann-goring-6-6-spion-16122492356</link>
+            <title>(6:6) Spion?</title>
+            <description>Da krigen endelig er forbi og Hugo vender hjem fra sit eksil i Sverige, bliver han med det samme anholdt, mistænkt for at være tysk spion. Nærmest samtidig bliver Göring anholdt og skal inden længe for retten i Nürnberg, hvor han er tiltalt for forbrydelser mod menneskeheden. Så nu skal både Göring og Hugo stå til ansvar for deres handlinger. 
+
+Tilrettelæggelse: Louis Elsass Meyer og Mikkel Bøgeskov Andersson.
+Klip og lyddesign: Mikkel Bøgeskov Andersson.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Mon, 09 Dec 2024 05:05:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/45dbabddef3a7f7a16676dbd47595099b1639ced5741c855f5fe418783cb1441" 
+                type="audio/mpeg" 
+                length="41237430" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/dd7f3d5332812b0b5103d35b0570e280d698f25861edab99cc6364e549eb2d90" 
+                type="audio/mpeg" 
+                length="13746102" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/9da53f241720210fa7b97b1cf08bc4b80be54f174eb53c0f833b2253cb392123" 
+                type="audio/x-m4a" 
+                length="55306159" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/831c090484fa090b76079b43fa44864a61bde5ab027d0e78cab3b6bfa7489d80" 
+                type="audio/x-m4a" 
+                length="41560395" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674d823d2a02f3ed1efa0ad1/064ccedb4afba87c8650e590a4e0ba59ba647dec9bb9d6759e825b12eeef02c2" 
+                type="audio/x-m4a" 
+                length="14068783" />
+        </item>
+    </channel>
+</rss>

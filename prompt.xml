@@ -1,0 +1,1897 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/prompt.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Prompt (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/prompt-4712131124000</link>
+        <description>Hver uge går Prompt bag om tech-giganternes 'Ultra Pro Max'-løfter, bullshit-tester de nyeste tech-trends og spørger, om kunstig intelligens og AI er vores ven eller fjende. Sammen med tech-korrespondent Henrik Moltke nærlæser tech-analytiker Marcel Mirzaei-Fard de største historier om den teknologiske udvikling, der forandrer vores verden og muligheder.
+
+*Prompt er en kort kommando eller et spørgsmål, som angiver det, du vil have chatbotten til at svare på. Det staves hverken Promt eller Pomt.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:38 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/prompt.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/prompt.jpg</url>
+            <title>Prompt (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/prompt-4712131124000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/prompt.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Videnskab og teknologi</category>
+        <itunes:category text="Videnskab og teknologi" />
+        <item>
+            <guid isPermaLink="false">11802421049</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-video-video-video-kvante-bonanza-og-musks-haandvask-11802421049</link>
+            <title>Video-video-video, kvante-bonanza og Musks håndvask</title>
+            <description>Vi tester OpenAI Sora, som er en slags ChatGPT for video. Det viser sig dog, at Sora har svært ved at forstå fysikkens love og ikke har den store respekt for tyngdekraften.
+Vi vender også nyheden om Googles nye kvantechip, der kan løse et problem på fem minutter, som normalt ville tage 10.000.000.000.000.000.000.000.000 år for en supercomputer at løse. Betyder det, at al kryptering, vi kender i dag, snart er brudt?
+Endelig har vi Ryan Mac med. Han er medforfatter til bogen Character Limit, der går tæt på Elon Musk i perioden, hvor han købte Twitter. Bogen er sprængfyldt med anekdoter - fx om da  han mødte op med en håndvask i hånden og gik i gang med at fyre folk til højre og venstre. Nu har han fået til opgave at tage den model og overføre den til den amerikanske stat. Kan han det?
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 19 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0acf35b6a44abdbaf5/59b670533e9351b5f905e0bc2085250a2d49046d416e5ede9638eaa6e96e7725" 
+                type="audio/mpeg" 
+                length="78248302" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0acf35b6a44abdbaf5/c35507f0675909e5e0aac467bb427c5cac7d0568d1e52fd7c53c0f25b1eef7f8" 
+                type="audio/mpeg" 
+                length="26083054" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0acf35b6a44abdbaf5/25a2f1300e31a9956266a7364a48dd039e38fca2630cfa887b355a13177e3fad" 
+                type="audio/x-m4a" 
+                length="104943288" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0acf35b6a44abdbaf5/91343b512356aaeda446478ea3f0ef02c13e4f6d493e97f630b49e1fb5d30058" 
+                type="audio/x-m4a" 
+                length="78860903" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0acf35b6a44abdbaf5/38a7bfb150e42bfd6acb4d06c04884a835a17576d1b958978d27366cfb0007a8" 
+                type="audio/x-m4a" 
+                length="26695088" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421048</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-santa-altman-rumaensk-tiktok-stjerne-og-tastaturer-der-hader-kvinder-11802421048</link>
+            <title>Santa Altman, rumænsk TikTok-stjerne og tastaturer, der hader kvinder</title>
+            <description>Apple har opdateret det danske tastatur på iPhones med en ny funktion, der skal gøre det hurtigere at skrive. 
+Men bag de smarte ordforslag gemmer sig tydelige bias og stereotyper. Vi afslører, hvad der sker, når man skriver "Kvinder" og følger tastaturets første forslag.
+Derudover dykker vi ned i det rumænske valg (hvor ellers?), hvor en politiker gik fra anonymitet til TikTok-stjerne og slugte næsten en fjerdedel af stemmerne.
+Men mistanken om russisk indblanding gør, at valget nu skal tages om.
+Og så lancerer OpenAI sin længe ventede video-AI, Sora, der skaber hele videoer fra tekstprompter, mens direktør Sam Altman nu sænker barren for, hvornår OpenAI når sit mål.
+Vi spørger, om OpenAI leverer julegaver eller bare mere hype.
+Værter: Marcel Mirzaei-Fard, techanalytiker og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 12 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0dcf35b6a44abdbb04/1df276c216f0b9b06fa52a61f6231df17aca83d325681e326ca3eca5dd0e5787" 
+                type="audio/mpeg" 
+                length="78100848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0dcf35b6a44abdbb04/7b5456fcc16c221d0e61912b151bc863ccbc720e5c664bd24cbd9a75f4d22ae1" 
+                type="audio/mpeg" 
+                length="26033904" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0dcf35b6a44abdbb04/27b2c9c3a797481bd8a127be926d97119b54fc0b198090ed2dd0317b748b3a72" 
+                type="audio/x-m4a" 
+                length="104744841" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0dcf35b6a44abdbb04/0f7b6a6763f954ebd9241c4b79c911c8f4c8b3c33713da6274ae94fa916ab9da" 
+                type="audio/x-m4a" 
+                length="78711767" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d17b0dcf35b6a44abdbb04/af5265813617b5a678614894438a0ca4e86bebe1246e3888953066e603340e0b" 
+                type="audio/x-m4a" 
+                length="26644609" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421047</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-cyber-paa-budget-some-forbud-og-ai-fyringsroulette-11802421047</link>
+            <title>Cyber på budget, SoMe-forbud og AI-fyringsroulette</title>
+            <description>Som det første land i verden forbyder Australien nu snart sociale medier for unge under 16 år. Men nu hober spørgsmålene sig op - for hvordan skal man finde ud af, hvor gamle brugerne er? Og hvorfor er TikTok et socialt medie, når YouTube ikke er?
+Det skorter ikke på milliarderne til det danske forsvar. Men Center for Cybersikkerhed skal spare over 100 millioner kroner, og det undrer, for aldrig har cybertruslen været større. Danmark rammes faktisk af forsøg på angreb hver eneste dag. Vi får besøg af Mads Korsager, DR's forsvarskorrespondent.
+Endelig ser vi nærmere på en ekspertgruppe, der skal beslutte, hvor mange offentlige arbejdspladser kunstig intelligens skal frigøre. Målet er mellem 10.000 og 100.000 stillinger. Men hvorfor starter man med at fastsætte et tal for fyringer, før man ved, om løsningerne overhovedet virker?
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 05 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec18/8bda3396738ebfbfc8b12ba96a9d966026a11c747bcb8e5b1fe01187c455f23c" 
+                type="audio/mpeg" 
+                length="78551878" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec18/aab14c14b7215917c00e6fc564165659ceb362c553ab98fdbee6fd894671682c" 
+                type="audio/mpeg" 
+                length="26184262" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec18/801bb60bcafa0d36184112158afdf9406af2f22ec68fdd622fc0d01f87132495" 
+                type="audio/x-m4a" 
+                length="105349759" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec18/2387530737fdf2376adef8cc97cfbdf024f3517fbf6f8e0e3e12a0021525462b" 
+                type="audio/x-m4a" 
+                length="79166399" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec18/5968e45921192fa83d5edee042d9946f2b801a3bb095d638327f51678e582822" 
+                type="audio/x-m4a" 
+                length="26798431" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421046</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-daisy-snakker-svindlernes-oerer-af-chatgpt-slaar-laegerne-og-ai-skabte-overgrebsbilleder-11802421046</link>
+            <title>Daisy snakker svindlernes ører af, ChatGPT slår lægerne og AI-skabte overgrebsbilleder</title>
+            <description>Vi står over for en epidemi af svindelopkald, hvor svindlere forsøger at lokke os til at overføre penge. Nu har et britisk teleselskab udviklet AI Daisy - en kunstig intelligens, der tager imod opkaldene og spilder svindlernes tid med snak om alt fra strikning til Medova-te.
+Et amerikansk studie viser, at ChatGPT overgår læger i at diagnosticere komplicerede sygdomme - endda også læger, der har ChatGPT som hjælpemiddel. Betyder det, at vi mennesker bare skal holde fingrene væk? Vi spørger Adam Rodman, en af forskerne bag studiet.
+Vi vender også en sag om overgrebsbilleder af børn skabt med kunstig intelligens. Billederne er genereret med Stable Diffusion, men hvis ingen børn er kommet fysisk til skade, kan manden bag så stadig dømmes? Og kan vi være sikre på, at der aldrig har indgået overgrebsbilleder i billedgeneratoren? De spørgsmål diskuterer vi sammen med Trine Maria Illsøe, DR's retskorrespondent.
+Værter: Marcel Mirzaei-Fard, techanalytiker i DR og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 28 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42feac5e3b48d26b5138/2df76773a9f4622199192a0fe4e07383b2e867c73031b78254975c824b83a9aa" 
+                type="audio/mpeg" 
+                length="78471816" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42feac5e3b48d26b5138/c1c3d74af7d2390da42fb00bdd059ed7b92cd0af730bcdc1f37974051916cf3e" 
+                type="audio/mpeg" 
+                length="26157576" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42feac5e3b48d26b5138/301581079f6b2eb6e85513850913423d356529d89737d2d19d3305c7c17ec7a6" 
+                type="audio/x-m4a" 
+                length="105243781" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42feac5e3b48d26b5138/ece0575e620e90ecb10edeef245de9458d360c8ee251044f457821d0fad1a973" 
+                type="audio/x-m4a" 
+                length="79086431" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42feac5e3b48d26b5138/c727d5f3ca278ea4a325927639db9ae2486ff032038f41fd470e2adc1a58f844" 
+                type="audio/x-m4a" 
+                length="26771381" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421045</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-roevkedelig-ai-bluesky-party-og-unge-it-amoeber-11802421045</link>
+            <title>Røvkedelig AI, Bluesky-party og unge it-amøber</title>
+            <description>Det sociale medie Bluesky stormer frem og har passeret 20 millioner brugere i november. Brugerne flygter fra Musks kaos på Twitter i kølvandet på det amerikanske valg.
+Vi ser på, hvordan du kommer i gang med Twitter-alternativerne Bluesky og Threads og diskuterer, om vi nu har set slutningen på sociale medier som "det digitale forsamlingshus". 
+Vi får også besøg af digitaliseringsminister Caroline Stage (M). Hun vil sætte fut i flere "røvkedelige" AI-projekter i det offentlige, så Danmark ikke sakker bagud i forhold til Kina og USA. 
+Til sidst diskuterer vi en undersøgelse, der viser, at unge er blevet dårligere til basale it-færdigheder - og om det overhovedet er vigtigt, når tech i dag er så nemt og intuitivt.
+Værter: Marcel Mirzaei-Fard, DRs techanalytiker og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 21 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302ac5e3b48d26b5150/8aea126d19171e44585c26e5720a5796e3f20df93b1ff3c15f6e84a17de572c6" 
+                type="audio/mpeg" 
+                length="78582410" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302ac5e3b48d26b5150/563359d07376fdf95383ca7cf9585020cbf9aa92eb2222c37d1e22e9ecaab218" 
+                type="audio/mpeg" 
+                length="26194442" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302ac5e3b48d26b5150/e5f25a21e9b30793f3f41b7e5a4045e446f4d94e165a341b31bc85863f6417ef" 
+                type="audio/x-m4a" 
+                length="105391031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302ac5e3b48d26b5150/23cf2783ca2c64a4066deb98531d8d2e7e0facf5e1ca2a27666bbbbfdd63fbe7" 
+                type="audio/x-m4a" 
+                length="79197263" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302ac5e3b48d26b5150/2436d6c47c60016cef1099a581cfd1c5f4bc44b8e6e9e79bb9365b656a368808" 
+                type="audio/x-m4a" 
+                length="26808995" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421044</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-ny-stemme-i-en-ny-verden-11802421044</link>
+            <title>Ny stemme i en ny verden</title>
+            <description>Jesper Dein har i mere end 20 år levet af sin stemme. Han er speakeren bag Løvens Hule, Sara og Monopolet og P4. Men tidligere på året blev han ramt af en hjerneblødning, som har forandret hans stemme markant. Vi hjælper ham med at få AI til at genskabe hans stemme - og diskuterer, om det overhovedet er det rigtige for ham. 
+Og så ser vi nærmere på, hvordan tech banede vejen for Trump 2.0 - og hvordan Trump vil påvirke tech de næste fire år. Vi zoomer ind på krypto-festen, tonen på sociale medier og bromancen mellem Musk og Trump: Hvad skal Musk have til gengæld for sin støtte?
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 14 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fa7e073b9ab634fca7/a33a572db49090f39c0e5faaafde10e7c27567faf4402a65c202d7c38d6234fa" 
+                type="audio/mpeg" 
+                length="78030030" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fa7e073b9ab634fca7/03c9c5f9ba6cf57c39a6b77475606f20666dcab5611e139b3b355d69c05d6d8a" 
+                type="audio/mpeg" 
+                length="26010318" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fa7e073b9ab634fca7/48c34f5a38110beaee0464e4a7a44de91d8afc4857eee026a1f09231a679b22e" 
+                type="audio/x-m4a" 
+                length="104650033" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fa7e073b9ab634fca7/38e7c459c00990f990aa6f1bff7f3e8653d370ed79bdc13d097aae8b319c1f35" 
+                type="audio/x-m4a" 
+                length="78640607" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fa7e073b9ab634fca7/a94c9f35f361382eb8b703e24c9033c87d85b4a4e41fbcc6053f72a708ff3f21" 
+                type="audio/x-m4a" 
+                length="26620481" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421043</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-japanske-numseskyl-tech-trump-og-ai-slangeolie-11802421043</link>
+            <title>Japanske numseskyl, tech-Trump og AI-slangeolie</title>
+            <description>Vi ringer til Marcel i Japan og tager en status på verdens engang mest højteknologiske nation, er de efterhånden mest kendt for toiletter med elektrisk bidet? 
+Vi diskuterer om Trumps sejr i virkeligheden tilhører Elon Musk og tech-milliardærerne, der alle sammen køber deres eget medie, når de bliver rige nok. 
+Den nye bog, AI Snake Oil, spotter humbug i AI-trends, forfatteren, Sayash Kapoor, hjælper os med at finde ud af, hvilke typer AI Danmark kan bruge, og hvilke vi bør holde os langt fra. 
+Til sidst vælger Kasper sin yndlingsfilm om kunstig intelligens, overraskende blød og kælen scifi med ukulele og akavet AI-sex.
+Værter: Kasper Lundberg, journalist og Henrik Moltke, DRs tech-korrespondent.</description>
+            <pubDate>Thu, 07 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302e40614b67ac95e93/c0207a199317c9823893df509e82d683abd7b859ad7a269910d68588453c185c" 
+                type="audio/mpeg" 
+                length="79092142" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302e40614b67ac95e93/35b59eee350abefd543d5b36667d3dd10ea1af71880ac36fffc8281532394bfe" 
+                type="audio/mpeg" 
+                length="26364334" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302e40614b67ac95e93/409ddc3a200e2d755c7ce4170f35255edfa708163ad332c87d20fedb26c10e11" 
+                type="audio/x-m4a" 
+                length="106074883" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302e40614b67ac95e93/14160e40b027f066559c6e42e967387644bfde59b9dfecd8a0f755c09f1779de" 
+                type="audio/x-m4a" 
+                length="79711191" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302e40614b67ac95e93/ad048c9bc5d1cf72da7cba28f353c4119a536de2f09310fb97ef9c87be78ea54" 
+                type="audio/x-m4a" 
+                length="26982919" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421042</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-chatbot-tragedie-spoegelset-i-maskinen-og-koedcomputere-11802421042</link>
+            <title>Chatbot-tragedie, spøgelset i maskinen og kødcomputere</title>
+            <description>Det bliver dark i dagens prompt. En amerikansk teenager har taget sit eget liv, tilsyneladende på opfordring fra en chatbot fra Character.ai, men kan kunstig intelligens kan have liv på samvittigheden? Vi kigger på den første for alvor funktionelle AI-agent, Anthropics computerspøgelse Claude og diskuterer techmogulernes skadevirkninger på demokratiet med Marietje Schaake, forfatteren bag den nye bog, The Tech Coup. 
+Til sidst vælger Henrik sin favoritfilm om kunstig intelligens. Spoiler alert: den er også dark og indeholder kødcomputere.
+Værter: Kasper Lundberg, journalist og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 31 Oct 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304a63f4ccc1ed8ec2d/874ea9beadf4737a34f789e5f5279e5f5d02f53074cb2ec699ca988205f86d2a" 
+                type="audio/mpeg" 
+                length="78756334" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304a63f4ccc1ed8ec2d/67bdb21ce10f02669ab85affce15b6f081b8a7abeafdd8b30d3afbfcb1a121a5" 
+                type="audio/mpeg" 
+                length="26252398" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304a63f4ccc1ed8ec2d/0b3dc3b78b9cab05b40e559382fa6145fa049722cd1d2c8a56287f47f31cccc3" 
+                type="audio/x-m4a" 
+                length="105624453" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304a63f4ccc1ed8ec2d/30ec8701d82274a0a900811c2f9898c8297901e6864416ac198d2d5e7fa0e7f8" 
+                type="audio/x-m4a" 
+                length="79372707" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304a63f4ccc1ed8ec2d/839704b5ad5f78c4dceb9dd208b7bb269d33a94f6a49b31b0b7478a826c3f7d7" 
+                type="audio/x-m4a" 
+                length="26868385" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421041</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-login-tvang-kyniske-musk-reklamer-og-knap-saa-hellig-hipster-chatbot-11802421041</link>
+            <title>Login-tvang, kyniske Musk-reklamer og knap så hellig hipster-chatbot</title>
+            <description>Hvorfor vil DR gøre det obligatorisk at oprette en bruger for at se DR TV? Er det for DRs skyld eller brugernes? Vi diskuterer det med Agnethe Pontoppidan, chef for DR Publicering DRTV. Vi ser også nærmere på en noget alternativ kampagne på Snapchat, som Elon Musk har været med til at finansiere. Man har identificeret jøder og muslimer i swingstater og sender helt modsatrettede budskaber ud til dem: Jøder får reklamer om, at Kamala Harris støtter Israel, mens muslimer får præcis det modsatte budskab. 
+Og så vil Anthropic - OpenAIs store konkurrent - nu skifte væk fra AI-dommedagsretorikken og fokusere på alt det fantastiske, AI kan. Pudsigt nok kommer sceneskiftet lige op til en stor investeringsrunde.
+Værter: Marcel Mirzaei-Fard, tech-analytiker i DR, og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 24 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:53:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fee40614b67ac95e7f/91f540e0eab16124b54e87a96287edb54a59418b411b806843df75b0451c3ee9" 
+                type="audio/mpeg" 
+                length="77756974" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fee40614b67ac95e7f/6f7a35b0d0cb5de2c33aba4c51049450b3ca481196e5cac2f5b862368e219f51" 
+                type="audio/mpeg" 
+                length="25919278" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fee40614b67ac95e7f/9256570cc5c93531c20c75086395cc03e785269dbd7952e5cd26c90dc148b6ab" 
+                type="audio/x-m4a" 
+                length="104284168" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fee40614b67ac95e7f/9fa539f848924b1638225e5e79f950daeb9f9b8637b7db7f3fb27bc265994fa3" 
+                type="audio/x-m4a" 
+                length="78365507" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fee40614b67ac95e7f/805c8fd2541eea8f2f8ba1e1daca2848f77b73ae91d479d292473da6f3a08ded" 
+                type="audio/x-m4a" 
+                length="26527396" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421040</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-tesla-hurlumhej-nobelpriser-og-jobsoegningsbot-11802421040</link>
+            <title>Tesla-hurlumhej, nobelpriser og jobsøgningsbot</title>
+            <description>Henrik er på efterårsferie, så ugens vikarvært er Nikolaj Sonne. 
+Vi tager et kig på Teslas store hurlumhej-show, hvor Musk præsenterede planer for en selvkørende taxa uden rat, en 20-personers bus og humanoide robotter, der både tog selfies og skænkede cocktails. 
+Vi dykker også ned i Nobelpriserne, som i år - om man så må sige - gik til kunstig intelligens i både fysik og kemi. Vi får besøg af Johan G. Olsen, biokemiker på Københavns Universitet, som bruger AlphaFold hver dag og mener, at det er en revolution for hans arbejde.
+Til sidst ser vi på AI's indtog på jobmarkedet. Med værktøjer som Hawk's Auto Jobs Applier kan robotter nu søge hundredevis af jobs på LinkedIn på få timer. Men er vi på vej mod en fremtid, hvor robotter sender jobansøgninger til andre robotter?
+Vært: Marcel Mirzaei-Fard, tech-analytiker.
+Gæstemedvært: Nikolaj Sonne, foredragsholder.</description>
+            <pubDate>Thu, 17 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fea63f4ccc1ed8ec04/a9ac03642b930fc630607229337afb589c00261df29d3d44fcdfb3e1701a42a3" 
+                type="audio/mpeg" 
+                length="78462026" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fea63f4ccc1ed8ec04/ee5ec5d0bb43a1a06df7f090336d1dc99b74fa4e739ad253b60c8b0d41ad1795" 
+                type="audio/mpeg" 
+                length="26154314" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fea63f4ccc1ed8ec04/a01fe8272e6e8cbf245c87d09af9024d677211eefe229a664e1cc15cc0bcaebd" 
+                type="audio/x-m4a" 
+                length="105229712" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fea63f4ccc1ed8ec04/3cd289660a8c2ec410a7fcc59f487ac5678e24b297eba0512c5d1bf9b50c7322" 
+                type="audio/x-m4a" 
+                length="79076087" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fea63f4ccc1ed8ec04/66f6b12afca80ac2defcfee6fb6e56e7fd52dd8b4ca89890dee54221d2c17ceb" 
+                type="audio/x-m4a" 
+                length="26767900" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421039</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-like-fra-en-robot-maga-musk-og-vestager-retur-11802421039</link>
+            <title>Like fra en robot, MAGA-Musk og Vestager retur</title>
+            <description>Sociale medier er alligevel så fyldt med bots, at vi snart ikke ved, hvem vi taler med. Så hvorfor ikke gå planken ud? Vi tester Social AI, hvor alle, undtagen dig selv, er skabt med AI. Vi får også besøg af Margrethe Vestager, der vender hjem til Danmark efter et årti som tech-giganternes største modstander i EU. Hvad er hendes største fortrydelse? 
+Og endelig tager vi et kig på Elon Musks seneste stunt, da han optrådte som hypeman for Donald Trump ved et rally i Pennsylvania. Vi diskuterer, om det markerer en ny æra for teknologiens indflydelse på politik.
+Værter: Marcel Mirzaei-Fard, vært og techanalytiker og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 10 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4305ac5e3b48d26b5167/a4e5bbfdfdbac7e4eba1abe2b0b9237701be227e5b5564c063553bb908e40473" 
+                type="audio/mpeg" 
+                length="78069767" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4305ac5e3b48d26b5167/a8e35eeaf54b1d35b47061c93eca155d4920f03f5fb2c55617d261b99f23013a" 
+                type="audio/mpeg" 
+                length="26023559" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4305ac5e3b48d26b5167/6f39e21e81c83ee83a90fb5da91272aecea78c587f8c893dd8e2a35e0c8499bb" 
+                type="audio/x-m4a" 
+                length="104703701" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4305ac5e3b48d26b5167/5184d1ae5ad8cfa080788703933863e41f0ba65208a305c96703a2269222a9cc" 
+                type="audio/x-m4a" 
+                length="78680783" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4305ac5e3b48d26b5167/dc21cddc2bc90e3a255073c174995be0385710bbab55abe24fef837c21cdc0a9" 
+                type="audio/x-m4a" 
+                length="26634069" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421038</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-den-store-smalltalk-test-sam-alene-i-verden-og-genstart-japan-11802421038</link>
+            <title>Den store smalltalk-test, Sam alene i verden og Genstart Japan</title>
+            <description>Vi tester, hvor god ChatGPT's nye Advanced Voice Mode er til smalltalk, og lader ChatGPT tale med sig selv. Og på sønderjysk. 
+Vi tager også et kig på Japan, der har lanceret en ambitiøs plan for at genvinde den styrke, landet havde i 80'erne, hvor ethvert hjem ejede produkter fra japanske mærker som JVC, Casio, Sony og Hitachi. 
+Til sidst undersøger vi den dramatiske situation hos OpenAI, hvor Sam Altman står alene tilbage, efter at stort set hele den oprindelige ledelse har forladt firmaet. Er det begyndelsen på enden for OpenAI, som vi kender det?
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 03 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43007e073b9ab634fcce/a40ef0bda88e701054593086a4363f8a90d5b41d6e2bcf28e850c5a832523736" 
+                type="audio/mpeg" 
+                length="78470662" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43007e073b9ab634fcce/3485568cdfdc4c3b0a20fe9fc95dc311bee8fb7298c32730de1a14e4cf730ab3" 
+                type="audio/mpeg" 
+                length="26157190" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43007e073b9ab634fcce/103810b195e3a4133305174dd6d0827231cc8f72338860c42c894baec8432f2b" 
+                type="audio/x-m4a" 
+                length="105241421" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43007e073b9ab634fcce/b4771070685d9c62bd1e552ea5bbd1e3d01969756ae415b0dedaa8f69c7dd56c" 
+                type="audio/x-m4a" 
+                length="79084847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43007e073b9ab634fcce/31a7a81f943c405cbea2d7a6d9f46c7f061ee2769813cab77658d3127f87b267" 
+                type="audio/x-m4a" 
+                length="26770869" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421037</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-bot-aevle-podcasts-tikkende-bomber-og-streaming-fup-11802421037</link>
+            <title>Bot-ævle-podcasts, tikkende bomber og streaming-fup</title>
+            <description>Vi dykker ned i Googles nye AI-værktøj, Notebook LM, der kan forvandle enhver tekst til en podcast. Kan det skabe en snakkesalig podcast ud af den kedeligste mail, Henrik nogensinde har modtaget? Vi tager dig også med bag kulisserne i sidste uges angreb mod Hizbollahs walkie-talkier og personsøgere. Hvordan lykkedes det at omdanne 5.000 nye personsøgere til skjulte bomber? Og til sidst fortæller vi historien om Michael Smith, en musiker, der tog genvejen til berømmelse og millioner ved at lade AI skabe sange, som blev afspillet millioner af gange - af bots.
+Værter: Marcel Mirzaei-Fard, tech-analytiker, og Henrik Moltke, DR's techkorrespondent.</description>
+            <pubDate>Thu, 26 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fda63f4ccc1ed8ebf4/dd5ee1076f502091c531852a10b44eab7d3ca70e3681c13dbfc18edfdc88f076" 
+                type="audio/mpeg" 
+                length="77858949" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fda63f4ccc1ed8ebf4/0092feff043eefb6ed1deb16471b681faffbddf974aaa1e6dce1f33c3f8aac18" 
+                type="audio/mpeg" 
+                length="25953285" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fda63f4ccc1ed8ebf4/9d33eef9dd54954d0c901020fc66148ef32afb281d4ba78ca09dbb20f79ba277" 
+                type="audio/x-m4a" 
+                length="104420807" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fda63f4ccc1ed8ebf4/28834f8fee7fd194b32c2ba70e009a760742daad438e00788d970636b4d078a3" 
+                type="audio/x-m4a" 
+                length="78468191" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fda63f4ccc1ed8ebf4/3bb23bada87e28cb6d14f67f81758e01d3638ad24c2260edac8d7e613ee0f904" 
+                type="audio/x-m4a" 
+                length="26562131" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421036</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-taenkgpt-en-farlig-farlig-mand-og-atompsykose-11802421036</link>
+            <title>TænkGPT, en farlig farlig mand og atompsykose</title>
+            <description>OpenAI har lanceret en ny chatbot, der kan ræsonnere og tænke, før den taler. Er det virkelig et kvantespring, som OpenAI påstår - eller blot endnu en omgang salgsgas fra tech-giganten? Samtidig advarer den amerikanske professor emeritus Gary Marcus om, at Sam Altman, CEO i OpenAI, er på vej til at blive verdens farligste mand. Ifølge Marcus manipulerer Altman bag kulisserne, selvom han udadtil fremstår rolig og troværdig. 
+Endelig dykker vi ned i et stort læk fra Kreml, som afslører, at Rusland har hyret et PR-bureau til at skabe frygt og tvivl i Vesten. Henrik graver i bureauets mål om at få halvdelen af den vestlige befolkning til at frygte fremtiden.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 19 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42faac5e3b48d26b511f/18949ad18668bbe176b2e90316ef643cbd42cc48ae758a80c18f91f8ee7e9491" 
+                type="audio/mpeg" 
+                length="78504070" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42faac5e3b48d26b511f/654e6b9ebc1fe937d5744c172e8e22b414735b6b3f576ae2d893e92d6a2d0e58" 
+                type="audio/mpeg" 
+                length="26168326" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42faac5e3b48d26b511f/3fa27ad43b56ab9cd77822f1877eedaafa21be40510244ac789d3f1aea10d0b1" 
+                type="audio/x-m4a" 
+                length="105286043" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42faac5e3b48d26b511f/543a129b4722ac2737d2f03ff52195d9f296e048c16f62a55e267a18a8155c2f" 
+                type="audio/x-m4a" 
+                length="79118351" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42faac5e3b48d26b511f/930c0a4d952534b70777ae0e752290b60d8100164687038fb30505ce4411d4de" 
+                type="audio/x-m4a" 
+                length="26782223" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421035</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-ansigtsjagt-harris-adhd-videoer-og-lokalnyt-fra-varde-11802421035</link>
+            <title>Ansigtsjagt, Harris' ADHD-videoer og lokalnyt fra Varde</title>
+            <description>Politiet har endelig fået lov til at bruge ansigtsgenkendelse, som de har ønsket sig i årevis. I første omgang til bandekriminalitet og terror. Men Kashmir Hill, journalist på New York Times, frygter, at det er et spørgsmål om tid, før politiet banker på hos politikerne for at få lov til mere. 
+Henrik har fået et opkald fra P4 Syd. Det viste sig at handle om et kommende AI-datacenter, der vil forbruge mere strøm end Aalborg Portland. Men hvem kan stå bag? Og har vi overhovedet nok grøn strøm til at være tech-giganternes foretrukne datacenter-destination? 
+Kamala Harris' SoMe-kampagne har lanceret annoncer målrettet den såkaldte 'brain rot'-generation - dem, hvis koncentrationsevne er blevet udhulet af endeløse strømme af hurtige, algoritmestyrede videoer på TikTok. Eksempelvis 10 sekunders-videoer, hvor to fuldstændig urelaterede videoer spiller oveni hinanden. Vi diskuterer tendensen og forsøger ikke at lyde for boomer-agtige imens.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 12 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4301ac5e3b48d26b5148/665aba89122cea238a4e2fb9b203d644659c3f86f22f2c5d53c9e099beddd524" 
+                type="audio/mpeg" 
+                length="77919437" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4301ac5e3b48d26b5148/6b421474f846777c64791f7d5ebe8e308e8188e514363f619b7b07f379e23c7f" 
+                type="audio/mpeg" 
+                length="25973453" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4301ac5e3b48d26b5148/243f7ba2eb9c4b1a7e755d41be2373fc99650379ee687bd9e1171551b97f0da3" 
+                type="audio/x-m4a" 
+                length="104501749" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4301ac5e3b48d26b5148/8976732a682d9ab7c14f23ac0cbe0ba16ce96ebf42877d6a40d2595721e0da8d" 
+                type="audio/x-m4a" 
+                length="78529031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4301ac5e3b48d26b5148/433a28e6264476ee869acbd49e755af61a810e1ab25a3a07bc98c6c954f33295" 
+                type="audio/x-m4a" 
+                length="26582705" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421034</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-telegram-trouble-minister-for-hvide-tennissokker-og-scharffs-privatdetektiver-11802421034</link>
+            <title>Telegram Trouble, minister for hvide tennissokker og Scharffs privatdetektiver</title>
+            <description>Telegram-grundlægger Pavel Durov er blevet arresteret i Paris, anklaget for at facilitere ulovligheder på sin platform og nægte samarbejde med myndighederne. Telegram er et centrum for kriminalitet som rekruttering af børnesoldater, distribution af børneporno, ekstremisme og våbenhandel. Vi diskuterer, om tech-chefer skal holdes personligt ansvarlige for kriminelles handlinger på deres platforme - og om Mark Zuckerberg kan blive den næste. 
+Vi taler også om Danmarks nye digitaliseringsminister, Caroline Stage, der skal forsøge at få succes i en post, som ofte betragtes som noget, kun it-nørder går op i - en gruppe, som Trine Bramsen for et årti siden revsede for deres hvide tennissokker. 
+Til sidst ser vi på Jakob Scharffs nye forretning, der tilbyder baggrundstjek af jobkandidater. Hvor går grænsen mellem nødvendige undersøgelser og invasiv overvågning?
+Værter: Marcel Mirzaei-Fard, tech-analytiker, og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 05 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43017e073b9ab634fcd8/e5fa58b3e0d01460beb1f9861ede2a2848eb84dfdf33720c14a89b7d0f7952fc" 
+                type="audio/mpeg" 
+                length="78054794" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43017e073b9ab634fcd8/ee7085b2efcd5e44c11fa81ae23cd1061d26794599a08b1d6940b1efecb62b85" 
+                type="audio/mpeg" 
+                length="26018570" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43017e073b9ab634fcd8/059671189c09b2e7a4eaa7703c840af86b6ed7641753badf0d63f4eb7c9ad37b" 
+                type="audio/x-m4a" 
+                length="104683269" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43017e073b9ab634fcd8/163af15213f492063fde5d75ffcbaf6b9adda2380e02197167c84549cf64dcf5" 
+                type="audio/x-m4a" 
+                length="78665327" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c43017e073b9ab634fcd8/725d02627f148b9548ea198896ba1bddd3159806faa9125a8de6106b04810277" 
+                type="audio/x-m4a" 
+                length="26628841" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421032</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-musks-mareridtsgenerator-googles-sludrebot-og-trumps-vilde-weekend-11802421032</link>
+            <title>Musks mareridtsgenerator, Googles sludrebot og Trumps vilde weekend</title>
+            <description>Internettet er gået amok over de billeder, som Elon Musks nye billedgenerator, Grok 2, er i stand til at skabe. Faktisk virker den fuldstændig blottet for restriktioner modsat konkurrenterne fra DALL-E og Midjourney. Vi tester, om fejlene er blevet rettet, sammen med Leon Derczynski, sikkerhedsekspert hos Nvidia. 
+Vi vender også Donald Trumps nyfundne kærlighed til deepfakes - fx et falsk billede af Kamala Harris foran en kommunistisk forsamling. 
+Og så har Henrik fået fingrene i Googles nye 'Her-mode' - altså muligheden for at snakke med en chatbot i realtid, som var det et rigtigt menneske. Hvor langt er vi fra, at sci-fi-drømmen bliver til virkelighed?
+Værter: Marcel Mirzaei-Fard, tech-analytiker, og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 22 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:19</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4300a63f4ccc1ed8ec10/74624078eef3a8960233b2fcef824e634eac3e80959c6e1c4d6413d7b126f2bb" 
+                type="audio/mpeg" 
+                length="78225862" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4300a63f4ccc1ed8ec10/14fb67968335447058c35e4278a4d6c381fb8549330f2345d957198881b10ddf" 
+                type="audio/mpeg" 
+                length="26075590" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4300a63f4ccc1ed8ec10/390974c4b443e00b5bbc7bd628af9ff0c5fe0781875231bfbc7b09a577f93c9d" 
+                type="audio/x-m4a" 
+                length="104913159" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4300a63f4ccc1ed8ec10/d3bb16c19f507489ba37b1936d85d1e845f5df0d0fb6b476aa893d23879f970a" 
+                type="audio/x-m4a" 
+                length="78838235" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4300a63f4ccc1ed8ec10/7c5c3d7194338f80443bd72ffb2cbace6edb3350984125d723f58ff958abf0b0" 
+                type="audio/x-m4a" 
+                length="26687355" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421031</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-taylor-terror-og-soegemaskinekrig-11802421031</link>
+            <title>Taylor-terror og søgemaskinekrig</title>
+            <description>Skal politiet have lov til at bryde krypterede beskedtjenester? Og kan de overhovedet gøre det? Mediet ABC antyder, at det var amerikanernes evner til at bryde kryptering, der førte til afværgelsen af terrorangrebet mod Taylor Swift-koncerten i Wien i sidste uge. Nu ønsker både dansk og østrigsk politi bedre muligheder for at læse med på krypterede tjenester. Vi taler med Sebastian Gjerding, journalist på Information. 
+Og så skal vi snart vænne os til nye måder at finde ting på internettet, efter Google har domineret i 25 år. AI-søgemaskiner, som selv kigger hjemmesiderne igennem og giver dig svarene på dine spørgsmål, er på vej til at blive den nye standard. Vi taler med en repræsentant fra den førende AI-søgemaskine lige nu, Dmitry Shevelenko, CFO hos Perplexity.
+Værter: Marcel Mirzaei-Fard, tech-analytiker, og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 15 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec20/d6d5ceaa4d89871224a8a99959e09988000e1bb4b88b85cdb92ee84ee9a43a11" 
+                type="audio/mpeg" 
+                length="77971271" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec20/f9bb30caf795dc2607e11a7e65928f64b5259583814bc1a958a7b7dfa124f99e" 
+                type="audio/mpeg" 
+                length="25990727" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec20/9f4a4f33a8ab29c70cb857367d824cb9aca9675abec6e6f0d376a20cee8603b2" 
+                type="audio/x-m4a" 
+                length="104571849" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec20/c9e6ed008a083dd6c53d8100ce23bb8885adab71d439c41953177d1b77ebe79d" 
+                type="audio/x-m4a" 
+                length="78581759" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4302a63f4ccc1ed8ec20/0a7b845d7d3234fdf0aa925e296ee2d4a63d12351f3453cfa83f1e334154b582" 
+                type="audio/x-m4a" 
+                length="26600557" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421030</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-mandgpt-harris-og-antivirus-fra-helvede-11802421030</link>
+            <title>MandGPT, Harris og antivirus fra helvede</title>
+            <description>Prompt er tilbage fra ferie med historien om, at tyve procent færre kvinder end mænd bruger ChatGPT. Vi får besøg af Nana Bule, tidligere direktør i Microsoft Danmark, som vil have kvinderne til at komme i gang. 
+Vi diskuterer også, hvad det betyder for tech og AI, at det nu er Kamala Harris, der er demokraternes kandidat, og hvem Apple, Microsoft og Google egentlig ville stemme på, hvis de havde stemmeret. 
+Og så samler vi op på et af de største it-nedbrud nogensinde, Crowdstrike-hændelsen i juli, hvor 8,5 mio. computere gik i blå skærm og forsinkede fly verden over. 
+Værter: Marcel Mirzaei-Fard, tech-analytiker, og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 08 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fb7e073b9ab634fcb1/2d4a6784476a27cfd757322cf15e50e349366614ec836333a64bdf3711c18fd4" 
+                type="audio/mpeg" 
+                length="78000650" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fb7e073b9ab634fcb1/d6f39ce0d4d7184fdbb0c43b7959007e888c1975f47315572d45a3d38a09508c" 
+                type="audio/mpeg" 
+                length="26000522" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fb7e073b9ab634fcb1/e3ed5c26b79b536428ca8b904358002e29d059e3a8e35b5abf4f320d22556181" 
+                type="audio/x-m4a" 
+                length="104610291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fb7e073b9ab634fcb1/33f936ef62015b1a18746c923d971e007525f69a3b72b276859077556cc5932f" 
+                type="audio/x-m4a" 
+                length="78610607" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fb7e073b9ab634fcb1/1da70958195c05f07aa41420f6a213af25177ee4f071d8eeeefbb93809580206" 
+                type="audio/x-m4a" 
+                length="26610351" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421028</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-sommerspecial-programmet-om-muzak-11802421028</link>
+            <title>Sommerspecial: Programmet om muzak</title>
+            <description>Prompt er inviteret til Spot Festival i Aarhus for at tale om den revolution, vi står overfor inden for musik med AI. AI-tjenester tilbyder at skabe en hel sang med vokal og musik - alene ud fra en prompt. Marcel og Henrik tester de nye AI-værktøjer og diskuterer, om der overhovedet er en fremtid for original musik. Tidligere var det radiokanalerne, der introducerede os for ny musik. I dag er verden styret af playlister, playlister, playlister, som ofte er AI-skabte. Vi får besøg af den legendariske musikjournalist Chris Cooke, der har dækket teknologiens indvirkning på musikbranchen i årtier. Med ham skal vi vende den rolle, algoritmerne hos fx. Spotify spiller i opdagelsen af ny musik. Er det pengene eller kvaliteten, der styrer, hvad der rammer vores personaliserede playlister?
+Optaget d. 3. maj 2024.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.
+Gæster: Chris Cooke, musikjournalist, Jakob Plesner, direktør for IFPI, DJ Noize, DJ og producer, og Nicolai Franck, Tech Scout hos Koda.</description>
+            <pubDate>Thu, 18 Jul 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fc7e073b9ab634fcb5/96d898a1ab00059c5637c27e257479fdba4f4fefa934185b6b3e56d4ef4658a6" 
+                type="audio/mpeg" 
+                length="78409030" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fc7e073b9ab634fcb5/6714e8980fe7c510d77d74b507643b6177b2b8d25d1d94a744f61e7f4c6f7665" 
+                type="audio/mpeg" 
+                length="26136646" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fc7e073b9ab634fcb5/4bcd0d868e922b85689c8c00eee9063abe16a41c328113d4226e0ba39c90f9c1" 
+                type="audio/x-m4a" 
+                length="105159369" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fc7e073b9ab634fcb5/0895592625f77d0daa4beb5a172a3e49b02b91f4a5fbda26599ff03fded37999" 
+                type="audio/x-m4a" 
+                length="79022987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fc7e073b9ab634fcb5/e9d344daa91b68d0e527b872d3a25e7f3b67915e8003ae91e42f5bb7d810f989" 
+                type="audio/x-m4a" 
+                length="26749849" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421027</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-sommerspecial-den-groenne-slagside-og-ai-terapi-11802421027</link>
+            <title>Sommerspecial: Den grønne slagside og AI-terapi</title>
+            <description>Prompt er taget til Folkemødet i Allinge. Vi får besøg af Tommy Ahlers, formand i Concito, og Rasmus Bisgaard fra chipproducenten Nvidia, som i dag er en af verdens største virksomheder. Om to år vil AI bruge lige så meget strøm som hele Tyskland. Så bør vi overhovedet glæde os over AI-bølgen? Og skal vi have dårlig samvittighed over at bruge ChatGPT?
+Henrik og Marcel bevæger sig ud af tech-boblen for at teste konceptet 'AI-terapi'. Tilskuerne deler deres største bekymringer og får beroligende ord med på vejen fra Henrik Moltke.
+Optaget d. 13. juni 2024.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 11 Jul 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304ac5e3b48d26b515c/c43853734365fc5800c462d1f7f180b6e2ab6cfad988bee38b2d8b5bcad55f6b" 
+                type="audio/mpeg" 
+                length="78084754" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304ac5e3b48d26b515c/8345704197d932af65773a7f34f114fc1d8ed7c6af392814b915fe54104b754a" 
+                type="audio/mpeg" 
+                length="26028562" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304ac5e3b48d26b515c/4db451c8e79025d7cab11035fbf6d7b6efca556217214f5d5ad08b91d16dc3d4" 
+                type="audio/x-m4a" 
+                length="104723447" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304ac5e3b48d26b515c/8f4a92ee8e5de45f4d886ceadf568c3a114fa749952e80b479692be7e1037f28" 
+                type="audio/x-m4a" 
+                length="78695747" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c4304ac5e3b48d26b515c/5b2024de85e0e031f641f843e393e8f42cca3991c0e13071b886c3f110d193c4" 
+                type="audio/x-m4a" 
+                length="26639207" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421026</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-et-lidt-for-godt-tilbud-europa-misser-ai-toget-og-efterklang-11802421026</link>
+            <title>Et lidt for godt tilbud, Europa misser AI-toget og Efterklang</title>
+            <description>Vi ser nærmere på de mange falske webshops, der florerer i betalte annoncer på Facebook. Marcel har set en annonce for en bluetoothhøjttaler med en besparelse på 99 procent. Hvorfor gør Meta ikke mere? 
+Vi diskuterer også et blogindlæg fra Meta-chef Nick Clegg, som revser EU's strenge tech-lovgivning. Ifølge ham har den betydet, at Europa har misset AI-toget, som nu kun stopper i Kina og USA. 
+Og så får vi besøg af gruppen Efterklang, der diskuterer, om der overhovedet bliver brug for ægte menneske-musik, hvis AI-genereret musik snart både kan røre os og lyde godt. Efterklang spiller også et helt menneskeskabt og akustisk nummer eksklusivt for Prompts lyttere.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 04 Jul 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fe7e073b9ab634fcc4/18c59032620cbbe1d035bf669a143836041554ada446b564ea8327cbf9967dde" 
+                type="audio/mpeg" 
+                length="78487374" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fe7e073b9ab634fcc4/0f1c93a4d64f7f3d867234ae97e56d3a18163ee75e25ca083ca33adcdb51b3b8" 
+                type="audio/mpeg" 
+                length="26162766" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fe7e073b9ab634fcc4/6b7e946a989dd98b9a4a1d2b7adbf9a4fc12c4264f8fdb0ba3171b217c7df360" 
+                type="audio/x-m4a" 
+                length="105263419" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fe7e073b9ab634fcc4/4a8574c2a83feaf77533d9731f54b1cd135beda24e692d1f2530fcb48f2655cd" 
+                type="audio/x-m4a" 
+                length="79101323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42fe7e073b9ab634fcc4/9a7cc879caf28caf29eff49956975447286b2bbc1dbf0ac1de75dcc1b0b77e66" 
+                type="audio/x-m4a" 
+                length="26776471" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421025</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-bacon-is-bold-intelligens-og-cigaret-advarsler-paa-tiktok-11802421025</link>
+            <title>Bacon-is, bold-intelligens og cigaret-advarsler på TikTok</title>
+            <description>Prompt er på havnen i Århus på dagen, hvor Danmark spiller mod Serbien ved EM. Vi diskuterer risikoen ved at bruge AI til kundeservice efter McDonald's forsøg med AI, som endte med at give en kunde is toppet med bacon. 
+Vi taler også med den danske startup VEO om, hvordan AI kan anvendes i moderne topfodbold - og om for meget data risikerer at fjerne charmen fra sporten. 
+Endelig diskuterer vi, om det er en god idé at påføre advarsler, som dem vi kender fra cigaretpakker, på sociale medier.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 27 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42ffac5e3b48d26b5140/9a9fa94fe6a80d3fc7eaae9f70c9dc6b2a9aa4c0784a6414be124ea54ace3e3e" 
+                type="audio/mpeg" 
+                length="77990254" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42ffac5e3b48d26b5140/c58483d080afa39fcf77d5b7296428813b0ee4eb662d20695df48fdd3ddbb216" 
+                type="audio/mpeg" 
+                length="25997038" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42ffac5e3b48d26b5140/1b517ebf1237ba662dcb4e62d80b9cd0eb4306db358f080b77153f9284b2ee44" 
+                type="audio/x-m4a" 
+                length="104596437" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42ffac5e3b48d26b5140/baed327809d9b64b0c7662596aee64d97aff8f23f1fd101dc5d7604779aae46d" 
+                type="audio/x-m4a" 
+                length="78600311" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666c42ffac5e3b48d26b5140/21797d96010956cd310b16139222650865c04eaf6a564b43e9aac2315c31f233" 
+                type="audio/x-m4a" 
+                length="26606821" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421024</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-jakabov-facebook-banemand-og-amazon-aflaeser-dine-foelelser-11802421024</link>
+            <title>Jakabov, Facebook-banemand og Amazon aflæser dine følelser</title>
+            <description>Henrik er utilfreds med, at borgerne bliver bedt om at preppe Jakabov og FM-radioer, når staten har overhørt adskillige advarsler om at forbedre sin it-sikkerhed til et acceptabelt niveau. 
+I Storbritannien bliver togpassagerer overvåget af kameraer med Amazon-software, der kan lave følelsesgenkendelse, dvs. aflæse hvilket humør man er i. 
+Og så har vi et interview med Max Schrems, der er blevet kaldt Metas banemand. Han fører retssager mod Meta, ejer af Facebook og Instagram, på vegne af borgerne, og han har nu været med til at få Meta til at trykke pause på træningen af deres AI-chatbot med europæernes data.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 20 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8de119b65cdee3c9f5/016af38f7869d020879c3321fabc815d3b04ce8ae870cbadb2c4860b2e93cbce" 
+                type="audio/mpeg" 
+                length="78550150" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8de119b65cdee3c9f5/f4fce92953ac3ef31cedf71835339bbd527f9d09c422bad761d2181b5673d821" 
+                type="audio/mpeg" 
+                length="26183686" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8de119b65cdee3c9f5/d7e089572b9d4acaaf4a4248af6fd171791a6055b9de714007d6168f43029781" 
+                type="audio/x-m4a" 
+                length="105348433" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8de119b65cdee3c9f5/a6a1fc8feabc4d576051d0ba25f9eb5b195143c8bf9b18481d3532e1c552c80f" 
+                type="audio/x-m4a" 
+                length="79165379" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8de119b65cdee3c9f5/5f0174789f151fd1e40ee68d5588759ac127d3fdadb2e2eb403984bee9a3bb4f" 
+                type="audio/x-m4a" 
+                length="26798141" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421023</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-iphone-smoeres-ind-i-ai-altman-i-stormvejr-og-meta-napper-dine-gamle-festbilleder-11802421023</link>
+            <title>IPhone smøres ind i AI, Altman i stormvejr og Meta napper dine gamle festbilleder</title>
+            <description>Apple melder sig omsider ind i AI-kampen med en AI-pakke, de kalder Apple Intelligence. Det betyder, at din telefon snart vil få massevis af AI-funktioner - hvis du da har en af de nye, dyre telefoner. Vi diskuterer, om Apple Intelligence kan give AI det folkelige gennembrud. Nuværende og tidligere ansatte hos OpenAI revser virksomheden og Sam Altman, som beskyldes for at skabe en usund kultur med løgne og psykisk vold. Samtidig frygter de tidligere ansatte, at OpenAI ikke gør nok for at sikre os mod den kunstig intelligens' udvikling, der ifølge dem risikerer at ødelægge vores liv og samfund. Vi ringer til vores husven Fred Benenson, der har arbejdet med Sam Altman, for at forstå, hvad der er på spil. Og så går Meta snart i gang med at træne deres AI på dine billeder, kommentarer og posts - medmindre du gør indsigelse. Vi fortæller dig hvordan.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 13 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d7c6410bdb4b42abe/40c1cccfd98d301469dc2167d0b0db1b5b57686528c20ad3194ccb13e4f11f85" 
+                type="audio/mpeg" 
+                length="78039236" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d7c6410bdb4b42abe/c2ddef8c2c9e6348910f35a423888aa81ad7a6382bd490d47fd657b2196e76f5" 
+                type="audio/mpeg" 
+                length="26013380" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d7c6410bdb4b42abe/2da36ee39f7b4318891e58f64b03b69d35448b9f043c4e6eb38095708149b4e1" 
+                type="audio/x-m4a" 
+                length="104662681" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d7c6410bdb4b42abe/3e8e65a666b28c15bda8e5a7ac956f11500636f8cf7de2c4c56893bc9325dcf5" 
+                type="audio/x-m4a" 
+                length="78649967" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d7c6410bdb4b42abe/3cb6c1fb33e3d32764cd1b06d95aa802b9b5842fb281be8c78da54bb5a70c5f4" 
+                type="audio/x-m4a" 
+                length="26623625" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421022</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-chatgpt-tager-kandidattesten-pizza-computer-og-russer-propaganda-forklaedt-som-netflix-dokumentar-11802421022</link>
+            <title>ChatGPT tager kandidattesten, pizza-computer og russer-propaganda forklædt som Netflix-dokumentar</title>
+            <description>Hvis ChatGPT skulle stemme til EP-valget, ville den enten stemme på... Få svaret i denne uges Prompt, hvor vi også har sat Claude, Meta AI og Elon Musks chatbot på samme opgave. Vi vender også den største politiaktion mod et botnet til dato. En aktion, som dansk politi deltog i sammen med FBI og Europol - og hvor en uskyldig computer fra et pizzaria i Randers spiller en nøglerolle. Og så har Rusland udgivet en fake Netflix-lignende dokumentar med Tom Cruise i hovedrollen. Den skal være med til at skabe frygt og misinformation om OL i Paris til sommer.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 06 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d2d0394bb2c9821dc/c6fadfbbe0917b6bdb2967e6557c6f0233a0173aa8d88b191a7f95a927e19ec2" 
+                type="audio/mpeg" 
+                length="79225226" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d2d0394bb2c9821dc/ae067f6a36f15b2e4f164fd1989b0920941393a0925cdc53251504418f5048cb" 
+                type="audio/mpeg" 
+                length="26408714" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d2d0394bb2c9821dc/93bd54a133c2d2905ae332509b95f2267c0b806880d80923384dbd0bc5d15cc4" 
+                type="audio/x-m4a" 
+                length="106253536" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d2d0394bb2c9821dc/b8429ba401f6dda81120fec291a8622fd3f1493ae273f3a5a20855c83e68ad12" 
+                type="audio/x-m4a" 
+                length="79845519" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8d2d0394bb2c9821dc/24341ca4a6f0cbbfb085fc9d4a7069a8c0b135fb45cfe13adb071cce004aa0e7" 
+                type="audio/x-m4a" 
+                length="27028308" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421021</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-valgflaesk-quiz-helle-thorning-og-tomat-ost-lim-11802421021</link>
+            <title>Valgflæsk-quiz, Helle Thorning og 'tomat, ost, lim'</title>
+            <description>Metas tilsynsråd har eksisteret i fire år og har blandt andet taget stilling til, om Donald Trump må være på Facebook. Nu har Meta besluttet at skære udgifterne til Tilsynsrådet, som har fået kritik for at arbejde alt for langsomt og være en syltekrukke, som Zuckerberg kan bruge til at fraskrive sig ansvaret for at have styr på sin platform. Vi får besøg af Helle Thorning Schmidt, der er forperson i Tilsynsrådet. Googles nye AI-søgemaskine har foreslået en bruger at putte lim på sin pizza for at give den en bedre konsistens. Den har også foreslået at spise én sten om dagen på grund af de gode mineraler og vitaminer. Vi diskuterer, hvorfor Google bliver ved med at lancere produkter, der virker helt ufærdige. Marcel har taget en quiz med om fem tech-forslag, som Socialdemokratiet har sat på dagsordenen i EP-valgkampen. Men er forslagene nye, og kan de lade sig gøre at få gennemført?
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 30 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8c7c6410bdb4b42ab6/42c64577e57ed3a8c58f3679ba9f54cde01303492e67094008e5353405c3e5f8" 
+                type="audio/mpeg" 
+                length="78530577" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8c7c6410bdb4b42ab6/4f3649bb3cb7fccbd77166c0789c194024666c62613342a7aa3fa831723ef07e" 
+                type="audio/mpeg" 
+                length="26177169" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8c7c6410bdb4b42ab6/af4671f904ca02bdcdb0576200438b876fb43f5b3d828ac3ab277285e29ddf9c" 
+                type="audio/x-m4a" 
+                length="105322085" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8c7c6410bdb4b42ab6/86b4507377418fa424344a1a0d80c4574d7a854de12559e13591cd2fe366bb23" 
+                type="audio/x-m4a" 
+                length="79145207" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8c7c6410bdb4b42ab6/5527ddb9b33b9f1d0388d14795fb3bd759277618cd09db1deec1e8412318d62e" 
+                type="audio/x-m4a" 
+                length="26791317" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421020</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-scarlett-johansson-vs-openai-slut-med-hjemmesider-og-en-superfake-verden-11802421020</link>
+            <title>Scarlett Johansson vs. OpenAI, slut med hjemmesider og en superfake verden</title>
+            <description>En byge af møgsager har ramt OpenAI. Nu beskylder Scarlett Johansson selskabet for at have kopieret hendes stemme, og samtidig har en chef fra et sikkerhedsteam sagt op. Vi vender tre møgsager på stribe hos AI-kæledæggerne. Google vil gøre 'internettet' til en undermenu, mens AI'ens svar bliver default. Er det snart slut med at besøge hjemmesider i det hele taget? Vi får også besøg af Victor Riparbelli, stifter af virksomheden Synthezia med 400 ansatte i London. De laver 3D-kloner og avatarer til virksomheder. Men har vi overhovedet brug for mere syntetisk indhold, der gør os i tvivl om, hvad der er ægte og hvad der er falsk?
+Værter: Marcel Mirzaei-Fard, DRs techanalytiker, og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 23 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ce43bb6c7b2fd0ef4/edcee1f434e6396b9c608d8875a38a66c883301dc27481f7b0d52dccbdab3554" 
+                type="audio/mpeg" 
+                length="78467758" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ce43bb6c7b2fd0ef4/ee112b00962580783d37d6a6e9f164ef4b547afa281c10848b1e978b01215763" 
+                type="audio/mpeg" 
+                length="26156206" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ce43bb6c7b2fd0ef4/b41d4b6df8955482f3525a774ce92b4c7ebdbb00af33f2adffd942b066646e91" 
+                type="audio/x-m4a" 
+                length="105237121" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ce43bb6c7b2fd0ef4/9d53bc41fd74f01eba5e5c210bb50c20ff9592282456a2602b382de391619bab" 
+                type="audio/x-m4a" 
+                length="79081715" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ce43bb6c7b2fd0ef4/84cbaaf5714fd2ad43986fec2eb6f66896aae545b9febf21c6b8fb806611c33c" 
+                type="audio/x-m4a" 
+                length="26769809" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421019</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-flirtende-chatgpt-deepfake-lov-og-hipsterbot-11802421019</link>
+            <title>Flirtende ChatGPT, deepfake-lov og hipsterbot</title>
+            <description>Spike Jonze' film 'Her' har været inspiration for OpenAIs opdatering af ChatGPT. En film, hvor hovedpersonen bliver forelsket i sin taleassistent. OpenAI vil have os til at snakke - ikke kun skrive - med ChatGPT, som snart bliver i stand til både at aflæse og udtrykke følelser. Vi gennemgår de store nyheder fra både OpenAI og Google i ugens løb. Henrik Moltkes favoritchatbot er endelig kommet til Danmark. Sprogmodellen Claude lover at være mere etisk og mindre hallucinerende. Men hvem er den for? Og så vil kulturminister Jakob Engel-Schmidt (M) forbyde politiske deepfakes som den, DFs Morten Messerschmidt var i vælten med for nyligt. Noget overraskende er det ophavsretten, ministeren vil tage i brug. 
+Værter: Marcel Mirzaei-Fard, DRs techanalytiker, og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 16 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8be119b65cdee3c9dd/57293c9d8e6090254e14da6c64ea59c4de109c63bc6765e1bb87396a1f4b163a" 
+                type="audio/mpeg" 
+                length="77927489" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8be119b65cdee3c9dd/e32281b646447b5c45878a6f80d06a6aec8bcf1ab4c01a359b937a408c41b3a8" 
+                type="audio/mpeg" 
+                length="25976129" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8be119b65cdee3c9dd/76538ee1b94348bffafee5e9d4aca15dca8d44870d8b24eae815dbd9465ed268" 
+                type="audio/x-m4a" 
+                length="104512676" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8be119b65cdee3c9dd/8c8be1178277ee7bc0e6218b8bb49743ff90e9e2506ed93c7713deac01850bfd" 
+                type="audio/x-m4a" 
+                length="78537395" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8be119b65cdee3c9dd/da61b66ab0b57addf450f6e15b63eca2454cc6fee5f0235c2a5f6fa4eb21ffed" 
+                type="audio/x-m4a" 
+                length="26585536" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421018</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-i-krig-med-google-soegninger-chatgpt-faar-arme-og-ben-og-danskgpt-2-0-11802421018</link>
+            <title>I krig med Google-søgninger, ChatGPT får arme og ben og DanskGPT 2.0</title>
+            <description>Danmark vil lave sine egne chatbots, som forstår dansk kultur og sprog - og hvor der er styr på datasikkerheden. Modsat sidst, det var på tale, er målet denne gang ikke at konkurrere med ChatGPT. Men hvad er det så? OpenAI arbejder efter sigende på en vild AI-søgemaskine, der skal feje benene væk under Googles tyve års dominans på internetsøgninger. Og så får vi besøg af techjournalist Nikolaj Sonne til at tale om, hvad der sker, hvis man giver ChatGPT arme og ben i form af en humanoid robot.
+Gæster: Casper Klynge, vicedirektør i Dansk Erhverv og Nikolaj Sonne, techjournalist.
+Værter: Marcel Mirzaei-Fard, DRs techanalytiker og Henrik Moltke, DRs teknologikorrespondent.</description>
+            <pubDate>Thu, 09 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8b2d0394bb2c9821d2/0ea9228a04c7eddbfe45a6b4d01bd2c35a0bd20971725e5b655e70d2302a680d" 
+                type="audio/mpeg" 
+                length="77956846" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8b2d0394bb2c9821d2/da94fe6d9ce90e95bac3243553b83366ff7ee96d84c51e55b93836ddbe7e9af9" 
+                type="audio/mpeg" 
+                length="25985902" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8b2d0394bb2c9821d2/16e5d9ca452f0b2f8c98a1a4562e9e10ea0228b9495e2f986b642fc15285f2c3" 
+                type="audio/x-m4a" 
+                length="104552176" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8b2d0394bb2c9821d2/56a1ecc101ad99ab602cc1745872c763e81f877164c8f5080f41ef6390a2b0e4" 
+                type="audio/x-m4a" 
+                length="78566843" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8b2d0394bb2c9821d2/cc03af8f349f0225d46f7848eeca7124f8dc3d4161ec1d7d9c3e6e81ce5c2377" 
+                type="audio/x-m4a" 
+                length="26595480" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421017</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-messerschmidts-deepfake-saudi-arabiens-techmilliarder-og-ai-s-sociale-slagside-11802421017</link>
+            <title>Messerschmidts deepfake, Saudi-Arabiens techmilliarder og AI's sociale slagside</title>
+            <description>En trussel for demokratiet eller et veloplagt debatoplæg? Morten Messerschmidt har lavet en deepfake af Mette Frederiksen, som har skabt stor forargelse. Vi taler med DF-formanden. Saudi-Arabien vil poste milliarder og atter milliarder på at blive en førernation inden for AI, og amerikanske techgiganter er fløjet ned for at få andel i pengene. Men kan de gøre det med god smag i munden? Vi diskuterer også, om kunstig intelligens har en social slagside med AI-forsker Sine Zambach. Hun kommer med 5 gode råd til forældrene, der gerne vil blive den gode AI-lektiehjælper.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 02 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8a7c6410bdb4b42aa9/fe9229e3e6a3908aa69008a582efd590c8c9300ad7683c3a8a9de3ebe77baac6" 
+                type="audio/mpeg" 
+                length="78208584" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8a7c6410bdb4b42aa9/99733f0d5529ec52b68fbae26e716775863a57a3c467bd534b0ae80e665b3060" 
+                type="audio/mpeg" 
+                length="26069832" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8a7c6410bdb4b42aa9/40f687677ed40cc3e95bfd7b4c0f44314d38fd2dc7cecf0aa7520dc99a4a2d39" 
+                type="audio/x-m4a" 
+                length="104889908" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8a7c6410bdb4b42aa9/3b2f1cf64c516c66ee9423de1c6dd8556c772c26492e5d125bc8a17bd47f2d2e" 
+                type="audio/x-m4a" 
+                length="78820655" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8a7c6410bdb4b42aa9/87c489a4413eb7f4fcb63946a97eb9463e406719e1236e065fb97076203306bc" 
+                type="audio/x-m4a" 
+                length="26681428" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421016</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-selvdiagnose-ai-trash-tv-og-spurgt-meta-11802421016</link>
+            <title>Selvdiagnose, AI-trash-tv og 'Spurgt, Meta!'</title>
+            <description>Meta har kastet deres AI ud til folket. Den skal holde liv i Facebooksamtaler, der er gået i stå, og den har allerede proklameret, at den har et barn med handicap og i øvrigt et kamera til salg. Vi diskuterer, hvordan Meta AI kommer til at forandre vores internetsamtaler. TV-producenten TCL vil udgive verdens første spillefilm lavet med generativ AI. En romatisk komedie om et forelsket par i Paris. Resultatet er dog så dårligt, at det ligner en dødelig feberdrøm. Og så får vi besøg af Andreas Pihl, der er læge og AI-nørd. Vi diskuterer et tidsskriftsstudie, der afslører, hvor let det er at få ChatGPT og Google Gemini til at sprede sundhedsmyter.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 25 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:16</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ace3bf8fdc20f5137/7b47945527d34a2ad80c04ee6f405a5b10c6d6f6bcac62e73e525b9ebfe2cad5" 
+                type="audio/mpeg" 
+                length="78163656" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ace3bf8fdc20f5137/79d47646a8a6845f8712eca47f0229c3e0f860c2663c3a13495949a8837d202e" 
+                type="audio/mpeg" 
+                length="26054856" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ace3bf8fdc20f5137/ebbf340e3da9b36c1a56d355d112b660ceb55f5795d65a4f062c572fe4543343" 
+                type="audio/x-m4a" 
+                length="104829277" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ace3bf8fdc20f5137/c80cc96af6815deecfcad93571606b488993eb41624281b461a0fabf24d54f45" 
+                type="audio/x-m4a" 
+                length="78775247" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b8ace3bf8fdc20f5137/9c0f04f0fa53c0633500e9e9cbc76a6daf54e855e7638609b29fdc304f3a9ad9" 
+                type="audio/x-m4a" 
+                length="26666057" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421015</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-rejse-creep-russiske-trolde-og-det-vaerste-produkt-jeg-har-anmeldt-til-dato-11802421015</link>
+            <title>Rejse-creep, russiske trolde og 'det værste produkt, jeg har anmeldt til dato'</title>
+            <description>Anmelderne har fået fingrene i det første bud på en gadget, der ved hjælp af AI kan frigøre os fra vores telefonafhængighed. Den hypede Humane AI Pin, som lover at være en slags 'second brain' for os, får dog en hård medfart. Er det dimsen, der er noget galt med, eller er det selve AI-boblen, der er ved at sprænge? Vi vender også den shitstorm, der har ramt den nye Rejsekort-app. Den kræver, at brugeren accepterer, at den kan følge ens lokation - også når appen ikke er i brug. Misinformationskampagnerne var massive ved de amerikanske valg i 2016 og 2020, men med AI i hænderne forventes det at blive endnu vildere i 2024. Vi taler med Christopher Guess, der er professionel faktatjekker hos Duke's Reporters Lab.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 18 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:33</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a9d/95a4cb509dbce5747389d459b88007b5b68655f1ddc98ad4c6d8f4291104fa80" 
+                type="audio/mpeg" 
+                length="78558219" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a9d/742af218cf892be7ffa4f48af2889c16d670b20c37fe000a4a9c6a244bb83b58" 
+                type="audio/mpeg" 
+                length="26186379" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a9d/15e8ef62f52ea81c7df9127a28320005e28bb6d2473d5e7841d63c5515e6a3f6" 
+                type="audio/x-m4a" 
+                length="105358143" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a9d/ba9536817c5b5cf47020a51426981b963e9f2b677df1054d3cdc283aea65596a" 
+                type="audio/x-m4a" 
+                length="79172651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a9d/a3b47108d1981b77d8b8a4d325ba708e0a40ee0275e71b1522999fc280c16be4" 
+                type="audio/x-m4a" 
+                length="26800551" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421014</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-ai-srael-queer-bommert-og-indavlet-kunstig-intelligens-11802421014</link>
+            <title>AI-srael, queer-bommert og indavlet kunstig intelligens</title>
+            <description>Den israelske hær har anvendt et - indtil nu - hemmeligholdt AI-system til at udvælge titusindvis af personer i Gaza som mål - et system med minimal menneskelig indblanding. Vi diskuterer også, hvorfor Dall-E og Midjourney tilsyneladende har meget svært ved at undgå stereotype skildringer af queerpersoner. Vores gæst er Leon Derczynski, lektor på IT-Universitetet og forsker hos Nvidia. Vi spørger ham, hvad der sker, hvis vi begynder at træne næste generations chatbots med deres egne AI-skabte data.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 11 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a97/c12af55275e601254c8e6d871986f7db30daa4861b5b30c42cf534d8b6936259" 
+                type="audio/mpeg" 
+                length="78364679" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a97/ef8706eb1b1776fbb399dd0630eb0c49aa38912241e41344a5093223ed6e96b9" 
+                type="audio/mpeg" 
+                length="26121863" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a97/cf706f5b7701f5fe4050f1ad48e7545a15656150032fd52677f0e88475ba59d4" 
+                type="audio/x-m4a" 
+                length="105099173" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a97/24506e6d3ea8aadc00b9e4d57950f7bd229d4ec951603d4e3b804b1992e121ec" 
+                type="audio/x-m4a" 
+                length="78978107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b887c6410bdb4b42a97/db9692b5783a6340db97724240eb47721435e0c767ece880a853481f0ebb0cd6" 
+                type="audio/x-m4a" 
+                length="26734713" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421013</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-stable-diffusion-implosion-pornhubs-bagmaend-og-openais-stemmekloner-11802421013</link>
+            <title>Stable Diffusion-implosion, Pornhubs bagmænd og OpenAIs stemmekloner</title>
+            <description>De har været pionerer inden for generativ AI, men nu er grundlæggeren bag Stability, som laver den populære billedgenerator Stable Diffusion, blevet sparket ud. Vi ser nærmere på kaos'et hos AI-darlingerne. OpenAI har annonceret et stemmekloningsværktøj og viser, hvordan man med en 15 sekunders lydoptagelse kan give en kvinde sin stemme tilbage, efter hun fik talevanskelligheder som følge af en hjerneskade. Og så får vi besøg af Sam Cole, techjournalist hos 404Media, som har sat sig for at dække porno/tech-industrien med de samme kritiske briller, som de store techgiganter får.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 04 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b87ce3bf8fdc20f5125/c5a00a3c2c82a3de9dd8d8c4e37e38b8f0ef0d9cd667ac75a579f4356fce3a70" 
+                type="audio/mpeg" 
+                length="78306506" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b87ce3bf8fdc20f5125/586244658f7d782f0306a005e5e8909c1aa00c8818d8abd7222e66a5ba1ef300" 
+                type="audio/mpeg" 
+                length="26102474" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b87ce3bf8fdc20f5125/da5137e494e60021bf2ed8e120169014804c2fcfa538418574df28ec8efb01f7" 
+                type="audio/x-m4a" 
+                length="105021628" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b87ce3bf8fdc20f5125/43f35874140543bcce7718abba92d78b83fe281ef7d03b08b0e8e18817c07a99" 
+                type="audio/x-m4a" 
+                length="78919667" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b87ce3bf8fdc20f5125/aa6bf3db18dfc7b1dff3705f36a3ecb84b1bb9bdb3e870217f3d2857185d0307" 
+                type="audio/x-m4a" 
+                length="26715919" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421011</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-tiktok-forbud-sms-fra-divya-das-og-danmarks-nye-super-pro-max-computer-11802421011</link>
+            <title>Tiktok-forbud, sms fra Divya Das og Danmarks nye Super Pro Max-computer</title>
+            <description>I Kina morer man sig over hykleriet fra amerikanerne, der nu er et skridt tættere på at forbyde TikTok. Vi får de kinesiske reaktioner på denne uges største techhistorie fra Philip Roin, DRs asienkorrespondent. Henrik har fået en sms fra TV2s Divya Das, og han er dykket ned i kaninhullet for at få svar på, hvorfor hun bliver misbrugt over alt i kryptoscams på Facebook. Vi vender også Danmarks nye AI-supercomputer, som er den første af sin slags her til lands.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 21 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a8a/39a0027d8f41d506621613135d11e1d4da591f77b28f98ab8dd2b3b962c0bbf4" 
+                type="audio/mpeg" 
+                length="77966666" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a8a/ae906bfed77ded07aca69d3176aa1cbeba72da280979a33b1eaa435dda8d5a10" 
+                type="audio/mpeg" 
+                length="25989194" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a8a/a5805f65572ac5fba944357f019e9337d8f80111705b404bfdca9320f7935596" 
+                type="audio/x-m4a" 
+                length="104564923" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a8a/efed5c600c13d7a71601ef6811ca7d6ffec5d3cedee5659d675a99c83ab2b812" 
+                type="audio/x-m4a" 
+                length="78576599" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a8a/ad02357fc090be15158c8e87becc4ea628580233ff34f696c63961384600ec41" 
+                type="audio/x-m4a" 
+                length="26599689" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421010</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-meta-taler-ud-hos-os-vestagers-nye-tech-hammer-og-nyt-om-altmans-fyring-11802421010</link>
+            <title>Meta taler ud hos os, Vestagers nye tech-hammer og nyt om Altmans fyring</title>
+            <description>DR har sat fokus på de uhyrligheder, der pludselig popper op i børn og unges feeds på sociale medier via dokumentaren 'Alene Hjemme på Nettet'. Selvskade, lemlæstelse, halshugninger er blandt eksemplerne, og det sker bl.a. på TikTok, Snapchat og Instagram. Det er lykkedes Prompt at få Martin Ruby, politisk chef for Meta i Norden, i studiet for at diskutere, hvorfor det er så svært at få det skadelige indhold væk fra Instagram. Vi diskuterer også EU's nye Digital Markets Act, ledet af Margrethe Vestager, som skal gøre op med techgiganternes bøllemetoder. Og så er rapporten om OpenAI's tumultariske fyring af Sam Altmans kommet. Den dissekerer vi sammen med en stribe kontroversielle emails fra Elon Musk, der tidligere var en del af OpenAI.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 14 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a86/778cbf7120cf0613d1db73e3448b3bcd6344b783f9a7950d6d90788dcc451943" 
+                type="audio/mpeg" 
+                length="78681480" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a86/ba6df5cd4686648ac2bd5bd08e26614d0440bb9cbc84707990d5765aead13787" 
+                type="audio/mpeg" 
+                length="26227464" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a86/6df2519a9e83f679556fc171e0048ede66862fac7caf85c36099b973f559a33f" 
+                type="audio/x-m4a" 
+                length="105524404" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a86/d95770735463637bad8e8d58d2cf42d83f7d900a3b3cee65f50fa5a7094bbed7" 
+                type="audio/x-m4a" 
+                length="79297455" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b867c6410bdb4b42a86/4cabdba0c8de01dfa37602ec89e51bebaaa4385e0536cc98f4b2b7622d336221" 
+                type="audio/x-m4a" 
+                length="26843872" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421009</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-badgpt-psykedeliske-babyvideoer-og-kryptopraesidenten-11802421009</link>
+            <title>BadGPT, psykedeliske babyvideoer og kryptopræsidenten</title>
+            <description>Chatbots med navne som BadGPT og FraudGPT er dukket op og tilbyder at omgå de etablerede chatbots' sikkerhed. På den måde kan hackerne arbejde hurtigere og mere effektivt. Prompt dykker ned i de lyssky chatbots. Om to år vil 90 procent af internettet være skabt med AI. Det nyeste skud på stammen af forurening er AI-skabte videoer til småbørn ned til 1-årsalderen. Vi vender også El Salvadors kryptoglade hipsterpræsident, Nayib Bukele. Han har gjort landet til det første i verden, hvor bitcoin er anerkendt som valuta. Vi får besøg af Casper Schrøder, der har besøgt El Salvador, til en snak om, hvordan eksperimentet er gået.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 07 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b85ce3bf8fdc20f5119/9e448b192adc16c303059d022479ec152b2ef92b046203934cd308f6e9ef23db" 
+                type="audio/mpeg" 
+                length="78312268" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b85ce3bf8fdc20f5119/777f20fe7de02e7f9a00e325d986bba9cbafbdb6a5baabcc014a0d56512d1202" 
+                type="audio/mpeg" 
+                length="26104396" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b85ce3bf8fdc20f5119/bdd1be0be11a7402f0ca04870552bc2628d567add45140c309712b2281271758" 
+                type="audio/x-m4a" 
+                length="105028519" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b85ce3bf8fdc20f5119/32599b4834679e290ee5dfe9087f72c31a6b23371177339902890c9324672d7c" 
+                type="audio/x-m4a" 
+                length="78924875" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b85ce3bf8fdc20f5119/35f4e7444cb2038ad1ae16d3f2f70176e6b3906cb4388cc2ac5ce152321224fd" 
+                type="audio/x-m4a" 
+                length="26717820" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421008</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-danmark-hacket-absurd-woke-gemini-og-bjoernekram-til-chatgpt-i-skolen-11802421008</link>
+            <title>Danmark hacket, absurd woke Gemini og bjørnekram til ChatGPT i skolen</title>
+            <description>Danmark har oplevet sin værste hackeruge i mands minde med angreb mod offentlige hjemmesider og en spektakulær sag hos Netcompany, der endte med en anholdelse. Vi gør status. Vi ser også nærmere på Googles billedgenerator, der bliver kritiseret for at være absurd woke, fordi den undlader at generere billeder af hvide mænd. Til sidst taler vi med læreren Mikkel Aslak, der sidder i regeringens AI-ekspertgruppe. Gruppen skal komme med anbefalinger til brugen af AI i skolerne, og Aslak vil have os til at holde op med at kalde elever, der bruger ChatGPT, for snydere.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 29 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:33</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b847c6410bdb4b42a7a/fb6e552503e31e940c4de22dff86474952fdbc2858e2ddecf3c2f2e531f6e014" 
+                type="audio/mpeg" 
+                length="78566861" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b847c6410bdb4b42a7a/68c96724237c7ee0fb87d2378207265b2fc5b61e7714e5e0331c31ca7097999f" 
+                type="audio/mpeg" 
+                length="26189261" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b847c6410bdb4b42a7a/588790fa3cc8a6552de001a903400ce56214b2bc29ca3da011b6221f835067a8" 
+                type="audio/x-m4a" 
+                length="105370443" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b847c6410bdb4b42a7a/356095061f8e7c236a190a4e4fa23079cc81cb211e5773d0ffee1e93c8cd24ba" 
+                type="audio/x-m4a" 
+                length="79181819" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b847c6410bdb4b42a7a/0eeabc300881c147710ccd2e7994205a0ecc843ae639ea89e4b85a28dd63d503" 
+                type="audio/x-m4a" 
+                length="26804488" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421007</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-tamme-chatbots-kattevideo-generator-og-hackere-paa-chatgpt-11802421007</link>
+            <title>Tamme chatbots, kattevideo-generator og hackere på ChatGPT</title>
+            <description>Internettet er på månen over OpenAIs nye AI, der på få sekunder kan skabe imponerende videoer ud fra en prompt. Hvad skal det bruges til? Og hvem har egentlig bedt om den?
+Chatbots er blevet kedelige og tamme kontorassistenter. Ifølge tech-journalisten Kevin Roose fra New York Times, er vi blevet så bekymrede for skyggesiderne ved AI, at virksomhederne har gjort deres produkter dødkedelige. Vi får besøg af Ida Ebbensgaard, fellow på SDU til at diskutere, om det er godt eller skidt. 
+OpenAI har udelukket hackergrupper fra Iran, Rusland, Nordkorea og Kina, efter det kom frem, at de havde anvendt ChatGPT til at planlægge cyberangreb. Skal vi forvente at blive oversvømmet af hackerangreb skabt med hjælp fra ChatGPT? 
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 22 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b84ce3bf8fdc20f5111/6c0bdf50be3f233d0d17e0fd8382e3a5a36d3739172ce5456eed749ef27492ba" 
+                type="audio/mpeg" 
+                length="78051336" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b84ce3bf8fdc20f5111/baffe65c11d25e4a69b7f005dcfe86dd984dcfb568dd914d2dbaedf0ced5b9fd" 
+                type="audio/mpeg" 
+                length="26017416" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b84ce3bf8fdc20f5111/97efccd27fc130f2c7eab279b050c827eaea0c2970f93e76ff28a0c4db006dd5" 
+                type="audio/x-m4a" 
+                length="104679053" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b84ce3bf8fdc20f5111/49ca3fa9b6906defabbb5834679d17d2b6fbc36afd6043f2b700dd964ef935b5" 
+                type="audio/x-m4a" 
+                length="78662279" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b84ce3bf8fdc20f5111/9c991bd420f27358b668a8780be0a97bc5450dc948f3b02069d9c414310b3ee3" 
+                type="audio/x-m4a" 
+                length="26628776" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421006</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-googles-chatgpt-draeber-snapchats-nedtur-og-magtesloese-politikere-11802421006</link>
+            <title>Googles ChatGPT-dræber, Snapchats nedtur og magtesløse politikere</title>
+            <description>Vi har leget med Googles ChatGPT-dræber kaldet Gemini Advanced og diskuterer, om den kommer til at gøre en forskel i AI-kapløbet. Det går ikke godt for Snapchat, der har lanceret mange forfejlede produkter og idéer de seneste år og nu må fyre 10 procent af deres medarbejdere. Vi får besøg af some-ekspert Valdemar Osted til at vende Snapchats op- og nedture. Og så er Henrik Moltke træt af politikere, der bilder danskerne ind, at vi kan tøjle techgiganterne med dansk lovgivning. Så hvad skal vi egentlig med det nye videnscenter for SoMe, Demokrati og Tech, som Kulturstyrelsen har åbnet?
+Vært: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 15 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ee119b65cdee3c98d/174bfc1a8c864df89eeeb7939523bf0e45d1a39cfd5c8753a6b8e6ef64802c0f" 
+                type="audio/mpeg" 
+                length="77979338" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ee119b65cdee3c98d/426356821db989051ff3d03b9f27c5d38925fa809e008bdaaead2bdf0c7a9880" 
+                type="audio/mpeg" 
+                length="25993418" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ee119b65cdee3c98d/8c001c1940be822f8a8d67cdfa5429d95f274fc4e401777aa562a8700be22816" 
+                type="audio/x-m4a" 
+                length="104582089" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ee119b65cdee3c98d/f8fdf7c85d68f2cf767958dc4bc5bd69773c06f14c464885097cea9f060c1411" 
+                type="audio/x-m4a" 
+                length="78589403" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ee119b65cdee3c98d/2d3cdaa08db152bb30e38611cab0d70d05643d778f26ee9ed66eeb2883cfcf62" 
+                type="audio/x-m4a" 
+                length="26603997" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421005</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-apples-dyre-skibriller-dating-app-klarer-dine-chats-og-tech-bosser-grillet-igen-igen-11802421005</link>
+            <title>Apples dyre skibriller, dating-app klarer dine chats og tech-bosser grillet igen igen</title>
+            <description>Prompt har som nogle af de første i Danmark haft fingrene i Apples mest hypede produkt siden iPhonen, Apple Vision Pro. Et sæt AR/VR-briller, der skal erstatte computeren. Techbosserne fra Facebook og TikTok blev grillet i det amerikanske senat, men Henrik Moltke kalder de amerikanske politikere hykleriske. Og så tester vi en dating-app, der lover at kunne klare de akavede første chatbeskeder med dit match.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.
+(Sendt første gang 8. februar).</description>
+            <pubDate>Thu, 08 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b83e43bb6c7b2fd0ecc/3ecedfd58d5e366d72f94873f4ed8ae41aa4f9fea34749e6ce639ac39d260dbc" 
+                type="audio/mpeg" 
+                length="78655558" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b83e43bb6c7b2fd0ecc/e9f7c3af1580948efb27af4a63f58211ffe317d63f832d55e57d3a41c2435d91" 
+                type="audio/mpeg" 
+                length="26218822" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b83e43bb6c7b2fd0ecc/fc6c229926e5cad186b0e39d89931b1646beb7752fc0cc30bf27926c91ee024d" 
+                type="audio/x-m4a" 
+                length="105489420" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b83e43bb6c7b2fd0ecc/5d77d8b1611c6e285afd6786595a983bc53cfec218bcc392803e54a74cf8eaf4" 
+                type="audio/x-m4a" 
+                length="79271091" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b83e43bb6c7b2fd0ecc/f34a98f31580bf954d6524ecb537a6ac7fcd60fab8aa4a0a05179874c97b7547" 
+                type="audio/x-m4a" 
+                length="26834928" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421004</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-taylor-swift-deep-fakes-og-openai-i-seng-med-pentagon-og-fox-news-11802421004</link>
+            <title>Taylor Swift deep fakes og OpenAI i seng med Pentagon og Fox News</title>
+            <description>Vi dykker ned i de mange Taylor Swift-deep fakes, der oversvømmer internettet og diskuterer, hvorfor Twitter ikke kan finde ud af fjerne dem fra deres platform. Mens de fleste venstreorienterede amerikanske nyhedssites har blokeret for, at ChatGPT kan tilgå deres artikler, er bl.a. Breitbart og Fox News gået i den helt modsatte retning. Får vi så en mere højreorienteret chatbot? Vi diskuterer også, at OpenAI diskret har opdateret deres brugerbetingelser, så Pentagon, det amerikanske forsvarsministerium, nu kan anvende ChatGPT. Vi taler med techjournalist Sam Bittle, der har historien.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 01 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ece3bf8fdc20f50eb/0c0b80886387e26672b282e23feaf00c5ef28a407ec8af5f14f8d051e32f5294" 
+                type="audio/mpeg" 
+                length="78550724" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ece3bf8fdc20f50eb/974fa83ab109a515a6888f7163d42772b4bb12ef2ca0142fb1a9b3427f78fbd6" 
+                type="audio/mpeg" 
+                length="26183876" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ece3bf8fdc20f50eb/cad9816c50e16903426e89d3700cf7583ec69c916d630a569e3d0cd40968872b" 
+                type="audio/x-m4a" 
+                length="105349216" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ece3bf8fdc20f50eb/e7f2e1830429b86a375aa9231e2b607bac0279f0df9dec142cd7994f91701b64" 
+                type="audio/x-m4a" 
+                length="79165811" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65af8b7ece3bf8fdc20f50eb/8c609a6ab0c32b1b9ef91a5ecea715cf578fb5be0e15d3e801c6a1197b7598f3" 
+                type="audio/x-m4a" 
+                length="26799264" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421003</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-bullshit-jobs-robot-biden-og-zuckerberg-gaar-all-in-paa-ai-11802421003</link>
+            <title>Bullshit jobs, Robot Biden og Zuckerberg går all-in på AI</title>
+            <description>Borgere i New Hampshire har modtaget et robotopkald med en deep faket Joe Biden-stemme, der opfordrer dem til at lade være med at stemme. Vi diskuterer, hvad vi har i vente af AI-misinfirmation op til det amerikanske valg. Den Internationale Valutafond forudser, at 4 ud af 10 jobs snart vil se helt anderledes ud grundet AI. Vi diskuterer, hvad vi gør med den ekstra tid, der burde blive til overs, når AI'en laver vores arbejde. Antropolog og forfatter til bogen Pseudoarbejde, Dennis Nørmark, gæster os. Og så vender vi Zuckerbergs melding om, at Meta nu skal fokusere mere på AI - og måske mindre på metaverset?
+Værter: Marcel Mirzaei-Fard, tech-analytiker i DR og Henrik Moltke, tech-korrespondent i DR.</description>
+            <pubDate>Thu, 25 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a85c132f69596d87195584/fbff639b86dcfceb28153949b4a35f76a787656b70cb817b12a05d2a42b07de3" 
+                type="audio/mpeg" 
+                length="77989125" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a85c132f69596d87195584/cc02e42a6c99e196609d083ca13380eb9405d84d0b6ac509ee1e906eeeb1682c" 
+                type="audio/mpeg" 
+                length="25996677" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a85c132f69596d87195584/cb9c9f2714400fe6191e9a1fd7abd21ad1438811ef1d4090100ecc5188198091" 
+                type="audio/x-m4a" 
+                length="104595799" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a85c132f69596d87195584/47a36d3c4bd2a42bb82e3e2cd9148b8f547951823f8e2f1f4e7aadacb8fdb96b" 
+                type="audio/x-m4a" 
+                length="78599819" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a85c132f69596d87195584/1565e54546e7ee1af3bd297b8e202db3b5af2d5a953dffc90c6eb0fb458e2b2c" 
+                type="audio/x-m4a" 
+                length="26607622" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421002</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-ai-kender-din-doedsdato-preppernes-heydays-og-ai-bonanza-i-officepakken-11802421002</link>
+            <title>AI kender din dødsdato, preppernes heydays og AI-bonanza i Officepakken</title>
+            <description>Danske forskere har udviklet en AI, der kan forudsige, hvor længe du kommer til at leve, ud fra det, der er sket i dit liv indtil nu. Men har vi overhovedet brug for at vide, hvor gamle vi bliver? Prompt har også været på besøg hos Microsoft og fået en demo af deres AI-satning Copilot, der skal bringe ChatGPT ind i alle officeprogrammerne. Og så diskuterer vi hybridkrigen med Rusland - og spørger, om der er grund til at 'preppe' til at klare sig uden internet og strøm. Det gør vi med Jens Monrad, chefanalytiker i sikkerhedsselskabet Mandiant.
+Værter: Marcel Mirzaei-Fard, tech-analytiker i DR og Henrik Moltke, tech-korrespondent i DR.</description>
+            <pubDate>Thu, 18 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:36</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659f2194c26aeca6fad8e852/6764020fc2252ccee19071b34b5a982f339cda0ac28ae602734c41f263af94ee" 
+                type="audio/mpeg" 
+                length="78626762" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659f2194c26aeca6fad8e852/68ae0d91671a3d2f20795493c7b4eeb756a9ac6e95e9db10249b406119a8d9cf" 
+                type="audio/mpeg" 
+                length="26209226" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659f2194c26aeca6fad8e852/5d1ba68290fa1716ac52f54fbd3e2ad206c51c8acd9bdd835e85f45671fb036a" 
+                type="audio/x-m4a" 
+                length="105450847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659f2194c26aeca6fad8e852/81d2664988132a61bcf0b7b55c209b2b1c0f43bae3317903f7f157eacdccc0b1" 
+                type="audio/x-m4a" 
+                length="79242291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659f2194c26aeca6fad8e852/6e979032c871a74618625ca01cd0eba31f31d116a1d5973997ba3031a3937b93" 
+                type="audio/x-m4a" 
+                length="26824982" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802421001</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-musk-anklages-for-stofmisbrug-chatbot-saelger-bil-for-1-dollar-og-google-indgaar-forlig-om-inkognito-mode-11802421001</link>
+            <title>Musk anklages for stofmisbrug, chatbot sælger bil for 1 dollar og Google indgår forlig om inkognito-mode</title>
+            <description>Elon Musk har i denne uge forsvaret sig mod anklager om omfattende stofmisbrug. Påstande, der er kommet frem i en artikel i Wall Street Journal. Og så skal Google betale 5 milliarder dollars i et forlig med brugere, som fejlagtigt antog, at de kunne browse anonymt i Google Chromes inkognitotilstand. Vi vender også en historie om en afdeling hos bilfirmaet Chevrolet, der har anvendt ChatGPT som chatbot. Det gik knap så godt, for botten kom til at sælge en spritny bil til en kunde for kun 1 dollar.
+Vært: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 11 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6595e7145c7c5e5a90185bb0/f729759540c5f92471113bbb52158158431630542ed65af3d9033c9967120d0e" 
+                type="audio/mpeg" 
+                length="78495432" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6595e7145c7c5e5a90185bb0/f78aaadf5685d386f14a23d5e6935c6f8b3e5a6097d2a06f24ea18945b1aea49" 
+                type="audio/mpeg" 
+                length="26165448" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6595e7145c7c5e5a90185bb0/2e08e5d6bd592db0732a0202ef0586e388a7a7c76f1534eba79daf4e405f4dfa" 
+                type="audio/x-m4a" 
+                length="105274177" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6595e7145c7c5e5a90185bb0/a7217a6a09aa466f78854c1d358f4343276851112136e7c8c354c9a0d866b43a" 
+                type="audio/x-m4a" 
+                length="79109651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6595e7145c7c5e5a90185bb0/83f3d60cfd2b124ac42ed52b5b547127af7e2798009ee847ab45f1fde09b5427" 
+                type="audio/x-m4a" 
+                length="26780314" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321020</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-julegave-generatoren-threads-kommer-til-europa-historisk-rettighedsaftale-og-chatgpt-skal-vaek-fra-eksamenslokalet-11802321020</link>
+            <title>Julegave-generatoren, Threads kommer til Europa, historisk rettighedsaftale og ChatGPT skal væk fra eksamenslokalet</title>
+            <description>Vi diskuterer, hvorfor det er stort, at den tyske mediegigant Axel Springer, der står bag bl.a. Die Welt og Bild, har indgået en aftale med OpenAI. Så har vi testet Threads - Metas kopi af Twitter - der nu endelig er kommet til Europa. Vi vender undervisningsministeriets midlertidige anbefalinger til at håndtere ChatGPT til eksaminerne. Og til sidst tester vi en julegavegenerator, der med generativ AI lover at finde den perfekte julegave.
+Værter: Marcel Mirzaei-Fard, tech-analytiker i DR og Henrik Moltke, DRs techkorrespondent.</description>
+            <pubDate>Thu, 21 Dec 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd05c376d18d9c322ab/d9de4508f6692fdce22b12a3505caca7685c61d64bdeb19fd9b9a3ace8f0f01a" 
+                type="audio/mpeg" 
+                length="77990275" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd05c376d18d9c322ab/9eb93191c2386e670976e2296fa20f25b0e6f03f15d296199d912fcb15ba2134" 
+                type="audio/mpeg" 
+                length="25997059" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd05c376d18d9c322ab/17131a9312f7177db51d81d95a2c4e03104b28ac36b3c48c4c7777d6d217b092" 
+                type="audio/x-m4a" 
+                length="104596653" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd05c376d18d9c322ab/18994673ce1cf4f711589449cac007ce8f7a11ea30bc2657bdcac0959e71e0ab" 
+                type="audio/x-m4a" 
+                length="78600311" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd05c376d18d9c322ab/6163174910d96abeec57695a5b56ede6b4c7e9539c708891255aa16c38d0bf13" 
+                type="audio/x-m4a" 
+                length="26607767" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321019</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-verdens-foerste-ai-lov-falsk-ande-tegning-og-ai-der-redder-liv-11802321019</link>
+            <title>Verdens første AI-lov, falsk ande-tegning og AI, der redder liv</title>
+            <description>Vi vender hver en sten om EU's AI Act, som bliver kaldt verdens første store lov om kunstig intelligens. Vi kigger nærmere på internettets reaktioner på Googles nye super-AI, Gemini. Internettet har nemlig fniset af Google, fordi det viste sig, at selskabet havde smurt for tykt på i en af præsentationsvideoerne. Og så taler vi med den Københavnske start-up Corti, der har succes med et AI-system, der fx kan lytte med på samtalerne til 112 og kan spotte patienter med fx hjertestop.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 14 Dec 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:28</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4c7644ff3cc5147db/5911dfebb3d89afc4a5e14932be1f92e8bb7f88c445cdc285268bbbaca4fcd16" 
+                type="audio/mpeg" 
+                length="78456838" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4c7644ff3cc5147db/ed2341361d8f5bfd9dc193f47c1bb888ddb41d17039ad1fa5c1304afb06e8ea7" 
+                type="audio/mpeg" 
+                length="26152582" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4c7644ff3cc5147db/d0dd4392642cf8e510687d1756999646c0148789f70135dd04879e460afa8b45" 
+                type="audio/x-m4a" 
+                length="105222207" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4c7644ff3cc5147db/1d59604b193c8355a225a75410987f521ebd110c0a33725f707ac3495289b95b" 
+                type="audio/x-m4a" 
+                length="79070315" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4c7644ff3cc5147db/2eabf066ec41a5c6c5302b68204807d35559a510b321ede2a910511b71f254ec" 
+                type="audio/x-m4a" 
+                length="26766932" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321018</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-herre-gemini-boern-paa-instagram-og-ai-genereret-influencer-11802321018</link>
+            <title>Herre Gemini, børn på Instagram og AI-genereret influencer</title>
+            <description>Google har annonceret deres længe ventede AI-model Gemini. Selskabet har lagt alt på ét bræt, og det skal blive en succes. Henrik var med til præsentationen.
+Meta har vidst, at der var masser af børn på Instagram, selvom man skal være 13 for at være derinde. Nu er selskabet anklaget af 33 amerikanske stater for bl.a. at have tjent penge på børnene.
+Og så har et spansk bureau skabt en AI-influencer, som tjener gode penge. Ja, hvorfor bruge løn på krævende influencere, når man bare kan skabe én med AI?
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 07 Dec 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:33</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf892ee122ec4ddcbf/40bb905c93cb29402e4025a1fd01b93849dbd3b785644558019893e064dc5578" 
+                type="audio/mpeg" 
+                length="78565709" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf892ee122ec4ddcbf/043ec5ca12398d6c49ec43aaa208dcbae8254972ba7b36c14dea2fcfa1fbc15e" 
+                type="audio/mpeg" 
+                length="26188877" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf892ee122ec4ddcbf/6d9e7595aecb155f7e07572f35f1c114fa4ba3638d9f0ff7e5f459e4533c331b" 
+                type="audio/x-m4a" 
+                length="105368323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf892ee122ec4ddcbf/475ca709279ca22148ad08b39e09a3291be124ed5e36f5374038960c3073d889" 
+                type="audio/x-m4a" 
+                length="79180367" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf892ee122ec4ddcbf/aaf5569bcba996d8e5bd68fecfb128087232d2d96175435ee5b210373228aa51" 
+                type="audio/x-m4a" 
+                length="26804084" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321017</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-google-hyrer-dansk-ai-legende-boernenes-creepy-ai-ven-og-project-q-11802321017</link>
+            <title>Google hyrer dansk AI-legende, børnenes creepy AI-ven og Project Q*</title>
+            <description>Holder påstanden om, at Sam Altman holdt et stort AI-gennembrud hemmeligt for OpenAIs bestyrelse - og at det var grunden til, at han blev fyret? Vi diskuterer rygterne om Project Q* og vender brikkerne efter jordskælvet hos OpenAI.
+Vi får også besøg af Googles nye vicepræsident for AI, den danske Danny Lange, der er en legende inden for AI og har arbejdet hos Uber, Microsoft og Amazon gennem tyve år.
+Og så stresstester vi Snapchats MyAI, fordi en ny undersøgelse viser, at hvert ottende barn under 14 år har brugt Snapchats MyAI i stedet for at tale med en ven. Hvor god en ven er MyAI egentlig?
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 30 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd1c7644ff3cc5147bf/856c6e56f9262a453459ed2a7aa19931fc47582bad8317177a38dbef9d2fe7bc" 
+                type="audio/mpeg" 
+                length="78107205" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd1c7644ff3cc5147bf/15c35a25a5ed24dab7bf83dc3620785144f5dfdf28d40facc3819859f96c3f0c" 
+                type="audio/mpeg" 
+                length="26036037" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd1c7644ff3cc5147bf/0a83d87162c150f5d2b89ba36f1ebea00d842bfab69d5e7ac513e0569739861a" 
+                type="audio/x-m4a" 
+                length="104753804" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd1c7644ff3cc5147bf/042a9d61120fcd19ad7082db5bf2aa2857f34fe9133365897e45eb82c7a1d3d2" 
+                type="audio/x-m4a" 
+                length="78718499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd1c7644ff3cc5147bf/991b113640d06bda0e6299a3e869ac7b70a2993c5135ebaf2f0e8186fd363125" 
+                type="audio/x-m4a" 
+                length="26647964" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321016</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-atombomben-hos-openai-og-digitalt-boernearbejde-11802321016</link>
+            <title>Atombomben hos OpenAI og digitalt børnearbejde</title>
+            <description>Sam Altman blev fyret, skiftede til Microsoft og vendte tilbage igen på under én uge. Vi giver dig overblikket over den atombombe, der detonerede hos firmaet bag ChatGPT - og spørger, hvad det betyder for udviklingen af AI fremover. Træning af AI kræver ofte dårligt betalt menneskearbejde som fx at markere, om et billede forestiller en bus eller en lastbil, eller om en bestemt sætning er racistisk eller ej. Vi taler med journalisten Niamh Rowe, der har mødt en 15-årig pakistaner, som arbejdede for 1-2 dollar i timen med at træne AI'er.
+Vært: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 23 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf5c376d18d9c322a3/af36427db2003746a4d0c00e0d3c7e714f8a3fc719f59ff9d5dacdf292f4b002" 
+                type="audio/mpeg" 
+                length="78034632" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf5c376d18d9c322a3/6e44a07a8ecc37cbed6f9144db79b42abcfc1e943803f7d39c2c5bcb59049fc9" 
+                type="audio/mpeg" 
+                length="26011848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf5c376d18d9c322a3/751c7066d741b4c409c8e0273e2b36f2d7ba0b3034320d677c78bd1efdc8ba97" 
+                type="audio/x-m4a" 
+                length="104656183" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf5c376d18d9c322a3/e53a55e462950114e5f3a6331d96ed1d8dda90a6ee2532a732e06db84b4f4d1e" 
+                type="audio/x-m4a" 
+                length="78645173" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcf5c376d18d9c322a3/9136074e8e6127504a12e248aaca5c3f70208fa998a54de39095b2df0a02aa5e" 
+                type="audio/x-m4a" 
+                length="26622992" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321015</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-ai-dims-erstatter-din-smartphone-chatgpt-stjaeler-dit-job-og-regler-for-ai-krig-11802321015</link>
+            <title>AI-dims erstatter din smartphone, ChatGPT stjæler dit job og regler for AI-krig</title>
+            <description>Hvis smartphonen var internet-generationens gadget, hvad bliver AI-generationens så? Vi diskuterer det seneste bud: Den længe ventede og hypede Humane AI Pin, der lover at kunne erstatte behovet for en smartphone. Danmark har underskrevet en erklæring om ansvarlig brug af AI-våben initieret af USA. Vi diskuterer, om vi er klar til at lade algoritmen bestemme, hvem der skal dø og overleve. Vi vender også et cyberangreb mod ChatGPT og en række studier, der viser, at generativ AI allerede nu har stjålet jobs fra tekstforfattere og grafiske designere.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.
+Gæst: Iben Yde, adjunkt ved Forsvarsakademiet.</description>
+            <pubDate>Thu, 16 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:15</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd0c7644ff3cc5147ba/30c98f2ef27bbb5a1d8f47381e6df4a664046945e405645b732713d98c0fe50a" 
+                type="audio/mpeg" 
+                length="78125275" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd0c7644ff3cc5147ba/442e78ac6c433e7baf41d40c81010d89d15ad94b0e9e2efc01b8143e379cf976" 
+                type="audio/mpeg" 
+                length="26041819" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd0c7644ff3cc5147ba/4225aaf49beaaa1cf0547abced7806368cb53a51bc4685ac52955a43e771f29e" 
+                type="audio/x-m4a" 
+                length="104778518" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd0c7644ff3cc5147ba/fd0df4678e3030683cc87f0520d9b12fc2ec5b8f7f5da5f0af9d981269a6fea4" 
+                type="audio/x-m4a" 
+                length="78737081" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd0c7644ff3cc5147ba/906ed980acfaede9a70f925bd35d8a928ae26abbff9dabafc2f7742a6c52d93b" 
+                type="audio/x-m4a" 
+                length="26653994" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321014</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-muskgpt-ai-topmoede-og-chatgpts-vilde-forvandling-11802321014</link>
+            <title>MuskGPT, AI-topmøde og ChatGPTs vilde forvandling</title>
+            <description>Elon Musk har lanceret en ny sarkastisk chatbot, og Henrik Moltke forsøger febrilsk at komme med et godt argument for at bruge den. Vi samler op på de mange nye funktioner, ChatGPT har fået bare inden for de seneste måneder. Og så får vi besøg af Margrethe Vestager, der er kandidat til præsidentposten for Den Europæiske Investeringsbank. Sammen med hende vender vi det historiske AI-summit, hvor Vesten, Kina og alle de store AI-selskaber var samlet i Storbritannien for første gang.</description>
+            <pubDate>Thu, 09 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5c7644ff3cc5147e3/d0dea00f7a41b14306dbb3f17da7e42eff25676fe978c2ed7111d3a598bcd1bd" 
+                type="audio/mpeg" 
+                length="78594139" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5c7644ff3cc5147e3/c5652e49c3604f2ee4a5b4ea989fb5f847d95f586012f65921e6b794c72196aa" 
+                type="audio/mpeg" 
+                length="26198107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5c7644ff3cc5147e3/8b1768c7d342dcf19794308fab5a92e76496194d34fddfba34d0da80e785e2ed" 
+                type="audio/x-m4a" 
+                length="105407601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5c7644ff3cc5147e3/84b19b5ce5fb0367b496cba055914d90e7dd775bc2327bb2158f54c49e2894ee" 
+                type="audio/x-m4a" 
+                length="79209677" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5c7644ff3cc5147e3/6fe8ead28c89f5e727ede45811e0125548c99e5c25e6e95d23af6b3ffadafa3f" 
+                type="audio/x-m4a" 
+                length="26813965" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321013</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-so-ein-foererloes-bil-instagrams-palaestina-bommert-og-bidens-ai-plan-11802321013</link>
+            <title>So ein førerløs bil, Instagrams Palæstina-bommert og Bidens AI-plan</title>
+            <description>Meta undskylder for - under visse omstændigheder - at have oversat "palæstinenser" til "terrorist" på Instagram. Hvad fortæller det os om bias i maskinoversættelser? General Motors har mistet sin licens til at køre robottaxa i San Francisco, efter at en af deres biler kørte en kvinde ned. Det er ellers kun to måneder siden, at staten tillod selvkørende taxier at operere døgnet rundt. Vi får besøg af Nikolaj Sonne, tidligere vært på So ein Ding, til at vende, hvad der gik galt. Vi vender også præsident Biden, der har underskrevet et dekret om AI, der skal beskytte forbrugerne og den nationale sikkerhed.
+Vært: Marcel Mirzaei-Fard, tech-analytiker, og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 02 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:33</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcfc7644ff3cc5147af/ad4f4fd20a4d61960cb6eaef8657c8e5abeb678d1f8b5fda29bcd322d2bbfce6" 
+                type="audio/mpeg" 
+                length="78567067" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcfc7644ff3cc5147af/476edddff2ace0ec400cb7994a0ea5f434308472c2700870bffccf3222296b6c" 
+                type="audio/mpeg" 
+                length="26189083" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcfc7644ff3cc5147af/61f8890f8ffea88ba48d0fb1ffe466e705582ac16be80f08af836902c33c4a8e" 
+                type="audio/x-m4a" 
+                length="105371015" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcfc7644ff3cc5147af/6092fa8b2b05d19cfb56e683a89c5af40f022d6da00934e95f585e9aae26b6eb" 
+                type="audio/x-m4a" 
+                length="79182353" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcfc7644ff3cc5147af/b70b13dc65113da103428d06851ee0c9daca1ce3c6d0c47db1f2386466e5f3bb" 
+                type="audio/x-m4a" 
+                length="26804745" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321012</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-ai-fail-i-israel-tv2-deep-fake-og-musk-s-1dollar-11802321012</link>
+            <title>AI fail i Israel, TV2-deep fake og Musk's 1$</title>
+            <description>Israel er blandt eliten inden for AI-teknologi til militært brug og efterretninger. Alligevel blev Israel i den grad overrasket af Hamas, der angreb på helt gammeldags, low-tech manér. Blev AI en sovepude for israelerne, og hvad har dén krig lært os om at bruge AI i moderne krig?
+Vi taler med TV2 Nyhedernes vært Ditte Haue, der er blevet misbrugt i video-deep fake, der skal lokke folk til at downloade en casino-app. Måske det første tilfælde, hvor en dansk nyhedsudsendelse bliver ramt. Henrik Moltke følger sporet og finder ud af, hvem der har lavet videoen.
+Og så vil Elon Musk have dine kreditkortoplysninger og 1 dollar om året, hvis du vil skrive på X, tidligere Twitter. I hvert fald hvis du bor på Filippinerne eller New Zealand. Det skal endegyldigt skaffe ham af med de mange bots, der plager Twitter. Men vil det virke?
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 26 Oct 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5892ee122ec4ddce3/728810a148320e99ad06bff41c423c7ab1ef7a0ea9fcde271d759e83260f58ea" 
+                type="audio/mpeg" 
+                length="78499099" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5892ee122ec4ddce3/cf5c3620a4ea47637089f881341c4532abd0e86249f0e9db9232756df5abfd27" 
+                type="audio/mpeg" 
+                length="26166427" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5892ee122ec4ddce3/bb1469bcd8dd2d4e903b9cd1818c15eb71080ec06c852f3bb9903c50d9c3dbe8" 
+                type="audio/x-m4a" 
+                length="105279597" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5892ee122ec4ddce3/d13418dd8a365242bcc2fbdcb34d2b14bb4929c076da4bd6817ec311467737a1" 
+                type="audio/x-m4a" 
+                length="79113645" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd5892ee122ec4ddce3/b3a0273527097f6f4d19bb6e50f81ffebeec5e35555b400c6ba0f4070d1374aa" 
+                type="audio/x-m4a" 
+                length="26781691" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321011</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-podcast-de-inteligencia-artificial-kunstig-terapi-og-black-box-mysteriet-11802321011</link>
+            <title>Podcast de inteligencia artificial, kunstig terapi og black box-mysteriet</title>
+            <description>Terapi-chatbots vrimler frem, og de hævder at kunne svare med empati og hjælpe med at afhjælpe lidelser som depression og angst. I en tid, hvor unge venter 26 uger på at komme til psykolog, er AI-terapi da svaret?
+Anthropic, skaberne bag chatbotten Claude, hævder at have gjort en opdagelse, der kan revolutionere chatbots i fremtiden. De neurale netværk i de nuværende chatbots er lidt af et mysterium, hvilket gør det udfordrende at løse problemer som hallucinationer og racistisk adfærd. Men med Anthropics opdagelse er vi tættere på at løse disse problemer og få bedre chatbots, mener forskeren Johannes Bjerva, der kommer i studiet.
+Dubbing er den nye AI-dille. Spotify vil fx AI-oversætte podcasts, så visse amerikanske udsendelser kan nydes på spansk, tysk og fransk, endda med de oprindelige værters stemmer og toneleje. Spørgsmålet er, om der overhovedet brug for tolke, hvis AI-oversættelse kan gøres på få minutter? Hør også, hvordan det går, da Prompt får AI-oversat programmet.
+Værter: Marcel Mirzaei-Fard og Henrik Moltke.</description>
+            <pubDate>Thu, 19 Oct 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd6892ee122ec4ddce7/9cb487ce9f9b1d840b12b7de10a3374f532aca14b5f2aabee799e710edabfbb5" 
+                type="audio/mpeg" 
+                length="78506587" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd6892ee122ec4ddce7/30bce338653e3da8e03ab3d4cce5c2f799e023dcbe17fcfc10d20ab18967f614" 
+                type="audio/mpeg" 
+                length="26168923" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd6892ee122ec4ddce7/ea99d4039bbd898e3a3ec808917391521c073257352e3687343ac038975f68d7" 
+                type="audio/x-m4a" 
+                length="105290085" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd6892ee122ec4ddce7/cc30bb47edcc652f981fff5094facc7b41719cd40d7df83985022ce053544ab6" 
+                type="audio/x-m4a" 
+                length="79121537" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd6892ee122ec4ddce7/f8cfbee6190fc787b228c83324473d4534b1434e2b242767d6e060488b1a2c7e" 
+                type="audio/x-m4a" 
+                length="26784223" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321010</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-ai-partykiller-snakke-sludre-tale-bot-og-mitgpt-11802321010</link>
+            <title>AI-partykiller, snakke-sludre-tale-bot og MitGPT</title>
+            <description>Prompt har fået adgang til ChatGPTs kommende snakkemodul. Vi tester, hvor godt den snakker dansk. Vi diskuterer også, hvorfor AirBNB nu bruger AI til at spotte festaber, der vil holde smadrefester i lejede boliger. Og så vil staten have sin egen chatbot. Er det en god idé med et 'MitGPT'? André Rogaczewski, CEO i NetCompany, siger nej tak, og vi spørger hvorfor.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 12 Oct 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd35c376d18d9c322c1/491747a3804ddadf5798acf68f70b6d2f47fd9b3558b6525401b7a06c6766a83" 
+                type="audio/mpeg" 
+                length="78378139" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd35c376d18d9c322c1/4aa7c808d2579d1265d235b5db9cf450e80a677c4370709387be79c1b12e8f88" 
+                type="audio/mpeg" 
+                length="26126107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd35c376d18d9c322c1/37ec1fb8fff5983be79f5fae3fb7cd528fa65a5c73e0516001a1b8d21a3891bf" 
+                type="audio/x-m4a" 
+                length="105116913" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd35c376d18d9c322c1/14bb822eb7eb40e5890ab73794a82066155e0c9157198b50585878e9326e6025" 
+                type="audio/x-m4a" 
+                length="78991385" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd35c376d18d9c322c1/d188e333c1854382433c06fa88f7f87a38255e2f8e12d79bd5d3dd283a51e193" 
+                type="audio/x-m4a" 
+                length="26740162" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321009</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-snoop-bot-hollywood-overgiver-sig-og-openai-forelsket-i-dansk-blinde-app-11802321009</link>
+            <title>Snoop Bot, Hollywood overgiver sig - og OpenAI forelsket i dansk blinde-app</title>
+            <description>Meta stempler ind i AI-kapløbet med "sjove" AI-bots, som Snoop Dogg og Kendall Jenner lægger persona til. Det skal lokke de unge til, som er flygtet til TikTok. Vil Zuckerbergs planer lokke de unge over i hans metavers? Efter fem måneders dødvande kan der snart blive produceret film og serier i Hollywood igen. Parterne er nået til enighed om en ny aftale om AI. Og så får vi besøg af Hans Jørgen Wiberg, stifter af det danske selskab Be My Eyes, der netop har indgået samarbejde med verdens førende AI-selskab, OpenAI. Be My Eyes har hjulpet OpenAI med dets nye funktion Vision, der gør det muligt at få analyseret fotos med ChatGPT.
+Værter: Marcel Mirzaei-Fard, techanalytiker i DR og Henrik Moltke, techkorrespondent i DR.</description>
+            <pubDate>Thu, 05 Oct 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4892ee122ec4ddcdb/2d269b8f8707fe0c3cb5c4b08eeb276d004a93afcb39e23dcf3ef3985d14ff3e" 
+                type="audio/mpeg" 
+                length="78258907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4892ee122ec4ddcdb/349bb32d3bcccb530e614f2ec1664996bb46c0886c949eccacb5b8c999b0d4c6" 
+                type="audio/mpeg" 
+                length="26086363" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4892ee122ec4ddcdb/13c746720fea3187ef3a2bbd43d4a6126b27afce84968bcd4c9ad89accdfac6a" 
+                type="audio/x-m4a" 
+                length="104957678" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4892ee122ec4ddcdb/e04f7748187c0c1078f928203921df5b35882e83ee0e042e5d3a4dd4061c28ee" 
+                type="audio/x-m4a" 
+                length="78871721" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd4892ee122ec4ddcdb/e563ad3225e947d8b441792b8ceb0ffd9ac44bd12e94f2c13693110f8f29d8bf" 
+                type="audio/x-m4a" 
+                length="26699658" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321008</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-hestenet-toerstige-prompts-og-chatbot-der-kan-hoere-og-se-11802321008</link>
+            <title>Hestenet, tørstige prompts og chatbot, der kan høre og se</title>
+            <description>Det koster milliarder af liter vand at udvikle og køre ChatGPT. Men hvor meget vand koster det at lave en prompt? Og er det værre end at google? Vi spørger forskeren Kate Crawford, der er på Time's top 100-liste over vigtigste AI-personer i verden.
+Vi skal også forbi kultsitet Hestenettet, som et hold forskere i Danmark har brugt til skelettet til en dansk chatbot. Vi diskuterer, hvorfor Hestenettet er det perfekte grundlag at bygge en AI på.
+Og så er der store opdateringer til ChatGPT og Dall-E - billedgeneratoren - på vej. Fremover kan du fx tale med ChatGPT, som kan svare tilbage, og Dall-E bliver mere menneskelig. Vi gennemgår forandringerne og spørger, om opdateringerne kommer til at gøre vores liv nemmere - eller bare er en gang salgs-bluff.
+Værter: Marcel Mirzaei-Fard, tech-analytiker, og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 28 Sept 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2c7644ff3cc5147ca/10a725673fe35cf942e7c845012b590698ff2266d6d2347926f9ef29988aa154" 
+                type="audio/mpeg" 
+                length="78560155" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2c7644ff3cc5147ca/ef8345063ca720b6b5ced3a83aa59f66a7b9ef32c4e885abf6a9537e05c7815b" 
+                type="audio/mpeg" 
+                length="26186779" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2c7644ff3cc5147ca/4bc12476188b3ac889ce9438175671aa1e8114e0be723a410c5087f28a3b7243" 
+                type="audio/x-m4a" 
+                length="105361354" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2c7644ff3cc5147ca/c46003413ad593a824ee6c6e202209566f91c3b45109bdac1f5e0cd2d2219e60" 
+                type="audio/x-m4a" 
+                length="79175105" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2c7644ff3cc5147ca/904a92f3eaa98e520f3ccad4b5e8a7f1fc0d6bd8ed930ff7b7ac20bac8931bc0" 
+                type="audio/x-m4a" 
+                length="26802402" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321007</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-vestager-ai-superstjerner-og-kort-arbejdsuge-11802321007</link>
+            <title>Vestager, AI-superstjerner og kort arbejdsuge</title>
+            <description>Margrethe Vestager gæster Prompt for at fortælle om sin måske sidste handling som EUs 'tech-zar': Den første store lov om kunstig intelligens i Vesten.
+Magasinet Time har for første gang udgivet en AI-udgave af sin berømte top 100-liste over de mest indflydelsesrige personer. Vi giver dig overblikket over de største superstjerner inden for kunstig intelligens.
+Og så diskuterer vi, om AI vil skade eller gavne de lavestlønnede. Den amerikanske senator Bernie Sanders vil nemlig have forkortet arbejdsugen, fordi AI gør os mere produktive.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 21 Sept 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcec7644ff3cc5147a4/b9aa1c629060689e9036d25c8f6b73063f91f62a074265989c0197ec0cea550b" 
+                type="audio/mpeg" 
+                length="78667867" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcec7644ff3cc5147a4/827ffc84218a4da4ad307f94a360ffa4fca6e590b1e2d608983082a84700feae" 
+                type="audio/mpeg" 
+                length="26222683" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcec7644ff3cc5147a4/2db76064e1b9d99476d6ecea033bb999f26ec474b3f5dcde98309d1c9ecdef07" 
+                type="audio/x-m4a" 
+                length="105505522" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcec7644ff3cc5147a4/71e2cd89028d4d2293a60037a00c43e302de3a8b30739327108c908f96d05a88" 
+                type="audio/x-m4a" 
+                length="79283481" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bcec7644ff3cc5147a4/a350dcd28e0c6831964c8ab4983e0dcf7a8b3d3d15afc2f58202e5c9281de1d2" 
+                type="audio/x-m4a" 
+                length="26839105" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321006</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-moedevikaren-fra-helvede-musk-og-ai-der-goer-os-dovne-11802321006</link>
+            <title>Mødevikaren fra helvede, Musk og AI der gør os dovne</title>
+            <description>Hvorfor er Elon Musk hunderæd for AI? Og hvorfor forlod han OpenAI, som han var med til at stifte? Det bliver vi klogere på i Walter Isaacsons længe ventede biografi om verdens rigeste mand. Vi tegner et portræt af Musk som AI-pionér.
+De svageste elever forbedrer sig markant, når de får ChatGPT til rådighed under eksamen. Men de dygtige elever bliver underligt nok dårligere. Det konkluderer et studie fra University of Minnesota. Chatbots kan gøre os dovne, mener forskerne. Vi diskuterer, hvad AI gør ved os som mennesker med Christiane Vejlø.
+Google ønsker at revolutionere den måde, vi afholder møder på, med nye AI-værktøjer i Google Meet. Hvis du ikke har mulighed for - eller lyst til - at deltage i et møde, kan du sende en AI-stedfortræder i stedet.  Men hvad er formålet med at afholde møder, hvis man blot kan sende en stedfortræder?
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+            <pubDate>Thu, 14 Sept 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd15c376d18d9c322b3/c5ce0d3a2cb8feb8af1d1bcaf80e40c2949b5f626756328e2b334dfcb35304f3" 
+                type="audio/mpeg" 
+                length="78336667" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd15c376d18d9c322b3/87cff213e91f87c28426cc813482b043436d95d284a30cefad79adb41fee2761" 
+                type="audio/mpeg" 
+                length="26112283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd15c376d18d9c322b3/2868429bada4960c4c0db2d3ef5cf14c3fc22734904310796908060a875a5003" 
+                type="audio/x-m4a" 
+                length="105062051" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd15c376d18d9c322b3/cd2d904ce63c26fa13ed08208da463bb76d474d8643b645e94721e3fdfc1677c" 
+                type="audio/x-m4a" 
+                length="78950141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd15c376d18d9c322b3/faadf846f3b3dc7d163dacf5c5fc14236a550b12f92c6bf71ece9fa9e1aacb1f" 
+                type="audio/x-m4a" 
+                length="26726149" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321005</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-chatgptyv-doedelige-ai-opskrifter-og-kinesisk-kopi-11802321005</link>
+            <title>ChatGPTyv, dødelige AI-opskrifter og kinesisk kopi</title>
+            <description>"Har Kina ytringsfrihed?" og "Hvad skete der på Den Himmelske Freds Plads i 1989?". Vi stresstester Kinas nye ChatGPT-kopi, Ernie Bot, sammen med DRs asienkorrespondent, Philip Roin.
+"Wild Mushroom Cookbook" er navnet på en svampeplukningsbog, der er blevet solgt på Amazon for få dollars. Problemet er, at flere af dem er skrevet af kunstig intelligens, hvilket kan gøre dem livsfarlige. Vi diskuterer, om vi er på vej mod en bølge af AI-genererede bøger.
+Vi diskuterer også, om tiden som kæledægge ved at være slut for ChatGPT. New York Times truer nemlig med at trække OpenAI i retten, idet de mener, at ChatGPT er trænet på avisens artikler - uden betaling.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.
+(Sendt første gang 7. september 2023).</description>
+            <pubDate>Thu, 07 Sept 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcb5/8e0464b5bbb0563dbce9d4a31c604f403e62cbec58bdd79c0947b5b45a32a49a" 
+                type="audio/mpeg" 
+                length="78455323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcb5/01e2c8c6b50b0ec18b16824a191c4880499187563cbb98c7266aebb7d4b59641" 
+                type="audio/mpeg" 
+                length="26151835" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcb5/5d837856c708859ba994892c3dcb95346de37336b52a3e4ef9a69f3c0cc17293" 
+                type="audio/x-m4a" 
+                length="105220599" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcb5/9f74db76eb3bd8836c3527f0ce6fe6278d855d95ae7f6f08fbb25a3433b66c20" 
+                type="audio/x-m4a" 
+                length="79069313" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcb5/f7df231335181fda630c032cacbf9cf705c21ead359a544838e8e468e378e3c1" 
+                type="audio/x-m4a" 
+                length="26766632" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321004</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-ai-porno-dansker-fakes-og-dybe-rettigheder-11802321004</link>
+            <title>AI-porno, dansker-fakes og dybe rettigheder</title>
+            <description>Henrik Moltke hader deep fakes. 'Ulven kommer', hører vi... men vi er aldrig rigtig ÆGTE blevet narret af deep fakes - især ikke danske. Men nu sker der noget! Elevenlabs, et fremadstormende amerikansk stemmeklonings-selskab, har netop åbnet for, at man kan træne sin egen stemmerobot på dansk. Er det nu, at ulven kommer?
+Døde og levende artister, der synger sange, de aldrig har sunget, er et megahit på TikTok og YouTube, men indtil nu har artisterne ikke fået en krone for det. Nu har Google og Universal for første gang sat sig til bordet for at diskutere en rettighedsaftale. Ugens gæst er Anna Lidell, musiker og formand i Autor - foreningen for danske sangskrivere.
+Pornosider tjener store penge på deep fakes af skuespillere, politikere og musikere i seksuelle situationer, de aldrig har befundet sig i. Billederne bliver sløret - indtil man betaler for det. Vi dykker ned i den dystre side af generativ AI.
+Værter: Marcel Mirzaei-Fard, tech-analytiker, og Henrik Moltke, tech-korrespondent.
+(Sendt første gang 31. august).</description>
+            <pubDate>Thu, 31 Aug 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2892ee122ec4ddccf/33c76d79ffebf21c9a6f063b042ddd3abe63a2ef03f809703375cf81fdbf1619" 
+                type="audio/mpeg" 
+                length="78342427" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2892ee122ec4ddccf/047aea8d371b87a5512b13224505860fb237c05bc6affbf3afbfc0654dc3d95f" 
+                type="audio/mpeg" 
+                length="26114203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2892ee122ec4ddccf/a06e7eaa3f16fe5fd195d8a5f76654b77fc62eef4c6a6e5513ce0e8f9ac68aa0" 
+                type="audio/x-m4a" 
+                length="105070351" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2892ee122ec4ddccf/b8f3dc4eca506d9493ad834f10fb301203601014727da9ca9f6df31c09835749" 
+                type="audio/x-m4a" 
+                length="78956285" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd2892ee122ec4ddccf/62c70624d07b31e9480f66ba2638b8c71d294e292cccf5140822acd877c9ab80" 
+                type="audio/x-m4a" 
+                length="26728176" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321003</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-venstrefloejs-chatbot-ai-livscoach-og-konfliktchips-11802321003</link>
+            <title>Venstrefløjs-chatbot, AI-livscoach og konfliktchips</title>
+            <description>ChatGPT er venstresnoet. Det er konklusionen på et nyt britisk studie. Vi diskuterer, om ChatGPT kan ende med en uheldig hovedrolle i det kommende amerikanske valg, hvor objektivitet og sandhed er blevet en politisk kampplads.
+Hvordan slår man op med sin kæreste uden at såre hendes følelser? Det kan du måske spørge en chatbot om snart. Google arbejder ifølge rygter på en bot, der bl.a. kan være en livs-coach for dig. Vi får besøg af PROMPTS husfilosof, Vincent Hendricks, og diskuterer, om vi risikerer at bliver følelsesmæssigt tilknyttet til chatbotsene.
+Kan chipkrigen få AI-revolutionen til at gå i vasken? Mikrochips er altafgørende for kunstig intelligens, og samtidig eskalerer Kina og USA handelskrigen over for hinanden. Kan AI-kapløbet eskalere chipkrigen og få virkelige konsekvenser?
+Værter: Marcel Mirzaei-Fard, tech-analytiker i DR, og Henrik Moltke, tech-korrespondent i DR.</description>
+            <pubDate>Thu, 24 Aug 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d0/4ae7aadafd663ca9b98695fac4aec773f006f52b6ad4a74035edb029848fa9d4" 
+                type="audio/mpeg" 
+                length="78466267" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d0/4fc0740f29fe5769ae234a2c3998761c6c289993266a67d5f7192f2a6a353482" 
+                type="audio/mpeg" 
+                length="26155483" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d0/a889c743a8a9777337c751f7c1dc39b6b6d9dc86b6855f069b5cabf5e3f274ad" 
+                type="audio/x-m4a" 
+                length="105235031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d0/c687726d7387b633e12770f7903b37be6c2a60e742e658df3f32a5efd841c06e" 
+                type="audio/x-m4a" 
+                length="79080209" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d0/2576fddc5b1c13581d43fc02d83edd1da28030640590bf424a1bd1daa437c4bf" 
+                type="audio/x-m4a" 
+                length="26769279" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321002</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-dommedagsstemning-bot-anmeldelser-og-presset-privatliv-11802321002</link>
+            <title>Dommedagsstemning, bot-anmeldelser og presset privatliv</title>
+            <description>Prompt har fået en mistænkelig anmeldelse, der virker til at være skrevet af en AI, og dem der kan der komme flere af. For firmaet bag ChatGPT har droppet udviklingen af et værktøj, der skulle skelne AI-genereret tekst fra ægte mennesketekst.
+Vi diskuterer også Apples chatbot, der rygtes på vej. Den vil køre lokalt på telefonen og dermed beskytte dit privatliv bedre.
+Og så får vi besøg af AI-entreprenør, Fred Benenson, der er venner med ChatGPT-skaberen Sam Altman, der er på TIMEs top 100 over mest indflydelsesrige personer. Vi diskuterer dommedagsstemning i Sicilon Valley og hos Sam Altman.
+Værter: Marcel Mirzaei-Fard, tech-analytiker i DR, og Henrik Moltke, tech-korrespondent i DR.</description>
+            <pubDate>Thu, 17 Aug 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcaf/b67611469cb906b169378ce24b9b8ce9bf80db2d713d05ebd752b625e7338b3f" 
+                type="audio/mpeg" 
+                length="78200731" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcaf/06f86698879ce18ce61619b28df215f058c1cab97d6a6190ba763521ae379b35" 
+                type="audio/mpeg" 
+                length="26066971" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcaf/1ac32aa715045816f0a91198770aadc64d7a28daf7a0d662a22087976ab77c07" 
+                type="audio/x-m4a" 
+                length="104879338" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcaf/e061b322f95eeb8056e4eef54e029a33b630e1519a011bd025b5f3372a9b69f1" 
+                type="audio/x-m4a" 
+                length="78812873" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bce892ee122ec4ddcaf/08102d79177e31c94c4050fb0688503a106ec1ab90d32282aba5f2191bf4e2b0" 
+                type="audio/x-m4a" 
+                length="26679848" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802321001</guid>
+            <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2023/prompt-bombeopskrift-bard-og-botjournalister-11802321001</link>
+            <title>Bombeopskrift, Bard og botjournalister</title>
+            <description>Selvom det burde være umuligt, har forskere fundet 'snydekoder', der kan få ChatGPT og andre sprogmodeller til eksempelvis at give opskriften på en bombe.
+Medvært Henrik Moltke keder sig ved tanken om at tale om Bard, Googles konkurrent til ChatGPT, men får nye tanker, da han afprøver den.
+Og så får Prompt besøg af Ida Ebbensgaard, fellow på SDU, der viser os eksempler på dansk journalistik, der er skrevet af en AI.
+Værter: Marcel Mirzaei-Fard, tech-analytiker i DR, og Henrik Moltke, tech-korrespondent i DR.</description>
+            <pubDate>Thu, 10 Aug 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d6/8ec031bfadabf31ccc7833707df66939bf19a78e2bcd8c308614c5ab1f46cb62" 
+                type="audio/mpeg" 
+                length="78609115" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d6/51204707bf8f3ac1b15ce793fd0d21b669c1a480e5b6aecafa9a1d5013bc1de4" 
+                type="audio/mpeg" 
+                length="26203099" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d6/a3034eba93b279f06d9c33ea964530f191803713cb753def6c1ebc9d97f69440" 
+                type="audio/x-m4a" 
+                length="105427326" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d6/ed3b9f6a9cf2a772e9e1944866b49674f0c6b972f5dca30bd84f0e8cc2f39cb6" 
+                type="audio/x-m4a" 
+                length="79224689" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64a66bd3c7644ff3cc5147d6/598b6a56bb16e79d0bdcb80a6ea947530624ace93ae258b3a43f996d64c2b1af" 
+                type="audio/x-m4a" 
+                length="26818959" />
+        </item>
+    </channel>
+</rss>

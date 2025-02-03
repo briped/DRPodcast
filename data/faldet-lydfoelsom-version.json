@@ -1,0 +1,740 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5421228843000",
+  "sortLetter": "f",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar"
+  ],
+  "numberOfEpisodes": 5,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-03-27T05:03:00+01:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version-5421228843000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/faldet-mysteriet-om-de-rystede-hjerner-lydfoelsom-version",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5421228843000",
+  "productionNumber": "5421228843000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:66016b40f6340c50cd78d284",
+  "slug": "faldet-lydfoelsom-version-5421228843000",
+  "title": "Faldet - Lydfølsom version",
+  "description": "Det første Mads Ellesøe hører da han åbner sine øjne er hans 7-årige datter, der råber \"FAR!\". Så mærker han, hvordan det bløder fra baghovedet. Han er faldet og har slået hovedet ned i badeværelsesgulvet. Et slag, der udvikler sig til at blive en langvarig hjernerystelse. Midt i sin kamp for at blive rask, oplever Mads, ligesom mange andre med længerevarende hjernerystelser, at blive overladt til sig selv uden meget hjælp fra det danske sundhedssystem. Pludselig opdager Mads Ellesøe, at der i USA virker til at være en helt anden tilgang til at behandle hjernerystelser. Så han rejser afsted i håb om at finde kuren mod hjernerystelser.\nVært og tilrettelæggelse: Mads Ellesøe.\nTilrettelæggelse, mix og musik: Mikkel Rönnau, MonoMono.\nRedaktør: Jens Vithner.\nOBS - der findes en version af serien med musik og lyddesign med titlen \"Faldet - Mysteriet om de rystede hjerner\".",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67001fa6722b3b22f919263d",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NbO-vxtQ{eWq%Ln%vLV@Tdsoi_ofShkCxZWVV@jZ",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001fa6722b3b22f919263d&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001fa6722b3b22f919263e&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67001fa6722b3b22f919263f",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oWNu;o$%h}ShwIoz.-I:x^w]bcni#ms.%LR+oKf,PVWCIUjZnijYnOf6r?bHs:azrXxFx]WVSNj[",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001fa6722b3b22f919263f&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001fa6722b3b22f919263e&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#0E2133",
+        "#F99597"
+      ]
+    },
+    "colors": {
+      "dark": "#0E2133",
+      "light": "#F99597"
+    }
+  },
+  "sSlug": "faldet-lydfoelsom-version",
+  "rssUri": "https://xmpl.dk/podcast/faldet-lydfoelsom-version.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418601",
+      "durationMilliseconds": 1410094,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418601",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-26T15:45:00+01:00",
+      "startTime": "2024-03-26T15:45:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-1-5-den-usynlige-fjende-lydfoelsom-version-11802418601",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:66016b416a0b4b9239ff33d5",
+      "series": {
+        "title": "Faldet - Lydfølsom version",
+        "id": "urn:dr:radio:series:66016b40f6340c50cd78d284",
+        "slug": "faldet-lydfoelsom-version-5421228843000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version-5421228843000",
+        "learnId": "urn:dr:ocs:audio:content:series:5421228843000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 11547524,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/8a23e19a287c85200a6bca5d52dfa37de810cf23a68af525f9e1dc4c548f7030"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 34109387,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/a2e23bbc24fd985a2c57c81c337e9d5bff106193d05b7737e84fc4f0f3b8104d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 45390704,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/2d6680ad8915af553ce1915075dd3bd200f1723fb941eeee67d6068588eac7b0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11281616,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/724aff3f006ac11c0048b202220014555003ba2fa642ea7064db9c9bc49d80c6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 33843920,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/dc7a13dc6f4b28dd0576a57b0e7b8b4233b622df2dce032a219849612df88eef"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b466a0b4b9239ff3409/8aec78e3b23763d413830311c0f3ab46c095af5fdb4872d7b27d54cc65fdc3e3"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418601",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-26T15:45:00+01:00",
+      "id": "urn:dr:radio:episode:66016b466a0b4b9239ff3409",
+      "slug": "faldet-1-5-den-usynlige-fjende-lydfoelsom-version-11802418601",
+      "title": "Faldet 1:5 - Den usynlige fjende - Lydfølsom version",
+      "description": "Da Mads Ellesøe slår hovedet i badeværelsesgulvet, bliver hans liv sat på pause. De efterfølgende måneder oplever han, at ingen i sundhedssystemet kan fortælle ham, hvad han skal gøre for at blive rask. Han må flytte væk fra sin kæreste og børn, og ind på sit gamle børneværelse hos sin mor. Her begynder ét spørgsmål at trænge sig på: Er vi i Danmark gode nok til at behandle personer med længerevarende hjernerystelser?",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263d",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NbO-vxtQ{eWq%Ln%vLV@Tdsoi_ofShkCxZWVV@jZ"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263f",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNu;o$%h}ShwIoz.-I:x^w]bcni#ms.%LR+oKf,PVWCIUjZnijYnOf6r?bHs:azrXxFx]WVSNj["
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2133",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2133",
+          "light": "#F99597"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418602",
+      "durationMilliseconds": 1595008,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418602",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-27T05:00:00+01:00",
+      "startTime": "2024-03-27T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-2-5-nedrullede-gardiner-lydfoelsom-version-11802418602",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:66016b413d11965f18fdde23",
+      "previousId": "urn:dr:radio:episode:66016b466a0b4b9239ff3409",
+      "series": {
+        "title": "Faldet - Lydfølsom version",
+        "id": "urn:dr:radio:series:66016b40f6340c50cd78d284",
+        "slug": "faldet-lydfoelsom-version-5421228843000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version-5421228843000",
+        "learnId": "urn:dr:ocs:audio:content:series:5421228843000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13061572,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/15df45c8ff77b77279c4625bac3ffa58288c1e019b8a321ad901561f3003fdee"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 38581543,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/f6328935dafe14137a831e64106738d05065a87c82cb8a875b022fbbb4e5ee6f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 51342080,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/2d1ba50c601dce39963f54a09fd10567f607e4dc4f1a1accf0c1c66765a1c720"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12760921,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/b8c09f61661d6a11dd0d93bbef9bd29741faa67558caebbd596f7809aa2f50dc"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 38281945,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/e49e68b21d3464491c6143130d460138edc996dad7ae464029a5526e49465307"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b416a0b4b9239ff33d5/d36d49e1ff529e43f576209e95a9752e129efa0b0221da5733c5d7273eda3004"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418602",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-27T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:66016b416a0b4b9239ff33d5",
+      "slug": "faldet-2-5-nedrullede-gardiner-lydfoelsom-version-11802418602",
+      "title": "Faldet 2:5 - Nedrullede gardiner - Lydfølsom version",
+      "description": "Bag nedrullede gardiner oplever Mads, at tiden er ved at løbe ud for en hurtig helbredelse af hjernerystelsen. Spørgsmålet er, om Mads kan undgå at hans sygdom bliver kronisk, som en læge har advaret ham om.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263d",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NbO-vxtQ{eWq%Ln%vLV@Tdsoi_ofShkCxZWVV@jZ"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263f",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNu;o$%h}ShwIoz.-I:x^w]bcni#ms.%LR+oKf,PVWCIUjZnijYnOf6r?bHs:azrXxFx]WVSNj["
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2133",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2133",
+          "light": "#F99597"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418603",
+      "durationMilliseconds": 1412464,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418603",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-27T05:01:00+01:00",
+      "startTime": "2024-03-27T05:01:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-3-5-et-sidste-haab-lydfoelsom-version-11802418603",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:66016b41f6340c50cd78d28a",
+      "previousId": "urn:dr:radio:episode:66016b416a0b4b9239ff33d5",
+      "series": {
+        "title": "Faldet - Lydfølsom version",
+        "id": "urn:dr:radio:series:66016b40f6340c50cd78d284",
+        "slug": "faldet-lydfoelsom-version-5421228843000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version-5421228843000",
+        "learnId": "urn:dr:ocs:audio:content:series:5421228843000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 11566813,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/bea2d614818b648d862b10301ba373bc2eaaabbdba5ad8188a089963b287938d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 34166579,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/14f438c31dd618c73d52278d68ee53d9149a781a2dc615655c1bdbf9ab4d0063"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 45466852,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/fb59680a2b7649c986e7a118f900bda1c937fed48cf0d207176ea9d658ac2fad"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11300594,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/5760119fd85f26ba54d888cb42cc175423b321ebeb65818e3cd071c41e1ee2f1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 33900914,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/a404442355be0f19f623684b7f79767a467aea483f5c24a000f101d45860fcb9"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b413d11965f18fdde23/7c35b02ff63283342682a205a392d7e689bc15fddb04f02d4464db3343d46f83"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418603",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-27T05:01:00+01:00",
+      "id": "urn:dr:radio:episode:66016b413d11965f18fdde23",
+      "slug": "faldet-3-5-et-sidste-haab-lydfoelsom-version-11802418603",
+      "title": "Faldet 3:5 - Et sidste håb - Lydfølsom version",
+      "description": "Med ørepropper i ørerne sætter Mads Ellesøe sig i flyet mod USA. Gemmer de her på den behandling, der kan kurere hans langvarige hjernerystelse? Efter næsten to års sygdom er det måske hans allersidste mulighed for at blive rask.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263d",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NbO-vxtQ{eWq%Ln%vLV@Tdsoi_ofShkCxZWVV@jZ"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263f",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNu;o$%h}ShwIoz.-I:x^w]bcni#ms.%LR+oKf,PVWCIUjZnijYnOf6r?bHs:azrXxFx]WVSNj["
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2133",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2133",
+          "light": "#F99597"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418604",
+      "durationMilliseconds": 1502773,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418604",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-27T05:02:00+01:00",
+      "startTime": "2024-03-27T05:02:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-4-5-tigerens-oeje-lydfoelsom-version-11802418604",
+      "order": 100004,
+      "nextId": "urn:dr:radio:episode:66016b41f6340c50cd78d28f",
+      "previousId": "urn:dr:radio:episode:66016b413d11965f18fdde23",
+      "series": {
+        "title": "Faldet - Lydfølsom version",
+        "id": "urn:dr:radio:series:66016b40f6340c50cd78d284",
+        "slug": "faldet-lydfoelsom-version-5421228843000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version-5421228843000",
+        "learnId": "urn:dr:ocs:audio:content:series:5421228843000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12306237,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/1dbcfb9fb15659e19e95bf5b7c932c4ba79de952f6e39a108b7f21fe3750e120"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 36350851,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/a8b595222081e916425fe2d4e357649d212edca480cc579bc05f19b71b47c683"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 48373616,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/f1477ca51264bdbe9a990d4e28eda7d582ca9216af875f323b16382638302dbb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12023117,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/7f3c6f7ee7ae184ca8d81e5b3dfd33fb13cd8d3864f1cb33e17fa83b9dfbd2c2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 36068429,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/a75df5420171512cab263dfb6086d473730af953ff4a0e4eafe0aa34a00fb387"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28a/9cc7ae7a9b41c666c0039039dbdc697ebdea948934bc11a16d2b27af34aa7543"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418604",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-27T05:02:00+01:00",
+      "id": "urn:dr:radio:episode:66016b41f6340c50cd78d28a",
+      "slug": "faldet-4-5-tigerens-oeje-lydfoelsom-version-11802418604",
+      "title": "Faldet 4:5 - Tigerens øje  - Lydfølsom version",
+      "description": "I Pittsburgh bliver Mads' verden vendt på hovedet. Lægerne beder ham gøre alt, som han har forsøgt at undgå de sidste to år. Masser af støj, træning og høj musik er kuren på hans rystede hjerne, siger de. Nu skal genoptræningsprogrammet vise sit værd de næste to uger. Men hvorfor har Mads fået den modsatte instruktion af lægerne i Danmark?",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263d",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NbO-vxtQ{eWq%Ln%vLV@Tdsoi_ofShkCxZWVV@jZ"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263f",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNu;o$%h}ShwIoz.-I:x^w]bcni#ms.%LR+oKf,PVWCIUjZnijYnOf6r?bHs:azrXxFx]WVSNj["
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2133",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2133",
+          "light": "#F99597"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418605",
+      "durationMilliseconds": 785407,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418605",
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-27T05:03:00+01:00",
+      "startTime": "2024-03-27T05:03:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-5-5-bonusepisode-albertes-rejse-til-pittsburgh-lydfoelsom-version-11802418605",
+      "order": 100005,
+      "previousId": "urn:dr:radio:episode:66016b41f6340c50cd78d28a",
+      "series": {
+        "title": "Faldet - Lydfølsom version",
+        "id": "urn:dr:radio:series:66016b40f6340c50cd78d284",
+        "slug": "faldet-lydfoelsom-version-5421228843000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version-5421228843000",
+        "learnId": "urn:dr:ocs:audio:content:series:5421228843000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 6432848,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/3c5fca693a694a57de02d84fced0b61dea506ec2b2b4ce3d533ca4da7e4a5c45"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 18999123,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/d80d85d80a7d9c8549d6e68bc7f9d63d3f292a2f0588b81ff178852c38a63585"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 25282752,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/e750d578ea2c0f9f54198e8ae890a320a08c7558544dadc3cf51aa40097bdbcb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 6284180,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/4a217c0b6929f7034a71f95a3e97898f4f802617f871c1e82c9503839b744cad"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 18851732,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/a9bab0779d11d527d927046998a1a7c680ee296dbecf0cb466c0f267d924ccd3"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66016b41f6340c50cd78d28f/370f8e2d7ac0ae7b9de6fbf7810f71aba5691b0eb4e4659e5e7d759250d4d484"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418605",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-27T05:03:00+01:00",
+      "id": "urn:dr:radio:episode:66016b41f6340c50cd78d28f",
+      "slug": "faldet-5-5-bonusepisode-albertes-rejse-til-pittsburgh-lydfoelsom-version-11802418605",
+      "title": "Faldet 5:5 - Bonusepisode - Albertes rejse til Pittsburgh - Lydfølsom version",
+      "description": "19-årige Alberte har fået revet sit ungdomsliv midt over af en massiv hjernerystelse. Ligesom Mads søger hun løsningen i USA og nu mødes de for at tale om, hvilken effekt behandlingen har haft på hende.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263d",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NbO-vxtQ{eWq%Ln%vLV@Tdsoi_ofShkCxZWVV@jZ"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263f",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNu;o$%h}ShwIoz.-I:x^w]bcni#ms.%LR+oKf,PVWCIUjZnijYnOf6r?bHs:azrXxFx]WVSNj["
+        },
+        {
+          "id": "urn:dr:radio:image:67001fa6722b3b22f919263e",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWNIv_$%U^OEwJofy@I;tlsSbcniWYxZxuNboJf+PUR+IUj@njnin3oLs:WVs:j[#mxFkqbHNboL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2133",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2133",
+          "light": "#F99597"
+        }
+      }
+    }
+  ]
+}

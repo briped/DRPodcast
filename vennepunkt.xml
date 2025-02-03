@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/vennepunkt.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Vennepunkt (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/vennepunkt-4920659345000</link>
+        <description>Vennepunkt er den ultimative guide til venskaber. Hver uge inviterer vært Sofie Diemer en gæst i studiet til en samtale om en vennefortælling, der åbner op for venskabets mange facetter - lige fra voldsomme vennebreakups til intense venneforelskelser. Sammen med sin gæst skriver Sofie til sidst et nyt punkt i venskabsguiden, så vi i fællesskab alle kan blive lidt bedre venner. 
+Produceret for DR af MonoMono.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:51 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/vennepunkt.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/vennepunkt.jpg</url>
+            <title>Vennepunkt (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt-4920659345000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/vennepunkt.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Livsstil</category>
+        <itunes:category text="Livsstil" />
+        <item>
+            <guid isPermaLink="false">16122493669</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-katrine-engberg-16122493669</link>
+            <title>Med Katrine Engberg</title>
+            <description>Det her er allersidste afsnit af Vennepunkt. Gæst er krimiforfatter Katrine Engberg, som  for nylig har erkendt, at hun har været alt for optaget af, hvad hendes venner gjorde for hende. Og ikke hvad hun gør for sine venner. Hun og Sofie lytter til en vennehistorie om to veninder, der har et forhold præget af konkurrence og jalousi, og det er noget Kathrine også kender til. 
+TAK til alle lyttere og til jer, der har sendt jeres vennehistorier til os. 
+
+Vært: Sofie Diemer.
+Medvirkende: Kathrine Engberg, krimiforfatter.
+Producer, klip og redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 19 Dec 2024 14:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a05f850aab1a1bac030/c838909e9868d845738711745e3eb0968fd74172fe62ffaf6344bdd5d3cd5697" 
+                type="audio/mpeg" 
+                length="65132792" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a05f850aab1a1bac030/3bdeac10e5e314be04276e849a704cfaa46938ec08683c6a9e15c389016eae56" 
+                type="audio/mpeg" 
+                length="21711224" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a05f850aab1a1bac030/a346f55457226bd7ca5b8715f32fc8a2c9bc8d8f1a4bd4a4ff153d6e6777175c" 
+                type="audio/x-m4a" 
+                length="87353651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a05f850aab1a1bac030/622835102d19763d7d2fad819b04ed62da93edb1e5fc7b3398202beff9081faf" 
+                type="audio/x-m4a" 
+                length="65642999" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a05f850aab1a1bac030/766306e013b4f07e11aab1ef3e437dc7366d3f03e96ad4589ed27b8d7ea67f93" 
+                type="audio/x-m4a" 
+                length="22220739" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493668</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-johanne-bille-16122493668</link>
+            <title>Med Johanne Bille</title>
+            <description>Forfatter Johanne Bille er i gang med nogle svære samtaler med sine venner. Efter sin skilsmisse oplever hun for alvor, hvordan hendes venner prioriterer deres romantiske relationer højere end hende. Hvorfor er jeres kærester vigtigere end mig, spørger hun sine venner. Johanne og Sofie taler om Sofies egen venskabshistorie, som hendes veninder har skrevet ind, og som handler om aldersforskel, onlinechats uden filter og livets store skilleveje.
+Vært: Sofie Diemer.
+Medvirkende: Johanne Bille, forfatter.
+Producer og redaktør: Rune Sparre Geertsen.
+Klip: Teitur Larsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 12 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a08102348273ca574e5/cc8289c67385ac1c51f796d8aa6c413951fc3a289e17745f2f4903331f4ae979" 
+                type="audio/mpeg" 
+                length="56337850" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a08102348273ca574e5/4ff8bc57b3f67e9090d01bdebd04cb23525eef0b1f94950076df08a4d662e725" 
+                type="audio/mpeg" 
+                length="18779578" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a08102348273ca574e5/4115f680254cbd3027727e025163bb64b3a5e20c449f0d131acf92ce52ac0ea1" 
+                type="audio/x-m4a" 
+                length="75558011" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a08102348273ca574e5/3c0a15bd9351c2ef6957c5c573f63a046410f54e9ea11a1ea5ad59be78e91e8b" 
+                type="audio/x-m4a" 
+                length="56778899" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a08102348273ca574e5/b73151a6b014b1e82859c408da6fb551b7b355d3b2b1c28bc438bba01db019f0" 
+                type="audio/x-m4a" 
+                length="19220291" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493667</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-mathias-helt-og-nicholas-nybro-16122493667</link>
+            <title>Med Mathias Helt og Nicholas Nybro</title>
+            <description>Da Mathias og Nicholas havde en heftig konflikt på jobbet, ledte det til en ærlig samtale, og det bragte det dem tættere på hinanden som venner. Sofie taler med dem om en lytterhistorie, hvor et venskab mellem tre unge fyre bliver udfordret, da en af dem bliver lidt for glad for at tage stoffer. 
+Vært: Sofie Diemer.
+Medvirkende: Mathias Helt og Nicholas Nybro, podcastværter og multitalenter.
+Producer og redaktør: Rune Sparre Geertsen.
+Klip: Teitur Larsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 05 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0a102348273ca574f1/94e719103e60d977152affe5447a20f67d65faac657d7829534aa2a1ea73600e" 
+                type="audio/mpeg" 
+                length="58947686" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0a102348273ca574f1/1958396ad06a97ff6dabf4af7c482ff15df52b6c8c93e2cf5a27903aa71c57f5" 
+                type="audio/mpeg" 
+                length="19649510" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0a102348273ca574f1/9871597fd7a09335170e0054063fd3e2a4693aa3d50177108fc5f1ea7fa5ee0a" 
+                type="audio/x-m4a" 
+                length="79058239" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0a102348273ca574f1/de3d8146eaed35af4f62a47bc4926050c1457d9e0e7f4f5c5f391722efaa6d76" 
+                type="audio/x-m4a" 
+                length="59408987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0a102348273ca574f1/2c61a9611e2f610e5d06cf0f801e275ff2b38af5b34e6594fb3b850d9b20f160" 
+                type="audio/x-m4a" 
+                length="20110595" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493666</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-line-knutzon-16122493666</link>
+            <title>Med Line Knutzon</title>
+            <description>Line Knutzon har ryddet op inde i sig selv, og hun har derfor sænket paraderne overfor sine venner. Hun er i gang med at finde ud af, hvem hun i virkeligheden er, og i den proces, også hvem hendes venner er. Line og Sofie taler om en lytterhistorie, hvor en ung mand på kort tid bliver fuldkommen fortrolig overfor en ny veninde, men som får væltet sit venskab af sin egen jalousi.
+Vært: Sofie Diemer.
+Medvirkende: Line Knutzon, dramatiker og forfatter.
+Producer og redaktør: Rune Sparre Geertsen.
+Klip: Teitur Larsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 28 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a00102348273ca574bc/df7eb13beff752425ae0842ec7eebb423868dd2dadaf15551e448de3fa526e71" 
+                type="audio/mpeg" 
+                length="50823222" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a00102348273ca574bc/a0dae88898b49be412eb4d06f3635c492fd2f00a202ebc0d9d923f1c36397720" 
+                type="audio/mpeg" 
+                length="16941366" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a00102348273ca574bc/2c087bb7a092d7ef7bfaf2a767cfbc4ad7c427b5fe78ad1f793880e548f2a850" 
+                type="audio/x-m4a" 
+                length="68161848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a00102348273ca574bc/e25c07e07ede9f4d8b2ddef7517865da97904338f6d5edae4f5eb84473034d19" 
+                type="audio/x-m4a" 
+                length="51221091" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a00102348273ca574bc/35fbf2b66e531a2da68d26050794d349029319e5b361ac9c6d2bb6533fbf1fec" 
+                type="audio/x-m4a" 
+                length="17338964" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493665</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-sussi-la-cour-16122493665</link>
+            <title>Med Sussi La Cour</title>
+            <description>Sussi La Cour aka. Katja K har lagt den vilde tid bag sig, hvor hun og veninderne fuld gas med sex og byture og intenst og tæt venindeskab. Nu, hvor hun er vendt hjem til Danmark, drifter hun rundt genbesøger gamle venskaber og har ikke noget i mod lidt ensomhed. Hun og Sofie lytter til en lytterhistorie om en ung kvinde, der flytter til Berlin og ikke kan forstå, at veninderne ikke besøger hende. 
+Vært: Sofie Diemer.
+Medvirkende: Sussi La Cour, globetrotter, erhvervskvinde og hotelmanager.
+Producer og redaktør: Rune Sparre Geertsen.
+Klip: Teitur Larsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret af MonoMono for DR.</description>
+            <pubDate>Thu, 21 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fef850aab1a1bac007/622b19b8b8c38a971cce9cc86c4e19a68573757cef10c1310026f59258548e1d" 
+                type="audio/mpeg" 
+                length="56991607" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fef850aab1a1bac007/dc511f5bf8b6201dda7ec72e33ba4326692094b99c844eb721a0eaea4f0b081d" 
+                type="audio/mpeg" 
+                length="18997495" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fef850aab1a1bac007/f95e7f4e7524a07006485c5f6f8975980f71eec6561b060a7219cafc9f66f96c" 
+                type="audio/x-m4a" 
+                length="76434792" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fef850aab1a1bac007/94231ab3365de1ec5ddcac1ddf009324ec641b243edaa5eac216b474fe5044dc" 
+                type="audio/x-m4a" 
+                length="57437895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fef850aab1a1bac007/26fe6c9561aaaf5e24c6d56ba47456a27e3ae569d8e9507afc62bc63ce0be798" 
+                type="audio/x-m4a" 
+                length="19443320" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493664</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-morten-kirckhoff-16122493664</link>
+            <title>Med Morten Kirckhoff</title>
+            <description>Morten fortæller om forholdet til sin allerbedste ven, Peter, som er gavmildheden selv. Engang lod han Morten med kone og små børn bo i sin lejlighed i et halvt år. Peter sov på et liggeunderlag i et lille værelse, mens Mortens familie raserede hjemmet. Morten og Sofie taler om en lytterhistorie, der handler om at skulle vælge mellem familie og venskab. 
+
+Skriv til vennepunkt@dr.dk eller til Sofie på Instagram, hvis du vil dele din vennefortælling med os.  
+
+Vært: Sofie Diemer.
+Medvirkende: Morten Kirckhoff, eventyrer og TV vært.
+Producer, klip og redaktør: Rune Sparre Geertsen.
+I redaktionen: Teitur Larsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret af MonoMono for DR.</description>
+            <pubDate>Thu, 14 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babffb/b07f33bf3b4c2d47d2d82d48505f3c79e0217c9e0f104fe33ad83b074a1d54ba" 
+                type="audio/mpeg" 
+                length="55718054" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babffb/278ee06eede0699da8b2bef980b6cb77559b01284b82528348e9b8c59a915c53" 
+                type="audio/mpeg" 
+                length="18572966" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babffb/4dae8bcb022ceb18414b2c232202e574fc77e99f820d9b29582a4192cb91fcaf" 
+                type="audio/x-m4a" 
+                length="74727392" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babffb/1f2b28252ece3ed824a86693e99f092e43d7f432d65341bcc1400ccc3e80dd5d" 
+                type="audio/x-m4a" 
+                length="56154563" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babffb/e622e96e69950b9ee12df76ff9dc6017f1e5cc1d0bc2ee60f9dc4d3baa7fce9d" 
+                type="audio/x-m4a" 
+                length="19008956" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493663</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-jakob-ege-hinchely-16122493663</link>
+            <title>Med Jakob Ege Hinchely</title>
+            <description>Selvom Jakob er introvert har han vennetække og er gennem hele sit liv blevet vennescoret. Han og Sofie taler om musik som limen i venskaber, og de lytter til en historie, der handler om at møde en ny ven i en akavet situation til en koncert. 
+Skriv til vennepunkt@dr.dk eller til Sofie på Instagram, hvis du vil dele din vennefortælling med os.  
+
+Vært: Sofie Diemer.
+Medvirkende: Jakob Ege Hinchely, vært på P6 Beat.
+Producer, klip og redaktør: Rune Sparre Geertsen.
+I redaktionen: Teitur Larsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret af MonoMono for DR.</description>
+            <pubDate>Thu, 07 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469ff102348273ca574b5/02f767188cc504afa5ec52f1358d0b83a1f3b4e518002a98866082a6ca0b58f1" 
+                type="audio/mpeg" 
+                length="57095846" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469ff102348273ca574b5/cec7db202135b320af9c510cb71907e7c141b1d475e3c50b64e1373bbf0adf52" 
+                type="audio/mpeg" 
+                length="19032230" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469ff102348273ca574b5/2aad4a41b1f1eb8f3e030bc083eeb7e05aae957c498b4ac46440c646f24a8bba" 
+                type="audio/x-m4a" 
+                length="76575256" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469ff102348273ca574b5/c26edf3d95d6ff35a9e35ad595dba99bbab674e78b9793faa2ebcd2006869972" 
+                type="audio/x-m4a" 
+                length="57543147" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469ff102348273ca574b5/ae4f7f7a1fab8d6a7129a201a5479240c112a064c28b5664fc65acee0a1a36d5" 
+                type="audio/x-m4a" 
+                length="19479012" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493662</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-bubber-16122493662</link>
+            <title>Med Bubber</title>
+            <description>Bubber har brugt sine tætte venner meget under skilsmisser og livskriser. I næste måned fylder Bubber 60, og han har fundet ud af, at arbejde har fyldt lidt for meget i hans liv, i forhold til de personlige relationer, så det retter han op på. Bubber og Sofie taler om en lytterhistorie, hvor et salg af en lejlighed udvikler sig til en kæmpe krise i en venindegruppe. Er det en god idé at blande store pengebeløb ind i venskaber?
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os. 
+Vært: Sofie Diemer. 
+Medvirkende: Bubber. 
+TV vært Producer, klip og redaktør: Rune Sparre Geertsen.
+I redaktionen: Teitur Larsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 31 Oct 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a06f850aab1a1bac03b/c5362e81ce5c720613098979fc05909384ba6f938ba70d9d01ce5efdf4576161" 
+                type="audio/mpeg" 
+                length="52016114" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a06f850aab1a1bac03b/7e83946adff764c8c8945e9f22381a49bf7da5eb3fc69d3a1cd6f273b1a00e80" 
+                type="audio/mpeg" 
+                length="17338994" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a06f850aab1a1bac03b/2e70193507497c9dc5d91de86ff032a9b32d5dc297ad1a553e389f36b015727b" 
+                type="audio/x-m4a" 
+                length="69761355" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a06f850aab1a1bac03b/e8bc2e9baf797b96e5119d1a78b91d4daea7b57cf714867724686a41ec436aa6" 
+                type="audio/x-m4a" 
+                length="52422799" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a06f850aab1a1bac03b/b2dea210e5924d501fa1a8c12cd7ef0eee74f1342c0ef5f4c270450bc90715ff" 
+                type="audio/x-m4a" 
+                length="17745739" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493661</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-special-kaerestesorg-og-venskaber-pt-2-med-helin-erdem-16122493661</link>
+            <title>Special: Kærestesorg og venskaber pt. 2 - med Helin Erdem</title>
+            <description>I dag følger Sofie op på temaet venskaber og kærestesorg. Før sommerferien blev hun forladt af sin kæreste, og en af hendes bedste veninder, Helin, var en af dem, der greb hende i sorgen. De taler om, hvordan det har ændret dem som venner. Da taler også om, hvad det gjorde ved dem, at et angsanfald ramte Sofie midt i det hele. Dagens vennefortælling handler om netop at være den med angst i en vennegruppe. 
+
+Skriv til vennepunkt@dr.dk eller til Sofie på Instagram, hvis du vil dele din vennefortælling med os.  
+Vært: Sofie Diemer.
+Medvirkende: Helin Erdem, radiovært på P3.
+Producer og redaktør: Anne Pilegaard.
+Klip: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret af MonoMono for DR.</description>
+            <pubDate>Thu, 24 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:16</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03f850aab1a1bac026/63c6cf9c420f10c0c0a5b8b9e348c3efe19c6a4c0fa921f5fb530c2e74e612a6" 
+                type="audio/mpeg" 
+                length="53687654" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03f850aab1a1bac026/fd882f937ad30d6f16f9af6cc6b29b481b7ea0b91b528fe02a5b9068719c569d" 
+                type="audio/mpeg" 
+                length="17896166" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03f850aab1a1bac026/4924eda749948605597d0c07f7d9dc09fa24b9e337f34d56556863ed6d692ce7" 
+                type="audio/x-m4a" 
+                length="72003800" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03f850aab1a1bac026/d0e5b65269c50369cc713b210dede30c258b06dc0e1c3314807713916fc0096b" 
+                type="audio/x-m4a" 
+                length="54108135" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03f850aab1a1bac026/4f7ad50950e7b8eb85189dd5748952a554710942a14be76cba32f5b156719402" 
+                type="audio/x-m4a" 
+                length="18316228" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493660</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-signe-lindkvist-16122493660</link>
+            <title>Med Signe Lindkvist</title>
+            <description>Signe Lindkvist fortæller om sin måske største venskabskrise, som var dengang, hun ikke blev inviteret med til en af sine bedste venners runde fødselsdag - fordi han ville holde en herremiddag. Dagens vennefortælling handler om fortrolighed og hvad man gør, når en venindes mand fortæller en hemmelighed, som han ikke vil have kommer videre. 
+
+Skriv til vennepunkt@dr.dk eller til Sofie på Instagram, hvis du vil dele din vennefortælling med os.  
+Vært: Sofie Diemer.
+Medvirkende: Signe Lindkvist, TV-vært.
+Producer og klip: Rune Sparre Geertsen.
+I redaktionen: Anne Pilegaard og Teitur Larsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret af MonoMono for DR.</description>
+            <pubDate>Thu, 17 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0f102348273ca57511/dd854fab2b4a6feb5fd4f4c3caaa2fc3dbddeac02b655c69df6061671ff154ff" 
+                type="audio/mpeg" 
+                length="58947131" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0f102348273ca57511/c58b024b479f3ad176df73a428c193bf789e1f04bba46c09f53de39fb1f2c7fc" 
+                type="audio/mpeg" 
+                length="19649339" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0f102348273ca57511/71d828e7c0af08e77576bb806360158d68021c6e50cfeb8112084e0d579dfb89" 
+                type="audio/x-m4a" 
+                length="79057636" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0f102348273ca57511/2720a1d1b80d4df26a750b7336c7d559df81930e6c0d0c4dd92d2ba9d37e1791" 
+                type="audio/x-m4a" 
+                length="59408579" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0f102348273ca57511/db7727a14a5642635c41ec39754c5315338bae31dd46b9d0aeab7b3161f1f698" 
+                type="audio/x-m4a" 
+                length="20110384" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493659</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-line-kirsten-og-nicklas-16122493659</link>
+            <title>Med Line Kirsten og Nicklas</title>
+            <description>Det spritnye ægtepar Line Kirsten og Nicklas taler med Sofie om hvordan bedst man får sine egne venner og sin kæreste til at blive venner, og om at have mange venner af det modsatte køn. Sammen lytter de til en vennehistorie om et trekløver, der møder hinanden på det helt rigtige tidspunkt og bliver uadskillelige. 
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+Vært: Sofie Diemer.
+Medvirkende: Line Kirsten Nikolajsen, radiovært, og Nicklas Søderberg Lundstrøm, skuespiller.
+Producer, klip og redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 10 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a01f850aab1a1bac016/0ffb36d643452872035aa30dd46c7defdd9d5fb69463ca694f838c28a279d883" 
+                type="audio/mpeg" 
+                length="64280870" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a01f850aab1a1bac016/970b9c83e47ca7349317d8f0a5c67da46c168196d86222d91f48842f5c591e41" 
+                type="audio/mpeg" 
+                length="21427238" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a01f850aab1a1bac016/87367c1ae65d9c1c56f6d44cfdc0514c3f79f09c9a06434f3788046720de38db" 
+                type="audio/x-m4a" 
+                length="86211357" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a01f850aab1a1bac016/9476fcffbb8105c557a5bef9655b83decf7f72dc2b6cad8c7d33cb2b64d751b0" 
+                type="audio/x-m4a" 
+                length="64784335" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a01f850aab1a1bac016/59091ff2376c8f1596b3d4f3d8a272b732bda1de9cbec084137591c9c8827068" 
+                type="audio/x-m4a" 
+                length="21930141" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493658</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-neel-roenholt-og-julie-oelgaard-16122493658</link>
+            <title>Med Neel Rønholt og Julie Ølgaard</title>
+            <description>Julie og Neel oplevede det nærmest som en forelskelse, da de første gang mødte hinanden. Kemien var der instinktivt, og omstændighederne gjorde, at de siden er forblevet tætte, selv gennem et par oplevelser med misundelse og konflikt. Sofie deler en lytterfortælling, der handler om at have vennekemi, der aldrig bliver til mere, før en magisk dag og nat i Melbourne. 
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+Vært: Sofie Diemer.
+Medvirkende: Neel Rønholt og Julie Ølgaard
+Producer, klip og redaktør: Anne Pilegaard Petersen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 03 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0c102348273ca574fe/c395f837d9257934d0d6b0487613f4ea54514bf3380510be18954e17ac6bde8d" 
+                type="audio/mpeg" 
+                length="58215611" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0c102348273ca574fe/26eff2e679b014ad4c6ab844a98efb88b13ea3f9aa825589f918fe509ef25e17" 
+                type="audio/mpeg" 
+                length="19405499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0c102348273ca574fe/12e8d6fbf241f0b59627d0f336cb8ad95880656bcc3f4b9a6caa05dcc03569be" 
+                type="audio/x-m4a" 
+                length="78076944" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0c102348273ca574fe/6f9f1cd8d3f9e896037650325ec1394bab192abcf208fac32e2cab72779936dd" 
+                type="audio/x-m4a" 
+                length="58671703" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0c102348273ca574fe/0bbb792e75f9932f6f489e748e03c19282c58ea786955d3d64c056aa0330a71a" 
+                type="audio/x-m4a" 
+                length="19860948" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493657</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-nina-rask-16122493657</link>
+            <title>Med Nina Rask</title>
+            <description>Nina har flere gange oplevet, at blive så fascineret af et menneske, at der har opstået en tvivl om kemien var til en vennefascination eller en decideret forelskelse - og så prøvet det af. Det kommer på bordet, da Sofie deler en lytterfortælling, der handler om at blive venner på trods af forskelligheder - og komme til at elske hinanden så højt, at man bliver i tvivl om det faktisk skulle blive til mere end venskab.
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+Vært: Sofie Diemer.
+Medvirkende: Nina Rask.
+Producer, klip og redaktør: Anne Pilegaard Petersen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 26 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0d102348273ca5750a/d92c9cbfafe6c1d2e2e29584b91f0f93f2e2920a41f1e548c4e4cba399199b2c" 
+                type="audio/mpeg" 
+                length="55673716" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0d102348273ca5750a/dbc21a8fbee1fb6078b67c28d776168d0d949f6710d54d9cb6872e07c9286963" 
+                type="audio/mpeg" 
+                length="18558196" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0d102348273ca5750a/1cab93d67b7f4d3c017e24658a6d81f75293b206e241cd9bf25c70ca1db11794" 
+                type="audio/x-m4a" 
+                length="74667244" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0d102348273ca5750a/d055b441f9ebcff158a7da0538069f5d280416e107ee3e4fbfffb9046101adcb" 
+                type="audio/x-m4a" 
+                length="56109623" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0d102348273ca5750a/10b7b639d3a38f0f169584bfa0ac6b1394e5c3a0c464a994d596395df4190393" 
+                type="audio/x-m4a" 
+                length="18993760" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493656</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-peter-oevig-og-niels-mosumgaard-16122493656</link>
+            <title>Med Peter Øvig og Niels Mosumgaard</title>
+            <description>Peter og Niels blev venner som 11 årige efter et stort skænderi, og de har været venner og uvenner lige siden. Venskabet blev sat på en heftig prøve for nogle år siden, da Peter blev stærkt depressiv og psykotisk, og Niels blev tvunget til at overskride både sine egne og Peters grænser ved at overtale ham til at blive indlagt på psykiatrisk afdeling.
+
+Skriv til vennepunkt@dr.dk eller til Sofie på Instagram, hvis du vil dele din vennefortælling med os.  
+Vært: Sofie Diemer.
+Medvirkende: Peter Øvig, forfatter og hans bedste ven Niels Mosumgaard.
+Producer og klip: Rune Sparre Geertsen.
+I redaktionen: Anne Pilegaard og Laura Skeldgaard Paulsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 19 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0ff850aab1a1bac066/3b0caf6eeacbe4b4a22280dddb5280ef64f70b1fc124fc1de6b4a88e56a4ae3a" 
+                type="audio/mpeg" 
+                length="56909823" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0ff850aab1a1bac066/71a5a939f0d4a288ec0fd35ce81ef3ffb028edc48f58b98d7654543b92869bd2" 
+                type="audio/mpeg" 
+                length="18970239" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0ff850aab1a1bac066/410cf216aa1b4dcc482297d853a814ce8e5c34068ec0422d00466fa0ba279c64" 
+                type="audio/x-m4a" 
+                length="76325093" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0ff850aab1a1bac066/b1dd1151bb3eccfbff95497dd5160113d3917da44121bcb13af9c512ab610df3" 
+                type="audio/x-m4a" 
+                length="57355311" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a0ff850aab1a1bac066/0ba2e4b13f3442be2e55dc19cae0c0c4c388644885c7e78d90bf9ebb1303b488" 
+                type="audio/x-m4a" 
+                length="19415421" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493655</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-dorthe-gerlach-og-pernille-rosendahl-16122493655</link>
+            <title>Med Dorthe Gerlach og Pernille Rosendahl</title>
+            <description>Dorthe og Pernille gik fra at være perifære kollegaer til nære venner, da Dorthe med få dages varsel smed alt for at hjælpe en stresset Pernille med en række koncerter. De to er gæster, når Sofie deler en lytterfortælling om at blive vildt fascineret af sin kollega, men ikke vide, hvordan man skal blive venner.
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os. 
+Vært: Sofie Diemer.
+Medvirkende: Dorthe Gerlach og Pernille Rosendahl.
+Producer, klip og redaktør: Anne Pilegaard Petersen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 12 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a07102348273ca574de/126d53721521253aaef7fceb625e2ff14469c94d4691ae07b72f9ddad461ecc8" 
+                type="audio/mpeg" 
+                length="61373798" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a07102348273ca574de/1b08bbecfb43ad16dd238f0db54eab4eecabc54f6249adc2edd27bbf858cc88e" 
+                type="audio/mpeg" 
+                length="20458214" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a07102348273ca574de/42c503989ef3a48bc5267d095095f975863b39806604d7e632790ec9c497d59f" 
+                type="audio/x-m4a" 
+                length="82312080" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a07102348273ca574de/3db11b21cb7c871d8ae4d7f57646977b3058bbb2b44ebdd67642a11182b70534" 
+                type="audio/x-m4a" 
+                length="61854379" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a07102348273ca574de/96cae3872b1e85d54b3c21fa10f0aa665feeed1d0828b9818ff1e849e4fe29d6" 
+                type="audio/x-m4a" 
+                length="20938356" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493654</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-camilla-boraghi-16122493654</link>
+            <title>Med Camilla Boraghi</title>
+            <description>Camilla Boraghi har konstant dårlig samvittighed overfor sine venner, for når hun har for travlt, lukker hun sig inde i sin arbejdsverden og ignorerer alt andet. Og selv i perioder, hvor hun faktisk er der for vennerne, føler hun aldrig, at det helt er nok. Sofie deler en lytterhistorie, der handler om at prioritere sig selv og sine karrieredrømme over venskaber, og så indse, hvad det har af konsekvenser.
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os. 
+Vært: Sofie Diemer.
+Medvirkende: Camilla Boraghi.
+Producer, klip og redaktør: Anne Pilegaard Petersen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 05 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babff8/8a5a10af6abf24f6cdd75d13ac251ca6911c5b16e7bbfa74e07851b9dd9b024f" 
+                type="audio/mpeg" 
+                length="56516407" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babff8/dc520feb8458bd236c4a63997d4230039e0502e98c73558d4c3b8e6d327e3ba3" 
+                type="audio/mpeg" 
+                length="18839095" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babff8/cce85dc53d9b551ab27b20b3bbe43510736f94712f11d63b585bb56803273cdc" 
+                type="audio/x-m4a" 
+                length="75797573" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babff8/e9fe8c8421515a21bf15e4253de2b89c588346f30af5147f53a76d05bb910e7e" 
+                type="audio/x-m4a" 
+                length="56959019" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b469fbf850aab1a1babff8/6fac8fbfc0adcb6e2ac73bc4654f3b5f1d51a6fd28bf2f62e91e14fa4a9c570b" 
+                type="audio/x-m4a" 
+                length="19281261" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493653</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-huxi-bach-16122493653</link>
+            <title>Med Huxi Bach</title>
+            <description>Huxi Bachs bedste ven er hans lillebror. De to startede som almindelige søskende, der legede sammen på villavejen og smadrede hinandens ting, men deres relation gled let og ubesværet over i et dybt venskab. Sofie har en lytterfortælling med, der handler om et brødrepar, der aktivt vælger hinanden - og 42 tatoveringer - til.
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os. 
+Vært: Sofie Diemer.
+Medvirkende: Huxi Bach
+Producer, klip og redaktør: Anne Pilegaard Petersen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 29 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a09f850aab1a1bac048/aa4518ed64b64d18b40d16dba139f71c53fd9628a8c43dca928fc2c548c18e34" 
+                type="audio/mpeg" 
+                length="53471654" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a09f850aab1a1bac048/48f0ff0422755eaeb86e0211256b38faeb4709e351bac8515d0a29d2487a2c07" 
+                type="audio/mpeg" 
+                length="17824166" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a09f850aab1a1bac048/7134a8d4f4b6a515195820ab4ffc755ca8b8e6083ed78157ac96dcff7d320202" 
+                type="audio/x-m4a" 
+                length="71714075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a09f850aab1a1bac048/d7148b5b6255ad1387aebe454a65a5d564cc95e4a35ffa5d1c170eda460a4dba" 
+                type="audio/x-m4a" 
+                length="53890395" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a09f850aab1a1bac048/ec9545e064a190953b04703041636ac270e7e5c04dc50f9cb217ab526cbdeb3d" 
+                type="audio/x-m4a" 
+                length="18242491" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493652</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-malou-tuxen-og-chris-pedersen-16122493652</link>
+            <title>Med Malou Tüxen og Chris Pedersen</title>
+            <description>Malou og Chris fandt hinanden i Københavns vilde natteliv, men følte først at de var rigtige venner, da de også kunne dele de tunge søndage sammen. Sofie deler en lytterfortælling, der handler om en af de sværeste følelser i et venskab, nemlig jalousi. Den vækker genklang hos både Malou og Chris. Men hvordan tackler man jalousi i et venskab? 
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os. 
+Vært: Sofie Diemer.
+Medvirkende: Malou Tüxen og Chris Pedersen.
+Producer, klip og redaktør: Anne Pilegaard Petersen.
+DR redaktør: Cecilie Tonnesen. 
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 22 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:43:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a02f850aab1a1bac01d/af02841f0d87b0a6ea320cd351ed2b067e71d889cfbd52a37f41e5c5367dc7c9" 
+                type="audio/mpeg" 
+                length="63069542" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a02f850aab1a1bac01d/550b73d6fd46b27b53627eac76db5fa3609fc488a75629ecb964b3062203fcf0" 
+                type="audio/mpeg" 
+                length="21023462" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a02f850aab1a1bac01d/2b7636e0f59b9d643d496e955c8b5eb525efc0afe411c26b87943625e2e77d9a" 
+                type="audio/x-m4a" 
+                length="84586364" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a02f850aab1a1bac01d/eb572ce4ed9161b593dc14670ebf881b6433182b1fa4692369111878ac67a81e" 
+                type="audio/x-m4a" 
+                length="63563475" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a02f850aab1a1bac01d/13c77afc4c2f7f6689366280ded19d406d5ee30091f011205d14880cf66e10f6" 
+                type="audio/x-m4a" 
+                length="21516904" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493651</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt/vennepunkt-med-sebastian-lynggaard-16122493651</link>
+            <title>Med Sebastian Lynggaard</title>
+            <description>Sebastian er et sted i sit liv, hvor det pludselig er gået op for ham, at han har prioriteret kollegaer over sine gamle, ægte venner, og det forsøger han nu at rette op på. 
+Og så kommer Mads, der står bag ugens lytterfortælling, i studiet og overrasker Sebastian.
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os. 
+Vært: Sofie Diemer.
+Medvirkende: Sebastian Lyngaard og Mads Krause.
+Producer, klip og redaktør: Anne Pilegaard Petersen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 15 Aug 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03102348273ca574ce/efcd12d2babaa13e869cc0b27cff4a048f5ead7973ffffbfdd1ae26707cd445c" 
+                type="audio/mpeg" 
+                length="57023865" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03102348273ca574ce/0583e28a693e6da0c9236aa3a908bae9cb894d52cda8c3515ef787ca97c597a9" 
+                type="audio/mpeg" 
+                length="19008249" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03102348273ca574ce/591693ef0e7da022f66bfddc063b37d9e2dd32f1d08162d8b8d0438c4b332fa8" 
+                type="audio/x-m4a" 
+                length="76478088" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03102348273ca574ce/a51ae19f0d33d38fe11784d8595b6d41f5f3e4336e358ac819ec7594494a033d" 
+                type="audio/x-m4a" 
+                length="57470439" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b46a03102348273ca574ce/00021327162c29621b1caab32ee6aef7f82cc115ec2f2834bb27feea7ed7381d" 
+                type="audio/x-m4a" 
+                length="19454348" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393685</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-special-kaerestesorg-og-venskaber-med-sanne-cigale-16122393685</link>
+            <title>Special: Kærestesorg og venskaber - med Sanne Cigale</title>
+            <description>I dag er et særligt afsnit. Sofie står pludseligt i en situation, hvor hun har allermest brug for sine venner, og Sanne har stået der før. Sofie deler en lytterhistorie, der handler om, hvordan man bedst kan være der for sine venner i kærestesorg.
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os. Vennepunkt går på sommerferie og vender tilbage i midten af august. 
+Vært: Sofie Diemer.
+Medvirkende: Sanne Cigale, journalist og radiovært på 'Hemmeligheder'.
+Producer, klip og redaktør: Rune Sparre Geertsen.
+I redaktionen: Luna Lam.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 27 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:48</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f4c508f7c5e428b4c/d9137825fbe6d734a2bec520c80f5f9dca8c7b0351779700478e0a319d9f1441" 
+                type="audio/mpeg" 
+                length="71725692" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f4c508f7c5e428b4c/4f702285b66d1646cb23b6b4924292a5b730e9ac3291986fecc41c6443264464" 
+                type="audio/mpeg" 
+                length="23908860" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f4c508f7c5e428b4c/5901a2dab47161eedcddf063ab903045a7d157aeec2842065c841857dad478ab" 
+                type="audio/x-m4a" 
+                length="96195039" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f4c508f7c5e428b4c/5273cdfee8d8f5a70c63ce753b421555e00452ed47ad9896d2df297978d36445" 
+                type="audio/x-m4a" 
+                length="72287027" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f4c508f7c5e428b4c/3c8456ac61ede4b8b23754782b56508cc69e99e6996a391eebe72deebc11deb0" 
+                type="audio/x-m4a" 
+                length="24469803" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393684</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-du-maa-altid-gaa-all-in-du-skal-bare-vide-at-der-er-konsekvenser-med-morten-nabild-og-adnan-al-adhami-16122393684</link>
+            <title>"Du må altid gå all-in, du skal bare vide, at der er konsekvenser" - med Morten Nabild og Adnan Al-Adhami</title>
+            <description>Kæresteparret Morten og Adnan er gæster, når Sofie deler en lytterfortælling om en kvinde, som får et godt øje til sin venindes eksmand. En problemstilling som Adnan selv har oplevet. 
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+Vært: Sofie Diemer.
+Medvirkende: Morten Nabild og Adnan Al-Adhami, P3-værter. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 20 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:46</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413389973a9c837f9245b/dc94bf3f3e58a9850db25768994aca32b84b5be8fa6ec321fbce5b2cc8da0e63" 
+                type="audio/mpeg" 
+                length="57283645" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413389973a9c837f9245b/34811e88f0598c0a3e8641a1059fb9e547aa8d9e6810421f19a40ddf45304532" 
+                type="audio/mpeg" 
+                length="19094845" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413389973a9c837f9245b/0cff1b52f8687d017f14b3f6c49a7ef5ffeca194d0fcf50f97bef7c7173d3755" 
+                type="audio/x-m4a" 
+                length="76826372" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413389973a9c837f9245b/7b2a3d3415d122564784700d129a6a04a09832e19fb1b30b44337a7ef33956e8" 
+                type="audio/x-m4a" 
+                length="57732015" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413389973a9c837f9245b/c9170161407bec20bd4192c452595097a15520f40aec51545825370057ab6d39" 
+                type="audio/x-m4a" 
+                length="19542916" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393683</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-foeler-ikke-at-jeg-har-et-velfungerende-vennebarometer-med-hassan-preisler-16122393683</link>
+            <title>"Jeg føler ikke, at jeg har et velfungerende vennebarometer" - med Hassan Preisler</title>
+            <description>Det kan være farligt at møde alle sine venner på arbejdet. For som Hassan har oplevet, er det svært at stå ved sig selv og sine værdier overfor en person, som sender rosende ord, anerkendelse og fede kontrakter i ens retning. Sofie deler en vennefortælling om en kvinde, der oplever sin veninde fra en ny side, som hun ikke kan stå inde for. 
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+Vært: Sofie Diemer.
+Medvirkende: Hassan Preisler, forfatter og radiovært. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 13 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413374c508f7c5e428b86/1e421528960a4d74ab91e2977b9d5cde214b972efda7e0ea10988649f80a746c" 
+                type="audio/mpeg" 
+                length="58355558" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413374c508f7c5e428b86/3f7f17c3267ce61d4847cc4f9bf07fb5627b4b857da090770fa19e3a4526dba4" 
+                type="audio/mpeg" 
+                length="19452134" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413374c508f7c5e428b86/f7f7dbd4dfc29f4c605c0eaefd08487a5da123ca5a77bd6ae85dcb591f46d207" 
+                type="audio/x-m4a" 
+                length="78264404" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413374c508f7c5e428b86/ff7acb42c4438be5400f738fe8f897c86f468f5d3d0a3793f8220fa650567a48" 
+                type="audio/x-m4a" 
+                length="58812523" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413374c508f7c5e428b86/1b1ee75bf23edbc4103a922f3b44dbb9e895cabce6cac9c84074c8b7e2b1488e" 
+                type="audio/x-m4a" 
+                length="19908668" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393682</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-maa-godt-vaere-her-med-mine-foelelser-med-ida-laurberg-16122393682</link>
+            <title>Jeg må godt være her med mine følelser - med Ida Laurberg</title>
+            <description>Ida føler, at hun er dårlig til at have venner, men en ting er sikker, og det er, at man bliver nødt til at holde sit sind åbent for at være venner med hende. Sofie deler en vennefortælling, der handler om 3 veninder, som for første gang bliver konfronteret med, at de har vidt forskellige holdninger.
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+Vært: Sofie Diemer.
+Medvirkende: Ida Laurberg, musiker. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 06 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413304c508f7c5e428b50/8fe822b692bcefe8c289f5930247ce85df4ca9b20a21d090b5b24b7ad464baae" 
+                type="audio/mpeg" 
+                length="48276134" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413304c508f7c5e428b50/31a88a9884995d88dc9db02b13e07936fe798e3137e37238ee3ecef5bbce9315" 
+                type="audio/mpeg" 
+                length="16092326" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413304c508f7c5e428b50/599ada9fa9e0c6044f12662fddb2e112751ed1cabd3d57aa95180972a026542a" 
+                type="audio/x-m4a" 
+                length="64746416" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413304c508f7c5e428b50/158e322f0528d97f14cd81f8e636c333a00e63e94c7a8cdbfc33c0ecffd16c81" 
+                type="audio/x-m4a" 
+                length="48654487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413304c508f7c5e428b50/bc8c693d4a5a3e6be8d1f4c02a3c692e834fafebcfd2a7464cf2cf6f8789e3fe" 
+                type="audio/x-m4a" 
+                length="16470132" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393681</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-venskaber-maa-ikke-vaere-haardt-arbejde-med-nikolaj-stokholm-16122393681</link>
+            <title>Venskaber må ikke være hårdt arbejde - med Nikolaj Stokholm</title>
+            <description>Nikolaj har aldrig arbejdet for venskaber og mener ikke, at venskaber skal være hårdt arbejde. Sofie deler en vennefortælling, der netop handler om de udfordringer, der kan opstå i en mande-vennegruppe gennem mange år. 
+
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+Vært: Sofie Diemer.
+Medvirkende: Ida Laurberg, musiker. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 30 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841338c26aeca6fa64c7d4/600c202fa1f8a1afa8e538cc21e7ad56859c601441e3efb652714ca5150b5592" 
+                type="audio/mpeg" 
+                length="47574009" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841338c26aeca6fa64c7d4/51c5109af24f0eb7be760e1fb6090d0c73f0dbb13e094f0893dcfc2c9c773504" 
+                type="audio/mpeg" 
+                length="15858297" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841338c26aeca6fa64c7d4/a193358715ceedebbe53dd9bec161c33a6352c560a7b06b3b4feefd190dc9a60" 
+                type="audio/x-m4a" 
+                length="63804413" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841338c26aeca6fa64c7d4/ac8f47626d1fa7062de968c1defb20ac1cd7a5383785ad5b2b26d021816c5781" 
+                type="audio/x-m4a" 
+                length="47946555" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841338c26aeca6fa64c7d4/536412fedc58c51be9d3424adadc906575416916e52d7f2283a105aee3b39ed7" 
+                type="audio/x-m4a" 
+                length="16230489" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393680</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-sparkede-nedad-jeg-var-en-kujon-med-glenn-bech-16122393680</link>
+            <title>"Jeg sparkede nedad, jeg var en kujon" - med Glenn Bech</title>
+            <description>Glenn har aldrig været sig selv i sin hjemby og har skjult sig bag en facade for ikke at blive opdaget af sine klassekammerater. Sofie deler en lyttefortælling om at finde to venner på gymnasiet, der viser sig at være nogle helt andre, end de udgiver sig for at være. Og så tager episoden en drejning, da Sofie røber en stor hemmelighed.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Glenn Bech, forfatter og psykolog. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132cc26aeca6fa64c786/ab2ee25d8cbdc33e207bda63c2964315ad20bd1e6f88b0295a6bef6dbdcd5f54" 
+                type="audio/mpeg" 
+                length="52657766" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132cc26aeca6fa64c786/571248ea3c87af6eaba5579d77f770b6257c93dbd153ab7de00e5ceb468f92e7" 
+                type="audio/mpeg" 
+                length="17552870" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132cc26aeca6fa64c786/3d236fcf45326ab74e6ded4470f8b8c023d5580c925160def61068b5c42ad4b7" 
+                type="audio/x-m4a" 
+                length="70622291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132cc26aeca6fa64c786/05c8946b8dc052495d70e3129399cd121ea7de08b1a8a5e9e7c8234a28dd6d65" 
+                type="audio/x-m4a" 
+                length="53069963" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132cc26aeca6fa64c786/aa4f7b6f7d87c6625bbad47e0c6c68d02c63fe5fb9018120f0412e1a1fd93b6b" 
+                type="audio/x-m4a" 
+                length="17964771" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393679</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-special-et-umage-vennepar-med-helin-erdem-og-sofie-diemer-16122393679</link>
+            <title>Special: Et umage vennepar - med Helin Erdem og Sofie Diemer</title>
+            <description>Efter ærlige samtaler med en lang række af modige gæster retter Sofie blikket mod sig selv. Hun har nemlig inviteret en af sine bedste veninder i studiet til en konfronterende snak om deres konflikter og forventninger i venskabet.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Helin Erdem, vært. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 16 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f9973a9c837f9242d/fdfe8e87d9ecbfad70c8f408bcf058ad7be14fb2c728f361f407581bf59ecef9" 
+                type="audio/mpeg" 
+                length="50903291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f9973a9c837f9242d/ef8fd55c911134aa0f55e5a8f052d57cbed1d3b3afa363f8c4a90265ce9e2be8" 
+                type="audio/mpeg" 
+                length="16968059" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f9973a9c837f9242d/bb42305004c7de9508ea57d2ebe0bc40f67e06710ee2ca57b84ac81a77119395" 
+                type="audio/x-m4a" 
+                length="68269763" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f9973a9c837f9242d/c629160212683a7be1682cc837dda215d47f83e303190a3e8a2be737998bb385" 
+                type="audio/x-m4a" 
+                length="51302079" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f9973a9c837f9242d/31c7c96a3f95355d47aedbcc2fc38e363d015b4aec5217f3d2973aebdc1dbc8e" 
+                type="audio/x-m4a" 
+                length="17366387" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393678</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-er-nok-lidt-en-daarlig-ven-med-mathias-hammer-16122393678</link>
+            <title>"Jeg er nok lidt en dårlig ven" - med Mathias Hammer</title>
+            <description>Mathias har ikke behov for at være helt tæt på mange venner, og derfor kan han hurtigt komme til at såre. Ligesom lytteren Molly føler han sig som en dårlig ven, der prioriterer meget andet end venskaber. 
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Mathias Hammer, radio- og tv-vært. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 09 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f163dfa22d5460ccd/78bf322916a5f5c1df697222049ec435853f2d3c4a58a210f4d71e58ac847c28" 
+                type="audio/mpeg" 
+                length="54174968" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f163dfa22d5460ccd/1e8d8987cbaff251a918dacba9db6babcc9d26231b29cc25c6dbd8d7beb51afe" 
+                type="audio/mpeg" 
+                length="18058616" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f163dfa22d5460ccd/12b81667e3948e6c2b8e5e443c27ffb684f872ca1c7de8e243c34ef9f73e36a9" 
+                type="audio/x-m4a" 
+                length="72657603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f163dfa22d5460ccd/89c9a29bdc3072e1857d4e9ef7adf7624990baf610b1b481429343033cc78cd2" 
+                type="audio/x-m4a" 
+                length="54599415" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132f163dfa22d5460ccd/06c3d84a22610fca8a4aa56e3b7ded8cf5338504e7182c951608c44cdf748179" 
+                type="audio/x-m4a" 
+                length="18482499" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393677</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-ingen-kommer-til-at-besoege-mig-paa-plejehjem-med-ane-cortzen-og-bente-scavenius-16122393677</link>
+            <title>Ingen kommer til at besøge mig på plejehjem - med Ane Cortzen og Bente Scavenius</title>
+            <description>Der er 30 år mellem venneparret Ane og Bente, som i dag taler om en vennefortælling fra en lytter, der føler, at hun har mistet sin vennegruppe til en ny livsfase: pensionisttilværelsen. 
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Ane Cortzen, arkitekt og Bente Scavenius, kunstkritiker. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 02 May 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413319973a9c837f92436/2cdee0c120a8b7961c961a9c048dc02612a7c37e9aa902b592e3c49e30825a24" 
+                type="audio/mpeg" 
+                length="48940856" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413319973a9c837f92436/edc74e19c07c0e4f23f73be4148302ee90b7c8c7b00408be92dc5cc2901dbee0" 
+                type="audio/mpeg" 
+                length="16313912" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413319973a9c837f92436/1e47cfb0d2edb01c5ec6219defbcfe67ddc266b4f97d7e7a30f23d82c41b793a" 
+                type="audio/x-m4a" 
+                length="65637605" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413319973a9c837f92436/7f1b1c336d91b9094a8a184cd216ded36241b01a32e5db6fb8fffa779fbad485" 
+                type="audio/x-m4a" 
+                length="49324231" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413319973a9c837f92436/def05b86870ac639f2abf13e304e6de3c4d9d0897e27424f8b49504dea0f9023" 
+                type="audio/x-m4a" 
+                length="16696885" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393676</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-det-eneste-vi-ikke-goer-er-at-bolle-med-mette-soendergaard-nielsen-og-sofie-jo-kaufmanas-16122393676</link>
+            <title>"Det eneste, vi ikke gør, er at bolle" - med Mette Søndergaard Nielsen og Sofie Jo Kaufmanas</title>
+            <description>Gæsterne Mette og Sofie har ti års venskabsjubilæum, de arbejder sammen, de har samme menstruationscyklus, og så har de regler for, hvordan de er venner. Og i dag skal de tale om en vennefortælling, der handler om, at ens veninde og mand får et godt øje til hinanden.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Mette Søndergaard Nielsen og Sofie Jo Kaufmanas, skuespillere og satirikere. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 25 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132e9973a9c837f92425/2596596b2cbb86499efd0653d0e4496438aacf02644a3ea11cb1d38a89c3e1ce" 
+                type="audio/mpeg" 
+                length="53613350" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132e9973a9c837f92425/e474fd386d39dfa57e4ae8029284b3d0f775ded69399c58549c9628ede1f9673" 
+                type="audio/mpeg" 
+                length="17871398" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132e9973a9c837f92425/515eb05834e702deecfd087924a7394437746f9c37f413b01baf1e62b8995473" 
+                type="audio/x-m4a" 
+                length="71904173" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132e9973a9c837f92425/3e0dde7ffb97a1b56b20885b8f56c992bbb61627d81aef8ec128141e4ba636c0" 
+                type="audio/x-m4a" 
+                length="54033279" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132e9973a9c837f92425/940edf0e475acef8a42b14dc8686e8a342bd243e868991088bdd2a5635057988" 
+                type="audio/x-m4a" 
+                length="18290901" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393675</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-voksne-maend-med-store-foelelser-med-lars-hjortshoej-og-benjamin-koppel-16122393675</link>
+            <title>Voksne mænd med store følelser - med Lars Hjortshøj og Benjamin Koppel</title>
+            <description>En aften i en hotelbar møder Lars og Benjamin hinanden for første gang - Lars giver en selfie, og Benjamin inviterer Lars på en drink. Sofie deler en vennefortælling, om hvordan man finder nye venner som en 50-årig, fraskilt mand.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Skuespiller og komiker Lars Hjortshøj og forfatter og musiker Benjamin Koppel.
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 18 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:15</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ec26aeca6fa64c792/f73c96ad123c976bbc9675c373dd2886a314c679da4ce0439eb4dc8854f2764d" 
+                type="audio/mpeg" 
+                length="53658854" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ec26aeca6fa64c792/592f9810a9492e4b812c890e3d8585419672b3d5670b3b7cb4f9b4ffd62a21b6" 
+                type="audio/mpeg" 
+                length="17886566" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ec26aeca6fa64c792/9b2737115a1d756a93d0412ad9382fb949d0acdbf64939c15bb3db554cd01084" 
+                type="audio/x-m4a" 
+                length="71965371" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ec26aeca6fa64c792/ef9539312585508950f727c39b4a9e351a9d91b149880c642f3c8e5218b1723a" 
+                type="audio/x-m4a" 
+                length="54079299" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ec26aeca6fa64c792/e25207f1e2a0d214ccdd513f22a9d2046290501dcd4c98d55482402b28e30837" 
+                type="audio/x-m4a" 
+                length="18306459" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393674</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-har-slaaet-op-med-en-vennegruppe-med-astrid-olsen-16122393674</link>
+            <title>"Jeg har slået op med en vennegruppe" - med Astrid Olsen</title>
+            <description>Astrid Olsen vil ses med sine tætteste venner mindst to gange om ugen, men de må gerne bruge tiden på at lægge hinandens vasketøj sammen. Sofie deler en vennefortælling om endelig at finde sin vennegruppe i gymnasiet og om sorgen, når de slår op med en.  
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Astrid Olsen, kogebogsforfatter og influencer.
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 11 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132bc26aeca6fa64c77e/032239d78a73f46dae805c3bf4b73ac60a34952f2f81143dfc564c0330a57657" 
+                type="audio/mpeg" 
+                length="49703489" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132bc26aeca6fa64c77e/c3d103ad19f6f66207af2720590f5db2ec21ccda12d3a0326abecb7289d0601d" 
+                type="audio/mpeg" 
+                length="16568129" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132bc26aeca6fa64c77e/63f04a5e88c62ca735eb52e3ba5712e5b0ff437576f3ede33ef8f22026a9843d" 
+                type="audio/x-m4a" 
+                length="66660104" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132bc26aeca6fa64c77e/4acde99b591eaa5c208014b034415e653a6c6ec87eca07d694a004e37fa5ca06" 
+                type="audio/x-m4a" 
+                length="50092583" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132bc26aeca6fa64c77e/fe90f371d1fe4162b86bc9df09899c70d5f7362b76bfae3ec38570bc2c4908e2" 
+                type="audio/x-m4a" 
+                length="16957829" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393673</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-min-doede-ven-med-johannes-lilleoere-16122393673</link>
+            <title>Min døde ven - med Johannes Lilleøre</title>
+            <description>Johannes Lilleøre passede i to år sin ven, som blev ramt af en blodsygdom, indtil han døde natten til Sankt Hans. Sofie deler en vennefortælling, som handler om at finde en bedste ven, som er 40 år ældre. 
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Johannes Lilleøre, skuespiller og forfatter. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 04 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ac26aeca6fa64c775/755dba96fb817d224d91cd3ef50f6802a855a05a2759642d505098012541c5d3" 
+                type="audio/mpeg" 
+                length="51396921" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ac26aeca6fa64c775/0cf83b65eccbc33ca5bcb97c842a4df45fa3727d6782d92b1a9e36fd249bda07" 
+                type="audio/mpeg" 
+                length="17132601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ac26aeca6fa64c775/116c4d975e7fd9e2aeebdb96db5529b211c294a1ea14c1745cefb224cbcdf464" 
+                type="audio/x-m4a" 
+                length="68931075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ac26aeca6fa64c775/eca24effea4760cb867a37f6aeea6da95dac91f168f756e761d1fdd69c8145d3" 
+                type="audio/x-m4a" 
+                length="51798979" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132ac26aeca6fa64c775/4fc4eef57fee18ea0ca83209e153a853c6c5dfeb900f280cc6d2f20c976eba25" 
+                type="audio/x-m4a" 
+                length="17535480" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393672</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-savner-at-mine-venner-kender-mit-barn-med-laus-hoeybye-16122393672</link>
+            <title>"Jeg savner, at mine venner kender mit barn" - med Laus Høybye</title>
+            <description>Dagens gæst Laus Høybye savner at hænge ud med sine venner, som han gjorde, da han var yngre, men han oplever, at forældreskabet gør det tæt på umuligt. Og så deler Sofie en vennefortælling om at være den første i vennegruppen, der får et barn.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Laus Høybye, skuespiller og satiriker. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 28 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:43</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413394c508f7c5e428b99/fc7255ebe95f597bf4a87db08258d4d9125747b22496f1913401967a52285190" 
+                type="audio/mpeg" 
+                length="42796671" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413394c508f7c5e428b99/a20877dc339571146575024f62504bab0cd50a131b07b838ebabe8d5792f513d" 
+                type="audio/mpeg" 
+                length="14265855" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413394c508f7c5e428b99/fce5edacec491388b3cf89cd4fcb795b3300987becdbfec3f976e68a360ed831" 
+                type="audio/x-m4a" 
+                length="57397043" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413394c508f7c5e428b99/17e24948d9a9eff86923f647fab1891ab2a26694c9dcfb8be55fa5d720dc2eac" 
+                type="audio/x-m4a" 
+                length="43131715" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413394c508f7c5e428b99/d04fb05d11aa6f4119420a9d55891261b0c030d36a16c39db87cb137ebbe7610" 
+                type="audio/x-m4a" 
+                length="14601495" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393671</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-har-svaert-ved-at-tale-om-foelelser-med-anders-agger-16122393671</link>
+            <title>Jeg har svært ved at tale om følelser - med Anders Agger</title>
+            <description>Sofie og dagens gæst Anders Agger taler om, hvordan man deler sine følelser med venner, og om hvordan man bedst griber sine venner, når de har brug for hjælp. Og så deler Sofie en vennefortælling om en 47-årig mand, der får hjælp af en ven, da en undtagelsestilstand rammer. 
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Anders Agger, journalist og tv-vært. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 21 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841328c26aeca6fa64c769/6125c2066de6321679b1b4119765c00bceeedde7e8937f9bd4f016342b048937" 
+                type="audio/mpeg" 
+                length="45604094" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841328c26aeca6fa64c769/fd17c413dab6f860d0ffd4622c4b83d4e7ef926eed5756b00acd99703920f03c" 
+                type="audio/mpeg" 
+                length="15201662" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841328c26aeca6fa64c769/ba0c0fbf508a17b69e0aed70701e79b0d3f4a56ce311de1377126a3aaa1a16e0" 
+                type="audio/x-m4a" 
+                length="61161980" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841328c26aeca6fa64c769/af4d87612c2dc1b4864c6ddeac75a2ef564e0e03d39c899f9c001611085555fd" 
+                type="audio/x-m4a" 
+                length="45960931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841328c26aeca6fa64c769/526c3cd274676575e3bf409168d94f3adddb51c6c0248f04ec53bdbc231d5a0c" 
+                type="audio/x-m4a" 
+                length="15559301" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393670</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-vil-doe-med-mine-veninder-med-ditte-hansen-og-christiane-gjellerup-koch-16122393670</link>
+            <title>Jeg vil dø med mine veninder - Med Ditte Hansen og Christiane Gjellerup Koch</title>
+            <description>Sofie deler en lytterhistorie om 4 veninder, der gennem 40 har gennemlevet familiekonflikter, forliste parforhold og jalousi. Alt sammen noget, der i dag har gjort, at de er fuldstændig groet sammen. Med i studiet er venindeparret gennem 26 år Ditte Hansen og Christiane Gjellerup Koch. 
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Ditte Hansen og Christiane Gjellerup Koch, skuespillere. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 14 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132d4c508f7c5e428b3f/51e496e357fb9b4c35ffa4e7d8b94f70f37dc65866395de6e629303d2711bba8" 
+                type="audio/mpeg" 
+                length="42495974" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132d4c508f7c5e428b3f/dde74ebf9c3816610dfdeffec4b22a69bf55576b5fb87163b5d75a33f387f430" 
+                type="audio/mpeg" 
+                length="14165606" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132d4c508f7c5e428b3f/69095765e285a750895f5a3abb8f620981aa58293b60f42b6d33229ff19f1ce6" 
+                type="audio/x-m4a" 
+                length="56993251" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132d4c508f7c5e428b3f/d825688ba6b77ed13effd6a34bb9c4b81e3ab4bb625a45157d28aaf49afc15fa" 
+                type="audio/x-m4a" 
+                length="42828263" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132d4c508f7c5e428b3f/09081c05494939bc5e1791f1d61ac41608af0b3df2cf594b2656fa02f2a07938" 
+                type="audio/x-m4a" 
+                length="14498997" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393668</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-var-traadt-direkte-ind-i-en-kult-med-leonora-christina-skov-16122393668</link>
+            <title>"Jeg var trådt direkte ind i en kult" - med Leonora Christina Skov</title>
+            <description>Sofie deler en lytterfortælling om kristen opdraget ung kvinde, der bryder med kirken og derfor mister hele sit sociale liv. Og da hun så prøver at opsøge et nyt fællesskab, viser det sig at være en kult. Gæst er forfatter Leonora Christina Skov.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os. 
+
+Vært: Sofie Diemer.
+Medvirkende: Leonora Christina Skov, forfatter.
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 07 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132b4c508f7c5e428b2e/982f78480d03448c4ace584656b773c11ed8d53c6f5cd3f7fb66c02b574b87e3" 
+                type="audio/mpeg" 
+                length="44582845" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132b4c508f7c5e428b2e/6e05111f50ae474d4efcefada73e550149a7721ef385a951ceb921733c5ac166" 
+                type="audio/mpeg" 
+                length="14861245" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132b4c508f7c5e428b2e/e0e5006c04d487dbffe2dbcec2261e2b41daa062fc92959e72b5a868b7f7c950" 
+                type="audio/x-m4a" 
+                length="59792084" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132b4c508f7c5e428b2e/31e70a4cece4e2c8f5847d9500139adcf25983fa7ce1458cbd68d5562ee98efb" 
+                type="audio/x-m4a" 
+                length="44931471" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132b4c508f7c5e428b2e/62df69b3819f641487bf0300f179ce2b088193b77f1ada9784992fc04ca41461" 
+                type="audio/x-m4a" 
+                length="15210936" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393667</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-vaek-fra-det-hele-med-ditte-okman-16122393667</link>
+            <title>Væk fra det hele - med Ditte Okman</title>
+            <description>Journalist og podcastvært Ditte Okman er gæst, når Sofie deler historien om en lytter, der mister sin far og inviterer sin bedste ven i sommerhus langt ude i en skov for at være i sorgen sammen.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Ditte Okman.
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 29 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413344c508f7c5e428b73/7d5d05ad5d47affeed970e1d6ff13ee8a8a9fa989d214d8185d3e9775ac28392" 
+                type="audio/mpeg" 
+                length="53088038" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413344c508f7c5e428b73/44f79c9e285bc23a2cd6ae8bd2258a7eccf0030e6ae86fb273a1c79451a7782c" 
+                type="audio/mpeg" 
+                length="17696294" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413344c508f7c5e428b73/489cc4cd8d62160aca86409c06eaf5bf084e9033dad8cedf672c4fabb1c84c83" 
+                type="audio/x-m4a" 
+                length="71199071" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413344c508f7c5e428b73/36406145a4153a57740684c45ae1c4479b91bef167126a4e647a1814b69aa0bd" 
+                type="audio/x-m4a" 
+                length="53503451" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413344c508f7c5e428b73/9e742e681ab03d2fb2338ebec1c9162b7579c58d9d82179952dadee5e99b46d6" 
+                type="audio/x-m4a" 
+                length="18112416" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393666</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-har-aldrig-ku-li-dig-med-ericka-jane-16122393666</link>
+            <title>"Jeg har aldrig ku' li' dig" - med Ericka Jane</title>
+            <description>En drøm af en roommate bliver til et venindemareridt i dagens vennefortælling. Musiker og radiovært Ericka er gæst.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Ericka Jane, musiker og radiovært.
+Producer, klip og redaktør: Rune Sparre Geertsen.
+I redaktionen: Luna Lam.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 22 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841331c26aeca6fa64c7a3/5e39f7dd075ea84761074c85ff396406219a4b2dac22e32833503d89678e0c6b" 
+                type="audio/mpeg" 
+                length="48737510" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841331c26aeca6fa64c7a3/f5bfd058f17ff9ef28fd1203113e4a306dad92e5bc037201139168bdb6b0f15f" 
+                type="audio/mpeg" 
+                length="16246118" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841331c26aeca6fa64c7a3/308e784c61a75e142a1f9fbb6dd1f1be2093fcbcfaa99ed36c1b1d97c416dd36" 
+                type="audio/x-m4a" 
+                length="65364444" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841331c26aeca6fa64c7a3/71de1af874996dab694a1a477ca56679403debc06fab2e10ebfcd7934c1ea92d" 
+                type="audio/x-m4a" 
+                length="49118887" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65841331c26aeca6fa64c7a3/9fb4ac93d4d580f5fbda8175662f1d3ae9020e755eb0f5287a67d6f31dd9efde" 
+                type="audio/x-m4a" 
+                length="16628217" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393665</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-karriere-eller-venner-med-jakob-thrane-16122393665</link>
+            <title>Karriere eller venner? - med Jakob Thrane</title>
+            <description>Komiker Jakob Thrane er gæst, når Sofie deler en vennefortælling om at vælge sit drømmejob til men med konsekvens af, at man må flytte fra sine venner og føle sig ensom i en helt ny by.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Jakob Thrane.
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 15 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b2a/0454b85872948da50acee60867c0e1a75efd080dcfc62899e929381a72252c78" 
+                type="audio/mpeg" 
+                length="46720358" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b2a/5128c22795185da7801dcffea3d3c0a8579444e7289ea84a2e37275f5040e482" 
+                type="audio/mpeg" 
+                length="15573734" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b2a/5949378c87d2c6e69c6a90dd25a662a2ea8a47bb5e042fba22f0102dadb9cdc8" 
+                type="audio/x-m4a" 
+                length="62658917" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b2a/4b6734392ace1f3afbd9ca1fcec5a047f6efb2d885ea52e775a37a8ee446b67d" 
+                type="audio/x-m4a" 
+                length="47085863" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b2a/b12c7bad897f8b3c36f70a62170f35142b7da6b2e62aa703b694ffb9e741366c" 
+                type="audio/x-m4a" 
+                length="15940225" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393664</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-internetvenindernes-foerste-moede-med-kh-underlivet-16122393664</link>
+            <title>Internetvenindernes første møde - med Kh Underlivet</title>
+            <description>En ung pige finder en helt speciel ven på nettet, og en ny verden åbner sig. Internetvenskaber har også fyldt en helt del i teenageårene for Emma Libner, Kh Underlivet, som er dagens gæst.  
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Emma Libner.
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 08 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413364c508f7c5e428b82/abfc3ba10195d9ea153f165f26571d98d6159c74172fef01e5fd9d7f2316d102" 
+                type="audio/mpeg" 
+                length="47791718" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413364c508f7c5e428b82/0efaaca9ef3b80753cb500f097e9126253830edbadbdf2d08dfa95399b2da80a" 
+                type="audio/mpeg" 
+                length="15930854" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413364c508f7c5e428b82/585fee3cbdfd9be43f833cb2f6d4ddd88f2e472b3da7e65597521c561b926843" 
+                type="audio/x-m4a" 
+                length="64095995" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413364c508f7c5e428b82/9a4f03e49765fb3477f45e0b4686e7c0a2796e5fdcf73a4c1fa93e35094bdc21" 
+                type="audio/x-m4a" 
+                length="48165819" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413364c508f7c5e428b82/4983c63cf4790bd8a887ec280c09a7a1d6ec70ec7833df52f2c924a4b788b17a" 
+                type="audio/x-m4a" 
+                length="16305575" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393663</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-veninde-til-undsaetning-med-sinan-16122393663</link>
+            <title>Veninde til undsætning - med Sinan</title>
+            <description>Realitystjerne Sinan Türkmen er gæst, når Sofie deler en vennefortælling om en ung muslimsk fyr, der får hjælp af sin pæredanske veninde til at springe ud som homo. 
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.  
+
+Vært: Sofie Diemer.
+Medvirkende: Sinan Türkmen.
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 01 Feb 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413314c508f7c5e428b5e/410db0e6c27611e456f04426d503c3645f339b2bbeac0266632a49de67c30c0a" 
+                type="audio/mpeg" 
+                length="38726630" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413314c508f7c5e428b5e/1be4b6df1de2e7042bde55dd70db6614d528c1947f9670afc7ed6a505c677a8b" 
+                type="audio/mpeg" 
+                length="12909158" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413314c508f7c5e428b5e/704cc09164027a40882010119ad88019af9d977c1bed48eb0013aca25ca819ce" 
+                type="audio/x-m4a" 
+                length="51937895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413314c508f7c5e428b5e/cc26559f02b4f19924c6212918869fb55bea7b7495b2eccc596b4f644a2a5271" 
+                type="audio/x-m4a" 
+                length="39029383" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658413314c508f7c5e428b5e/d3934a3d2d55ce23ef81665762f2e938cd601079bbd1518944f43ea6ecd2dba2" 
+                type="audio/x-m4a" 
+                length="13213121" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393662</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-den-venneloese-med-line-jensen-16122393662</link>
+            <title>Den venneløse - med Line Jensen</title>
+            <description>En kvinde lander i en ny by og går på jagt efter venner. Da hendes mission ser ud til at lykkes, tager livet en drejning, og hun bliver slået tilbage til start. Tegner Line Jensen er gæst. 
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.  
+
+Vært: Sofie Diemer.
+Medvirkende: Line Jensen, tegner og forfatter.
+Producer, klip og redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 25 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a163dfa22d5460cb7/a60c6e96bc8d6d26d7fcf37797e745530bd7dc0c70a1b5f3cd05e99ac71cf63b" 
+                type="audio/mpeg" 
+                length="50234534" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a163dfa22d5460cb7/e3869156674cfd8ca0343d52cd32d5665b7209062026970c1ec0308ec1874f40" 
+                type="audio/mpeg" 
+                length="16745126" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a163dfa22d5460cb7/2ebdaaa2b5b718902f50639530c68fa1d3c5916f053904a738c8c54a1b6518a7" 
+                type="audio/x-m4a" 
+                length="67372261" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a163dfa22d5460cb7/ff01eda1e7bbe2af244ed2ed0b0f44ba115d242590f2bde1507cf22cb9e83260" 
+                type="audio/x-m4a" 
+                length="50627651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a163dfa22d5460cb7/522db51a3e78931413fcca0ea9e43b460fe9630cb79de83a7753822aeca4c118" 
+                type="audio/x-m4a" 
+                length="17138915" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393661</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-livstyven-med-magnus-haugaard-16122393661</link>
+            <title>Livstyven - med Magnus Haugaard</title>
+            <description>Skuespiller Magnus Haugaard er gæst, når Sofie deler en vennefortælling om en ung kvinde, der får en veninde, som pludselig bliver meget interesseret i hendes sorg over sin afdøde mor.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.  
+
+Vært: Sofie Diemer.
+Medvirkende: Magnus Haugaard, skuespiller.
+Producer, klip og redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 18 Jan 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b26/5252802924e3a28021fa8ad355c9eda0482d79c42b5abebb758cffa6c7c5a4f2" 
+                type="audio/mpeg" 
+                length="50514472" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b26/1205ba4ddec833c72f0df3b1c97d1f22e947dc740df138ab3e63a6d4a992784b" 
+                type="audio/mpeg" 
+                length="16838440" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b26/ee9a3973cff0ceb59d6a54b6cbc8cfa71c4a1c58833ef30823d13cf537700355" 
+                type="audio/x-m4a" 
+                length="67747944" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b26/fa28e02737f5de1710664556ea236d9a19047c7eef9d211522a9f1ebd4c8cfbf" 
+                type="audio/x-m4a" 
+                length="50909919" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584132a4c508f7c5e428b26/fe335c4b5bda65c8f7a4ef2f18afc6884f0190d350b049fdccf7e141a7c35f9f" 
+                type="audio/x-m4a" 
+                length="17234505" />
+        </item>
+    </channel>
+</rss>

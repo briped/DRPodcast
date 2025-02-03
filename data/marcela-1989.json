@@ -1,0 +1,617 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:4489359743000",
+  "sortLetter": "m",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar"
+  ],
+  "numberOfEpisodes": 4,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2023-12-04T05:03:00+01:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/marcela-1989-4489359743000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/marcella-1989",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:4489359743000",
+  "productionNumber": "4489359743000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:655b72282659b726e0835284",
+  "slug": "marcela-1989-4489359743000",
+  "title": "Marcela 1989",
+  "punchline": "Hun blev dræbt en vinternat, men hvem var Marcela i de 17 år hun levede?",
+  "description": "Marcela 1989 er en anderledes true-crime serie, der fortæller historien om 17-årige Marcela Mieres, der en kold vinternat i 1989 blev myrdet i mørket af en stadig ukendt gerningsmand.\nRune Mielonen Grassov og Marcela gik på samme gymnasium og både hendes liv og død havde personlig indvirkning på ham. Over fire episoder tager han tilbage til sin egen ungdom på Vestegnen i 1989, sammen med dem, der var der selv. Dem der var søstre, kærester eller venner med Marcela og i dag lever med dybe ar på sjælen efter tragedien. Efterladte for hvem livet fra den ene dag til den anden ændrede sig for evigt.\nHvem var Marcela i de 17 år hun levede? Hvilke fodspor har hun afsat, i dem der var tæt på hende? Og hvilke minder står tilbage, her over tre årtier senere? Det får vi indblik i, i dette tidsbillede anno 1989.\nProduceret for DR af Filt Cph.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf2",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/png",
+      "blurHash": "NYOu1~=${;nSJ4S0#FWXkVoeNZjGKIbawOnlayjt",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e0fac68322c7b3aabf2&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e0fac68322c7b3aabf3&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf4",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oTM{?N=}|%,^;UA9ztRj$+X5xIoMB{S]sDS0bH,^ixwh$lS0NsX7n+axWnW.N?sqxus;sDWUWVj[",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e0fac68322c7b3aabf4&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e0fac68322c7b3aabf3&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#410003",
+        "#F57AD3"
+      ]
+    },
+    "colors": {
+      "dark": "#410003",
+      "light": "#F57AD3"
+    }
+  },
+  "sSlug": "marcela-1989",
+  "rssUri": "https://xmpl.dk/podcast/marcela-1989.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393451",
+      "durationMilliseconds": 2203157,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393451",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-04T05:00:00+01:00",
+      "startTime": "2023-12-04T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/marcela-1989/marcela-1989-1/marcela-1989-1-4-marcela-16122393451",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:655b722a2659b726e0835297",
+      "series": {
+        "title": "Marcela 1989",
+        "id": "urn:dr:radio:series:655b72282659b726e0835284",
+        "slug": "marcela-1989-4489359743000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/marcela-1989-4489359743000",
+        "learnId": "urn:dr:ocs:audio:content:series:4489359743000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 18040773,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835293/5b3d61e611b5e4607aa38a1ea012adaccd65398d8c0b61ec79804b81f416d214"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 53291163,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835293/4b76c71f2150ac7c79f3d83ca6e4d32c502b71634b95a3a43ee8ce8c6d8ba516"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 70917059,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835293/e6115a741a37f19fc7e6eb4d53dcc531f66842fea6c2e6c2ee70841acc828ecc"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 17626228,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835293/fef567e60d30211d99ba9a462b8ff7ceaf8ce788bc2f2c7906fba0cc05663a47"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 52877812,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835293/0d4db7d0b198956dfcc5ec5f5e391315a9dc9eb8dbc3e8a353354b78f89650de"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835293/56c9128356e79fc35eb7147a3f67e10394ebbad50bc25fcfc31157c6bcc31966"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:655b722471401528b89496fc",
+      "psdbSlug": "marcella-1989-4",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393451",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-04T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:655b722a2659b726e0835293",
+      "slug": "marcela-1989-1-4-marcela-16122393451",
+      "title": "1:4 - Marcela",
+      "description": "Marcela bliver fundet dræbt efter en fest i december 1989. Hun blev kun 17 år, men hvem var hun mens hun levede? Rune er også 17 år, da han ser Marcela første gang i S-toget, og hans liv tager en drejning.\nFortæller og tilrettelægger: Rune Mielonen Grassov.\nLyddesign og mix: Mads Heldtberg.\nRedaktør: Rebecca Bach-Lauritsen.\nDR redaktør: Cecilie Tonnesen.\nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf2",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NYOu1~=${;nSJ4S0#FWXkVoeNZjGKIbawOnlayjt"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf4",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oTM{?N=}|%,^;UA9ztRj$+X5xIoMB{S]sDS0bH,^ixwh$lS0NsX7n+axWnW.N?sqxus;sDWUWVj["
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#410003",
+            "#F57AD3"
+          ]
+        },
+        "colors": {
+          "dark": "#410003",
+          "light": "#F57AD3"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393452",
+      "durationMilliseconds": 2213836,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393452",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-04T05:01:00+01:00",
+      "startTime": "2023-12-04T05:01:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/marcela-1989/marcela-1989-1/marcela-1989-2-4-mordet-16122393452",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:655b722a2659b726e083529b",
+      "previousId": "urn:dr:radio:episode:655b722a2659b726e0835293",
+      "series": {
+        "title": "Marcela 1989",
+        "id": "urn:dr:radio:series:655b72282659b726e0835284",
+        "slug": "marcela-1989-4489359743000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/marcela-1989-4489359743000",
+        "learnId": "urn:dr:ocs:audio:content:series:4489359743000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 18128148,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835297/93e1add7a290c5dc173b6e1bd2a71b3498af9589e26a115948ce33f4d080fe13"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 53549843,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835297/fb67cdf6cfdfe664f47de7fc1675d5992cfc706b20841b01336ea8a0422f8aae"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 71261039,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835297/5644a56074d0481bcf91c9fb13ac1b920967278377d802880b3df53dd3438a87"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 17711673,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835297/03556cef1a8bcbc231a049d0b275debd1a73c9f4306164c37dd427c455c4d41c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 53134137,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835297/2ab60a0952b15e8830e9ad6cde092a8e11b748f0512854cd612219a6bd353696"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e0835297/cf4428c982c73c84dff18373ad3f3a3d55530e7607a4bdbc4bcdfa138eab7e4f"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:655b7223539f022810aa5748",
+      "psdbSlug": "marcella-1989",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393452",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-04T05:01:00+01:00",
+      "id": "urn:dr:radio:episode:655b722a2659b726e0835297",
+      "slug": "marcela-1989-2-4-mordet-16122393452",
+      "title": "2:4 - Mordet",
+      "description": "Marcelas mor vågner om natten og føler at noget bliver revet fra hende. Næste dag venter politiet i opgangen med en forfærdelig besked. Marcelas venner og søstre fortæller om hendes sidste tid og om den søndag hvor alting forandrede sig.\nFortæller og tilrettelægger: Rune Mielonen Grassov.\nLyddesign og mix: Mads Heldtberg.\nRedaktør: Rebecca Bach-Lauritsen.\nDR redaktør: Cecilie Tonnesen.\nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf2",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NYOu1~=${;nSJ4S0#FWXkVoeNZjGKIbawOnlayjt"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf4",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oTM{?N=}|%,^;UA9ztRj$+X5xIoMB{S]sDS0bH,^ixwh$lS0NsX7n+axWnW.N?sqxus;sDWUWVj["
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#410003",
+            "#F57AD3"
+          ]
+        },
+        "colors": {
+          "dark": "#410003",
+          "light": "#F57AD3"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393453",
+      "durationMilliseconds": 2166773,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393453",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-04T05:02:00+01:00",
+      "startTime": "2023-12-04T05:02:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/marcela-1989/marcela-1989-1/marcela-1989-3-4-moerket-16122393453",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:655b722a2659b726e083529f",
+      "previousId": "urn:dr:radio:episode:655b722a2659b726e0835297",
+      "series": {
+        "title": "Marcela 1989",
+        "id": "urn:dr:radio:series:655b72282659b726e0835284",
+        "slug": "marcela-1989-4489359743000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/marcela-1989-4489359743000",
+        "learnId": "urn:dr:ocs:audio:content:series:4489359743000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 17742841,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529b/c5530477c8cf765c320497ee1f017bb7b17adf88353c7960e052c1440c302295"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 52411519,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529b/3c3a3d5be82dcaf751d682665946e9ff36b02b9f9249e276f4c69228a49306b7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 69746200,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529b/7489eea119c29c8e934a2a86f26ea7d96273010a8688ea6b9a265eb62b88ba01"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 17335163,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529b/56805107bea732c907c49f69c8e791e0beac2372792a3d953e882dea16176e87"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 52004603,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529b/2973ec7b3db3e685239d3652dba66aa7e0e691742faf3bde3bd7519faaa76690"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529b/a7349e947db7558454b2805b09dc691c3963ae8200b96c011c90bfe7198bfd8a"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:655b722371401528b89496fa",
+      "psdbSlug": "marcella-1989-2",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393453",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-04T05:02:00+01:00",
+      "id": "urn:dr:radio:episode:655b722a2659b726e083529b",
+      "slug": "marcela-1989-3-4-moerket-16122393453",
+      "title": "3:4 - Mørket",
+      "description": "Efter mordet venter en tid i mørke for alle omkring Marcela. En flok teenagere bliver voksne på kort tid og skal håndtere både pressen og sorgen. Det bliver en lang vinter, men fakler på Rådhuspladsen tænder et lille lys i mørket.\nFortæller og tilrettelægger: Rune Mielonen Grassov.\nLyddesign og mix: Mads Heldtberg.\nRedaktør: Rebecca Bach-Lauritsen.\nDR redaktør: Cecilie Tonnesen.\nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf2",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NYOu1~=${;nSJ4S0#FWXkVoeNZjGKIbawOnlayjt"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf4",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oTM{?N=}|%,^;UA9ztRj$+X5xIoMB{S]sDS0bH,^ixwh$lS0NsX7n+axWnW.N?sqxus;sDWUWVj["
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#410003",
+            "#F57AD3"
+          ]
+        },
+        "colors": {
+          "dark": "#410003",
+          "light": "#F57AD3"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393454",
+      "durationMilliseconds": 2395949,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393454",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-04T05:03:00+01:00",
+      "startTime": "2023-12-04T05:03:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/marcela-1989/marcela-1989-1/marcela-1989-4-4-mindet-16122393454",
+      "order": 100004,
+      "previousId": "urn:dr:radio:episode:655b722a2659b726e083529b",
+      "series": {
+        "title": "Marcela 1989",
+        "id": "urn:dr:radio:series:655b72282659b726e0835284",
+        "slug": "marcela-1989-4489359743000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/marcela-1989-4489359743000",
+        "learnId": "urn:dr:ocs:audio:content:series:4489359743000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 19619237,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529f/ed9cf159edb0e31c72407361143101c23ed57ed8c691a8395394a66aa8aac1eb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 57954987,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529f/4249d801280e26bd7bae778409df2b7911f5a3601e52f0deb85d4a2e31b649b0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 77123232,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529f/9c1e37525a8357f20e90b02d11b529e8ec1e10bcc8d48f282e5bb4f471218112"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 19168566,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529f/eba55f043e91f6aa390af8d3c2b71d9f78b2168b9488ed189c8c3134f7567018"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 57504822,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529f/859294ccce487fa3b6ef80811430925cbb26de94035e5f29266176e03c40958d"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655b722a2659b726e083529f/907a37b5ffe1a2ecbbf9986beebdc203e8f5f376aeb0a350bdfe56cd083bd674"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:655b7224539f022810aa574e",
+      "psdbSlug": "marcella-1989-3",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393454",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-04T05:03:00+01:00",
+      "id": "urn:dr:radio:episode:655b722a2659b726e083529f",
+      "slug": "marcela-1989-4-4-mindet-16122393454",
+      "title": "4:4 - Mindet",
+      "description": "Mindet om Marcela er fastfrosset i et billede af hende som 17-årig. Evig ung, evig smuk. Men her 30 år efter har sorgen fundet er nyt leje. Man kan tænke på hende med glæde og spekulere på, hvordan ville hun være i dag?\nFortæller og tilrettelægger: Rune Mielonen Grassov.\nLyddesign og mix: Mads Heldtberg.\nRedaktør: Rebecca Bach-Lauritsen.\nDR redaktør: Cecilie Tonnesen.\nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf2",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NYOu1~=${;nSJ4S0#FWXkVoeNZjGKIbawOnlayjt"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf4",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oTM{?N=}|%,^;UA9ztRj$+X5xIoMB{S]sDS0bH,^ixwh$lS0NsX7n+axWnW.N?sqxus;sDWUWVj["
+        },
+        {
+          "id": "urn:dr:radio:image:67015e0fac68322c7b3aabf3",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oVM{,A=~}0,^,KA9zxRl$+X7xIoLB{S_sES1ba,^iywh$lS0NsbZjbWVSKW.N?sqtQofsDWUWoo2"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#410003",
+            "#F57AD3"
+          ]
+        },
+        "colors": {
+          "dark": "#410003",
+          "light": "#F57AD3"
+        }
+      }
+    }
+  ]
+}

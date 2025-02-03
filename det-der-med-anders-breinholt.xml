@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/det-der-med-anders-breinholt.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Det dér med Anders Breinholt (recycled)</title>
+        <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt-5134621919000</link>
+        <description>Ingen dato er ligegyldig! Hver søndag inviterer Anders Breinholt en gæst i radiostudiet og vender med kæk charme ugen, der er gået i lytternes liv, og det, der rører sig hos gæsten. Advarsel: det bliver lokalt, det bliver skelsættende - og du kan lige så godt vænne dig til det!
+Vært: Anders Breinholt.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:04 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/det-der-med-anders-breinholt.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/det-der-med-anders-breinholt.jpg</url>
+            <title>Det dér med Anders Breinholt (recycled)</title>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt-5134621919000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/det-der-med-anders-breinholt.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Underholdning</category>
+        <itunes:category text="Underholdning" />
+        <item>
+            <guid isPermaLink="false">16122541017</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2025/det-der-med-anders-breinholt-og-emil-nielsen-16122541017</link>
+            <title>Og Emil Nielsen</title>
+            <description>Håndboldherrernes nye hovedperson i målet blev undfanget lige midt i det, der viser sig at være et overraskende stort dyre-år, både på fugle-, fåre- og abefronten. Vi taler om VM, og Emil giver anbefalinger til Barcelona. Der er også tips til nyeste køkkenmode, når vi ringer til Korsør, hvor Inge og Christian lige har fejret krondiamantbryllup.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 05 Jan 2025 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f7381654c75b6ad550e/6318dfc9da4cb08cc644591a7ec6671d847663457a881899c2680dd296693162" 
+                type="audio/mpeg" 
+                length="168481611" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f7381654c75b6ad550e/ada626448457c73b0a3eff5938f70621bec8b6a4e67bcb783aa9177b9e6f6103" 
+                type="audio/mpeg" 
+                length="56160843" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f7381654c75b6ad550e/8e3a26b8d9b5691d2343fe3fca47a0dfa304d68806c85efe4dc11f8a660e3d52" 
+                type="audio/x-m4a" 
+                length="225961213" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f7381654c75b6ad550e/5a7a5b6528ca14f67651084f22b1c5f9402b25f80fc872576f114699025d785f" 
+                type="audio/x-m4a" 
+                length="169800319" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f7381654c75b6ad550e/dc05ff9cab4eb860804d6339d700d9cb90ff57403b9282b7b7dac43ac89a7ebe" 
+                type="audio/x-m4a" 
+                length="57478959" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441527</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-det-bedste-fra-2024-16122441527</link>
+            <title>Og det bedste fra 2024</title>
+            <description>Læn dig heeelt tilbage i sofaen. På årets næst-næstsidste dag genlytter vi noget af det allerbedste fra 'Det dér' i 2024. Du kan blandt andet høre om Ullas største øjeblikke, Davids fars første møde med Kattegat og Micks fliseløgn. Vi snyder dig selvfølgelig heller ikke for de bedste udgaver af 'Det sker i'. Godt nytår - og husk sikkerhedsbrillen!
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 29 Dec 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355b6051595a723d3d06a/4ed675de917ebd58f5cb51466ebfb2e1ddfb70b8ebeb47630d3a748cc8297f09" 
+                type="audio/mpeg" 
+                length="168481616" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355b6051595a723d3d06a/132559dc2bc4d7a2d9bb2ac440904a188e33c5ac714667b5e86d3130c35896fe" 
+                type="audio/mpeg" 
+                length="56160848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355b6051595a723d3d06a/4ae421777ff89f5bf3bd9b9bf39c8b00ce0538ffb658f31ab6cd629f43276d60" 
+                type="audio/x-m4a" 
+                length="225961189" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355b6051595a723d3d06a/dd7906f32aa1daf588db1e5faf7e9f7a8cec6e6779cb4e03540cec64cb4504b7" 
+                type="audio/x-m4a" 
+                length="169800369" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355b6051595a723d3d06a/f1d2db7a7fa2529d56ad61502f392480cd79fc7b489d1f085c922acd0b0b3aea" 
+                type="audio/x-m4a" 
+                length="57479029" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441517</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-margrethe-vestager-16122441517</link>
+            <title>Og Margrethe Vestager</title>
+            <description>Har din mor nogensinde vundet en malkekonkurrence? Det har Margrethes mor, og det står hurtigt klart, at 6870 Ølgod var det eneste rigtige sted at være i '68. Vi forsøger også at finde et nyt top-topjob til Margrethe, der er flyttet hjem til Amager efter 10 år som kontant afregner i EU, og så ringer vi til Barnets Blå Hus på Bornholm. Glædelig jul!
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 22 Dec 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:675a1a8f37174d6febece13d/b934ed76d569b9b00ce4e6f47b02944bf5cb0d6dfe889af1bbeb8ada6397aea1" 
+                type="audio/mpeg" 
+                length="168481610" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:675a1a8f37174d6febece13d/387a696a27f3adfd99c9985af67d534584d1e1bc04270f8298007867d40028f1" 
+                type="audio/mpeg" 
+                length="56160842" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:675a1a8f37174d6febece13d/aeb4446dc69674970b3ccccc00a9c970ee991ed10dfba17e07bc913aae858634" 
+                type="audio/x-m4a" 
+                length="225961220" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:675a1a8f37174d6febece13d/f288683fad11fef949b2f0e5a05622d29652e5eacec13c2cba644442a8b594d2" 
+                type="audio/x-m4a" 
+                length="169800609" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:675a1a8f37174d6febece13d/c4a579e43225b0b1650b1b6957220c7b84a6cb8fdb527ac294fd424ff182d017" 
+                type="audio/x-m4a" 
+                length="57479011" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441507</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-l-o-c-16122441507</link>
+            <title>Og L.O.C.</title>
+            <description>Har du tænkt over, hvad dine sidste ord skal være? Hvis du har, skal du måske begynde at skrive ned nu, mens du kan huske, hvem der er hvem - og ikke som Liams far forveksler dine børns mor med en anden kvinde. Ad omveje får vi også åbnet en kriminel beskyttelsesservice, og så ringer vil til formanden for de hjemløse i Sønderjylland, MacAllan. 
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 15 Dec 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6750e0c07b1cbac66d0fbcd9/1a52952f19259116e673b079578e367cef252751d0586993856e4f80bdf0c1eb" 
+                type="audio/mpeg" 
+                length="168481609" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6750e0c07b1cbac66d0fbcd9/5518af8a954abbf0aa79b8763413ac6975ad85bedc5462c62860e309b99232c1" 
+                type="audio/mpeg" 
+                length="56160841" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6750e0c07b1cbac66d0fbcd9/66ee88cdfcedd936019623ca119a8a97dfb7f0abb311c7a42484188ef765e312" 
+                type="audio/x-m4a" 
+                length="225961165" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6750e0c07b1cbac66d0fbcd9/ca85c0474926664434b078b8293990b80bfe923e9dc7061e335305cdc4e4532b" 
+                type="audio/x-m4a" 
+                length="169800305" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6750e0c07b1cbac66d0fbcd9/d4c4e172a5e3d85c03440119dfbe2c36dec5755cc33374a09490dac181950e80" 
+                type="audio/x-m4a" 
+                length="57479016" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441497</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-andreas-bo-16122441497</link>
+            <title>Og Andreas Bo</title>
+            <description>Det begynder med en kongelig forlovelse og et smukt øjeblik mellem en rottebekæmper og en sygeplejerske/bibliotekar - og 48 år senere står Andreas midt i en beef med Prins Henrik. Andreas har også for nylig fået en mandescanning, og så ringer vi til en p-plads i Brabrand i anden udgave af vores julehjælps-adventskalender.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 08 Dec 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6747a5f9e61fb3531542b9b2/dcb3dbf80d3823feae6b489909875c88e0573f00cbb0c18d1c459bdda145fa7f" 
+                type="audio/mpeg" 
+                length="168481611" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6747a5f9e61fb3531542b9b2/0b3d54026e594ca083737967587fcf783db20410edcbfe6d8a9d90e8ad2e47a6" 
+                type="audio/mpeg" 
+                length="56160843" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6747a5f9e61fb3531542b9b2/adccdf367c89f2c05668b131930637b97afb89be31cddbe2a451ae0690574ced" 
+                type="audio/x-m4a" 
+                length="225961129" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6747a5f9e61fb3531542b9b2/ad756150745f5a2419053d430f1110c7a6cf62f074589e0378bf04e7a46ba0de" 
+                type="audio/x-m4a" 
+                length="169800387" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6747a5f9e61fb3531542b9b2/aa6f4f01aa1186c075b3e920e9ae79069d97cce8339cfead06c22051bfcc92b4" 
+                type="audio/x-m4a" 
+                length="57479219" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441487</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-david-nielsen-16122441487</link>
+            <title>Og David Nielsen</title>
+            <description>Ho, ho, ho! Det er første søndag i advent, og det er David Nielsens fødselsdag. Altså fodboldtræneren. Men her på redaktionen kalder vi ham Døds-David, efter han har fortalt om sit gamle metalband og demonstreret sit growl. Og så sparker vi gang i et projekt, der består af lige dele jul og public service. Vi er jo på P4. Glædelig december!
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 01 Dec 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e6adf6565d57184eb6368/e00e79494e2870964b00702a3d0fc8a47edc97ee7ae3be6bb8eade27afa1536b" 
+                type="audio/mpeg" 
+                length="168481611" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e6adf6565d57184eb6368/50f248db0fafd4dfa01a2c67388ea13dccf95d65846a341844edad29b8de90f3" 
+                type="audio/mpeg" 
+                length="56160843" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e6adf6565d57184eb6368/f3e4d8ba12ff139ba1b9d38f8fbb194c4813d68ee24187ba635baed0c5e087bf" 
+                type="audio/x-m4a" 
+                length="225961309" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e6adf6565d57184eb6368/479e33f544c54a05a9b2f108801583781df5b8f0ed2c15b9ce26e11bb6dd6367" 
+                type="audio/x-m4a" 
+                length="169800524" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e6adf6565d57184eb6368/17b06edf0fa9a88bc680824a3573ed93b656f3cafd1474744cc1a5f20ed08fbb" 
+                type="audio/x-m4a" 
+                length="57479114" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441477</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-moe-16122441477</link>
+            <title>Og MØ</title>
+            <description>Hvis din udkårne spiller kostbar, efter I har mødt hinanden til et volleyballstævne, så begynd til orienteringsløb. Sådan lykkedes Karens far med at score hendes mor, og i 1988 fik de en lille datter med verdens længste navn og ganske tvivlsom smag i tv-serier. Og så spilder vi minimum fire minutter af din tid med vrøvl og dut-dut-lyde. 
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 24 Nov 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673530ccb41bf47be0800536/c2151a6d7cd9ff73c9b0d3e592966d70a04444000273e722f844676439f848bb" 
+                type="audio/mpeg" 
+                length="168481612" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673530ccb41bf47be0800536/b8468f49886d39318acd465e44497152196b60874347bb850c5a116863e3ccdc" 
+                type="audio/mpeg" 
+                length="56160844" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673530ccb41bf47be0800536/8fb3c8b957e3c6eac8dca82cc421bd5151777d38b951802e46f8ac386c9701f8" 
+                type="audio/x-m4a" 
+                length="225961141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673530ccb41bf47be0800536/ecd43e0157fc03b5d3f9b3eb8424bfb23acb0d178be33afdae3c75c5ca6368df" 
+                type="audio/x-m4a" 
+                length="169800540" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673530ccb41bf47be0800536/4e4cc9bdd9c60a4acf8c7651ebdb798d2a19ed1323ad7f61ca570bf258df738d" 
+                type="audio/x-m4a" 
+                length="57479011" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441467</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-ole-henriksen-16122441467</link>
+            <title>Og Ole Henriksen</title>
+            <description>Danmark i 50'erne var præcis, som du tror. Lille Ole spænede Nibe rundt som mælkebud, mens mor lavede tomatpure og far arbejdede på fabrikken. Efter en vild historie om en nødlanding på en billig tur til Moskva og uforholdsmæssigt meget snak om prutter ringer vi til Lucas fra Randers, der har fået forårsløg på fortrappen. Som man si'r. 
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 17 Nov 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672bf5d50d7b51de359f44b3/eb0431f7533b044137a7df8d9f1a839e24909283e4ebcdce0752a5f5cc84a00c" 
+                type="audio/mpeg" 
+                length="168481613" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672bf5d50d7b51de359f44b3/7a077f1a035a28a61d9a3a9e25dad60ef7a2f1382ef61a2c8e428ac1966b9b13" 
+                type="audio/mpeg" 
+                length="56160845" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672bf5d50d7b51de359f44b3/93592e4830d0c7af0c94e4988b7523513f2578b1871d238add8b817297836ecd" 
+                type="audio/x-m4a" 
+                length="225961283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672bf5d50d7b51de359f44b3/700b9831550d248412872410a3acb0795a670f0f866e6536a1fea80623579b54" 
+                type="audio/x-m4a" 
+                length="169800563" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672bf5d50d7b51de359f44b3/575e02cf8d9a14fdc1d196ca2030855a003180276043ea540f05ba1e618f557d" 
+                type="audio/x-m4a" 
+                length="57479072" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441457</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-stephania-potalivo-og-joakim-ingversen-16122441457</link>
+            <title>Og Stephania Potalivo og Joakim Ingversen</title>
+            <description>Én af gæsternes forældre forsøgte desperat at holde varmen i en decemberkold gondol i Venedig i 1986, og så siger vi ikke mere om ugens undfangelseshistorier! De to Alle mod 1-værter samarbejder også i Den Store Er-det-seriøst-en-verdensrekord-Quiz, og så ringer vi SELVFØLGELIG til en ÆGTE verdensrekordholder fra Aarhus. Værsgo'!
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 10 Nov 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6722bbf00d515ea51a0c3cb2/079d2eac8e82afef9dd556148fa84297ab7d453348215f1678cbd3d4b536f85e" 
+                type="audio/mpeg" 
+                length="168482185" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6722bbf00d515ea51a0c3cb2/6a566f0ed4bf9080ec6f6d0ae9594f56ee0919ed182045c456044ab254cbdb57" 
+                type="audio/mpeg" 
+                length="56161033" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6722bbf00d515ea51a0c3cb2/f3505e954fa7beca263744d2dd0f3496c90c3c6a9b688d0b61ea3d89d1773aaf" 
+                type="audio/x-m4a" 
+                length="225961851" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6722bbf00d515ea51a0c3cb2/af9b3ff4b97155db8735e5b22c3a4ca2a087e4ac370c202c69a644ff1381f9e1" 
+                type="audio/x-m4a" 
+                length="169800968" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6722bbf00d515ea51a0c3cb2/0282e770209b462d95d1db847a7a6ddbe995c77257966d5f806af5e7740e4046" 
+                type="audio/x-m4a" 
+                length="57479229" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441447</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-peter-sommer-16122441447</link>
+            <title>Og Peter Sommer</title>
+            <description>Musiker, sanger og bare godt menneske , Peter Sommer er søndagens gæst. Han er højst sandsynligt blevet undfanget under oliekrise og i  de koldest målte temperaturer - 21,3 °C målt i Tarm (Byen). 
+Og så giver Breinholt dig 30 min. du aldrig får igen - god søndag.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 03 Nov 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671973c2c0065080aacf08f6/b237282ea9a2dbacb4c81dd9280e8bcb8bb83e150f4143648ca4beb284adbada" 
+                type="audio/mpeg" 
+                length="168481603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671973c2c0065080aacf08f6/c089797f381681063434d8c789288fe37d06057b8a97120cd5e3de832c1ca9d1" 
+                type="audio/mpeg" 
+                length="56160835" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671973c2c0065080aacf08f6/efc4ac34ef57938096540c778b9a519d2f710bffa813c8d151e141da583614ea" 
+                type="audio/x-m4a" 
+                length="225961273" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671973c2c0065080aacf08f6/a2f34089310559979c4700cdbc2a6e168338e36a14407004edc6227b15b7e6ed" 
+                type="audio/x-m4a" 
+                length="169800589" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671973c2c0065080aacf08f6/44125d2e7ed7bea47ddf04b11614738dbcc46429b89817f77727700a5e610750" 
+                type="audio/x-m4a" 
+                length="57479063" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441437</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-sara-blaedel-16122441437</link>
+            <title>Og Sara Blædel</title>
+            <description>Krimi-Dronning Sara Blædel er gæst. Hun er adoptiv barn og er muligvis blevet undfanget lige omkring Kennedy attentatet - de to ting har i øvrigt intet med hinanden at gøre.  Så er der 2 gange brand i nødder i Sæby og så selvfølgelig masser af godt selskab.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 27 Oct 2024 10:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6710389ff341a59a1bd4fad6/81ede4eed3bcdd17fb649460779aad125c274e0e261835d5a685b902226d47f0" 
+                type="audio/mpeg" 
+                length="168481614" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6710389ff341a59a1bd4fad6/b99743bfbb4a20fb6b6d18f5eda79558f89a99395512fb0d1fe6271e58811326" 
+                type="audio/mpeg" 
+                length="56160846" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6710389ff341a59a1bd4fad6/0c95f319f7f832ed41938501bbe3752a5eee63ccd6f3843c6b27e90f31a5e357" 
+                type="audio/x-m4a" 
+                length="225961009" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6710389ff341a59a1bd4fad6/bfb1511425e4ad6b94252b226b9017921f495514459487a6ff7e90f8dfae838e" 
+                type="audio/x-m4a" 
+                length="169800266" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6710389ff341a59a1bd4fad6/286d6381c75e8f7b3c99cf8963e4e995c5e02ed243d5ef145dc2c287d45a6b83" 
+                type="audio/x-m4a" 
+                length="57479047" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441427</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-heino-hansen-16122441427</link>
+            <title>Og Heino Hansen</title>
+            <description>Alt i dåser og kåd luciaglæde dannede rammerne for Heinos undfangelse i december 1983. Fordi han er tidligere radiovært, får han lov at blive i studiet meget længere end andre gæster, og den tid udnytter Heino til at dyrke sin nye hobby for åben mikrofon. Og så er der naturligvis opfølgning på dramaet i Kerteminde!
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 20 Oct 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6706fe7ef341a59a1ba98d1f/1285d4e373d8a97b4164b73359ed1ae4e5eb4cfb8f75cc26ae2b7e1c286c15ee" 
+                type="audio/mpeg" 
+                length="168481615" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6706fe7ef341a59a1ba98d1f/c8565e57c945e5062d67aa649044670313cc340da5c1061e9a2b1da96e7ebebb" 
+                type="audio/mpeg" 
+                length="56160847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6706fe7ef341a59a1ba98d1f/0f68762ad61bcabb2cc52c081a393f3376c9d7d042a4d1fc84f29596eb6f9359" 
+                type="audio/x-m4a" 
+                length="225961273" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6706fe7ef341a59a1ba98d1f/d2e073aed35a9b0914c8fc05a962b9751c25c34ca4ab171a5a3886fb28d9c2e2" 
+                type="audio/x-m4a" 
+                length="169800551" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6706fe7ef341a59a1ba98d1f/c643d1d26b3360d316cecad920a6e386fc660bd4a9176d2ae337753f4f669dea" 
+                type="audio/x-m4a" 
+                length="57479054" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441417</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-viktor-axelsen-16122441417</link>
+            <title>Og Viktor Axelsen</title>
+            <description>Hvem skulle blandes i dit reagensglas, hvis du fik frit valg? Vi spekulerer på, om det mon virkelig kun er Viktor Axelsens mors og fars gener, der har skabt 194 centimeter verdensstjerne, eller om de har sløset lidt med pipetterne på fertilitetsafdelingen i 1993. Vi ringer også til Henning i Kerteminde, der bare gerne vil læse Ekstra Bladet i fred!
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 13 Oct 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fdc45cac68322c7b2b3827/c50fb81970a791d83304845d6aad1e3ac6aac54828fb659aa45c620a5caddc4d" 
+                type="audio/mpeg" 
+                length="168481607" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fdc45cac68322c7b2b3827/75e72472457b63b61ef995b5f7467a2218c8a37a8a00babfec3665edacc1c29b" 
+                type="audio/mpeg" 
+                length="56160839" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fdc45cac68322c7b2b3827/dcad6f872516e772104afdd52296f6bda0230d81603ff96e586792da564f6d44" 
+                type="audio/x-m4a" 
+                length="225961225" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fdc45cac68322c7b2b3827/ffaa9c8811d907dd2431602f6ebecb106729d3b53fe905b14e42aea6a3c7ed01" 
+                type="audio/x-m4a" 
+                length="169800700" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fdc45cac68322c7b2b3827/7403156ffd45bf9b16eb18e56cd3cab98b614b80c2cd5534527797f3c9b88877" 
+                type="audio/x-m4a" 
+                length="57478954" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441407</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-kenneth-hansen-16122441407</link>
+            <title>Og Kenneth Hansen</title>
+            <description>Luksusfældens pæneste økonomiske ekspert er i studiet. Utrolig heldigt, at det lige sker på dagen, hvor det også står klart, at redaktionens matematiske evner er ... beskedne. Til gengæld får Anders som den første medieperson i 15 år lov at tale med Lotto-Henrik, der som 21-årig vandt Danmarkshistoriens dengang største lottogevinst på 22,7 millioner.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 06 Oct 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f489177f6e9cb37b8dd963/342be75229da8c4eb41b67d98561844661e2347e4017175fee1dbc58bdb1fd94" 
+                type="audio/mpeg" 
+                length="168481616" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f489177f6e9cb37b8dd963/43c94b751ded08dfc804bb3d21daefc116d16f6e7bbcbf7657bbf9cf35a9f536" 
+                type="audio/mpeg" 
+                length="56160848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f489177f6e9cb37b8dd963/1b8358062358d2e2459f33a7c6a9879ebce698b8c2fb7b3277cca2de201f8697" 
+                type="audio/x-m4a" 
+                length="225961347" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f489177f6e9cb37b8dd963/2de9d2d3bf097443914a5e9de92f720736e637fa458b492580463f08605a5a3b" 
+                type="audio/x-m4a" 
+                length="169800629" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f489177f6e9cb37b8dd963/854c91f6e70c6f829ee466cb9142392d0bee395dcf6c1b2c91bc98ae5b152f74" 
+                type="audio/x-m4a" 
+                length="57479050" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441397</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-mick-oegendahl-16122441397</link>
+            <title>Og Mick Øgendahl</title>
+            <description>Kronhjorten er stadig i brunst, og der er også høj luftfugtighed i studiet i dag. Flere spørgsmål rejser sig. Udforsker Anders en ny seksualitet? Har Mick en kendisflise på gågaden i Nykøbing på Falster eller ej? Vi runder som altid af med et opkald - denne gang til Lisbeth fra Aarhus, der har været udsat for en slags omvendt telefonfis.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 29 Sept 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66eb4e7ca46dffd766925c54/a1d2e300bdac302d03d551ae8d0d1b98db2f3cc2cf2a5105a0b704ffd98d698f" 
+                type="audio/mpeg" 
+                length="168482185" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66eb4e7ca46dffd766925c54/50e20e6bae73249893b3c901dac0683c0aadedc48f451e2ff7e1fef8cdae001d" 
+                type="audio/mpeg" 
+                length="56161033" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66eb4e7ca46dffd766925c54/0d1aa3efe14fc58fda26d70558bb1f4919716fac72945730cf9ce422a1a24acf" 
+                type="audio/x-m4a" 
+                length="225962044" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66eb4e7ca46dffd766925c54/d2c94b94b23d8672f995f2bb44b3b89531f5ec4eeb01ee432a4c2bad401a17a0" 
+                type="audio/x-m4a" 
+                length="169801012" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66eb4e7ca46dffd766925c54/25aadf6be756fb5ab4c3c97e4d307b36310afc9c82ab62eebec37176f40b7ebd" 
+                type="audio/x-m4a" 
+                length="57479178" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441387</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-isam-b-16122441387</link>
+            <title>Og Isam B</title>
+            <description>Nu sker der ting og sager! På under en uge har Det dér løst to års intensiv kamp på Frederiksberg, og efter at have hørt dén succeshistorie kommer Isam B i tanke om, at han faktisk også godt kunne bruge en hånd til noget. Vi ringer også til 18-årige Vilas, der efter en fest er kommet til at smadre et dyrt maleri, mens forældrene ikke var hjemme.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 22 Sept 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e2149b374be7e3ceaef59b/60a21d32dacbd781bd177ef60b56c8415ec0afaa308059dee988e385b6cff89e" 
+                type="audio/mpeg" 
+                length="168482188" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e2149b374be7e3ceaef59b/075b80e8e8923e965cd1c0215029501c4f8a0f33a5402846f9b35c42c3603642" 
+                type="audio/mpeg" 
+                length="56161036" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e2149b374be7e3ceaef59b/8e5247fd53db9511b389e3a75c28dbf2be59df67510f6da25caca7e284d6dab2" 
+                type="audio/x-m4a" 
+                length="225961996" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e2149b374be7e3ceaef59b/f3e902e615fa4fe193ced4d8d61a630aa1eeae20ba32aa560db27cad0ab8c289" 
+                type="audio/x-m4a" 
+                length="169801033" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e2149b374be7e3ceaef59b/fb2b64d1a425f3a5a45fc2e099a5617d2a670263794c04236fb9ced72b617324" 
+                type="audio/x-m4a" 
+                length="57479320" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441377</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-freja-kirk-16122441377</link>
+            <title>Og Freja Kirk</title>
+            <description>Det er de vilde oplevelsers afsnit. Da Freja Kirk viste sin nye brystkasse frem for hele Danmark til Echo Prisen i år, var hun lige ved at gå i gulvet af bare nervøsitet. Vi taler også med Peter Werner, der er sluppet levende fra et voldsomt møde med en 400 kilo tung brun bjørn i 2016. To timers radio, der gør dig lige dele forpustet og imponeret.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 15 Sept 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d8da48093005ecd9b65acd/6f7a61a39f3d664c6495fd6a63eee0cd94ecaf4ac6e75396c686355d50deaddd" 
+                type="audio/mpeg" 
+                length="168481609" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d8da48093005ecd9b65acd/d4094474d0b60a03a45471155cf90b534dcf47938e749a3fb321f54851c74c29" 
+                type="audio/mpeg" 
+                length="56160841" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d8da48093005ecd9b65acd/2e6f588f0bdbad1fdd2582cb5577e0307630e24c83d03970961cb1872ca2c637" 
+                type="audio/x-m4a" 
+                length="225961225" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d8da48093005ecd9b65acd/9dbc0f05af8748578d86dbc1e3e921cb44c41ac1ac75bd5ba8d2e6e79e0f8c8b" 
+                type="audio/x-m4a" 
+                length="169800515" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d8da48093005ecd9b65acd/c46408371bdcf4560f1c41b7e3cc7530d96a9c501d8b37dc2f222d3ddc8f9657" 
+                type="audio/x-m4a" 
+                length="57479066" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441367</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-pernille-skipper-16122441367</link>
+            <title>Og Pernille Skipper</title>
+            <description>Prepper-pjecen er landet i Anders' og Pernilles e-boks, men hvor gør man egentlig af 45 liter vand, mens man venter på sin hypotetiske undergang? Denne søndag er der også mulighed for at blive forarget over supermarkedspriserne, og så er Inge og Lisbeth blevet lokale kendisser, efter deres havaneser Loui er kåret til Stevns sødeste hund 2024. 
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 08 Sept 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cf9ee34c2f09fed3308613/3ad882ab091a3ad9e6df8ebf4766f5a688c199831822902a72298a074e086e1b" 
+                type="audio/mpeg" 
+                length="168482183" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cf9ee34c2f09fed3308613/75388a16e0e9a04eec9778c0349187dfc8a935ca659efb32d6b35df1df4681ea" 
+                type="audio/mpeg" 
+                length="56161031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cf9ee34c2f09fed3308613/d4836b723f9f71696c85f4d5adc724586cacee757c0f7f378676f59bc675724d" 
+                type="audio/x-m4a" 
+                length="225961936" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cf9ee34c2f09fed3308613/1f5f1cf9bd1f783224917406b42609f130c636b0a669e5aa61683a00ed1e1ea1" 
+                type="audio/x-m4a" 
+                length="169800990" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cf9ee34c2f09fed3308613/c37714e14953bfb6ca6c90539c0384e9e30940d9dfdbe7920a10d1fc7477bde7" 
+                type="audio/x-m4a" 
+                length="57479296" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441357</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-andreas-odbjerg-16122441357</link>
+            <title>Og Andreas Odbjerg</title>
+            <description>Er vi kommet på sporet af et organiseret netværk af grøntsagskriminelle på Horsens-egnen? Dét og en række andre seriøse spørgsmål stiller vi os selv i tredje program, hvor det i øvrigt kommer frem, at Andreas Odbjergs far drikker champagne af sit gamle glasøje. 
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 01 Sept 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c665073246beba6d216a00/3853e8484ba05d745d177df59f4464ba800720c942183ff8ca16e7a8f8d687b2" 
+                type="audio/mpeg" 
+                length="168482189" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c665073246beba6d216a00/2e5670d76b20573c19ecd9033dcf256b7b6c5c4299c0868abd9f653a1ab4ac9d" 
+                type="audio/mpeg" 
+                length="56161037" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c665073246beba6d216a00/5892f98d66228164d120cf02c3b77640bd24541d95685e52162026f647eba999" 
+                type="audio/x-m4a" 
+                length="225961864" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c665073246beba6d216a00/6a044f866c19aca01e51f3fda56de12fd0dcbcb292604ef09ad2800f1ec8d3e7" 
+                type="audio/x-m4a" 
+                length="169801013" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c665073246beba6d216a00/4e74ff81ed3435e20429c6fa4eedf4263cbe026dec091bf2e688030dffe38967" 
+                type="audio/x-m4a" 
+                length="57479350" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441347</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-ulla-terkelsen-16122441347</link>
+            <title>Og Ulla Terkelsen</title>
+            <description>Telefonsvareren aflyttes! Og den slags viser sig at være en markant anderledes oplevelse i dag end for 80 år siden. For det første ringede man ikke, man telefonerede - og for det andet skulle damerne holde mund. Vi lytter til Ulla Terkelsens første radioudsendelse, og så får vi udløst spændingen på et særdeles lokalt drama fra Østbirk.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 25 Aug 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bd29f8bb05b997f94d4b84/726f766167402ded69de572d93d498388d58421d4da811157b625d6f9be4ec80" 
+                type="audio/mpeg" 
+                length="168481609" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bd29f8bb05b997f94d4b84/9551f41d76369db1979895f8e425657edb5be556d1056eeb2616e538f3bef1a1" 
+                type="audio/mpeg" 
+                length="56160841" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bd29f8bb05b997f94d4b84/289470e7bb650db5bba71b77a0ea180d6a7512fc8e08b9bc45eca2008e5ae1f8" 
+                type="audio/x-m4a" 
+                length="225961273" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bd29f8bb05b997f94d4b84/9cb31cbdd386ddbd6b36709b7bdde0d01a2a0b58b347ff3f78c26ef1d5cb6a12" 
+                type="audio/x-m4a" 
+                length="169800439" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bd29f8bb05b997f94d4b84/8c7f6a8738433077c0451858af7d386c25b330621ea87409157d4763a39b358d" 
+                type="audio/x-m4a" 
+                length="57479041" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122441337</guid>
+            <link>https://www.dr.dk/lyd/p4/det-der-med-anders-breinholt/det-der-med-anders-breinholt-2024/det-der-med-anders-breinholt-og-bros-16122441337</link>
+            <title>Og BROS</title>
+            <description>Har din mor også reddet din far ud af et kosteskab? Det viser sig, at Joel Hyrland, Hadi Ka-koush og Melvin Kakooza alle sammen er blevet undfanget under ret usædvanlige omstændigheder. I premiereprogrammet møder vi nogle af Det dérs pionerlyttere, og så ringer vi også til Laura, der har fundet en brugt silikone-sexdukke i en container i Ulstrup.
+Vært: Anders Breinholt.</description>
+            <pubDate>Sun, 18 Aug 2024 10:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b3ef3247089d6f434d4439/3f2b074b2ce0811181ffba2654948b674741b2fe53775e34b4f7f7af48e2925b" 
+                type="audio/mpeg" 
+                length="168482186" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b3ef3247089d6f434d4439/f08633929bd682521a7c7ca5dfb35f28e71cf91f9d1d179021bdeb7a826b01f6" 
+                type="audio/mpeg" 
+                length="56161034" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b3ef3247089d6f434d4439/04357de95e0e0cd2a079081e6defb4c10f53cac984639115e594c6a8587a3b5c" 
+                type="audio/x-m4a" 
+                length="225961948" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b3ef3247089d6f434d4439/690807daf909614159ab941939b9e75338d62444fd49c6764ef9949f7209e314" 
+                type="audio/x-m4a" 
+                length="169800958" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b3ef3247089d6f434d4439/4a8a41a4eac8940b90d4e47fb079c40473dd37554b56fdb3a35de82d87749e3b" 
+                type="audio/x-m4a" 
+                length="57479198" />
+        </item>
+    </channel>
+</rss>

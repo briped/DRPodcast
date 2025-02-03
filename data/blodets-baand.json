@@ -1,0 +1,619 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:4689327319000",
+  "sortLetter": "b",
+  "channel": {
+    "title": "P1",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+    "slug": "p1",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p1"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar"
+  ],
+  "numberOfEpisodes": 4,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2023-06-20T05:00:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p1/blodets-baand-4689327319000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/blodets-band-2",
+  "psdbUrn": "urn:dr:mu:bundle:6486cff27140142db4448768",
+  "psdbSlug": "blodets-band-2",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:4689327319000",
+  "productionNumber": "4689327319000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:6486cff68904cd8f0847b3d8",
+  "slug": "blodets-baand-4689327319000",
+  "title": "Blodets bånd",
+  "punchline": "Om en familie, der i årevis er fanget i en fars voldelige temperament",
+  "description": "En fortælling om en familie, der i årevis er fanget i en fars voldelige temperament. Om hvordan vold opleves med børneøjne, om hvorfor det kan være så svært at forlade en voldelig mand, og om hvorfor blodets bånd kan styre ens handlinger. \nProduceret for DR af MonoMono.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:66ffe8a6cb018709089fb544",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "ND965#1g]%5;]%AaxFNww^WWWXsm,;E%$gJAw^S3",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffe8a6cb018709089fb544&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffe8a6cb018709089fb545&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66ffe8a6cb018709089fb546",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oLBe5s5;}BAa=HE%,?S4sow_Nww^=HJA$ga}a|oJ=HJA,;S4jtWW$gJAw^WWWWsmsmS3o0oJS4w^",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffe8a6cb018709089fb546&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A66ffe8a6cb018709089fb545&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#241928",
+        "#FE873B"
+      ]
+    },
+    "colors": {
+      "dark": "#241928",
+      "light": "#FE873B"
+    }
+  },
+  "sSlug": "blodets-baand",
+  "rssUri": "https://xmpl.dk/podcast/blodets-baand.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393481",
+      "durationMilliseconds": 1414499,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393481",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2023-06-20T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/blodets-baand/blodets-baand-1/blodets-baand-1-4-en-mand-ringer-paa-doeren-16122393481",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:6486cff72f0499316724ab91",
+      "series": {
+        "title": "Blodets bånd",
+        "id": "urn:dr:radio:series:6486cff68904cd8f0847b3d8",
+        "slug": "blodets-baand-4689327319000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/blodets-baand-4689327319000",
+        "learnId": "urn:dr:ocs:audio:content:series:4689327319000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 11583258,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/f0bcb12ba3c2a323ba21c02d93d9b9d2aaed9a57c9c4280e23fe8e9c339864f7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11316187,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/7210b420552112183b2522274da245a273648c1af1db43e1d2113a2c04392d44"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 34214525,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/f3671904a64a4c5166de4dddf3a2d0c9dd7a27ff6c838751ff1cf89761a31bfa"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 33948379,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/91750aaa5ecd9c872040749bc4ed3b46a71eb2ec70c6c2c4e421362617b23ac1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 45530754,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/8e6f4b4ac79ee3098f03b4b80a586b44dd35830a2b9f75b008a8a7cbb5e0d17e"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/a7d50879d453091935d84bc4fbdf3301871091b2886d90388d006b929cede43f"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6486cff37140142db444876c",
+      "psdbSlug": "blodets-band-1-4",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393481",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-06-20T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6486cff68904cd8f0847b3e3",
+      "slug": "blodets-baand-1-4-en-mand-ringer-paa-doeren-16122393481",
+      "title": "1:4 - En mand ringer på døren",
+      "description": "En charmerende mand ringer på døren hos Majas mor. Hun er blevet skilt og har indrykket en kontaktannonce i avisen. Manden overdænger hende med komplimenter, køber hende nyt tøj til hende og spørger om han må lægge make-up på hende. Men pludselig skifter han karakter og begynder at slå. Alligevel bliver de gift og Maja kommer til verden.  \nOptagelse, tilrettelæggelse og klip: Mikkel Rønnau.\nMusik og lyddesign: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR redaktør: Cecilie Tonnesen.\n\"Maja\", hendes mor og hendes halvsøster optræder anonymt af hensyn til beskyttelse af ofrene for Majas far.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb544",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "ND965#1g]%5;]%AaxFNww^WWWXsm,;E%$gJAw^S3"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb546",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBe5s5;}BAa=HE%,?S4sow_Nww^=HJA$ga}a|oJ=HJA,;S4jtWW$gJAw^WWWWsmsmS3o0oJS4w^"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#241928",
+            "#FE873B"
+          ]
+        },
+        "colors": {
+          "dark": "#241928",
+          "light": "#FE873B"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393482",
+      "durationMilliseconds": 1644131,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393482",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2023-06-27T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/blodets-baand/blodets-baand-1/blodets-baand-2-4-paa-flugt-16122393482",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:6486cff68904cd8f0847b3de",
+      "previousId": "urn:dr:radio:episode:6486cff68904cd8f0847b3e3",
+      "series": {
+        "title": "Blodets bånd",
+        "id": "urn:dr:radio:series:6486cff68904cd8f0847b3d8",
+        "slug": "blodets-baand-4689327319000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/blodets-baand-4689327319000",
+        "learnId": "urn:dr:ocs:audio:content:series:4689327319000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13463375,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/f49a1a6a29b058c7ab3591e5457e77cc7e4e4d6cc077b8fa83ace792162201ee"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13153243,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/67120be9f20c05f2d2b53e15cdd89002edec9e122f6762a5680cd65ab305eb40"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 39768721,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/9f41ddfc4e4a0605399b3130aee1672db6af478e1f44616540deff1eeea40495"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 39459547,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/b48b6360caf5415d5e7257d0ca0d4da83e426fc3757b4144360733991d6f607e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 52922086,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/14d5870ad7d11a15be5228ce1b28ebfac60cb403d6e033c777d7f5a67d7f88f4"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/879891c7b958779ae10af2b7f73cb311d66db7e019e40de9b45df39054283727"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6486cff27140142db4448766",
+      "psdbSlug": "blodets-band-2-4",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393482",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-06-27T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6486cff72f0499316724ab91",
+      "slug": "blodets-baand-2-4-paa-flugt-16122393482",
+      "title": "2:4 - På flugt",
+      "description": "Efter mange år med vold og ydmygelser samler Majas mor mod til sig og forlader Majas far. Men selvom moren får forældremyndigheden, bliver Maja manipuleret til at bo hos sin far. Hun sover med skoene på, så hun kan stikke af, hvis der er for meget tumult i hjemmet. I Majas teenagetid falder der nogenlunde ro på, men så ringer Majas søster med en besked: der foregik noget andet under overfladen i barndomshjemmet.  \n\nOptagelse, tilrettelæggelse og klip: Mikkel Rønnau.\nMusik og lyddesign: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR redaktør: Cecilie Tonnesen.\n\"Maja\", hendes mor og hendes halvsøster optræder anonymt af hensyn til beskyttelse af ofrene for Majas far.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb544",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "ND965#1g]%5;]%AaxFNww^WWWXsm,;E%$gJAw^S3"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb546",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBe5s5;}BAa=HE%,?S4sow_Nww^=HJA$ga}a|oJ=HJA,;S4jtWW$gJAw^WWWWsmsmS3o0oJS4w^"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#241928",
+            "#FE873B"
+          ]
+        },
+        "colors": {
+          "dark": "#241928",
+          "light": "#FE873B"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393483",
+      "durationMilliseconds": 1552955,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393483",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2023-07-04T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/blodets-baand/blodets-baand-1/blodets-baand-3-4-indhentet-af-fortiden-16122393483",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:6486cff82f0499316724ab95",
+      "previousId": "urn:dr:radio:episode:6486cff72f0499316724ab91",
+      "series": {
+        "title": "Blodets bånd",
+        "id": "urn:dr:radio:series:6486cff68904cd8f0847b3d8",
+        "slug": "blodets-baand-4689327319000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/blodets-baand-4689327319000",
+        "learnId": "urn:dr:ocs:audio:content:series:4689327319000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12716827,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/db658d2e94d05378528dfaa75f70954a052b4deda48585e396dbc55d1534a497"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12423835,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/660e8dd097ac430eb8694b078080f98b81a4a00dc9aa6be44fffbe69fb230b41"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 37563389,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/4ca2dfa89d769d8db1065b5111158296edb826f4ed415861c06d174193bdc1d7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 37271323,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/92cd9bef1401998bd26ef5c2831fcd8b74714413703ccf2a1a648d7eb886f48c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 49987213,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/8aa25f11e12350a3b89ec2dc26ec1473cfb2a8f87caf6b1dbb4b508d0c9795fb"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/12e3de18cfa9b577e222e36a3dc0baa34d7316dc26e288de30e94ae44a282fc0"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6486cff3539f0203944e7eda",
+      "psdbSlug": "blodets-band-3-4",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393483",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-07-04T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6486cff68904cd8f0847b3de",
+      "slug": "blodets-baand-3-4-indhentet-af-fortiden-16122393483",
+      "title": "3:4 - Indhentet af fortiden",
+      "description": "Hvad Maja først troede havde været en opvækst præget af vold, utryghed og tumult, viste sig at være langt værre, da hendes søster en dag ringer med en besked: Majas far er blevet anholdt, sigtet for seksuelt misbrug af tre piger. Maja er i chok, og hun skal nu beslutte, om hun vil blive ved med at se sin far, der er kommet i fængsel.  \n\nOptagelse, tilrettelæggelse og klip: Mikkel Rønnau.\nMusik og lyddesign: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR redaktør: Cecilie Tonnesen.\n\"Maja\", hendes mor og hendes halvsøster optræder anonymt af hensyn til beskyttelse af ofrene for Majas far.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb544",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "ND965#1g]%5;]%AaxFNww^WWWXsm,;E%$gJAw^S3"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb546",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBe5s5;}BAa=HE%,?S4sow_Nww^=HJA$ga}a|oJ=HJA,;S4jtWW$gJAw^WWWWsmsmS3o0oJS4w^"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#241928",
+            "#FE873B"
+          ]
+        },
+        "colors": {
+          "dark": "#241928",
+          "light": "#FE873B"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393484",
+      "durationMilliseconds": 1247627,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "16122393484",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2023-07-11T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/blodets-baand/blodets-baand-1/blodets-baand-4-4-ansigt-til-ansigt-16122393484",
+      "order": 100004,
+      "previousId": "urn:dr:radio:episode:6486cff68904cd8f0847b3de",
+      "series": {
+        "title": "Blodets bånd",
+        "id": "urn:dr:radio:series:6486cff68904cd8f0847b3d8",
+        "slug": "blodets-baand-4689327319000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/blodets-baand-4689327319000",
+        "learnId": "urn:dr:ocs:audio:content:series:4689327319000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 10216901,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/48a75e4de3cd3a22d62ae2adfe559b4b260f9adc48a93bea08ad2eafac7aced4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 9981211,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/0e289e3ee156bb196df6b04abb943d7929886f558c8dc5970a63b6af5b8ca7e9"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 30178309,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/1e18e6f1e06d9c29fd3cc3101c46dc132e7a79526b0c07ecef1a426d9d382731"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 29943451,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/edff724602f62654bbd8502d132a1ea0f2ba56a9fdc391cc365d70acb4799a0f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 40159531,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/6823ae18670064eebd8a15611e90c8388f13e0d52f951cf03e3b882930872228"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/208c8fed9d09d3e7119b77371519a7cfd56c36fadaaf3b9fcfe19c4250e8ecfe"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6486cff3539f0203944e7edc",
+      "psdbSlug": "blodets-band-4-4",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393484",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-07-11T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6486cff82f0499316724ab95",
+      "slug": "blodets-baand-4-4-ansigt-til-ansigt-16122393484",
+      "title": "4:4 - Ansigt til ansigt",
+      "description": "Maja vil nu mødes med sin far igen, efter hun brød kontakten med ham for 10 år siden. Hun har samlet historien om sin barndom, og for at kunne lægge fortiden bag sig, vil hun vil nu konfrontere sin far: Hvorfor tyede han til vold? Hvorfor misbrugte han pigerne? Det bliver en intens samtale, hvor der dukker nye informationer op. \n\nOptagelse, tilrettelæggelse og klip: Mikkel Rønnau.\nMusik og lyddesign: Mikkel Rønnau.\nRedaktør: Rune Sparre Geertsen.\nDR redaktør: Cecilie Tonnesen.\n\"Maja\", hendes mor og hendes halvsøster optræder anonymt af hensyn til beskyttelse af ofrene for Majas far.\nProduceret for DR af MonoMono.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb544",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "ND965#1g]%5;]%AaxFNww^WWWXsm,;E%$gJAw^S3"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb546",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBe5s5;}BAa=HE%,?S4sow_Nww^=HJA$ga}a|oJ=HJA,;S4jtWW$gJAw^WWWWsmsmS3o0oJS4w^"
+        },
+        {
+          "id": "urn:dr:radio:image:66ffe8a6cb018709089fb545",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oLBBe*1g]%Aa=HJAxDJAazsmNd$g,;E%$gWWazoK=HE%$gNwjta|$gJAw^WWWWsmsnWWoKoJS4w^"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#241928",
+            "#FE873B"
+          ]
+        },
+        "colors": {
+          "dark": "#241928",
+          "light": "#FE873B"
+        }
+      }
+    }
+  ]
+}

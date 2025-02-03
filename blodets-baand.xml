@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/blodets-baand.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Blodets bånd (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/blodets-baand-4689327319000</link>
+        <description>En fortælling om en familie, der i årevis er fanget i en fars voldelige temperament. Om hvordan vold opleves med børneøjne, om hvorfor det kan være så svært at forlade en voldelig mand, og om hvorfor blodets bånd kan styre ens handlinger. 
+Produceret for DR af MonoMono.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:02 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/blodets-baand.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/blodets-baand.jpg</url>
+            <title>Blodets bånd (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/blodets-baand-4689327319000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/blodets-baand.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <item>
+            <guid isPermaLink="false">16122393481</guid>
+            <link>https://www.dr.dk/lyd/p1/blodets-baand/blodets-baand-1/blodets-baand-1-4-en-mand-ringer-paa-doeren-16122393481</link>
+            <title>1:4 - En mand ringer på døren</title>
+            <description>En charmerende mand ringer på døren hos Majas mor. Hun er blevet skilt og har indrykket en kontaktannonce i avisen. Manden overdænger hende med komplimenter, køber hende nyt tøj til hende og spørger om han må lægge make-up på hende. Men pludselig skifter han karakter og begynder at slå. Alligevel bliver de gift og Maja kommer til verden.  
+Optagelse, tilrettelæggelse og klip: Mikkel Rønnau.
+Musik og lyddesign: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+"Maja", hendes mor og hendes halvsøster optræder anonymt af hensyn til beskyttelse af ofrene for Majas far.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Tue, 20 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:23:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/91750aaa5ecd9c872040749bc4ed3b46a71eb2ec70c6c2c4e421362617b23ac1" 
+                type="audio/mpeg" 
+                length="33948379" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/7210b420552112183b2522274da245a273648c1af1db43e1d2113a2c04392d44" 
+                type="audio/mpeg" 
+                length="11316187" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/8e6f4b4ac79ee3098f03b4b80a586b44dd35830a2b9f75b008a8a7cbb5e0d17e" 
+                type="audio/x-m4a" 
+                length="45530754" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/f3671904a64a4c5166de4dddf3a2d0c9dd7a27ff6c838751ff1cf89761a31bfa" 
+                type="audio/x-m4a" 
+                length="34214525" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3e3/f0bcb12ba3c2a323ba21c02d93d9b9d2aaed9a57c9c4280e23fe8e9c339864f7" 
+                type="audio/x-m4a" 
+                length="11583258" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393482</guid>
+            <link>https://www.dr.dk/lyd/p1/blodets-baand/blodets-baand-1/blodets-baand-2-4-paa-flugt-16122393482</link>
+            <title>2:4 - På flugt</title>
+            <description>Efter mange år med vold og ydmygelser samler Majas mor mod til sig og forlader Majas far. Men selvom moren får forældremyndigheden, bliver Maja manipuleret til at bo hos sin far. Hun sover med skoene på, så hun kan stikke af, hvis der er for meget tumult i hjemmet. I Majas teenagetid falder der nogenlunde ro på, men så ringer Majas søster med en besked: der foregik noget andet under overfladen i barndomshjemmet.  
+
+Optagelse, tilrettelæggelse og klip: Mikkel Rønnau.
+Musik og lyddesign: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+"Maja", hendes mor og hendes halvsøster optræder anonymt af hensyn til beskyttelse af ofrene for Majas far.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Tue, 27 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/b48b6360caf5415d5e7257d0ca0d4da83e426fc3757b4144360733991d6f607e" 
+                type="audio/mpeg" 
+                length="39459547" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/67120be9f20c05f2d2b53e15cdd89002edec9e122f6762a5680cd65ab305eb40" 
+                type="audio/mpeg" 
+                length="13153243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/14d5870ad7d11a15be5228ce1b28ebfac60cb403d6e033c777d7f5a67d7f88f4" 
+                type="audio/x-m4a" 
+                length="52922086" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/9f41ddfc4e4a0605399b3130aee1672db6af478e1f44616540deff1eeea40495" 
+                type="audio/x-m4a" 
+                length="39768721" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff72f0499316724ab91/f49a1a6a29b058c7ab3591e5457e77cc7e4e4d6cc077b8fa83ace792162201ee" 
+                type="audio/x-m4a" 
+                length="13463375" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393483</guid>
+            <link>https://www.dr.dk/lyd/p1/blodets-baand/blodets-baand-1/blodets-baand-3-4-indhentet-af-fortiden-16122393483</link>
+            <title>3:4 - Indhentet af fortiden</title>
+            <description>Hvad Maja først troede havde været en opvækst præget af vold, utryghed og tumult, viste sig at være langt værre, da hendes søster en dag ringer med en besked: Majas far er blevet anholdt, sigtet for seksuelt misbrug af tre piger. Maja er i chok, og hun skal nu beslutte, om hun vil blive ved med at se sin far, der er kommet i fængsel.  
+
+Optagelse, tilrettelæggelse og klip: Mikkel Rønnau.
+Musik og lyddesign: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+"Maja", hendes mor og hendes halvsøster optræder anonymt af hensyn til beskyttelse af ofrene for Majas far.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Tue, 04 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/92cd9bef1401998bd26ef5c2831fcd8b74714413703ccf2a1a648d7eb886f48c" 
+                type="audio/mpeg" 
+                length="37271323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/660e8dd097ac430eb8694b078080f98b81a4a00dc9aa6be44fffbe69fb230b41" 
+                type="audio/mpeg" 
+                length="12423835" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/8aa25f11e12350a3b89ec2dc26ec1473cfb2a8f87caf6b1dbb4b508d0c9795fb" 
+                type="audio/x-m4a" 
+                length="49987213" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/4ca2dfa89d769d8db1065b5111158296edb826f4ed415861c06d174193bdc1d7" 
+                type="audio/x-m4a" 
+                length="37563389" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff68904cd8f0847b3de/db658d2e94d05378528dfaa75f70954a052b4deda48585e396dbc55d1534a497" 
+                type="audio/x-m4a" 
+                length="12716827" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393484</guid>
+            <link>https://www.dr.dk/lyd/p1/blodets-baand/blodets-baand-1/blodets-baand-4-4-ansigt-til-ansigt-16122393484</link>
+            <title>4:4 - Ansigt til ansigt</title>
+            <description>Maja vil nu mødes med sin far igen, efter hun brød kontakten med ham for 10 år siden. Hun har samlet historien om sin barndom, og for at kunne lægge fortiden bag sig, vil hun vil nu konfrontere sin far: Hvorfor tyede han til vold? Hvorfor misbrugte han pigerne? Det bliver en intens samtale, hvor der dukker nye informationer op. 
+
+Optagelse, tilrettelæggelse og klip: Mikkel Rønnau.
+Musik og lyddesign: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+"Maja", hendes mor og hendes halvsøster optræder anonymt af hensyn til beskyttelse af ofrene for Majas far.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Tue, 11 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/edff724602f62654bbd8502d132a1ea0f2ba56a9fdc391cc365d70acb4799a0f" 
+                type="audio/mpeg" 
+                length="29943451" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/0e289e3ee156bb196df6b04abb943d7929886f558c8dc5970a63b6af5b8ca7e9" 
+                type="audio/mpeg" 
+                length="9981211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/6823ae18670064eebd8a15611e90c8388f13e0d52f951cf03e3b882930872228" 
+                type="audio/x-m4a" 
+                length="40159531" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/1e18e6f1e06d9c29fd3cc3101c46dc132e7a79526b0c07ecef1a426d9d382731" 
+                type="audio/x-m4a" 
+                length="30178309" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486cff82f0499316724ab95/48a75e4de3cd3a22d62ae2adfe559b4b260f9adc48a93bea08ad2eafac7aced4" 
+                type="audio/x-m4a" 
+                length="10216901" />
+        </item>
+    </channel>
+</rss>

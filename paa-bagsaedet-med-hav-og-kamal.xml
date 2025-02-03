@@ -1,0 +1,2477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/paa-bagsaedet-med-hav-og-kamal.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>På Bagsædet - med Hav &#x26; Kamal (recycled)</title>
+        <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal-2661412710000</link>
+        <description>Hop ind! Hver tirsdag tager vennerne Hav &#x26; Kamal dig med ind i deres verden, hvor kærligheden til urban musik og livsstil fylder alt! 
+Værter: Kamal Hassan og Havshen Nabaz.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:37 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/paa-bagsaedet-med-hav-og-kamal.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/paa-bagsaedet-med-hav-og-kamal.jpg</url>
+            <title>På Bagsædet - med Hav &#x26; Kamal (recycled)</title>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal-2661412710000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/paa-bagsaedet-med-hav-og-kamal.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Musik</category>
+        <itunes:category text="Musik" />
+        <category>Hip hop</category>
+        <itunes:category text="Hip hop" />
+        <item>
+            <guid isPermaLink="false">13332195446</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-sidste-tur-i-bilen-13332195446</link>
+            <title>Sidste tur i bilen</title>
+            <description>I dag er en sørgelig dag. Drengene stopper i DR. Sidste køretur i arabaen, hvor Hav &#x26; Kamal tager de sjoveste momenter med og noget, som de har fortrudt, som er blevet sagt. Vi elsker jer. Tak for to sindssyge år &#x3C;3
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 21 Dec 2021 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5e4228153e7f872d7c/df7df0ebaebc2e81b77baa43db96316db351f145b8c83b97e4524b32263eb20a" 
+                type="audio/mpeg" 
+                length="65713395" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5e4228153e7f872d7c/40bbfca0d14f0d4d74dd633c70289ebc37dc8a006f7addbd510ba5e54ed378e0" 
+                type="audio/mpeg" 
+                length="21904755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5e4228153e7f872d7c/5d0d670bfebb4f5eabfab6dba887229854ce5dcfe7e81fb347febdcc886a2061" 
+                type="audio/x-m4a" 
+                length="88132731" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5e4228153e7f872d7c/4ddab089dc838ebbd021bc9f27b8b45f7052393f1452aa54d00be8b947c6e39b" 
+                type="audio/x-m4a" 
+                length="66228047" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5e4228153e7f872d7c/86989d0de9388bf19bbccac2772f5029fcfc987b088d63a5a02e458d30149437" 
+                type="audio/x-m4a" 
+                length="22418811" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195445</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-stoejberg-og-stripklub-13332195445</link>
+            <title>Støjberg og stripklub</title>
+            <description>Free Støjberg?? Hav &#x26; Kamal er kommet i tanke om en oplevelse, som de ikke har kunnet dele endnu. Og Hav har fundet ud af, at man kan prutte om prisen på ALT. Jump ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 14 Dec 2021 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5af628a762eb5f3679/64b2a864bca39f4dd8f00f26dd5388e236a7341985b005029f251fc1b6862107" 
+                type="audio/mpeg" 
+                length="66519746" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5af628a762eb5f3679/86d653bb0d1e743bb1d2727ce8d9340d0286696a1615fbed745c95aeee154f41" 
+                type="audio/mpeg" 
+                length="22173506" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5af628a762eb5f3679/9125e0a0ca71c4c0ab86750662331d11ed49efc5ee5fbc0a1449041b89529741" 
+                type="audio/x-m4a" 
+                length="89214247" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5af628a762eb5f3679/071bdc7bb98bfe958ac26b2f6f55f2747f903f0388838acc4bd4ed14a129ec75" 
+                type="audio/x-m4a" 
+                length="67040739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5af628a762eb5f3679/c3fba24665d5f97eb55fcf5f62b7013834ad52f2332b541256ca2a260083a26e" 
+                type="audio/x-m4a" 
+                length="22693975" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195444</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-juletid-og-saunagus-13332195444</link>
+            <title>Juletid &#x26; saunagus</title>
+            <description>Hav er blevet forelsket i saunagus. Kamal er på udkig efter en fed nissehue og har en fetish for slåskampe. Hvad laver du? Lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 07 Dec 2021 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e4cf628a762eb5f3622/ec04d49da05bd7f6568cf33c53f2baec59dc566cbc9b580ff9f1e307c3d33390" 
+                type="audio/mpeg" 
+                length="65014626" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e4cf628a762eb5f3622/166fc4afbf04ad065c0d421ff66c32a8b02bb584324ffb4c2b894cb6e972a300" 
+                type="audio/mpeg" 
+                length="21671778" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e4cf628a762eb5f3622/d39db2d03de40ae712ad4411febeca77d45e004af389ff70791f8e5036a0625c" 
+                type="audio/x-m4a" 
+                length="87195403" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e4cf628a762eb5f3622/692493a91168a26d330b298a60c0d2f1e71718706ad12fa20acb7bc60b883ff7" 
+                type="audio/x-m4a" 
+                length="65523755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e4cf628a762eb5f3622/9d254966cf1720b2f9d69ae4a36839718d89f5f55a6d53888103e05a27f9e98a" 
+                type="audio/x-m4a" 
+                length="22180427" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195443</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-kamal-er-blevet-for-gammel-til-gaden-13332195443</link>
+            <title>Kamal er blevet for gammel til gaden</title>
+            <description>I dag har drengene tanket bilen helt op og taget en af lytternes emner med. Kamal trak stikket på sit voksne liv og levede sin gamle livsstil i en uge. Julen er rundt om hjørnet. Vamos!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 30 Nov 2021 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e594228153e7f872d29/0ea1918e87d3d40d2feb904f3724c71507070124fc0335ce870c9ae41be3a3be" 
+                type="audio/mpeg" 
+                length="67145305" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e594228153e7f872d29/ce7888fea58470e3fe02d28acb7f3ffdb95ca5d3d80cf69e4cbb3902bf9c1377" 
+                type="audio/mpeg" 
+                length="22382041" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e594228153e7f872d29/5acd2e879a5efdee944f80cd3ffcd9908710ec54c3707f2ebf49192f04dd8921" 
+                type="audio/x-m4a" 
+                length="90052623" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e594228153e7f872d29/47fcc47014fb48737c6210523ed360424b2e0539f5843e3d34adb2f33d2850a3" 
+                type="audio/x-m4a" 
+                length="67670839" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e594228153e7f872d29/c8dec5cd7311fa1ace03977df3d4c16716ff86505f6bb2bdd15ec8dcd78624dd" 
+                type="audio/x-m4a" 
+                length="22907231" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195442</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-busboede-og-koncentration-13332195442</link>
+            <title>Busbøde og koncentration</title>
+            <description>Kamal har kørt på røven og er i chok over, hvad det koster. Hav har indset, hvad det kræver at holde en plante i live. Og ja, ja, de var selvfølgelig også hurtigt på scenen til DMA. Hop ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 23 Nov 2021 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5df628a762eb5f3698/2ea05186817dc1bc0355e5ad507561431cfca1b4a2f27daf043855069c3ee421" 
+                type="audio/mpeg" 
+                length="69444127" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5df628a762eb5f3698/00dfc26d5d1d86f6861d438e9f6ea6e650c34750bcdd62e08acac1a6d898ac5f" 
+                type="audio/mpeg" 
+                length="23148319" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5df628a762eb5f3698/31e30dceefa88230feea0f1acb20d7d579f8a8bab619953405fb3e2f1d4f5562" 
+                type="audio/x-m4a" 
+                length="93135864" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5df628a762eb5f3698/3bae547b419c5c9a9804e1304947d86f0a7c9c95437df629acdd907202d5a382" 
+                type="audio/x-m4a" 
+                length="69987711" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5df628a762eb5f3698/d43ad40b6577f1be058079d837f7b713e1e29333ee7697be9159082eddd1061c" 
+                type="audio/x-m4a" 
+                length="23691464" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195441</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-ugen-der-gik-i-koncertsalen-13332195441</link>
+            <title>Ugen der gik i Koncertsalen</title>
+            <description>At stå på samme scene to gange på en uge er sindssygt! Drengene får talt om at have en roomie, shoppe alene, og hvad der egentlig motiverer dem. Læn dig tilbage og lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 16 Nov 2021 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e624228153e7f872d9b/fcbabe45fca71b66bd6150ca2d7132999218b27177c1d34bfe1e5112f4704dcb" 
+                type="audio/mpeg" 
+                length="67422348" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e624228153e7f872d9b/ef9d2067883caa608942651235c5438dab272bbe2b8359d83dcdb17e88518952" 
+                type="audio/mpeg" 
+                length="22474380" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e624228153e7f872d9b/b6d8a70cb600be8f21565c944977a7ee0691771d7e4b470d94e3ee3a205e0c68" 
+                type="audio/x-m4a" 
+                length="90424808" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e624228153e7f872d9b/430038758c9bc1d75591a8e5531b439dc6c46bd217a93a44bef8f3305a4d99ef" 
+                type="audio/x-m4a" 
+                length="67950475" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e624228153e7f872d9b/aa4187fb9610085a7535738b108796ececa93c3cb9f9da875c5e815e2cf866b3" 
+                type="audio/x-m4a" 
+                length="23001900" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195440</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-transfervinduet-lukker-13332195440</link>
+            <title>Transfervinduet lukker</title>
+            <description>Det er blevet koldt, og mørket falder tidligere på. Kamal elsker denne her sæson, mens Hav mangler en vinterjakke. Du kan ikke finde en at holde om i denne her tid. Eller kan du? Drengene er forberedt, og vinduerne altid er åbne i bilen. Hop ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 09 Nov 2021 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e584228153e7f872d1e/fb88a4c0480100b4f506310cbeb666b9f3cb0b1aa3092b1a66f34e7e9d12b774" 
+                type="audio/mpeg" 
+                length="67749560" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e584228153e7f872d1e/5ab0d97cf5d0e73dfdaa0f12b35478b18fe5d0c771a22b3a39cd911fb79f6dd4" 
+                type="audio/mpeg" 
+                length="22583480" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e584228153e7f872d1e/76ddf054a9527e6310a9b964e911d3c554a766d5f070f73f93b7505e6a05b709" 
+                type="audio/x-m4a" 
+                length="90863640" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e584228153e7f872d1e/ad133351f7584a152a4d1c29f41be5016540b125c8fd8c7219ad1eeaaffd36bb" 
+                type="audio/x-m4a" 
+                length="68280271" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e584228153e7f872d1e/4a6c15231872d050f63e31468e55fd78b1b96d494b4db091fe140113c5465da1" 
+                type="audio/x-m4a" 
+                length="23113488" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195439</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-gadens-ordbog-13332195439</link>
+            <title>Gadens ordbog</title>
+            <description>Shababsne har inviteret 2 forfattere ind i arabaen. De har skrevet bogen ''Gadedansk''. Hvis du ikke forstår alt, hvad drengene siger, så er dette afsnit yderst vigtigt. Jump ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 02 Nov 2021 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e544228153e7f872ce4/55b583667564aa62067e5779d95f0da028429ce63caedfea12f40ad41e395c44" 
+                type="audio/mpeg" 
+                length="67307725" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e544228153e7f872ce4/61a04d3e08af90e96fda7e73cc80abb376ae66a4e4d890c0064e138f0a38a6f2" 
+                type="audio/mpeg" 
+                length="22436173" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e544228153e7f872ce4/101b63df6066f648639424a5e3ed3be28d0a885654d234ba3dc00fcb0d49d8bc" 
+                type="audio/x-m4a" 
+                length="90270983" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e544228153e7f872ce4/7bbdbf31fd4a29744fcdefd806ee95b62821862989dacffdcd8bc9e41f853eb1" 
+                type="audio/x-m4a" 
+                length="67834855" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e544228153e7f872ce4/aba90421cc53ac163b1028c45e1feefce598bae3f0174fc23bd7020142ebfa28" 
+                type="audio/x-m4a" 
+                length="22962787" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195438</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-arabiske-kommentatorer-og-plejehjem-13332195438</link>
+            <title>Arabiske kommentatorer &#x26; plejehjem</title>
+            <description>I dag er drengene alene i studiet, og de får vendt stort og småt fra Kamals nye passion for fodboldkommentatorer, og Hav søger råd til nye køb til lejligheden. Lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 26 Oct 2021 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e534228153e7f872cd8/3867e93f4a7ffa8da4c4424f59c4ca34db67cef45ae925dbaa563f29fc2b26b5" 
+                type="audio/mpeg" 
+                length="73546953" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e534228153e7f872cd8/af9defebb4908943f846315ee9fbaa2b82fa7030e7b493cc7727488a04c3586d" 
+                type="audio/mpeg" 
+                length="24515913" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e534228153e7f872cd8/fdefc107173f74307c3cf4455b8047a248be61ea49b28354bfef9d7270f2d50e" 
+                type="audio/x-m4a" 
+                length="98638771" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e534228153e7f872cd8/e377f6b603f92be7e86c8ac8d9a5390babc24e37b65609e6c460af93a9546c76" 
+                type="audio/x-m4a" 
+                length="74122963" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e534228153e7f872cd8/9abcf0e3c46d7183148cd7387d9872d6e5b7341c1c7b03acc962ebf146980bdc" 
+                type="audio/x-m4a" 
+                length="25091271" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195437</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-remee-i-arabaen-13332195437</link>
+            <title>Remee i arabaen!</title>
+            <description>Drengene har inviteret Reeme i bilen. Behøver vi at sige mere? Hop ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 19 Oct 2021 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5ff628a762eb5f36a1/7315c8d0154dada481f69d4cc2028a6003165f089421723921caa28bddeaba37" 
+                type="audio/mpeg" 
+                length="80643173" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5ff628a762eb5f36a1/2a24d070accc125f82f8a1ab9950c11cdfe4538c2425c83674000a2a6e042714" 
+                type="audio/mpeg" 
+                length="26881253" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5ff628a762eb5f36a1/993eba817a423eae9fe14090a0a57bd216ba97671dabfb4be1c347f547cafd88" 
+                type="audio/x-m4a" 
+                length="108155983" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5ff628a762eb5f36a1/d7835f746db2a86665c2929f6e5bfd637152e523ac7b96a7d5a77310ca05de6f" 
+                type="audio/x-m4a" 
+                length="81274783" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5ff628a762eb5f36a1/f9baa3fa4d104efcdf86a21f74c65a671cd17f837c45a0218f9f34d8e03ff44e" 
+                type="audio/x-m4a" 
+                length="27512171" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195436</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-hav-er-flyttet-hjemmefra-13332195436</link>
+            <title>Hav er flyttet hjemmefra!</title>
+            <description>Dagen er endelig kommet! Hav er flyttet hjemmefra og har en del, han gerne vil fortælle. Kamal har gjort nogle spørgsmål klar til hans partner. Skal man egentlig have en skraldespand på toilettet? Lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 12 Oct 2021 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e574228153e7f872d12/6258295205e4d1e44e2dd4fbe4bf7c61f0abbb4e6f52ff38c4c71e9929e4002d" 
+                type="audio/mpeg" 
+                length="67631468" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e574228153e7f872d12/5d0d464a514700b77769e9e7b5e331f0b128154a7a53bf8541ad91e3757a5ffb" 
+                type="audio/mpeg" 
+                length="22544108" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e574228153e7f872d12/c7b23476bc5075c177a492147c7f2411c49b4b4003584a3991929aef7ac403b5" 
+                type="audio/x-m4a" 
+                length="90704948" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e574228153e7f872d12/7b13a4e65fda9d952673852a70a0e00a909dc5ca87d98f8a50efd9002267dded" 
+                type="audio/x-m4a" 
+                length="68161003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e574228153e7f872d12/00dcfb1db237e5a60b6521181a81849de90af944ea2a6783e19bb92b0865d702" 
+                type="audio/x-m4a" 
+                length="23073128" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195435</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-vores-redaktoer-er-med-i-bilen-13332195435</link>
+            <title>Vores redaktør er med i bilen!</title>
+            <description>Drengene har taget deres redaktør med i bilen. Andrew Moyo. Behøver vi at sige mere? Hop ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 05 Oct 2021 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:53:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5c4228153e7f872d4f/9d46fa1063b35763935964ec38b30aa40a1bf4a7a37d62824f8b39db392f097b" 
+                type="audio/mpeg" 
+                length="76867516" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5c4228153e7f872d4f/8b063017ac30a58e33d65caf71ccd3573e8cd0460b8414ef8bd7cee2a556a1eb" 
+                type="audio/mpeg" 
+                length="25622716" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5c4228153e7f872d4f/1b3a876bb3d06ae4e17398a8450d28e9aaa4a9d94cddd19f9b129b4e24f4e58a" 
+                type="audio/x-m4a" 
+                length="103091868" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5c4228153e7f872d4f/366ce8ffa857cd8c4f4b626b78345dc611337a4f3f428011db78efd40e218fec" 
+                type="audio/x-m4a" 
+                length="77469343" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5c4228153e7f872d4f/cbd0b4efd21a4d77bcbd1dd7ba18ed51521e518e130d547a71a9893f99360e11" 
+                type="audio/x-m4a" 
+                length="26224024" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195434</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-at-vaere-alene-13332195434</link>
+            <title>At være alene</title>
+            <description>I dag er shababsne alene i arabaen og har taget et vigtigt emne op. Hvad kan man egentlig lave, når man er alene? De kommer med et par friske anmeldelser. Og bagsæde familie. Kolde tider på vej. Jump ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:48</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5b4228153e7f872d44/9de1fcb8fb25dd0ee69127eabf0339bb260a17611938950e95a20c72d17b2e46" 
+                type="audio/mpeg" 
+                length="68853163" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5b4228153e7f872d44/5b28ece1e03d220e3426e6c2a24d1f3f93b1da6d0c5cf270e6a6eeb57ab2b096" 
+                type="audio/mpeg" 
+                length="22951339" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5b4228153e7f872d44/f4570cd6661664935344e9581affaf0bd829f761e2e44daba3773a99abc11cd8" 
+                type="audio/x-m4a" 
+                length="92343411" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5b4228153e7f872d44/8ee56e3d2b3a11e682851dc6b1d8271aba1acd78cda0cefd4380535c6715f458" 
+                type="audio/x-m4a" 
+                length="69392183" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e5b4228153e7f872d44/34ec7ab547b97c91df60b236053c15c7c221d4d0e7f0a67bf52b061ebfdf0322" 
+                type="audio/x-m4a" 
+                length="23489919" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195433</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-soevn-og-boernepasning-13332195433</link>
+            <title>Søvn &#x26; børnepasning</title>
+            <description>Er det en god ide at overlade sine børn til Kamal på en lørdag? Hav fortæller, hvorfor middagslurer kan være sindssygt farligt. Hop ind i bilen!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e564228153e7f872d04/1def0717851b116a62e436b8d553167b5991d1e8243cb05e771096956c0d6bfd" 
+                type="audio/mpeg" 
+                length="68219505" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e564228153e7f872d04/4db63f3437c3a2663ff4c41041b3014fdc307e659a0d2d278b331742ad59995c" 
+                type="audio/mpeg" 
+                length="22740081" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e564228153e7f872d04/63de19bdcabc1dcc8ce4b578f99dfd87aa8830d1aa1f719b53d9fd7741585c61" 
+                type="audio/x-m4a" 
+                length="91493904" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e564228153e7f872d04/77f1edda3e9eee319cde68770aa7478766a48c9646c200693ca08bfe607a9830" 
+                type="audio/x-m4a" 
+                length="68753987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e564228153e7f872d04/905ea519eab7c1219ba2e58bd14efac0b1fbf495471e2f58e9104f7436d070c3" 
+                type="audio/x-m4a" 
+                length="23273820" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195432</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-habane-i-bilen-13332195432</link>
+            <title>Habane i bilen!</title>
+            <description>Kan du smide en joke på kommando? Det kan Habane og han kan også tjene para på det. Drengene har inviteret en gringo gæst med i araben. Lyt!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e61f628a762eb5f36ab/cec0c9971e5f1db05bf4974c880ba96b577dca6ee2c36ad49579a829a45f2306" 
+                type="audio/mpeg" 
+                length="82147181" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e61f628a762eb5f36ab/bc99c3687b49819114276e3ba1b227e4d4a1611f40c7cbc156ba9552e5c9407a" 
+                type="audio/mpeg" 
+                length="27382637" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e61f628a762eb5f36ab/000a50b6cb12e0c43698038ce8f9ee0af7ce06a3c4bb159704e5286ed5a10d41" 
+                type="audio/x-m4a" 
+                length="110172911" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e61f628a762eb5f36ab/3b8202a2e8e08a603c85a00e48907ae4d683f979a148899bfd89d0103c8e7d84" 
+                type="audio/x-m4a" 
+                length="82790319" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e61f628a762eb5f36ab/4f4c292fa10957f3d1b6bb4779f673220e61bf30e27c23bb5a1f1362b8b979e8" 
+                type="audio/x-m4a" 
+                length="28025159" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195431</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-ego-13332195431</link>
+            <title>Ego</title>
+            <description>Hvor meget fylder dit ego? Drengene har en del på hjertet omkring ære, holdninger og stolthed. De snakker om, hvad et ego fylder i et forhold, og hvorfor er shababs generelt dårlige til at være sårbare. Hop ind i bilen!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:15</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e60f628a762eb5f36a6/1ce1f737aef0328adf552934fa893d833caa1096f99a3493131d633e03113301" 
+                type="audio/mpeg" 
+                length="69483895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e60f628a762eb5f36a6/2f6b3e35055795fab9f56c30ef27014cc2268a1479a7136edb142e56ab1c36ac" 
+                type="audio/mpeg" 
+                length="23161591" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e60f628a762eb5f36a6/9f2031b900af361dc77ff480e6ff081131140589d4966556c3617459d7a4b6bb" 
+                type="audio/x-m4a" 
+                length="93189328" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e60f628a762eb5f36a6/614533d7a4049359c80c1724f2796757ba43d36a92f7b3a752d62314445be7e4" 
+                type="audio/x-m4a" 
+                length="70027935" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e60f628a762eb5f36a6/249f2cfcc0ad74df3944afd8dcdb9d4ee9089add338e2b1e270c1b0b783c58a3" 
+                type="audio/x-m4a" 
+                length="23705100" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195430</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-de-sagde-han-aldrig-ville-kunne-gaa-igen-13332195430</link>
+            <title>De sagde, han aldrig ville kunne gå igen</title>
+            <description>Kamal har en mørk nat mødt en fyr, som har fortalt en historie, du skal høre. Vi har inviteret ham med ind i bilen og til en snak om mirakler, og at alt kan ske med den rigtige inspiration. JUMP IN!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:50:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e51f628a762eb5f3649/39d75c15b08ba34f41f19b1f6a978b353519994b04c6a48eee2177ab8be295b1" 
+                type="audio/mpeg" 
+                length="72424932" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e51f628a762eb5f3649/15091fefdc4aad6db2477693ec29199b1f91c51311d2159ef66ea20802802a6a" 
+                type="audio/mpeg" 
+                length="24141924" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e51f628a762eb5f3649/ce594395896d128dba5a40373afb0fb006c5ced19b56f982b56660687bcb2bd1" 
+                type="audio/x-m4a" 
+                length="97133545" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e51f628a762eb5f3649/c10d12ab50d770b05f56619e6a1b2f370cc0abf26b0b05d39a6c918cb2f79768" 
+                type="audio/x-m4a" 
+                length="72991851" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e51f628a762eb5f3649/e0dbbd83c627c551561b427dfa242dc4c5a1ea7ab176a85023bd69c86b3dfa1c" 
+                type="audio/x-m4a" 
+                length="24708377" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195429</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-hvad-er-dit-stjernetegn-13332195429</link>
+            <title>Hvad er dit stjernetegn?</title>
+            <description>I dag har drengene inviteret en gæst i arabaen fordi dagens emne er stjernetegn. Hun fortæller drengene hvem de i virkeligheden er og måske får hun overbevist dem om at astrologi er legit. Tør du at tro på det? Lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:50:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e52f628a762eb5f364e/e3034224d113d22956a645756383f36e7c812bd9f898a7d5b6ef1fdfe6b9e20b" 
+                type="audio/mpeg" 
+                length="72722747" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e52f628a762eb5f364e/68a4045426a17a627e0aa98c383e3bffad7124b4753a96ecc8a800bb6a8783e5" 
+                type="audio/mpeg" 
+                length="24241211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e52f628a762eb5f364e/3e82a50ec16e5b7b99e22dfd86e5d25d462b39a0facf1d743296c41bd1382d8b" 
+                type="audio/x-m4a" 
+                length="97533257" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e52f628a762eb5f364e/edd90d0245943dfaef44d95294abe4ce66ece97eab67165f40f651dd45bfa250" 
+                type="audio/x-m4a" 
+                length="73292175" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e52f628a762eb5f364e/ba3f382c092ee14a323834cf7c6bf5a209fff596a6c60fd3a0154d8ebd702c3b" 
+                type="audio/x-m4a" 
+                length="24810045" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195428</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-bryllup-og-private-ig-profiler-13332195428</link>
+            <title>Bryllup og private IG-profiler</title>
+            <description>Hav er en smule træt af private Instagram-profiler, og Kamal har været til for mange bryllupper de sidste par uger. Drengene får talt om, hvor tætte de egentlig er. Hop ind i bilen!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e59f628a762eb5f3671/e5243c90fa8df2772fafa0704c634e01e173e38e38f89c8d7f09fe83387de49a" 
+                type="audio/mpeg" 
+                length="70270676" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e59f628a762eb5f3671/db615ecb28befb6e22369d19f8ce994235de552e9d2c982bfbd289cce4ef2d1d" 
+                type="audio/mpeg" 
+                length="23423828" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e59f628a762eb5f3671/92508adde580b4fa758b6edf39201434691c6298e4a08f28515ab74fb60e60eb" 
+                type="audio/x-m4a" 
+                length="94244727" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e59f628a762eb5f3671/3faa5df4b5b9c64947c5d8e6b41fb70e620fb5f030476e0df547d05acbf8a795" 
+                type="audio/x-m4a" 
+                length="70821079" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e59f628a762eb5f3671/0fc231ba597b7385281ed70dc871462d97062282809fb4d1ff6a66f35a6edce4" 
+                type="audio/x-m4a" 
+                length="23973503" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195427</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-vacation-done-13332195427</link>
+            <title>Vacation done!</title>
+            <description>Drengene er tilbage fra en vild ferie! De har savnet jer alle ekstremt meget og håber også, det er gengældt. I dag får de talt om, hvad sommeren har bragt. Hav stiller Kamal et dybt spørgsmål og hvor irriterende er en MobilePay-anmodning egentlig? Lyt med! WE BACK BABY.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e50f628a762eb5f3645/ac707ce86f307931c84f6958a6450261df0fdc3124cff0fcf9838e8d64b7c3f8" 
+                type="audio/mpeg" 
+                length="65438648" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e50f628a762eb5f3645/27a2cae1919a3c63f9aac8d63156f5cae0ce2e84e3c879e23db22d1a09aa1fe2" 
+                type="audio/mpeg" 
+                length="21813176" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e50f628a762eb5f3645/789fdbd8a45830b9459f81a969d8cae8b0943e19e47154df9a4965fc820ca50f" 
+                type="audio/x-m4a" 
+                length="87763991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e50f628a762eb5f3645/2595a1f6bbf9805fc0693fe5e97f02d95ef23977d78e5021c316ecc632af4a99" 
+                type="audio/x-m4a" 
+                length="65950883" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60ee1e50f628a762eb5f3645/7b6a58db4d5474625bc708ca0f83db8cbda508723b3632c244fed410ca65e53a" 
+                type="audio/x-m4a" 
+                length="22325015" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195426</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-shababen-helle-thorning-13332195426</link>
+            <title>Shababen Helle Thorning!</title>
+            <description>I dag har vi en speciel gæst med i bilen. Hun har været tidligere statsminister, og hvad laver hun egentlig i dag? Kan hun godt fjerne vores skat? Energien er helt i tops, inden vi går på sommerferie. Helle Thorning Schmidt i arabaen mine damer og herrer!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a2313/7970464d06940999545c7c73963915e849d483deb131c663e05554e22709ab1a" 
+                type="audio/mpeg" 
+                length="70342710" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a2313/a0d0992a3558b40aa5b881a6c3560f7c10b20e6932b597be2bdaad04cd51bd36" 
+                type="audio/mpeg" 
+                length="23447862" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a2313/fd3b1ed530c5e91a9b35b186ecd8a1f9067606a73cc8e07db52554ca48cbfe87" 
+                type="audio/x-m4a" 
+                length="94340836" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a2313/ffa24a892b5292751fc29dd23a9b43ffb21940cccf6fca98e237df42072e2028" 
+                type="audio/x-m4a" 
+                length="70893295" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a2313/55b55d0a9c7bf8ea46922e798d2b19e8586ea61a0ab9036f36a09c047ec39f9f" 
+                type="audio/x-m4a" 
+                length="23998004" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195425</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-at-miste-13332195425</link>
+            <title>At miste</title>
+            <description>Har du prøvet at miste nogen før? I dag har drengene vendt bilen mod emnet 'at miste'. Hvordan føles det at miste nogen, man er tæt med? Sker alting af en årsag? Og kan man miste sig selv? Lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a230d/db0a9b9b4a41a1ec5e6ca97bb2de2aa5f18c5a28925bd324e849d2d42516f300" 
+                type="audio/mpeg" 
+                length="68278305" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a230d/71d0c3cdd93f8148cd276213972339e5592b142c11ce1e645dd7b7e882d39e1a" 
+                type="audio/mpeg" 
+                length="22759713" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a230d/dd1a96224f299de53b51f04a41b2005434a7006a5e22fb5131f7547b61c7a648" 
+                type="audio/x-m4a" 
+                length="91572172" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a230d/927032ad1442add0557760b61bddf4dc4c010b5f8e437c4a5f1526a7c00e6ebf" 
+                type="audio/x-m4a" 
+                length="68812703" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f7a6c12863ced1a230d/31b79cc757478b30c895ae468efcf92c411384fc80cf48b4d6d98ac7b9d23487" 
+                type="audio/x-m4a" 
+                length="23293720" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195424</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-em-og-allergi-13332195424</link>
+            <title>EM og Allergi</title>
+            <description>Hele Danmark står sammen, og det gør Hav &#x26; Kamal også. I dag finder vi ud af, hvor meget Kamal elsker EM, og hvor slemt Hav har det med allergi. Hop ind og skru helt op!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f796c12863ced1a2308/4c9e88a0f4fa6f97978cd8ae5930caaf917acac41257931ec81b2192f7bbb151" 
+                type="audio/mpeg" 
+                length="68187845" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f796c12863ced1a2308/560f5be787802629d8ca994dcea0ba4c973bcb833741d17a732d77504fd6540f" 
+                type="audio/mpeg" 
+                length="22729541" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f796c12863ced1a2308/2f5b1681f02fc637bd4cf6786129b34970f10467d274e1ddc6195243f88285bd" 
+                type="audio/x-m4a" 
+                length="91451415" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f796c12863ced1a2308/d8e0c30709098899e197149c4976bbeda54e1507ae3c24da07dee4df99aed2bb" 
+                type="audio/x-m4a" 
+                length="68721911" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f796c12863ced1a2308/4a02afd1df801be83ed3b998c11aec1d496e1b93e88d248564bca7a286f3f741" 
+                type="audio/x-m4a" 
+                length="23263003" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195423</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-doctors-i-arabaen-13332195423</link>
+            <title>Doctors i arabaen!</title>
+            <description>Fra blokken til lægehuset. I dag har vi Anas og Issa med i bilen. De er fra kvarteret, set alt i kvarteret, været en del af kvarteret, men har været målrettet og vedholdende efter deres mål. Psykiske lidelser, xanax og snus. Vi får talt om det hele. Hop ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:59:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f786c12863ced1a2303/e9477f14f832b99fe7261ec1e2e3087544e9ddb7820e4151876b94a45f65f0af" 
+                type="audio/mpeg" 
+                length="85026105" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f786c12863ced1a2303/5e8499f95104f7445c489342f8000ec706399d5a965ba266a29db6c34050d67d" 
+                type="audio/mpeg" 
+                length="28342329" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f786c12863ced1a2303/9afb3332e424b4aad853477f857afa430dd503549b518884fcc87d54e6ae3b39" 
+                type="audio/x-m4a" 
+                length="114034005" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f786c12863ced1a2303/789ff3d703f09e06495649ad1daa77fd3f98935d34c114cca5da7ea46e8f0406" 
+                type="audio/x-m4a" 
+                length="85691823" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f786c12863ced1a2303/51b5d70f1b9316329fe6d4cbe4c149f1fb8101002847270a1b728b437d2895d4" 
+                type="audio/x-m4a" 
+                length="29007361" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195422</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-booze-sommer-og-prinsen-13332195422</link>
+            <title>Booze, Sommer &#x26; Prinsen</title>
+            <description>I dag er vejret i hjerne, og humøret er sindssygt. Det er virkelig blevet sommer, og drengene får talt om deres alkoholforbrug, og hvem man kan møde til hafla. Plus du lærer drengene en smule bedre at kende! Bilen er tanket op!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f776c12863ced1a22fd/7f15d76c21c67ce77e4a47e38a438117e80d8b137c9fd39a9f66d5be758764a0" 
+                type="audio/mpeg" 
+                length="66307830" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f776c12863ced1a22fd/f06e452d00bdbe1df520150f0c3245e3fffbcde9804724deb2b02bfcd5c25a36" 
+                type="audio/mpeg" 
+                length="22102902" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f776c12863ced1a22fd/deb157d7afa816fefb1ac19e46ea9f4627a2863d20fd18d046402b15f07d863c" 
+                type="audio/x-m4a" 
+                length="88929907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f776c12863ced1a22fd/87dd0ffae1efaac00a1c1ae1a6e3b037f4acbc6a315d601caf153fc9986e7f5a" 
+                type="audio/x-m4a" 
+                length="66827211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f776c12863ced1a22fd/f2e8bec158e79bf732cd464198e261a9000b2d73abf410973aec2c56ed8a4dfd" 
+                type="audio/x-m4a" 
+                length="22621639" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195421</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-hvornaar-bryder-man-sine-graenser-13332195421</link>
+            <title>Hvornår bryder man sine grænser?</title>
+            <description>Hav brød en grænse i weekenden, og de taler om, hvor vigtigt det er at bryde sine grænser, og hvornår man skal kende sine grænser.
+Har du tænkt over, hvornår du selv bryder en grænse? Eller når dine venner bryder grænser for dig? Araben er godt kørende. Lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f766c12863ced1a22f7/589e68bf05a90a07560a08167fc73b6cbd2c1707380df23c13b1fd0f19de3d92" 
+                type="audio/mpeg" 
+                length="69953915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f766c12863ced1a22f7/8e7f433867c29a9c728f0a0babb994b6922707ba5dda29091df84456155b612a" 
+                type="audio/mpeg" 
+                length="23318267" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f766c12863ced1a22f7/11d25c7f6e821d13c96fb151557ebeff4a0281e7886fad8bee8d667e15ca7287" 
+                type="audio/x-m4a" 
+                length="93819796" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f766c12863ced1a22f7/11485cd3cae6bd7eb9095fef767a06e3cbbd63edf40c9763c8ee329836ac237d" 
+                type="audio/x-m4a" 
+                length="70501623" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f766c12863ced1a22f7/a59525e971211ea836d0dea662564c087e4c63d6b53addec7f2b52d726a1421c" 
+                type="audio/x-m4a" 
+                length="23865456" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195420</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-komiker-i-bilen-13332195420</link>
+            <title>Komiker i bilen!</title>
+            <description>Drengene har inviteret en speciel gæst med i deres araba i dag. Victor Lander! Komiker, vært og så er han fuld gringo. De udfordrer hinanden med sjove historier, anmelder lidt forskelligt og tester Victors skills af. Hop ind i bilen!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:52:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f756c12863ced1a22f3/cbfd545316f3cd4842da0119aec077d5ecdfd315a5e72ade176de4e21a6a26d5" 
+                type="audio/mpeg" 
+                length="76132088" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f756c12863ced1a22f3/60a0571851e00f63ff989b9994be37502861541b2bbd4a710a6d0953f006b5b6" 
+                type="audio/mpeg" 
+                length="25377656" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f756c12863ced1a22f3/d01b660b5bac7dbcce9c5bc4b5a806a30f8574b3820bd35961f45e23f7cf2f10" 
+                type="audio/x-m4a" 
+                length="102105811" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f756c12863ced1a22f3/8564a95c2e4a80684e03a4591820a5101105757a03477512d71a201569a7003d" 
+                type="audio/x-m4a" 
+                length="76728339" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f756c12863ced1a22f3/268b1bace8af50571d9c25dca804cfc69fc7c168f66f3d2d3ecbd194d90c7f16" 
+                type="audio/x-m4a" 
+                length="25973143" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195419</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-botanisk-have-og-mors-dag-13332195419</link>
+            <title>Botanisk Have &#x26; Mors dag</title>
+            <description>Din mor er noget af det vigtigste, og det får drengene talt om. De har anmeldelser klar, og Kamal gemmer på en lille date-hemmelighed. Siger Botanisk Have dig noget? Hop ind og få et smil på læberne!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f746c12863ced1a22ee/dfd7dba2ff00d886a6548524c6daf043d23a445b2101da6be5d5d7f612eac8d8" 
+                type="audio/mpeg" 
+                length="70331750" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f746c12863ced1a22ee/7ffad3e6a61ef2d762125f57d87710b6f14c343973137cf0ab054fd37582583b" 
+                type="audio/mpeg" 
+                length="23444198" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f746c12863ced1a22ee/c9df9dbd739e2eeaa6d6af96a237ff9ca370419a9b5bb521fd076c6b32d888d5" 
+                type="audio/x-m4a" 
+                length="94326464" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f746c12863ced1a22ee/aef21b75ccced16b5bc4fe6b6a2a79e39792a0ea447a2e71232bb1268f0b1296" 
+                type="audio/x-m4a" 
+                length="70882411" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f746c12863ced1a22ee/28162418cb07ad62f23e9f8105bc17ee2e780c9c3fd5c81a0dee4196225a15bd" 
+                type="audio/x-m4a" 
+                length="23994372" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195418</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-selveste-rikke-fra-paradise-i-bilen-13332195418</link>
+            <title>Selveste Rikke fra Paradise i bilen!</title>
+            <description>I dag har drengene inviteret Rikke Gøransson ind i deres univers. Hvis du ikke kender navnet, så har du 100 procent set hende på TV. Shababsne lærer Rikke at kende på deres måde, og Kamal bliver for alvor testet, om han kan klare Paradise Hotel. Lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f736c12863ced1a22ea/8e101851650c7c67bfead678ce498255e783b32aca38ad2ecff8e8e46e966398" 
+                type="audio/mpeg" 
+                length="79441784" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f736c12863ced1a22ea/99a50f1295ea119e13139d84e4f3186e06e03cd354ecc24fa1e4e632e63935af" 
+                type="audio/mpeg" 
+                length="26480888" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f736c12863ced1a22ea/d922d256cb4dc6f9023a920a9444a19ef54d78b0356f96de941b16ef0bc49f23" 
+                type="audio/x-m4a" 
+                length="106544468" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f736c12863ced1a22ea/9f48585f73e8e8cf1207c8309f71c5564f37699b99ccba7a713b25c4f51713ed" 
+                type="audio/x-m4a" 
+                length="80063679" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f736c12863ced1a22ea/35955c4a80095fc35aeacdd5a3e87f9ef176f81a3f10f13d5781806d7b5e5d29" 
+                type="audio/x-m4a" 
+                length="27102204" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195417</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-viljestyrke-og-paradise-hotel-13332195417</link>
+            <title>Viljestyrke og Paradise Hotel</title>
+            <description>Alt er næsten åbnet op igen, og drengene har optur. Hav taler om viljestyrke, og at han blev testet i weekenden, og måske skal Kamal være med i den næste sæson af Paradise. Hop ind i arabaen!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f726c12863ced1a22e6/3a5b7637e41bff07ec470b151e84d22edf8c401a7e6918c3a5230515921c6f3b" 
+                type="audio/mpeg" 
+                length="68504096" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f726c12863ced1a22e6/3d1afffeb1158583f38432b1564ced042a942a4347113b161465bc669e875c2e" 
+                type="audio/mpeg" 
+                length="22834976" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f726c12863ced1a22e6/92f92ef618997c8a954c1f6a5afe26e45df932732a0d0853fe0d4d34bef48825" 
+                type="audio/x-m4a" 
+                length="91875128" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f726c12863ced1a22e6/59b00001d0ed557d97c62ef63c822e90592b48df6d9337386c8b52a34aa003fb" 
+                type="audio/x-m4a" 
+                length="69040379" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f726c12863ced1a22e6/11133da6b27a8ed5d6af135abb0cb17f0652f2598cd5c76ad0530f07c02c4136" 
+                type="audio/x-m4a" 
+                length="23370748" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195416</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-dates-og-fogedretten-13332195416</link>
+            <title>Dates og fogedretten</title>
+            <description>I dag glæder drengene sig til at alt næsten åbner, og man kan have en næsten normal hverdag. Kamal er forvirret over fogedretten og snakker om, hvad man skal gøre for at motivere shababs, der sidder fast. Jump ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:53:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f716c12863ced1a22e0/f06b21f1e9fd10e685abc1345a338dcf25f2067fd9eab5485ccfd1b24acfea89" 
+                type="audio/mpeg" 
+                length="76430454" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f716c12863ced1a22e0/2b4cc565b755b4552d081a6918ebd7627476c5fb4c51b9fcbde902777cd9fb08" 
+                type="audio/mpeg" 
+                length="25477110" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f716c12863ced1a22e0/65c9c03e7a35ede8b43707ffaa345540592901907becaa5547f3e427967c24d6" 
+                type="audio/x-m4a" 
+                length="102505407" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f716c12863ced1a22e0/c210c870e0e6a844dda82569c572d5a7c322230f60918263ef902af7fd4bef2e" 
+                type="audio/x-m4a" 
+                length="77028567" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f716c12863ced1a22e0/9ba836a155e66afed24b3e6f33e479c8cffe8ffa494cf1198d466ebca3f8e939" 
+                type="audio/x-m4a" 
+                length="26074811" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195415</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-ramadan-caption-king-og-kamal-paa-jobcenter-13332195415</link>
+            <title>Ramadan, Caption King og Kamal på jobcenter</title>
+            <description>Vi ser frem til den velsignede måned, som er startet. Kamal mangler et ekstra job. Og drengene afslører hemmeligheder til de sygeste captions. Hop ind! Ramadam Kareem.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:53:15</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f706c12863ced1a22d7/1fa46458eb11ce4d7e97c6f46e7b821fd4708b24788a42b357dca56b3dfcb833" 
+                type="audio/mpeg" 
+                length="76686150" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f706c12863ced1a22d7/31258be4400acaeab98c42ad100510a2cf24d795eab641789fec7c8e7a0e2e85" 
+                type="audio/mpeg" 
+                length="25562310" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f706c12863ced1a22d7/82bd6cc93d796f05acfd0496a292b32a75395052d197ce9073fcd3ae8d963aa4" 
+                type="audio/x-m4a" 
+                length="102848908" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f706c12863ced1a22d7/17f0d289b52b6e014abb17f6905ddf4bde2fd613fbc5d8526a8a927b3f42f30a" 
+                type="audio/x-m4a" 
+                length="77286595" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f706c12863ced1a22d7/49cfb82a11d1c785cc78e5cc3cb6539283ede65f7a6730788697210deb8215ad" 
+                type="audio/x-m4a" 
+                length="26162168" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195414</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-vi-har-giz-paa-besoeg-13332195414</link>
+            <title>Vi har giz på besøg</title>
+            <description>I dag gæster pigerne fra podcasten 'A Seat at the Table' udsendelsen. Drengene spørger pigerne ind til kærlighed, og omvendt har pigerne medbragt et uforberedt emne til drengene. I har bedt om hunkøn i arabaen i lang tid. Og bilen dufter sindssygt. Lyt!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:59:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6f6c12863ced1a22d2/56f2676dfc9377feeb7500d4ffd6f5a3de6a0d0517df6f45737bfab9a4a0a813" 
+                type="audio/mpeg" 
+                length="85130934" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6f6c12863ced1a22d2/3cce4f9ad758f8c87742137e9ebd24594ce4e92b40f2bc91ce2b387bbcea94a1" 
+                type="audio/mpeg" 
+                length="28377270" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6f6c12863ced1a22d2/257fef556e83a375ee23c71db049a902b481d8228717d97f3c2a40039b2eddd1" 
+                type="audio/x-m4a" 
+                length="114174928" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6f6c12863ced1a22d2/0ba98822baad79654d00214590f1ca5dfc13dd4785229eaf7902ea9f764d72d2" 
+                type="audio/x-m4a" 
+                length="85797495" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6f6c12863ced1a22d2/37b2979bc10b8b861dbe2b9d0f1616e8a84fc0f110e5db3ecf22b5c82d906fe7" 
+                type="audio/x-m4a" 
+                length="29043108" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195413</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-en-kurder-i-afrika-13332195413</link>
+            <title>En kurder i Afrika</title>
+            <description>Drengene er lige hjemvendt fra Afrika med ny energi. Hav har smidt sit svedbånd efter en Instagram-shitstorm, og Kamal har fundet ud af, at han elsker isolation. Hop ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22cc/a58a281b61c5849a02147fe48f9ceaad5af0f816504655aa45f26b7af80dc600" 
+                type="audio/mpeg" 
+                length="74580870" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22cc/61fa07ababd92b6c3456dee1b6e7b7c605f4ebea28156e78115c1e9d10d2ef13" 
+                type="audio/mpeg" 
+                length="24860550" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22cc/6e024e23b163daea558980684ab9b772365e6ab236623ed29211d7fb0f9008fa" 
+                type="audio/x-m4a" 
+                length="100025239" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22cc/ba09cefbdf95b3dab35a55cbd5f7f8d896dfcd4ddc0f60b6a16534303c6235ac" 
+                type="audio/x-m4a" 
+                length="75164807" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22cc/58ae2edf00726f65243fe5e0977699ce697e432a48134692a5c68e39aec471e9" 
+                type="audio/x-m4a" 
+                length="25443959" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195412</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-salatpizza-uden-salat-fake-toej-og-frisoerstolen-13332195412</link>
+            <title>Salatpizza uden salat, fake tøj og frisørstolen</title>
+            <description>Drengene tager en tur rundt om kostplanen, og hvad de indtager. Og at de hader at frisørerne holder lukket, selv om faden stadig bliver lagt. Hop ind i bilen, og mærk enerigen.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22c4/7185f8e26b73463ede92e7778f7fa5cacbd442c8d015daf3a3750a120b8f6924" 
+                type="audio/mpeg" 
+                length="69425102" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22c4/ef9858d1b1d62f31858455d2b965e4cc3b140c15e8af41f54db02a2f0a8e10e5" 
+                type="audio/mpeg" 
+                length="23141966" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22c4/36561088ba039ff7eb2d08cdb83e4c2e1bac5236db751739ab2023503bd5d0d7" 
+                type="audio/x-m4a" 
+                length="93110445" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22c4/300946b1a17a651499050d26a469a004a3b62b0a8313241d5cc6dc86694ca0d1" 
+                type="audio/x-m4a" 
+                length="69968607" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6e6c12863ced1a22c4/86eca908cdcab665be25f2dfd45ccc77b8912327dc710875e9a7cdb1a52de017" 
+                type="audio/x-m4a" 
+                length="23685049" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195411</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-artigeardit-paa-bagsaedet-13332195411</link>
+            <title>Artigeardit på bagsædet</title>
+            <description>I dag får Hav &#x26; Kamal den længe ventede gæst på besøg i arabaen. De får talt om, hvilken syg lyriker han er, og hvad fremtiden venter. Er det Urban at være Artigeardit? Hop ind, der er plads til dig og din shabab/veninde.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6d6c12863ced1a22be/b385678b9060f4051205a1116307185b1cb3a77a637e100f628dd7b06cc2e3f3" 
+                type="audio/mpeg" 
+                length="68384887" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6d6c12863ced1a22be/8c2caaafaf3dd08caaf69a050cd1962e4b81dbd5e87bce5231949f2f9e12a678" 
+                type="audio/mpeg" 
+                length="22795255" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6d6c12863ced1a22be/f2da0cc635a61f5bd4b09c96f4dcc0bd8d22c9dac3c2953cc012e7838079f08e" 
+                type="audio/x-m4a" 
+                length="91715119" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6d6c12863ced1a22be/5a056fccd085f9c0ef36cb8f3a68fac81db19aab5091adaae484ff4b8677aa8b" 
+                type="audio/x-m4a" 
+                length="68919983" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6d6c12863ced1a22be/a11a6545c03248f03646ae18cba2d58299067148ca87aa3810d6175037a57165" 
+                type="audio/x-m4a" 
+                length="23330051" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195410</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-parkeringsboeder-drake-og-mobilepay-13332195410</link>
+            <title>Parkeringsbøder, Drake &#x26; MobilePay</title>
+            <description>Hav beklager for sidst. Kamal anmelder Drake og shababsne er meget trætte af parkeringsbøder.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6c6c12863ced1a22b8/decb3cba6dceb5d3a78ae8ef3592c63b16a8d5be9e04ec44d6ffdc3d8f42ff85" 
+                type="audio/mpeg" 
+                length="69903102" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6c6c12863ced1a22b8/91460af6bac5b87f7c3bfac16c4e5250a3cc8a67e8860289023827865172245c" 
+                type="audio/mpeg" 
+                length="23301246" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6c6c12863ced1a22b8/335c5f6bcdb948434fb84e37342425b3abe1518ebd90d2451170654ff5e15064" 
+                type="audio/x-m4a" 
+                length="93751780" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6c6c12863ced1a22b8/d23575e331424b993c202e29d79e3a3593007450ed2c275679be90b232a0d02e" 
+                type="audio/x-m4a" 
+                length="70450527" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6c6c12863ced1a22b8/f6023d6f948b3c6ef6a66f08abd0d79726b3254cdcabdcf8e12737c74c148d78" 
+                type="audio/x-m4a" 
+                length="23848164" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195409</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-netflix-og-kaerlighed-13332195409</link>
+            <title>Netflix &#x26; Kærlighed</title>
+            <description>For første gang er der ikke kun et, men flere temaer. Shababsne anmelder ankelstrømper om vinteren, Hav vil gerne vide, hvor blind Kamal egentlig er, og Kamal tester om at Hav er klar til have en kæreste. Hop ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6b6c12863ced1a22b0/e41e8b858e1eaba4641f4a658befe4115273a7724f77704d459e757e6323462a" 
+                type="audio/mpeg" 
+                length="67084274" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6b6c12863ced1a22b0/5fbd930ad24741e7d09c32c17ebb3bb632bdaff2eac122db546a8383d8cfebff" 
+                type="audio/mpeg" 
+                length="22361714" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6b6c12863ced1a22b0/fd2a0550dbe921f37ac73f00fd89102f67ccab37bcd1f00ca84187b3f272294e" 
+                type="audio/x-m4a" 
+                length="89970897" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6b6c12863ced1a22b0/ca46547ee0d84af69879c7478534b44cf42002fbc9e2b62d395d99847ee7349a" 
+                type="audio/x-m4a" 
+                length="67609419" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6b6c12863ced1a22b0/e1aed51ebeeca9d3547e36f9443e7e770382a999f082e343824bddb31c5f2656" 
+                type="audio/x-m4a" 
+                length="22886397" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195408</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-er-han-danmarks-bedste-dj-13332195408</link>
+            <title>Er han Danmarks bedste DJ?</title>
+            <description>Shababsne har en gæst med i bilen. Den mest blæste, sindssyge og forrygende DJ, Emil Lange. Han fortæller os nogle historier, som man kun shuffer på film. Vi har ventet på denne her dag. Hop ind!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6a6c12863ced1a22a9/9080b29387002357ec56890cbd863aa43e4c4617ecd7476bce932d559ee29d0e" 
+                type="audio/mpeg" 
+                length="68216099" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6a6c12863ced1a22a9/299ee70757187be707d3696faa517397b3fe86c02639bb35360c546537ee92fe" 
+                type="audio/mpeg" 
+                length="22738979" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6a6c12863ced1a22a9/20be7349a48c41d0330b7b82c5a18847c8a4ca020abc6f63759fd45a92460a8b" 
+                type="audio/x-m4a" 
+                length="91489217" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6a6c12863ced1a22a9/9254a15be5d3484752f2373db5ffd6050da1eb74806cbcacd392d01faa54869c" 
+                type="audio/x-m4a" 
+                length="68750255" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f6a6c12863ced1a22a9/8e3971b48844d7da0e8c62aea3b790c5ce993f8cdfea4bf46226612640134d61" 
+                type="audio/x-m4a" 
+                length="23272609" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195407</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-i-bilen-med-larry-44-13332195407</link>
+            <title>I bilen med LARRY 44</title>
+            <description>I dag har drengene taget en rigtig shabab med i bilen. LARRY 44 er hans kunstnernavn og han har noget på hjertet og sigtekornet. Rammer han drengene? Og lytter LARRY egentlig til podcasts generelt? Hop ind i arabaen og lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:46</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f696c12863ced1a22a3/845c6398dab5c558ea8153244955f34f16ad0f4c0045b9a37403efaf5db27881" 
+                type="audio/mpeg" 
+                length="65923061" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f696c12863ced1a22a3/97e12cc6eab7f8fc5c9b01971598bb94525db096c15130cde60c2aee318c08b7" 
+                type="audio/mpeg" 
+                length="21974645" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f696c12863ced1a22a3/af4289eb22d5f6ab663e28474a7ebd5faa50fb22a4a4e1ac7801ec19367d114e" 
+                type="audio/x-m4a" 
+                length="88413601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f696c12863ced1a22a3/3870df4046c7a853bee94e88b9ee5abe7b8415bf9194bce36b528c8550e26574" 
+                type="audio/x-m4a" 
+                length="66439151" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f696c12863ced1a22a3/3c9c1d02e67b42d156ef056a310ce4060ec28d0617b0852629fd3fe61af04e3b" 
+                type="audio/x-m4a" 
+                length="22490225" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195406</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-fordomme-13332195406</link>
+            <title>Fordomme</title>
+            <description>Arabaen er fyldt med scenarier, diskussioner og eksempler. I dag tager brødrene en tur forbi gaden ''Fordomme'' og ser, hvem samfundet ser mest ned på. Hop ind i bilen med Hav og Kamal!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f686c12863ced1a229d/850de4750c8c70cc6ee15f1b81da42502178d58769baa5ff7621b7a07a60124d" 
+                type="audio/mpeg" 
+                length="64299859" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f686c12863ced1a229d/be78c88635e514884f2028c7d550bdb82c3bdc15aa8f3cbcf3e52308e2bff5c8" 
+                type="audio/mpeg" 
+                length="21433555" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f686c12863ced1a229d/4fb1a583476dbd4c2767fcbc020c4fefdbc58b379e66a85d0471e74b188f0ac5" 
+                type="audio/x-m4a" 
+                length="86236812" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f686c12863ced1a229d/178c35e7e6913af093497511d10a4fd2fea5238bd9223cc492f59356d38c7e2c" 
+                type="audio/x-m4a" 
+                length="64803415" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f686c12863ced1a229d/24adc9bdc4a2733b649520f9503d7e1c467b8ce4cda42ca11e31c90a61932684" 
+                type="audio/x-m4a" 
+                length="21936556" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195405</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-hvad-er-en-rigtig-mand-13332195405</link>
+            <title>Hvad er en rigtig mand?</title>
+            <description>Brødrene går i dybden med, hvad en rigtig mand er. Det handler om alt fra, at Hav ikke kan hænge en hylde op, til at Kamal har alt, hvad der skal til for at være den perfekte mand. Find ud af, hvorfor han måske ikke er!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f676c12863ced1a2296/1a0abf91252ad94addfdf267d5d16a2c6afc73ae1919f99680f7e13dc0fb88a8" 
+                type="audio/mpeg" 
+                length="71744118" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f676c12863ced1a2296/627619636b0b6b72c352b808fc77ac9e1234e2fada82eaab96c68678824a0264" 
+                type="audio/mpeg" 
+                length="23914998" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f676c12863ced1a2296/4c778b27a2ab5faa998e6b58b5171eab6fd230448a94fa17e462897e3331591e" 
+                type="audio/x-m4a" 
+                length="96220371" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f676c12863ced1a2296/cd434e3ee98f86169ac0f92c5654dcba2426373c790c53a4b980240d55dfb3f1" 
+                type="audio/x-m4a" 
+                length="72305639" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f676c12863ced1a2296/0b382333d3e91f361c279f690768365b6fc9c8e9c383709bfa29ddd1ab7c94c2" 
+                type="audio/x-m4a" 
+                length="24476103" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195404</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-at-flytte-ud-hjemmefra-13332195404</link>
+            <title>At flytte ud hjemmefra</title>
+            <description>Hav har svært ved at finde ud af, hvornår han skal flytte væk fra mamas mad, babas kærlighed og nyvasket tøj. Kamal blærer sig med sin lækre terrasse, men viser aldrig, hvordan der i virkeligheden ser ud. Ugens 'På Bagsædet' om at flytte hjemmefra.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f666c12863ced1a2290/0ccd3e62b8c09423df6b5bb5463baf3b13a321e6e6f883c242f77a1f01e2e566" 
+                type="audio/mpeg" 
+                length="69706810" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f666c12863ced1a2290/de107ede13c4c988eb893a3cedbcadbabb98d45013a08e4f538b877f90733b57" 
+                type="audio/mpeg" 
+                length="23235898" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f666c12863ced1a2290/b0bd79cab7292746a16795cb349351a34c01260e8a182d8b3ea688f3b414686c" 
+                type="audio/x-m4a" 
+                length="93488064" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f666c12863ced1a2290/71529c186af7d930069a68b437c02360a5ed9d103d3307a1d1ff6c4a4e8186c3" 
+                type="audio/x-m4a" 
+                length="70252347" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f666c12863ced1a2290/0471bb4c4638321a7c7ae06e13242b3e5c8c0ca2078a858d8f850466bf19d785" 
+                type="audio/x-m4a" 
+                length="23781056" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195403</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-skoletid-13332195403</link>
+            <title>Skoletid</title>
+            <description>Skoletiden lige nu er meget hektisk for mange mennesker. Virtuelundervisning, hjemmearbejde og zero skolehaf. Hav og Kamal snakker eksamen, forelskelse, første skoledag, og om det er schtyle at snyde? Skud ud til alle elever!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f656c12863ced1a228a/e724fa7fb1db078e5ec8b54908257471abc809396fbf793d4b162f56dcef765d" 
+                type="audio/mpeg" 
+                length="71708402" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f656c12863ced1a228a/3f239c1a725719d5f517feb9e11777d071511f9cb7903a69e188bffb278fa674" 
+                type="audio/mpeg" 
+                length="23903090" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f656c12863ced1a228a/615932413ff418fc83ed019fe640887a47ea898e5126b66cad28fe259b4e3efc" 
+                type="audio/x-m4a" 
+                length="96172991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f656c12863ced1a228a/e7d572aaeb9b638b141d181e3f14dc890868b5de867cb03a610f71221aa0f1af" 
+                type="audio/x-m4a" 
+                length="72269939" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f656c12863ced1a228a/1c363a8f1f5ff9cae255eeb220c90f24170d52260e6b1d117e5e605cd00078d7" 
+                type="audio/x-m4a" 
+                length="24464039" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195402</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-shopping-13332195402</link>
+            <title>Shopping</title>
+            <description>Hav og Kamal snakker om, hvordan en shoppingtur er eller burde være. Hvad har Kamal zigget i H&#x26;M? Og har Hav nogensinde lavet en wurr på Fisketorvet? Tag med Hav og Kamal ud at shoppe! De giver dig nogle råd både til jer shababs og jer giz.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:50:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f646c12863ced1a2282/8af4f507f71d10e77b1ab2dfc944035f4289baa2bb58e76a76cd0a5e1ff62ae4" 
+                type="audio/mpeg" 
+                length="73282616" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f646c12863ced1a2282/4d92422c5edc5c8b8e8d12d24047312602b53cf740b6cfb155c5b3cf4d6e7071" 
+                type="audio/mpeg" 
+                length="24427832" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f646c12863ced1a2282/ebde60598c666937f880e2c081eca57478f1ae27d3d9b19cda82509f58f5cc67" 
+                type="audio/x-m4a" 
+                length="98283836" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f646c12863ced1a2282/33e2eda75db7e99e8f1a9f053dca4cc100a80118eda3c1e65019dd570880d49d" 
+                type="audio/x-m4a" 
+                length="73856187" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f646c12863ced1a2282/deaaf7bf73ee93842ece9f3fcef983b12be8924a4947e3cb76cfb8530aa1d7fc" 
+                type="audio/x-m4a" 
+                length="25000992" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195401</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2021/paa-bagsaedet-med-hav-og-kamal-adnan-er-paa-tvaers-i-arabaen-13332195401</link>
+            <title>Adnan er på tværs i arabaen</title>
+            <description>Frisk start på året. Arabaen er kommet skadefrit igennem 2020 og starter det nye år med en gæst på bagsædet. Adnan som er kendt for at lave rav. Og når drengene siger rav, mener de rigtig rav. Brødre og søstre.
+Hop ind i bilen, og skru helt op!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Mon, 30 Sept 2024 14:25:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f636c12863ced1a227a/68c064bd98afdf67029593a5074e6ba17b45e156f24195db750e1be85cbeee62" 
+                type="audio/mpeg" 
+                length="68174076" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f636c12863ced1a227a/0c8f733e070a05f46f3ad8ef2ffeddd7d2d28a51e3f1f01e1d833bc7faea5fdd" 
+                type="audio/mpeg" 
+                length="22724988" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f636c12863ced1a227a/faea0215a86fe94907ca6383b6e0d3fe3df9478dc58372bfa81de1348ca28544" 
+                type="audio/x-m4a" 
+                length="91432875" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f636c12863ced1a227a/c5e4eb657f3df42c179f297223614ecc5e27c96f607431e3daea386457529f57" 
+                type="audio/x-m4a" 
+                length="68707967" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017f636c12863ced1a227a/40ad665a77fbbdbc0a86c9c0cdd060175f3e0a4651b6b24919bf0ce81be323b0" 
+                type="audio/x-m4a" 
+                length="23258275" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090645</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-aaret-der-daffede-13332090645</link>
+            <title>Året der daffede</title>
+            <description>Drengene evaluerer og vurderer hele 2020 through bad and good times. Har de nogensinde tilkaldt Falck, når de har været ude og cruise? Hvilke bangers har ført dem igennem året? Lyt med til årets sidste udsendelse af på bagsædet.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:50:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c5330eac2f135b6c61/6bb355e0b5bf6d658b88d3e02a22d487655135a638b84a72dd3c7025106e0b79" 
+                type="audio/mpeg" 
+                length="72856379" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c5330eac2f135b6c61/dca6ff49d3a0d50073fb9a9767ccd3420d2123baa6e65f173289058543df4034" 
+                type="audio/mpeg" 
+                length="24285755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c5330eac2f135b6c61/3dda6d2c93ba688a1a7c141864684cbbe8a1ef8073ec29291ee7897cddb2ec4e" 
+                type="audio/x-m4a" 
+                length="97712525" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c5330eac2f135b6c61/0a778653b3026b29982f6b9cb0c373a9e27ab9e63eadaa6631ad3af282156bf7" 
+                type="audio/x-m4a" 
+                length="73426863" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c5330eac2f135b6c61/c783b30c5e4ca811add04fe2440316b7420eaa9e69ec30d5117331917fa1d086" 
+                type="audio/x-m4a" 
+                length="24855749" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090644</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-jul-for-shababs-og-shababsinder-13332090644</link>
+            <title>Jul for shababs og shababsinder</title>
+            <description>Der er hængt et friskt træ i forruden på arabaen, for julen er lige om hjørnet. Men hvad er det egentlig, der gør julen så speciel? Og hvad skal man lave, hvis man ikke holder jul? Cruise med i kanen, og få alle svarene!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c4330eac2f135b6c5c/2bbd65478c9f56c6c454dd7d89416c23f717eb7b273fbde41c509e24a29c0fd4" 
+                type="audio/mpeg" 
+                length="66814135" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c4330eac2f135b6c5c/6c3d451a446fe221c43a9255f403cb16f19110c37d2492a0e1239d922a8e9d02" 
+                type="audio/mpeg" 
+                length="22271671" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c4330eac2f135b6c5c/a5148c3851fc850c601da30f89a30318caaca75827d88edce9d710ae972c1d14" 
+                type="audio/x-m4a" 
+                length="89609056" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c4330eac2f135b6c5c/3b5db1c324c66fe56ef60df783e1f24b03ecb0519abf2aa229a193985b4ecc80" 
+                type="audio/x-m4a" 
+                length="67337463" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c4330eac2f135b6c5c/e439932713c669bcc43f7e501e5e5996e24f4ed9375b7d75b624509e933448fd" 
+                type="audio/x-m4a" 
+                length="22794336" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090643</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-om-glaede-13332090643</link>
+            <title>Om glæde</title>
+            <description>Det kan godt være, det er koldt og fyldt med corona udenfor, men inde i arabaen er der kun god stemning, for hvis der er noget, man skal bruge for tiden, er det GLÆDE. Dine drenge Hav og Kamal har glæde nok til os alle sammen, så kom med ind, og få din portion.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c3330eac2f135b6c56/540d34ebf59c54be32465318917bbd860337b5e9ab8fc0cae75f4b2a489976fc" 
+                type="audio/mpeg" 
+                length="71764853" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c3330eac2f135b6c56/4ac29ff0a4c0ed220e4716c4aace32c3541a42189e6d55d20c23918e8b70e7c3" 
+                type="audio/mpeg" 
+                length="23921909" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c3330eac2f135b6c56/fc3b8fdb42f6a91c246547b43eddfc46ed293fba9e21f56457967e89c87b00ab" 
+                type="audio/x-m4a" 
+                length="96248464" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c3330eac2f135b6c56/06b244693a3574e3803e57df5cc95bef1e05c89d7fb4971d2ec0ed15ad9dd3b5" 
+                type="audio/x-m4a" 
+                length="72326687" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c3330eac2f135b6c56/ec502c7f792c92d56f427bf10f0461ff721c92f7b924271a6c9832481a4bc7db" 
+                type="audio/x-m4a" 
+                length="24484075" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090642</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-forventninger-13332090642</link>
+            <title>Forventninger</title>
+            <description>Hop ind i arabaen, og lyt med, når de to shababs tager en snak om forventninger og det pres, der følger med dem. Tag en pause, rul vinduet ned, og lyt med på bagsædet.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c2330eac2f135b6c51/8d5278ee75f77a070bfc7b79565d08484ce18eabdb627a19708d4b7350521b48" 
+                type="audio/mpeg" 
+                length="68769029" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c2330eac2f135b6c51/8ba2e2e02b9c39fc692656f65dcd213e37934836ded991a7d8c295bd592d79b4" 
+                type="audio/mpeg" 
+                length="22923269" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c2330eac2f135b6c51/2881de32a653929bf2dd8919c9784adbfe6b42ea389bd8c5bb2c3113a261287c" 
+                type="audio/x-m4a" 
+                length="92230737" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c2330eac2f135b6c51/1f0b9f9f444fa27028862ab219af9285dc83fbcc2ad9b34567f2bd906d37d8d3" 
+                type="audio/x-m4a" 
+                length="69307595" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c2330eac2f135b6c51/82d8f8214f3ea52071a9106b558497f46f98ca1e988c15930d08cc174a41f6f8" 
+                type="audio/x-m4a" 
+                length="23461237" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090641</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-shorta-er-i-arabaen-13332090641</link>
+            <title>'Shorta' er i arabaen</title>
+            <description>Tarek Zayat, som du måske kender fra filmen 'Shorta', er i arabaen for at fortælle om livet som skuespiller. Du får også svar på, om der mon ligger et skjult skuespiltalent gemt i Kamal. Find popcornene frem, og læn sædet tilbage.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c0330eac2f135b6c48/0284299eff68ec8a7a5cabedc5005451b69c69409d7d5d629a084e0d15f65734" 
+                type="audio/mpeg" 
+                length="65749690" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c0330eac2f135b6c48/dd9e0308a1de580ae9874d20baa6217df2c7bc17fd25834f3385cce1728b4483" 
+                type="audio/mpeg" 
+                length="21916858" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c0330eac2f135b6c48/b0ed799bb7958fbff6d8b0e05eabb074b2a9043eb033c772312426ef6f1ea94d" 
+                type="audio/x-m4a" 
+                length="88181436" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c0330eac2f135b6c48/a0b1cf0c42d16ccce5fa4326515ba7fcc3cf0b54cca184ea8f4cb5831ee11f71" 
+                type="audio/x-m4a" 
+                length="66264755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260c0330eac2f135b6c48/992b3bbd3d304408f704f2c61847a71458b765ff976bf215a85a974f67cf21e9" 
+                type="audio/x-m4a" 
+                length="22431517" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090640</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-bif-i-bilen-13332090640</link>
+            <title>BIF i bilen</title>
+            <description>Jesper Lindstrøm og Anis Slimane tager et brake fra Brøndby IF's grønsvær for at gæste de to shababs i arabaen. Tag klaphatten på, og sæt dig til rette på bagsædet!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bf330eac2f135b6c41/149bb68697cba4a64e70d01525328febbb1b1a8aacbda39ca743cbcdba02cf4c" 
+                type="audio/mpeg" 
+                length="74389065" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bf330eac2f135b6c41/74b1abd813c1ac34d04b6cbcb99db6957d9f99c4a2d37c78bb47d4979c9ff242" 
+                type="audio/mpeg" 
+                length="24796617" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bf330eac2f135b6c41/449d8e08b79b4858e0ae30264fb9e2b6a74c71e52d49e9544133eb5c4ccb94dd" 
+                type="audio/x-m4a" 
+                length="99768341" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bf330eac2f135b6c41/100f31b318fa72563a82c4f0bfd975079239cc68aec66400135758a85d69e225" 
+                type="audio/x-m4a" 
+                length="74971723" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bf330eac2f135b6c41/0bb646ad23911dad4b275c06885e07a596428f4c80a9e5728d8e83c4053faf4a" 
+                type="audio/x-m4a" 
+                length="25379389" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090639</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-skinz-foran-i-arabaen-13332090639</link>
+            <title>Skinz foran i arabaen</title>
+            <description>I dag er Hav alene i bilen, så han har inviteret Skinz med ind på forsædet til en snak om hans vej ind i musikkens verden. Sæt dig ind på bagsædet, og gør dig klar til at komme i din zone!</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260be330eac2f135b6c3b/3ac5fd46ea16694a755d3104b6e3ff85d4d1074a333bd1c36725a25caf62a42c" 
+                type="audio/mpeg" 
+                length="71698552" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260be330eac2f135b6c3b/59b9ff21488e676fe95fcc66a7e47ddf37cc83ef3fb354a49b8324f262a02dc6" 
+                type="audio/mpeg" 
+                length="23899768" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260be330eac2f135b6c3b/bf23d4c6fc899dacdd1778b7d49e3ded5a7109b150cffbbda0d51fc3663feb10" 
+                type="audio/x-m4a" 
+                length="96159992" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260be330eac2f135b6c3b/15090353ad9b9279e0b13e53730b32005a684886a65b2f05bdace4013e5e1bc4" 
+                type="audio/x-m4a" 
+                length="72260255" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260be330eac2f135b6c3b/066c76d6631418ea5bfd2b31c42f6ff66b41f65fec551257d447141ad385ca9e" 
+                type="audio/x-m4a" 
+                length="24461457" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090638</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-angst-og-depression-13332090638</link>
+            <title>Angst og depression</title>
+            <description>Det er blevet mørkt og efterår, og derudover banker coronaen stadig derudaf, så det er ikke mærkeligt, hvis du er ved at få trip af 2020. Derfor tager drengene i dag en snak om angst og depression.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:52:54</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bd330eac2f135b6c35/ea244397b846adf7cd14cc4f6b68246470fb060066bdeddd85c560e1d52e2799" 
+                type="audio/mpeg" 
+                length="76184486" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bd330eac2f135b6c35/f6754028f72d117f1bee3f964bad3a84acd8bab7981051d9e31272566b436661" 
+                type="audio/mpeg" 
+                length="25395110" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bd330eac2f135b6c35/35d58cf5008a99907f907fa7317459e0a6fd00284704482f0fec5202cde9bffc" 
+                type="audio/x-m4a" 
+                length="102175923" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bd330eac2f135b6c35/293a07f6f0470ee775c4be41d91b497a51bd0f275532a42150fa030183f828d0" 
+                type="audio/x-m4a" 
+                length="76780995" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bd330eac2f135b6c35/caf6fe4a4652257d46b6c1d6f9f45e07d1446ca4ba1459475ecb4aa6a7690665" 
+                type="audio/x-m4a" 
+                length="25991031" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090637</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-sproget-13332090637</link>
+            <title>Sproget</title>
+            <description>I arabaen kører snakken af sig selv, men i dag brækker shababsne sproget helt ned for dig. Hop i dine schlafpanters, læn dig tilbage, og gør dig klar til at have det gringo i selskab med Hav og Kamal!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bc330eac2f135b6c2f/4ecfd69e1ba8490ad667a2b94ea858c079ac13cd0d938bb1227c9b86c2da7e9d" 
+                type="audio/mpeg" 
+                length="65507175" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bc330eac2f135b6c2f/07f58f7e599fd094042f14877563cb3323df2a95cc0706a2027d5ef0bcef5a9f" 
+                type="audio/mpeg" 
+                length="21836007" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bc330eac2f135b6c2f/56b54e852bdf840e0379b75af86e7c9391b52d0edece854ca5b881d8249223ac" 
+                type="audio/x-m4a" 
+                length="87855956" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bc330eac2f135b6c2f/02954ad26332021761f76745eb47b373450c1faec6430437e2aa9e8d165c8484" 
+                type="audio/x-m4a" 
+                length="66020111" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260bc330eac2f135b6c2f/a387346dcd3664c56ee75a795f269cb8d847072fc242e9b845de60e3e02bd8e6" 
+                type="audio/x-m4a" 
+                length="22349272" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090636</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-wurr-13332090636</link>
+            <title>Wurr</title>
+            <description>Det bliver dybt i dag, hvor de to shababs taler om vold - både den fysiske og den psykiske af slagsen. Smid et fredstegn i luften, og skru op!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ba330eac2f135b6c28/e8bdf4cd793e48f35e71acd5479758fae18e1981c3e0f3e4de5790ce0f770435" 
+                type="audio/mpeg" 
+                length="73702441" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ba330eac2f135b6c28/ff61121c4c8eb7b0ebb67de7c9f4ecc986cfe5ab19fc8c39352011c673a34b9e" 
+                type="audio/mpeg" 
+                length="24567721" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ba330eac2f135b6c28/b14440ce8c8d63bcaef84ba9de054651dd1ef44a28b4ae391f9ad7ed590ab033" 
+                type="audio/x-m4a" 
+                length="98847613" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ba330eac2f135b6c28/d2da445bb0427552a0416d18724e0e0b3c5a62219f668271363cdd22db823314" 
+                type="audio/x-m4a" 
+                length="74279803" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ba330eac2f135b6c28/45aee54e7bf846ff1b0274c62e249f4afef303fd724d6d12703099e5a523af5a" 
+                type="audio/x-m4a" 
+                length="25145072" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090635</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-tobias-rahim-vs-siri-13332090635</link>
+            <title>Tobias Rahim vs. SIRI</title>
+            <description>Du behøver ikke spørge SIRI, hvem Tobias Rahim er. Du får nemlig svaret i dag, hvor han gæster de to shababs i arabaen og fortæller om sit debutalbum 'NATIONAL ROMANTIK 2021'. Spænd selen og lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b9330eac2f135b6c20/4007ea4fa0caf9727debd36430ad88da71877453df057d9b27b8656c8b2fe138" 
+                type="audio/mpeg" 
+                length="67852647" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b9330eac2f135b6c20/31a8294a16019d88fd478ea58214ac0467e019fdc3c97d558ca7088f8b0a8b1a" 
+                type="audio/mpeg" 
+                length="22617831" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b9330eac2f135b6c20/91badeb30f88eb709ca7d9cdca62620aafe3593c18bd7c5cfe0804841dbb0ba0" 
+                type="audio/x-m4a" 
+                length="91001564" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b9330eac2f135b6c20/59a98c1888bd04783122153f5e6cb0773f5941cfaca5952eefa3138194edf8f0" 
+                type="audio/x-m4a" 
+                length="68383963" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b9330eac2f135b6c20/881fde55a0ce5e5283207b6a258533c5bb8b63c051dd1e108d47f538e5af6b81" 
+                type="audio/x-m4a" 
+                length="23148584" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090634</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-loyalitet-13332090634</link>
+            <title>Loyalitet</title>
+            <description>I dag er de to shababs alene i arabaen, hvor de tager en snak om loyalitet. For hvad vil det egentlig sige at være loyal? Og hvad gør man, når en shabab viser sig at være illoyal? Hop ind på bagsædet og få svarene! 
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b8330eac2f135b6c1b/346c92e7f8948b682853e34e6cf8b4266635b3055bbe7c82d0b24ed90d29c3ba" 
+                type="audio/mpeg" 
+                length="65056760" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b8330eac2f135b6c1b/4579d01b2d108167ebaf67abde1b66414699a0ed7af2cb2beeb1814ce3f00935" 
+                type="audio/mpeg" 
+                length="21685880" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b8330eac2f135b6c1b/256c89ed5375947ca49307b0aac5b15a4df7710ccf464dfc2661c534fa7949b4" 
+                type="audio/x-m4a" 
+                length="87251589" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b8330eac2f135b6c1b/843292eb98fda0193ad572104bf5a599580b4f3ff82977ad97be83e30882c0d0" 
+                type="audio/x-m4a" 
+                length="65566483" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b8330eac2f135b6c1b/8afcd2fc68142f974c80652d3ee27d098fd23b2dccba953274352c81b8a8806a" 
+                type="audio/x-m4a" 
+                length="22195673" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090633</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-benjamin-hav-laver-rav-13332090633</link>
+            <title>Benjamin Hav laver rav</title>
+            <description>I dag har Hav og Kamal fået fint besøg af Benjamin Hav, som du nok blandt andet kender fra duoen BENAL. Rul vinduet ned, og gør dig klar til at få sus på!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b7330eac2f135b6c13/f050f1bf5b8cebbbbe14282f92c254519a9a4bfdef4649661f2f57bfa7bc393f" 
+                type="audio/mpeg" 
+                length="67490875" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b7330eac2f135b6c13/0e0f7e9aa1289d86aead5684e54de5d055798ded18c2ba62b3787bcc93fbad83" 
+                type="audio/mpeg" 
+                length="22497211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b7330eac2f135b6c13/e9fb6668ebc021f78cec7d3bb9caaa67b7d9c97d5e3d9bd49245423d770489ed" 
+                type="audio/x-m4a" 
+                length="90516929" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b7330eac2f135b6c13/8f89f17a41dbd80ee9230f53d50fd7d8786c69780a6106fd0efcdfb1f566ca45" 
+                type="audio/x-m4a" 
+                length="68019631" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b7330eac2f135b6c13/eba82a9ca9f594e4fa9b507ea454733029201bd09db1d86106726ee267e41e5e" 
+                type="audio/x-m4a" 
+                length="23026006" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090632</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-nicki-pooyandeh-i-arabaen-13332090632</link>
+            <title>Nicki Pooyandeh i arabaen</title>
+            <description>I dag har de to shababs besøg af den brandvarme producer Nicki Pooyandeh, der har lavet tracks med artister som Kesi, NODE og Gilli. Spænd sikkerhedsselen, læn dig tilbage og lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b5330eac2f135b6c0e/b571f82ecf620ced6ff8fac4fef33153df41f264d9077577a89270d59b2da448" 
+                type="audio/mpeg" 
+                length="74058453" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b5330eac2f135b6c0e/bca14c2e2bed02aadd702cab5c90c71f05f7dc96931e57650a87cc2e7246ba8b" 
+                type="audio/mpeg" 
+                length="24686421" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b5330eac2f135b6c0e/b2af532c441b9a28ccff23581f8496a2350f892f11ce46b0b82825d6845e957b" 
+                type="audio/x-m4a" 
+                length="99324875" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b5330eac2f135b6c0e/d59e9d4c5685d9c85c890a0fd83cdbd176c74cfc6dc14cf479003dfcc8db6ea3" 
+                type="audio/x-m4a" 
+                length="74638399" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b5330eac2f135b6c0e/96d53f58872558313aa0a9e126547c943d289b1d2dcb1e9104cc57ae097150a5" 
+                type="audio/x-m4a" 
+                length="25265799" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090631</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-fritid-13332090631</link>
+            <title>Fritid</title>
+            <description>De to shababs har kørt sæderne helt tilbage i arabaen og er hoppet i joggingbukserne, for i dag skal det handle om fritid. Spænd selen og cruise med.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b4330eac2f135b6c05/dd9c5f3deebe0532930b1a1853c8ef7e74e597537adb2da7ab81f8638b50e98c" 
+                type="audio/mpeg" 
+                length="68956790" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b4330eac2f135b6c05/137e5e7056758aab6a22feba129ab6824c0dc28b99f67c5335d5fb7a750a44bc" 
+                type="audio/mpeg" 
+                length="22985846" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b4330eac2f135b6c05/610386981cbe2bce847d7a1484361fe11d7bbfa4ede017ecbbab74f269b96449" 
+                type="audio/x-m4a" 
+                length="92482804" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b4330eac2f135b6c05/7835ee36dc176e02dad222dea8803559b0fbf905678f0799da7ab7c252440c3e" 
+                type="audio/x-m4a" 
+                length="69496931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b4330eac2f135b6c05/5c29cc2f9925b876adccd5d985805ff77b514e04a23b95fe262c6ef50b31193e" 
+                type="audio/x-m4a" 
+                length="23525340" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090630</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-wifey-material-13332090630</link>
+            <title>Wifey material</title>
+            <description>Hvordan finder man den perfekte dame? Hvad gør hende til wifey material? Og hvad betyder det overhovedet? Hop ind på bagsædet og få svarene!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:10:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b2330eac2f135b6c00/551c96a8194ae39fd9edee35ce456a38d324f775283137b300905460c382fb43" 
+                type="audio/mpeg" 
+                length="63366123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b2330eac2f135b6c00/78393477d659a1415531a82c5559608fdabe3d091ba9a3633e912aa3aaf62580" 
+                type="audio/mpeg" 
+                length="21122283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b2330eac2f135b6c00/feb3947ead9cfde7e957bb967281280455d60c023f97e7076bf7b1950b106d9b" 
+                type="audio/x-m4a" 
+                length="84984200" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b2330eac2f135b6c00/a548a9811e0e1bedee3c1b4fdc06c7e85e9ce10b08993f16e00d6f1a81544456" 
+                type="audio/x-m4a" 
+                length="63862195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b2330eac2f135b6c00/d3b02dbda758a13a4705e31b6eab313882859bc09e6a840a5504c576822b51e7" 
+                type="audio/x-m4a" 
+                length="21618464" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090629</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-humor-13332090629</link>
+            <title>Humor</title>
+            <description>I dag snakker de to shababs om, hvad der er gringo, og hvad der ikke er. Hop ind på bagsædet og få din griner på!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:50:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:15</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b1330eac2f135b6bfa/d0dcf505a3f5c984968ffbf9f0bee15611f39eeec8cd5c7dc37fb778d2c6b98d" 
+                type="audio/mpeg" 
+                length="65179921" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b1330eac2f135b6bfa/d411cdc58f67fe4fe29229a0f3af6b67fc1e670f046605f636987f6c648ec5fd" 
+                type="audio/mpeg" 
+                length="21726865" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b1330eac2f135b6bfa/66727c6fcc631bafffbaac12d9d99243cdad6437e7c7205617c26ddf1181be03" 
+                type="audio/x-m4a" 
+                length="87417088" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b1330eac2f135b6bfa/8e00937cf7894822890bcde07bc3d91f69f7f61874e69295da529cce619b5f33" 
+                type="audio/x-m4a" 
+                length="65690411" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b1330eac2f135b6bfa/5a7c137ab2ea9cfa85f0343302582daeaabb2e96aa91302134d235a2f49e8c7a" 
+                type="audio/x-m4a" 
+                length="22236856" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090628</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-what-s-beef-13332090628</link>
+            <title>What's beef?</title>
+            <description>I dag er du alene med de to shababs i arabaen, hvor det skal handle om beef. For hvordan håndterer man den? Og hvordan undgår man beef mellem venner? Læn dig tilbage og lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:50:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:30</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b0330eac2f135b6bf2/35a931f7ebd18333bba7db4293db5f3219b0e1a1869cdcb62d85d2e811a9b551" 
+                type="audio/mpeg" 
+                length="66965583" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b0330eac2f135b6bf2/ec5e632d0330354c3d827ceaadebbb87a2b6330a460ffc92c6e8ba1bad666bd0" 
+                type="audio/mpeg" 
+                length="22322127" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b0330eac2f135b6bf2/e38ef6caa423ca2ccb3cb766508254c42b5df880deac1e4dd5dd3dc14eaba37c" 
+                type="audio/x-m4a" 
+                length="89811651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b0330eac2f135b6bf2/a632e259a467774db1d7d7c367cd4504406bd9ab065600503987c35e8c9a04f3" 
+                type="audio/x-m4a" 
+                length="67489755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260b0330eac2f135b6bf2/5778d21923a3d3869a7f94093b81ed87d9b30e6c89c44025d9d21c2a0b60f824" 
+                type="audio/x-m4a" 
+                length="22845851" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090627</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-mohamed-daramy-i-arabaen-13332090627</link>
+            <title>Mohamed Daramy i arabaen</title>
+            <description>I dag er der fint besøg på bagsædet, når FCK-spilleren Mohamed Daramy kigger forbi til en snak om sin vej fra Hvidovre til Parken. Hop ind i arabaen og lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:50:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260af330eac2f135b6bed/65c7afb15fe92c93015922a54a8b30b943349b4ddb0e818c6d31f79ff3bdb5fb" 
+                type="audio/mpeg" 
+                length="69238464" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260af330eac2f135b6bed/2f010fe2e15f64c35c2752aaf9b3f7cc12969c378a63c79f71b074b7842b6bd2" 
+                type="audio/mpeg" 
+                length="23079744" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260af330eac2f135b6bed/2b0da5a7add6f2bbc3d10a7063021f7c814fc17f350fe358bf4e736b619d120e" 
+                type="audio/x-m4a" 
+                length="92860439" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260af330eac2f135b6bed/d3b77ccff5c1cba1376d05151bddcd77615574fdd263b77c5e1a4156ce257f7e" 
+                type="audio/x-m4a" 
+                length="69780771" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260af330eac2f135b6bed/495d5f2e791959406653c397b33c28766904219283b8954b250f0bf1579870d4" 
+                type="audio/x-m4a" 
+                length="23621459" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090626</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-got-moves-13332090626</link>
+            <title>Got moves!</title>
+            <description>I dag har de to shababs fået fint besøg af danserne og koreograferne Michel og Nicky fra Micky Creatives. De er hoppet ind på bagsædet af arabaen for at fortælle om deres liv i L.A., og om hvordan det er at danse for superstjerner som Justin Bieber, Cardi B og Taylor Swift. Gør dig klar til at få din boogie på i dag - på bagsædet.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:50:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ad330eac2f135b6be9/85aa015ef75738f16e4cc87bc9bfefd582f163e8b4a43b9326242c930d5058fe" 
+                type="audio/mpeg" 
+                length="79505146" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ad330eac2f135b6be9/38e0e0bca283f3aab9faf0e75027fb2b965f2e14eaa520ee7e2ecfe4b1619c2f" 
+                type="audio/mpeg" 
+                length="26502010" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ad330eac2f135b6be9/ae86c7831f82dc9c6cd586fed0956a0cfcbef03b4bbc726dab23b9a0c1d87920" 
+                type="audio/x-m4a" 
+                length="106629735" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ad330eac2f135b6be9/4a6793c1298594c305d32b26c418319b8c4fadaa1354daaf119d060d31fe57c6" 
+                type="audio/x-m4a" 
+                length="80127795" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ad330eac2f135b6be9/3a2861f961afdd4427e4051dac51510122cd6a4d7e1c37c5d2ec03edd8f618f9" 
+                type="audio/x-m4a" 
+                length="27123875" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090625</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-voksenlivet-grow-the-f-k-up-13332090625</link>
+            <title>Voksenlivet (Grow the f**k up)</title>
+            <description>Hvornår er man voksen? Når man bliver 18? Når man flytter hjemmefra? Bliver man først voksen, når man får børn? Eller bliver man overhovedet nogensinde rigtigt voksen? De to shababs forsøger at give dig svaret, så hop ind og lyt med!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:50:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ac330eac2f135b6bdf/b35de10627b0be861b849955bb9936433b04e99c52594b5d22888dde2487566a" 
+                type="audio/mpeg" 
+                length="78508666" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ac330eac2f135b6bdf/350bf47af8ed720642963e66a6a21c7a1840f5f91c9a6e2e2656418e0c41da69" 
+                type="audio/mpeg" 
+                length="26169850" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ac330eac2f135b6bdf/47dad346832b36b86495adfcff03966fee69ed005cc19542d8917bedac7812f4" 
+                type="audio/x-m4a" 
+                length="105292727" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ac330eac2f135b6bdf/78ae1da09110dd6097c8c387890ef0b7e9f4ca2b58c69bdc0440020166051be1" 
+                type="audio/x-m4a" 
+                length="79123055" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ac330eac2f135b6bdf/68ac5d8f88d8b370551fd368d47c8472d80b859ccf17b4ba7c1347a71097dba5" 
+                type="audio/x-m4a" 
+                length="26783759" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090624</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-we-back-13332090624</link>
+            <title>We Back!</title>
+            <description>Drengene er tilbage i huset, og de er varmere end nogensinde før! I dag skal vi catche op og høre, hvad de to shababs har brugt deres sommer på. Så læn dig tilbage i sædet, og gør dig klar til endnu en tur i arabaen med Hav og Kamal.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:50:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ab330eac2f135b6bd9/6dfd4badf89921df4089ae99b5df0190ad9078e4e92b1a054a0a645950782506" 
+                type="audio/mpeg" 
+                length="68682684" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ab330eac2f135b6bd9/2e8f410edb08fb3c638afa7e09d643288651db5d3a839de3a871053d96f0b60e" 
+                type="audio/mpeg" 
+                length="22894524" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ab330eac2f135b6bd9/51ab66db48650e23619205b1447a7b92894a144a2fb4065fb2b0bb4ff673c90a" 
+                type="audio/x-m4a" 
+                length="92114763" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ab330eac2f135b6bd9/4754d7ae3b7430f0fd8860cfaa7cc23d052218d589af3b9db789233e91653048" 
+                type="audio/x-m4a" 
+                length="69220391" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260ab330eac2f135b6bd9/fd66de1dc409ca1389b29af496f6e8a797c256451531524753a51f3a8b283229" 
+                type="audio/x-m4a" 
+                length="23431719" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090623</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-para-13332090623</link>
+            <title>Para</title>
+            <description>Det er sidst på måneden, og lommerne er tomme. Heldigvis er det helt gratis for dig at køre med på bagsædet, hvor det i dag skal handle om penge - både de hvide og de sorte af slagsen.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 14:50:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260aa330eac2f135b6bd3/f5c6e1c6eb1b0bead75c1a092812355b1e25f3a96eb7fa1e18635976e77509d5" 
+                type="audio/mpeg" 
+                length="65886169" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260aa330eac2f135b6bd3/78d0097425a855456e7e2193679dcff8bbf76c6483281d1be3b397495dad8a7d" 
+                type="audio/mpeg" 
+                length="21962329" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260aa330eac2f135b6bd3/46783938fdb47423a6b9e00174bc5c8967a51b2613345589a8a5ad32fd77c4f6" 
+                type="audio/x-m4a" 
+                length="88364065" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260aa330eac2f135b6bd3/b97fd9a4e785800670489db1432130f98c4749aaf8535ccf16133c77ba93948c" 
+                type="audio/x-m4a" 
+                length="66401927" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260aa330eac2f135b6bd3/024982cc33cbf6fca885955ad98c531e9af238d2b7e5b29dcf602fa91af1aa94" 
+                type="audio/x-m4a" 
+                length="22477697" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090622</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-er-urban-doed-13332090622</link>
+            <title>Er urban død?</title>
+            <description>Flere pladeselskaber dropper betegnelsen 'Urban'. Hav og Kamal har samlet Patrick Payberg fra Sony op til en snak om, hvad der skal blive af genren.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a9330eac2f135b6bcd/f89dc2bff1d4fd05d90afda04d5fb3820e452cc273eb4b04d2164b965dc4b5d8" 
+                type="audio/mpeg" 
+                length="71657072" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a9330eac2f135b6bcd/5fa3e07a24cf957a2bf2377ef38a7e0bf1d3409fcca833576204075d9cc14ec2" 
+                type="audio/mpeg" 
+                length="23885936" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a9330eac2f135b6bcd/52c9d67f4cfab0f9f944890a0670391f6eb4bd5ae984016f556d98a8dfb579f6" 
+                type="audio/x-m4a" 
+                length="96104312" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a9330eac2f135b6bcd/ea5abc9380bff0882e83b2b79e1d4182dbd18867bdd953cac6011847a0e5941f" 
+                type="audio/x-m4a" 
+                length="72218411" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a9330eac2f135b6bcd/bc5fcb5623ec66a8a561e3c95305c8e069df0a20d7425913cb8dd02699a86331" 
+                type="audio/x-m4a" 
+                length="24446584" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090621</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-essen-13332090621</link>
+            <title>Essen</title>
+            <description>Hvor tager du hen og spiser med dine shababs? Og hvor tager du hen, når du skal imponere en giz? Spænd sikkerhedsselen, for i dag laver Hav og Kamal donuts i arabaen, hvor det skal handle om mad.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a7330eac2f135b6bc9/a340b6dff8d3f577e1d9236f2e18b6d7b7dddcef82d628a0b46dc0dc8efec333" 
+                type="audio/mpeg" 
+                length="65858527" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a7330eac2f135b6bc9/e0f2bb19dadd4fffc5a8483bf931747b889edd0f132954155f59b5286f5be646" 
+                type="audio/mpeg" 
+                length="21953119" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a7330eac2f135b6bc9/b751303ee1ad2ccb88299e4efa9a443c98e814c41e3b8d7c979a74f7b07d85fc" 
+                type="audio/x-m4a" 
+                length="88327033" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a7330eac2f135b6bc9/4c04367b5c921729ac139101935dec3bdede6a180041c23173bd759a561c369c" 
+                type="audio/x-m4a" 
+                length="66374147" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a7330eac2f135b6bc9/3ae087e0f63341e4d5d9400d43302b70e05a3a65d1bbffbbf6db37b505ded796" 
+                type="audio/x-m4a" 
+                length="22468253" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090620</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-transport-13332090620</link>
+            <title>Transport</title>
+            <description>Bus, metro, tog eller araba? Hvordan kommer du mest stilet fra a til b? Hop ind på bagsædet og lad de to shababs give dig svaret! Men først og fremmest skal der lyde et kæmpe shout-out til alle dem, der i disse dage går på gaden for at fortælle politikerne, at Black Lives Matter!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:52:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a6330eac2f135b6bc1/ff8e007a7dd4fba2c6c3e4c12279f34506c96d3f5bf6cc6a11b10b0643acb765" 
+                type="audio/mpeg" 
+                length="74994487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a6330eac2f135b6bc1/6e4575e4a2b91d037a00c17e544adc1dc524daed033567107eb9b0a380ae6ef9" 
+                type="audio/mpeg" 
+                length="24998455" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a6330eac2f135b6bc1/bef469d1fe13de98131087905e8a3b05c0a68dc3f99b89cae259386998da0b94" 
+                type="audio/x-m4a" 
+                length="100579973" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a6330eac2f135b6bc1/49d37665b96a69c4a04533150044d6ac733f52965beeac34fdc8951b8564896f" 
+                type="audio/x-m4a" 
+                length="75581723" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a6330eac2f135b6bc1/8a5585a734b493d6b39eb95392706a4f03903f7ebf7698a11a53b4dbef034d81" 
+                type="audio/x-m4a" 
+                length="25585041" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090619</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-sommer-13332090619</link>
+            <title>Sommer</title>
+            <description>Det er officielt blevet sommer i Danmark, og selv om corona stadig gør livet surt for os, så dedikerer de to shababs det her afsnit til sol og svedige tracks.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a5330eac2f135b6bbc/db3a67406338dedf07e680051950ae8084f77dbb0424e98489d0f50f124ba91a" 
+                type="audio/mpeg" 
+                length="66878013" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a5330eac2f135b6bbc/a2532be3fefcc2a3caa0f799f407d16ff0549bc41fe4cf3a37995c317bd57a59" 
+                type="audio/mpeg" 
+                length="22292925" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a5330eac2f135b6bbc/fb8752e0902a1fc9d5b633fbac91cfa87d8f72772381c5d348a4876ac7d34890" 
+                type="audio/x-m4a" 
+                length="89694219" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a5330eac2f135b6bbc/3afba0c239b5dcffaf16ba25c0fab2cb693b1bc845a91e6d08756bfd7420428e" 
+                type="audio/x-m4a" 
+                length="67401459" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a5330eac2f135b6bbc/5d7947045f2a5b739fc6aa7e9d52a55266eee1a4cb1db4b7c3b3ab744b2f6210" 
+                type="audio/x-m4a" 
+                length="22816019" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090618</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-med-damer-i-bilen-13332090618</link>
+            <title>Med damer i bilen</title>
+            <description>I dag har de to shababs inviteret deres veninder med ind på bagsædet, for at høre pigernes tanker om, hvad det vil sige at være Urban. På lydsystemet fyrer Hav og Kamal op under en krig om de mest bangern' tracks fra 00'erne.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a4330eac2f135b6bb6/a5b4686a6022cea3163de26d4a8a5d4903513657daed7b04b9845c1c14c15fcb" 
+                type="audio/mpeg" 
+                length="79337528" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a4330eac2f135b6bb6/11498908e561ffa6c8c662c3c315715e71efdb527d30cf4e33cc85f77b38f266" 
+                type="audio/mpeg" 
+                length="26446136" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a4330eac2f135b6bb6/bf2723b39b608a0194056031e6e8f8e77cca7e150e72d50798d9ba7b5d3231c0" 
+                type="audio/x-m4a" 
+                length="106404420" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a4330eac2f135b6bb6/629727758e280f3ece3de228118f596657d94327881e667fd8e6442b47917b81" 
+                type="audio/x-m4a" 
+                length="79958511" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a4330eac2f135b6bb6/cb845f829a2bc010bf76c38529fbd6ab286c523ed31041ea27dfe676c98f7410" 
+                type="audio/x-m4a" 
+                length="27066608" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090617</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-med-citybois-i-arabaen-13332090617</link>
+            <title>Med Citybois i arabaen</title>
+            <description>Citybois a.k.a. Cityshababs er med på bagsædet, hvor de fortæller om deres spritnye debutalbum BOIS FOREVER og om, hvordan det er at spille i band sammen, når man også er bedste venner.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a2330eac2f135b6bad/e516a43572bcd467bb3fa941c3f0887015400ba5778da0332039d89fb78e5030" 
+                type="audio/mpeg" 
+                length="80700314" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a2330eac2f135b6bad/828d3ffb03f30db2a3819a06fa9bceb09c54f2dffbdf527c763e6f1412b8d588" 
+                type="audio/mpeg" 
+                length="26900378" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a2330eac2f135b6bad/59dff26de19525cb2315375d83e557c38e83186b30e1c4583777109579d6d933" 
+                type="audio/x-m4a" 
+                length="108232335" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a2330eac2f135b6bad/00273d427010a009cce000d2edcbab44dbfad0dda3023d9080e17f969e82536a" 
+                type="audio/x-m4a" 
+                length="81332083" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a2330eac2f135b6bad/34abaa27ff5d86904bbad03fa43fb44dae24a8b4ed0c57c403c99d4c4ccddf93" 
+                type="audio/x-m4a" 
+                length="27531559" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090616</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-hvem-er-du-13332090616</link>
+            <title>Hvem er du?</title>
+            <description>At være urban handler om personlighed. Men er der en personlighed, der er mere urban end en anden? Handler det bare om at være sig selv? Og hvornår er man det? 
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a1330eac2f135b6ba5/618e1f17c6e01ce454fba04952dcb79134e42191ebf2d14c0acc8aa49d95bf04" 
+                type="audio/mpeg" 
+                length="70550590" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a1330eac2f135b6ba5/48553f8be6282dbe1b72271366fc82bfb40bcd57254c4dda8433ad7e5c600f1f" 
+                type="audio/mpeg" 
+                length="23517118" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a1330eac2f135b6ba5/6c89ad4db89f38ef226c753aefdaf1960532a38ea88aa64f5d996db5b2fa49ab" 
+                type="audio/x-m4a" 
+                length="94619719" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a1330eac2f135b6ba5/c3b3ff88d37af40b13131f7ac4bb931a34e6100b26ff48b59774f9faa978a879" 
+                type="audio/x-m4a" 
+                length="71102863" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a1330eac2f135b6ba5/2b300879ef76d77400b60d364c86ea5102325ab743fed9a50d452023fec91db8" 
+                type="audio/x-m4a" 
+                length="24068895" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090615</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-paa-den-anden-side-af-corona-13332090615</link>
+            <title>På den anden side af corona</title>
+            <description>Hav og Kamal har indtaget DR Byen og fyrer op under P3-studiet igen! I det her afsnit ser drengene fremad og taler om alle de fede ting, der skal ske, når landet åbner op igen, og så taler de om, hvad de har lært af coronakrisen.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:36</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a0330eac2f135b6b9d/d14c50f23a8c4fda75668aeed81239853e5cd72814661c7bb3d7d26c2833e6f8" 
+                type="audio/mpeg" 
+                length="68564597" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a0330eac2f135b6b9d/cd5d7e95d788d04ee5f63ef8f8efb93a140046e4d870b688bf8f5dab10bf9494" 
+                type="audio/mpeg" 
+                length="22855157" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a0330eac2f135b6b9d/240d40beed1100398ec473be504d55fc77e943be2048079020393b45caa03a61" 
+                type="audio/x-m4a" 
+                length="91956083" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a0330eac2f135b6b9d/47658599379511fc81679ca0338f1879db52a9b10fd05270255d1eae8ffbee6f" 
+                type="audio/x-m4a" 
+                length="69101195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa260a0330eac2f135b6b9d/34e3a1d3f3b0723a6c23a9683209b0b61036683e348701ac9683c9eb25cbc08f" 
+                type="audio/x-m4a" 
+                length="23391395" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090614</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-med-topgunn-paa-bagsaedet-13332090614</link>
+            <title>Med TopGunn på bagsædet</title>
+            <description>Hav og Kamal har den pladeaktuelle stjerne i studiet til en snak om alt fra karantæne til ny musik.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:03:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609e330eac2f135b6b95/a7b6266221fca364e40f9ccc6fa4caff04c34958ce978bf9ecd3d8278de7d57c" 
+                type="audio/mpeg" 
+                length="91201859" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609e330eac2f135b6b95/7d839a96c87cdaa098e2f53125242f62e68fb720af1e666da24fccd162fbd311" 
+                type="audio/mpeg" 
+                length="30400835" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609e330eac2f135b6b95/37cf28cbae25e782c30a4d6e5b72a106f171763aee87752f7f5e8698357d44d0" 
+                type="audio/x-m4a" 
+                length="122316227" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609e330eac2f135b6b95/acac8011aaac741f1a37b65f2affb953463a72a0171680dd7552f1b8ac816f5c" 
+                type="audio/x-m4a" 
+                length="91915811" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609e330eac2f135b6b95/bb543107aeae440606b491447d7b9f0fc369ded702af8157552352217484a22d" 
+                type="audio/x-m4a" 
+                length="31114207" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090613</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-bandeliv-13332090613</link>
+            <title>Bandeliv</title>
+            <description>Hvorfor vælger nogle at være med i en bande? I den her uge kører Hav og Kamal rundt i ghettoens mørke gader.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609d330eac2f135b6b8d/5c3f457e7f0a6dddef22b023d17ff899a1ad14b968bb381bb0a86b8e34be56ac" 
+                type="audio/mpeg" 
+                length="67585870" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609d330eac2f135b6b8d/cdc7491ee68344b147bd224d282d3ce7a2eecb0a3d0a9e0af98f72f06aca70a2" 
+                type="audio/mpeg" 
+                length="22528846" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609d330eac2f135b6b8d/afaeb5b45a0b86db708e32513d8293c1f72d8e81050b5a6cf8c6301d3a087b96" 
+                type="audio/x-m4a" 
+                length="90643495" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609d330eac2f135b6b8d/45f70d2fc1d7014fb3c222176d89e3cf3a8f72966a57bbe9d990613a13f9dca0" 
+                type="audio/x-m4a" 
+                length="68115091" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609d330eac2f135b6b8d/bb5018c4e557ad2bfef54b5641a79a1a4faaf88639d2bcae283dbf955f3cb77f" 
+                type="audio/x-m4a" 
+                length="23057583" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090612</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-karriere-13332090612</link>
+            <title>Karriere</title>
+            <description>I denne uges afsnit snakker Hav og Kamal om karriere. Hop ind i bilen og hør drengenes egne historier om, hvilke grineren jobs de har haft og hvorfor, det er vigtigt at tro på og holde fast i sine drømme.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609c330eac2f135b6b86/65b7aae427051d8e6d5e0114f60809acaf3d555db7279ef0f68abe342836db9b" 
+                type="audio/mpeg" 
+                length="69889964" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609c330eac2f135b6b86/67feeddcc18256a3ce2dedc2c104fb9669ea6f8b8a32f661bb28e4b6af30c186" 
+                type="audio/mpeg" 
+                length="23296940" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609c330eac2f135b6b86/77892b86db5780822bd49676389f129105bd61563aafd5374c27e4e4df65eb73" 
+                type="audio/x-m4a" 
+                length="93733603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609c330eac2f135b6b86/71180e041d39a9ec01a0d67d817f55008e02b9386d30f7b42f612e2b30067e17" 
+                type="audio/x-m4a" 
+                length="70437111" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609c330eac2f135b6b86/9b06f5112ff7cf533901a842088ab7f7c3d3c0ebab588e5e8acdf1ef93d7e81e" 
+                type="audio/x-m4a" 
+                length="23843575" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090611</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-ensomhed-og-corona-13332090611</link>
+            <title>Ensomhed og Corona</title>
+            <description>Vi er alle nødt til at blive indenfor, mens hele verden er vendt på hovedet. Det kan man godt blive ensom af. Men heldigvis kan du stadig lytte med, når Hav og Kamal tager dig med på Bagsædet til en snak om musik og livet i karantæne.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:27</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609b330eac2f135b6b7f/9951020323eaea04240e032c2e9a71294145b0b7a55e79002042a43019ba2433" 
+                type="audio/mpeg" 
+                length="64030907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609b330eac2f135b6b7f/a523b28d7410dd44281916bd09404dc535d45a6cd65828a360a96c41a539d426" 
+                type="audio/mpeg" 
+                length="21343931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609b330eac2f135b6b7f/716e85943e04975e672475775a82c99dbbfe5f3ab06f07d8901b0cd79c5724e0" 
+                type="audio/x-m4a" 
+                length="85875916" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609b330eac2f135b6b7f/b0d58285269f7e06ae0eac6213770235cdc9c710a53cbcfacb12f7228b114f9e" 
+                type="audio/x-m4a" 
+                length="64532503" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2609b330eac2f135b6b7f/820b628b5ed9de1c055af72b19bca0833c07405c6457de6f7ed9dd529405b237" 
+                type="audio/x-m4a" 
+                length="21844856" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090610</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-corona-do-s-and-don-ts-13332090610</link>
+            <title>Corona do's and don'ts</title>
+            <description>Kamal og Hav giver dig den bedste musik og tager dig igennem nogle af de ting, du må og ikke må, mens vi alle bliver hjemme.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26099330eac2f135b6b77/a6610c0c3cbf7323db0c6bb4da84437a075383e46af93332d3206cf82fbabea0" 
+                type="audio/mpeg" 
+                length="70222811" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26099330eac2f135b6b77/cef6adf0622e760b7bfef89f634d5dfe866fd03ac529216a802d2c4e07e3de65" 
+                type="audio/mpeg" 
+                length="23407835" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26099330eac2f135b6b77/db68b91bd1e140babcff3124e5f78824c26146225a79e42d78662092bb85af2a" 
+                type="audio/x-m4a" 
+                length="94179860" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26099330eac2f135b6b77/71297543916c709bd0fbb84d3f5477d775784c14f27e543df9e3e413eaf9fbd8" 
+                type="audio/x-m4a" 
+                length="70772661" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26099330eac2f135b6b77/f333cbf9bd799607a34779343a032d8c3a7c37df5cf77f44796008e9efeaf02a" 
+                type="audio/x-m4a" 
+                length="23958066" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090609</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-corona-times-13332090609</link>
+            <title>Corona Times</title>
+            <description>Er det urban at blive hjemme? JA! Hav og Kamal har sprittet podcaststudiet godt af og er klar til at gøre din hjemmekarantæne lidt mere stilet med god musik og godt selskab.
+Værter: Havshen Nabaz og Kamal Hassan.
+Lyd: Nina Liv Bendstrup.
+Programansvarlig: Tine Maria Borresø.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:43</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26098330eac2f135b6b6f/4b36575e58ede4a72cd5cf4899945dbefdad71ec1af4e2f95ab8a02eca88e976" 
+                type="audio/mpeg" 
+                length="64397813" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26098330eac2f135b6b6f/3a183e1ddf7d89af4cac2847f2e9c0eeffb1b5cd815d9edfabe095be1edb1c71" 
+                type="audio/mpeg" 
+                length="21466229" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26098330eac2f135b6b6f/095bbbb0a7ac3d2720f43d00717dbf447442390b374bb37261bf2808131606ce" 
+                type="audio/x-m4a" 
+                length="86367557" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26098330eac2f135b6b6f/22ed2ac003eac5726ff7747a67394b36c5690debf83bbe3719911d36b0abe529" 
+                type="audio/x-m4a" 
+                length="64901899" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26098330eac2f135b6b6f/71c981a05a69391ee409e46d4841fef5b59ec093595d7a17b38bc08e74a676af" 
+                type="audio/x-m4a" 
+                length="21969905" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090608</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-ferievibe-13332090608</link>
+            <title>Ferievibe</title>
+            <description>Programmet er forproduceret inden DR gik i nødberedskab, og coronavirus omtales derfor ikke.
+
+Drengene tager dig med en tur til sydens sol og fortæller om de værste og bedste ferieminder. Der bliver spillet masser af fede sommertracks, som helt sikkert vil minde dig om varmere tider.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26097330eac2f135b6b68/03b98f0fbd32c413564ec8747434dc31f4fe13e8cc6e4fa4aa98f25b306c0041" 
+                type="audio/mpeg" 
+                length="74799222" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26097330eac2f135b6b68/7880d3f91df4d68796d60eae50c10b5178d2bf0678f6b7fe1df9d9c4b4e9c79d" 
+                type="audio/mpeg" 
+                length="24933366" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26097330eac2f135b6b68/adabc9f94af8c3b207e7cad978862321edc3de83e27d4b2c6cf0e699348265cc" 
+                type="audio/x-m4a" 
+                length="100317751" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26097330eac2f135b6b68/48f71d32f81aa7615f343587ae3e0919b52b2cf0e29b4e4010b79743edc3411b" 
+                type="audio/x-m4a" 
+                length="75384587" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26097330eac2f135b6b68/0ac21df928936e469fefba699b0bc45e0b8fc4adacc9648d93f1db57ff2d2290" 
+                type="audio/x-m4a" 
+                length="25518343" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090607</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-schtylen-13332090607</link>
+            <title>Schtylen</title>
+            <description>I dag skal det handle om, hvordan du holder dig stilet i tøjet - både til hverdag, til fest og når du skal på date. Drengene får besøg af Wisam Midani, der fortæller om sit tøjbrand C'est Lyon.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26096330eac2f135b6b61/16fc09cf3495bd3abbbccf8b88a75d15e542a0169c542704a469126e4a44ebe9" 
+                type="audio/mpeg" 
+                length="74868898" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26096330eac2f135b6b61/8e2332f03b5ab67aceaf056e9da8e6af9cc166a1d928668b0353c284a6a4fbb5" 
+                type="audio/mpeg" 
+                length="24956578" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26096330eac2f135b6b61/9d1e23e50d9d676bdd4c20d4c48768e8fd112860b20280a2b3c3090e97a43bf3" 
+                type="audio/x-m4a" 
+                length="100411800" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26096330eac2f135b6b61/d412e70aff35c5c8dca4e462aa3828076855cd9aab7178c3d4b5ee46d8d07237" 
+                type="audio/x-m4a" 
+                length="75455279" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26096330eac2f135b6b61/bb62b6cfd724270a152082472895c683d010666256cf55f38f4da3a81c5abc42" 
+                type="audio/x-m4a" 
+                length="25542224" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090606</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-kaerligheden-13332090606</link>
+            <title>Kærligheden</title>
+            <description>I dag skal det handle om de helt store følelser. Drengene tager dig en tur med rundt i kærlighedens verden og spiller tracks, der får selv Amor til at gå i selvsving!
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:50:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26095330eac2f135b6b59/5b0782673cda413280fea211373b7aea06734d413620f00294c7ba922fc3c387" 
+                type="audio/mpeg" 
+                length="72356359" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26095330eac2f135b6b59/0c2da3c575cc94ae495a2858e0c63e665cf061c992bfbc31ddea878c024ae40b" 
+                type="audio/mpeg" 
+                length="24119047" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26095330eac2f135b6b59/555c6e69b2b9f6418fb230f39a77c3b85fc1780e347ad8d28bf59757a46abb9a" 
+                type="audio/x-m4a" 
+                length="97041592" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26095330eac2f135b6b59/1abfca006ef36c93b546206018cbddc60293acccf51f91430e61b27b5b4efaa4" 
+                type="audio/x-m4a" 
+                length="72922755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26095330eac2f135b6b59/e2c3da45bb60e09b54f1731de994a7d41fee73da2103d93f1ff10e4680eb8e4d" 
+                type="audio/x-m4a" 
+                length="24685044" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090605</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-nattelivet-13332090605</link>
+            <title>Nattelivet</title>
+            <description>Hav og Kamal tager dig en tur med ud i natten og fortæller røverhistorier fra klubben.
+Drengene får også besøg af pranksteren Fardin Majidzadeh, der for første gang nogensinde fortæller om sin legendariske optræden til årets Zulu Awards.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:54</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26093330eac2f135b6b52/612361215a81a7b7c58d77cdbdd16af60aad1603404d1dd916c4e061e7e704a1" 
+                type="audio/mpeg" 
+                length="79065662" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26093330eac2f135b6b52/d1efbfae454254cd86d67de75a0922405ce1396aa77d4c7b344862a838dcc73e" 
+                type="audio/mpeg" 
+                length="26355518" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26093330eac2f135b6b52/5bd135e4164ac61e52ee875b87b9e653d0d4c99d444916e5bd93f5cc9c93353b" 
+                type="audio/x-m4a" 
+                length="106039836" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26093330eac2f135b6b52/8005f0512929efb98bea9c37d0af7777caaca4ca152cc2c978b83bf05b84b083" 
+                type="audio/x-m4a" 
+                length="79684539" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26093330eac2f135b6b52/f83ad60c282108610c6d180c27f34db4a1c09e75d53b1053251264c093f44f3c" 
+                type="audio/x-m4a" 
+                length="26973836" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090604</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-alene-paa-forsaedet-13332090604</link>
+            <title>Alene på forsædet</title>
+            <description>Hav kører solo, mens Kamal passer en lungebetændelse, så i dag får du ekstra mange friske urban tracks.
+Derudover tager Hav temperaturen på årets Zulu Awards.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:43:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26092330eac2f135b6b4a/ad9fc759c04889717bf729735b6a0be27be6b3e5b7386ef1a6d818d2f18b7627" 
+                type="audio/mpeg" 
+                length="63305664" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26092330eac2f135b6b4a/f2e853fe52aee9be217f4bc85b896b536b0626dd29381083cb2964d53ffc9e52" 
+                type="audio/mpeg" 
+                length="21102144" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26092330eac2f135b6b4a/a994bb98fa5d3d2ccc5a379db81eb1331d91eaeac1f089c1e5302339aebf9d7e" 
+                type="audio/x-m4a" 
+                length="84903265" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26092330eac2f135b6b4a/f34eab937f1ede98489b6a4f0eff6cb51e446ade21da8deacd78765d0a81c489" 
+                type="audio/x-m4a" 
+                length="63801303" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26092330eac2f135b6b4a/0597e6ff4ad6c896672a12723e6de7d6fd65b7d47f3739c176a891702c7f748d" 
+                type="audio/x-m4a" 
+                length="21597365" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090603</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-stilet-paa-instagram-13332090603</link>
+            <title>Stilet på Instagram</title>
+            <description>Hvordan laver man en stilet Insta-profil? Og hvad skal du skrive til hende, du gerne vil score? Hav og Kamal giver dig svarene!
+Drengene får også besøg af musikeren ZK, som hjælper dem med at svare på, hvad der er urban, og hvad du skal gå helt udenom.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Wed, 02 Oct 2024 13:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26091330eac2f135b6b46/fec16cdee8509cfab63823ab1c248883971a43a2cd68aa3978e3a25cf83375ac" 
+                type="audio/mpeg" 
+                length="64261876" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26091330eac2f135b6b46/f0e392653774f3074067f4ee8b56a37087986f3bfcacc2c981de4e85f9ee4a18" 
+                type="audio/mpeg" 
+                length="21420916" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26091330eac2f135b6b46/25effed2616f18819bbc9c339f6bfb95303381c4c398eddf5e42a8d680800734" 
+                type="audio/x-m4a" 
+                length="86185915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26091330eac2f135b6b46/35797fe166faecdc4c4003ce655e2177bd123b2e505476b41c69c0f0318cd703" 
+                type="audio/x-m4a" 
+                length="64765267" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26091330eac2f135b6b46/0d43ed31b0bb6480338fc7591259bc56783a4288b326708e4e3d4fb75d4e35e1" 
+                type="audio/x-m4a" 
+                length="21923667" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332090602</guid>
+            <link>https://www.dr.dk/lyd/p3/paa-bagsaedet-med-hav-og-kamal/paa-bagsaedet-med-hav-og-kamal-2020/paa-bagsaedet-med-hav-og-kamal-hvad-er-urban-13332090602</link>
+            <title>Hvad er Urban?</title>
+            <description>Er det urban at sove på Roskilde Festival? Hop ind på bagsædet og få svaret, når Hav og Kamal guider dig gennem kulturen.
+Værter: Kamal Hassan og Havshen Nabaz.</description>
+            <pubDate>Tue, 01 Oct 2024 10:30:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26090330eac2f135b6b3e/05975a0823b0bac6c9cc8cd9b7eb931d13a8b7a03116f19d240a4f2a68e6cbef" 
+                type="audio/mpeg" 
+                length="71338523" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26090330eac2f135b6b3e/30176b87c90d65961b9832d04b5c4449ebc72bc6c316e018fe00e27dbbb1cb7c" 
+                type="audio/mpeg" 
+                length="23779739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26090330eac2f135b6b3e/f6f755fe3663a885e942ed6d75156e84699e158d05de83f7a9f06d6572a55e18" 
+                type="audio/x-m4a" 
+                length="95676587" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26090330eac2f135b6b3e/fb5743c74af2e3ca07d58cd18127b4258df9aaceb1c309565c0dbd63bf1469af" 
+                type="audio/x-m4a" 
+                length="71896991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26090330eac2f135b6b3e/47917fb635c90f46d5a1956e4f7531e0a3e3b3b36cb298231082a086805ba18d" 
+                type="audio/x-m4a" 
+                length="24337743" />
+        </item>
+    </channel>
+</rss>

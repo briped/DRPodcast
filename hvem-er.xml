@@ -1,0 +1,2254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/hvem-er.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Hvem er... (recycled)</title>
+        <link>https://www.dr.dk/lyd/p3/hvem-er-2522729828000</link>
+        <description>HVEM ER egentlig bag den musik vi spiller, hylder og elsker hver eneste dag på P3? Og hvilke dramaer, drømme og eventyr gemmer sig i turen fra øvelokalet til landets største scener?
+Dyk ned i detaljerne og ind i historierne bag musikken, når nogle af de vigtigste navne i dansk musik fortæller deres historie.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:32 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/hvem-er.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/hvem-er.jpg</url>
+            <title>Hvem er... (recycled)</title>
+            <link>https://www.dr.dk/lyd/p3/hvem-er-2522729828000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/hvem-er.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Musik</category>
+        <itunes:category text="Musik" />
+        <item>
+            <guid isPermaLink="false">13332095201</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/hans-philip/hvem-er-hans-philip-1-3-13332095201</link>
+            <title>Hvem er Hans Philip? 1:3</title>
+            <description>Hans Philip sidder i sin seng på sit mikroskopiske værelse mellem joypads, jointpapir og beskidt vasketøj. Han har ingen penge og ingen idé om, hvad han vil med sit liv. Men så smider hans ven Oliver en sang ud på Youtube.</description>
+            <pubDate>Wed, 29 Jan 2020 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dce330eac2f135b5c71/dbb46e2ebfde059b9e35f51203b0c4050a8788e672a5099c3fd48d1bb994b090" 
+                type="audio/mpeg" 
+                length="39169924" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dce330eac2f135b5c71/92850f260f07ade683f5c99fb180c94c74b2aaf0ad7f40c0ffe8a5e2beff550f" 
+                type="audio/mpeg" 
+                length="13056670" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dce330eac2f135b5c71/faa30461a651d42c37367f4bf8459b20dff0f18c68bd037057bbb6331123632b" 
+                type="audio/x-m4a" 
+                length="41755807" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dce330eac2f135b5c71/29653185f3d861ce297a68093b9cc5dbb893432eb168ddb3c5f1b6cc9bc9d051" 
+                type="audio/x-m4a" 
+                length="13534481" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095202</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/hans-philip/hvem-er-hans-philip-2-3-13332095202</link>
+            <title>Hvem er Hans Philip? 2:3</title>
+            <description>Hans Philip har hørt at man bare skal bruge fire akkorder - ikke mere - for at lave et godt nummer. Jens Ole kan godt fire akkorder og sammen laver de et nummer der kommer til at definere en helt ny lyd i dansk musik.</description>
+            <pubDate>Wed, 29 Jan 2020 06:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd0330eac2f135b5c7b/13d7a79394bdadcfea346c053d4ba576cf7484d9d6fc89cd6077fc9641675541" 
+                type="audio/mpeg" 
+                length="43334052" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd0330eac2f135b5c7b/ea20f68f97468424b741058c006c29b416dbf016c4038b4d8f0a2abd284735e1" 
+                type="audio/mpeg" 
+                length="14444713" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd0330eac2f135b5c7b/fc857a2b7b609eb3f615e9be502124af938d4bf404109409043e7cba91f3bb75" 
+                type="audio/x-m4a" 
+                length="45560055" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd0330eac2f135b5c7b/5a8d4ceac2ae41358cd245272ae501188cfcf6afb8d2d6001759038ac60b187f" 
+                type="audio/x-m4a" 
+                length="14937752" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095203</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/hans-philip/hvem-er-hans-philip-3-3-13332095203</link>
+            <title>Hvem er Hans Philip? 3:3</title>
+            <description>Hans Philip sidder i en ny lejlighed, uden kæreste og uden sin musikalske partner-in-crime. Ukendt Kunstner er gået i opløsning. For første gang i fem år er han helt alene. Igen.</description>
+            <pubDate>Wed, 29 Jan 2020 06:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:17:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd1330eac2f135b5c85/c0f5453cecf23e98bf47afec0d8d8e0826c2746daaa9cb9a760310c2f4174b0c" 
+                type="audio/mpeg" 
+                length="24653157" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd1330eac2f135b5c85/0858d7ee89305519f63a028f14cad107a485532c74bc98cdf58f585cabd6d4b7" 
+                type="audio/mpeg" 
+                length="8217748" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd1330eac2f135b5c85/4f53e83c81f85d9c1778c22b108d94effc0c93eb8b4cdd2cfe1f20459b81423a" 
+                type="audio/x-m4a" 
+                length="26042359" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd1330eac2f135b5c85/e065612246113534f440a502f4746a4b036b0f5bc2ec4f3ce835c54172643d5b" 
+                type="audio/x-m4a" 
+                length="8504940" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095205</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/volbeat/hvem-er-volbeat-1-3-13332095205</link>
+            <title>Hvem er Volbeat? 1:3</title>
+            <description>Michael sidder på sin seng i børneværelset. På grammofonen ligger en plade, som han har snuppet fra sin onkel. Tre toner slås an og med ét har Michael overgivet sig til mørkets magter.</description>
+            <pubDate>Mon, 27 Apr 2020 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:43</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd3330eac2f135b5c8c/9ffcb6001f0b79513f2f741cd5f0900dd0cf57cde9de873ca823690ad714c193" 
+                type="audio/mpeg" 
+                length="65854125" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd3330eac2f135b5c8c/2bcb8e76eacf30c9df780d5017b82fd75831f6bbae6de6fa874a804979d85a65" 
+                type="audio/mpeg" 
+                length="21951405" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd3330eac2f135b5c8c/501aab4ee2131400124c26947f80728715b740cd6fe2364e335c5e24f04d343d" 
+                type="audio/x-m4a" 
+                length="68525499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd3330eac2f135b5c8c/f52fdd2921ab5e2a5fc982ee9050a06e6a131080b0cc41a6adb75b1bbd33ed54" 
+                type="audio/x-m4a" 
+                length="22758371" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095206</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/volbeat/hvem-er-volbeat-2-3-13332095206</link>
+            <title>Hvem er Volbeat? 2:3</title>
+            <description>Michael er træt af metal-miljøets mange regler. Ingen skal bestemme over hans musik! Så han ringer til sin ven og beder ham støve de gamle trommer af. For nu skal de spille musik uden regler. Og bandet - dét skal hedde Volbeat.</description>
+            <pubDate>Mon, 27 Apr 2020 06:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd5330eac2f135b5c97/e1aa207b033ee57e18d86e5d2ac36099c2a90630e8ede86d3fe23d511c289ae3" 
+                type="audio/mpeg" 
+                length="68869531" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd5330eac2f135b5c97/cb9ca8f33b6eb472ea4b7f513cf6d5da9dc495cb8578574b35cdad9c37d4df9f" 
+                type="audio/mpeg" 
+                length="22956571" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd5330eac2f135b5c97/50db7ebf7b3912b28da0c59483f39449340a43d58e629705625f8f0400cdd5d7" 
+                type="audio/x-m4a" 
+                length="92365993" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd5330eac2f135b5c97/3632493a18f544b577827c0244bc2d90f3ab0bb1a72a0ec7a6b338685abbe455" 
+                type="audio/x-m4a" 
+                length="69409205" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd5330eac2f135b5c97/b80e0e1839df595f3e60823cdd94dbbab9268bf3944971f46663163ab40917fd" 
+                type="audio/x-m4a" 
+                length="23496585" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095207</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/volbeat/hvem-er-volbeat-3-3-13332095207</link>
+            <title>Hvem er Volbeat? 3:3</title>
+            <description>Volbeat har spillet endnu en udsolgt koncert. Michael går af scenen. Han lever drømmen! Men den tomme whiskey-flaske i hans hånd afslører, at det kun er på overfladen.</description>
+            <pubDate>Mon, 27 Apr 2020 06:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd7330eac2f135b5c9f/6964b5a43c10030c948ffc543ecfe442b39b1bbdc9f54137862236e335caade4" 
+                type="audio/mpeg" 
+                length="79681627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd7330eac2f135b5c9f/ce52da0307f51c3a3807d649867358bbc4e51d9f7daac351d1468079bc7dac42" 
+                type="audio/mpeg" 
+                length="26560603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd7330eac2f135b5c9f/c0f6a41afcd1efd069166248a5c217b76ff39026752e13903d363213a5e10d6d" 
+                type="audio/x-m4a" 
+                length="106866509" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd7330eac2f135b5c9f/73ec10a4609e1dc0ca2643a55a90e91f6e4027fdcfaaa9ee889c12fa884ed740" 
+                type="audio/x-m4a" 
+                length="80305753" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dd7330eac2f135b5c9f/c481cef035c513fc5152ad9914c242dd1bd820c92e8fd0ca2ea3433a9bb904ae" 
+                type="audio/x-m4a" 
+                length="27184069" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095209</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/hugo-helmig/hvem-er-hugo-helmig-13332095209</link>
+            <title>Hvem er Hugo Helmig?</title>
+            <description>Før man hørte en tone af hans musik, var Hugo Helmigs liv allerede en god historie. En af dem både ugeblade, aviser og musikmedier elsker at fortælle. Om at være søn af et dansk musik-ikon og en supermodel, og vokse op som en del af en helt speciel familie.
+Men Hugo vil selv skrive sin historie. Definere sig selv som mere og andet end et efternavn.
+Det her er fortællingen om en 19-årig aarhusiansk dreng, der gennem sin musik, skriver sig igennem sit livs krise, synger sig direkte ind på landets hitlister og hele tiden spørger sig selv: Hvem Er Hugo Helmig?
+Tilrettelægger: Ula Bach Hulgaard.
+Vært: Pelle Peter Jencel.</description>
+            <pubDate>Tue, 23 Jun 2020 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:00:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc6330eac2f135b5c45/8b77d532b95226bca2fe2285f2b32410ed7f1b6f7fac6829ed7886bedea45454" 
+                type="audio/mpeg" 
+                length="86474160" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc6330eac2f135b5c45/1475de8abf45f31daa3dbfbfb003308ad6beb2e6716e356daa9d2e6c2eeb08bf" 
+                type="audio/mpeg" 
+                length="28825008" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc6330eac2f135b5c45/7842f5bddbc788e6d9ff2097e0c2ba94cce302a706fbca856cf061c63cc3bff7" 
+                type="audio/x-m4a" 
+                length="115975891" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc6330eac2f135b5c45/e233973786039b9860c2202a1efd542a591941b939982d3c89491debd4b9707a" 
+                type="audio/x-m4a" 
+                length="87151099" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc6330eac2f135b5c45/9726d1cea4b2f63f922ee428734a25761d4001697452deb06bc318e7f3c6826d" 
+                type="audio/x-m4a" 
+                length="29501331" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095221</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s1-the-minds-of-99/hvem-er-the-minds-of-99-1-5-13332095221</link>
+            <title>Hvem er The Minds of 99? 1:5</title>
+            <description>Ungdomsvennerne Niels, Asger, Anders, Mikkel og Jacob spiller setlisten igennem i et svedigt øvelokale på Frederiksberg. Musikken, ambitionerne og drømmen fylder alt i rummet: De skal være lige så store som Oasis. Og første skridt på vejen er en koncert på et plejehjem, hvor lønnen er 10 kasser sodavand. 
+
+Medvirkende: Niels Brandt, Jacob Bech-Hansen, Asger Wissing, Anders Folke Larsen og Louis Clausen.
+Vært: Pelle Peter Jencel.
+Redaktion: Ula Bach Hulgaard, Babak Vakili, Ida Skjerk, Nina Liv Bendstrup og Karen Straarup.
+Programansvarlig: Tine Maria Borresø.</description>
+            <pubDate>Tue, 29 Sept 2020 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc8330eac2f135b5c4d/c3f4538e9a129462888a7724706f88695090c1535beefbc47fd78b27e46b8f05" 
+                type="audio/mpeg" 
+                length="67688109" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc8330eac2f135b5c4d/21c81158d6fb87e05db0cac255267e39fff525cbf75e33510d14fa0b9a777aef" 
+                type="audio/mpeg" 
+                length="22562733" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc8330eac2f135b5c4d/c8437767d05e9c6bafef15fbcb3717eb7d31797e07e81d62ca20dad34ae5da7a" 
+                type="audio/x-m4a" 
+                length="70799566" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc8330eac2f135b5c4d/bed91a176ecaee45ae19e7c98f963b92ff12da26aeea44d2e380252b71ec9b8a" 
+                type="audio/x-m4a" 
+                length="23369090" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095222</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s1-the-minds-of-99/hvem-er-the-minds-of-99-2-5-13332095222</link>
+            <title>Hvem er The Minds of 99? 2:5</title>
+            <description>De seks venner sidder rundt om bordet. Det er nu, de skal definere reglerne for deres nye musikalske eventyr: De må kun drikke kirsebærvin, bukserne skal være opsmøget, der skal hæves 6000 kr. i 50'ere, og musikken skal spille hurtigere end The Smiths. Stilen er punk og navnet: The Minds of 99.
+ 
+Medvirkende: Niels Brandt, Jacob Bech-Hansen, Asger Wissing, Anders Folke Larsen og Louis Clausen.
+Vært: Pelle Peter Jencel.
+Redaktion: Ula Bach Hulgaard, Babak Vakili, Ida Skjerk, Nina Liv Bendstrup og Karen Straarup.
+Programansvarlig: Tine Maria Borresø.</description>
+            <pubDate>Tue, 29 Sept 2020 06:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc9330eac2f135b5c54/9b2d3b3d3179141c07e0e08022edb497828e46527186dc7493fd61b3006f6cf5" 
+                type="audio/mpeg" 
+                length="48577581" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc9330eac2f135b5c54/a6c8dec5d7d13065b57d05838367df56da7d2d196077ec9ccadfd39f3b5a9799" 
+                type="audio/mpeg" 
+                length="16192557" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc9330eac2f135b5c54/9daf9946114c110ccf1c4b600a516a4abd171e2e760c6103c28037f8b83ad218" 
+                type="audio/x-m4a" 
+                length="50637318" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dc9330eac2f135b5c54/57ce7e3f83df1b281a97d318d4e0a40e2e6cb1307f70902e763978156a147146" 
+                type="audio/x-m4a" 
+                length="16743504" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095223</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s1-the-minds-of-99/hvem-er-the-minds-of-99-3-5-13332095223</link>
+            <title>Hvem er The Minds of 99? 3:5</title>
+            <description>The Minds of 99 står på scenen foran et tomt Forbrændingen i Albertslund og undrer sig over, hvor deres succes bliver af? Bandet er gået fra P3's uundgåelige til at spille for tomme sale og tvivler på, om de kan rejse sig igen. Og vigtigst: få energien tilbage. For at finde svaret, tager de i sommerhus på Skarø - med en mango og en pose psykedeliske svampe i bagagen.
+
+Medvirkende: Niels Brandt, Jacob Bech-Hansen, Asger Wissing, Anders Folke Larsen og Louis Clausen.
+Vært: Pelle Peter Jencel.
+Redaktion: Ula Bach Hulgaard, Babak Vakili, Ida Skjerk, Nina Liv Bendstrup og Karen Straarup.
+Programansvarlig: Tine Maria Borresø.</description>
+            <pubDate>Tue, 29 Sept 2020 06:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dca330eac2f135b5c5d/0ccda047ad51992df9dbc57dbc97f830b281965f6ce3b105b7d8f604773f53d5" 
+                type="audio/mpeg" 
+                length="50290029" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dca330eac2f135b5c5d/bc2361494187d3c84e15161fac9b7c86f63810e0275be5541077c070f1934de8" 
+                type="audio/mpeg" 
+                length="16763373" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dca330eac2f135b5c5d/efee6626ce961484e4e33cbf5f5871653928531495a0f0e3e8253cf245ca3de6" 
+                type="audio/x-m4a" 
+                length="52500240" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dca330eac2f135b5c5d/87b3bdc556b1cb2e2600d1e05a26b626cccf3f74d9bd599d0299102edb23a61e" 
+                type="audio/x-m4a" 
+                length="17349530" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095224</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s1-the-minds-of-99/hvem-er-the-minds-of-99-4-5-13332095224</link>
+            <title>Hvem er The Minds of 99? 4:5</title>
+            <description>Niels, Asger, Anders, Mikkel, Jacob og Louis står på Danmarks største scene. The Minds of 99 er i gang med at åbne Orange Scene på Roskilde Festival, og drengedrømmen fra øvelokalet på Frederiksberg er gået i opfyldelse. Men det er ikke alle i bandet, der er glade.
+
+Medvirkende: Niels Brandt, Jacob Bech-Hansen, Asger Wissing, Anders Folke Larsen, Louis Clausen og Mikkel Bech-Hansen.
+Vært: Pelle Peter Jencel.
+Redaktion: Ula Bach Hulgaard, Babak Vakili, Ida Skjerk, Nina Liv Bendstrup og Karen Straarup.
+Programansvarlig: Tine Maria Borresø.</description>
+            <pubDate>Tue, 29 Sept 2020 06:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dcb330eac2f135b5c64/46b82a1d69a41ceacf28b52be3729040894a5d78660bc4d7a35dc0014308a815" 
+                type="audio/mpeg" 
+                length="67716333" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dcb330eac2f135b5c64/bb0198406341b0a48a7af0c9603e40a4ea10c4c70cadeacd7bb2afbbce1ba5ac" 
+                type="audio/mpeg" 
+                length="22572141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dcb330eac2f135b5c64/0d24f7d0a595f03934b920e4490223d478542091ed376ccd734713fb382ada26" 
+                type="audio/x-m4a" 
+                length="70933324" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dcb330eac2f135b5c64/9184f943fa73a631578f1a9859d69f539e71444861cad75f3562e9d09f04d05e" 
+                type="audio/x-m4a" 
+                length="23371741" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095225</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s1-the-minds-of-99/hvem-er-the-minds-of-99-5-5-13332095225</link>
+            <title>Hvem er The Minds of 99? 5:5</title>
+            <description>Drengene er tilbage på Bornholm. De skal skrive ny musik. Men hvem er The Minds of 99 uden Mikkel? Giver det overhovedet mening at fortsætte?  
+Stemningen er trykket, og håbløsheden har sænket sig over Allinge, men så en morgen sætter Niels sig ved et keyboard og begynder at spille nogle akkorder...
+
+Medvirkende: Niels Brandt, Jacob Bech-Hansen, Asger Wissing, Anders Folke Larsen og Louis Clausen.
+Vært: Pelle Peter Jencel.
+Redaktion: Ula Bach Hulgaard, Babak Vakili, Ida Skjerk, Nina Liv Bendstrup og Karen Straarup.
+Programansvarlig: Tine Maria Borresø.</description>
+            <pubDate>Tue, 29 Sept 2020 06:04:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dcc330eac2f135b5c6a/c6f275dc9abacc69c6c952fe30f02121429c8137890a251ed53b8efd99124ade" 
+                type="audio/mpeg" 
+                length="61849197" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dcc330eac2f135b5c6a/4ec24c2e7dcdd116223791ff6257fe23a212aada7efbfa58b948f6a35c19900e" 
+                type="audio/mpeg" 
+                length="20616429" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dcc330eac2f135b5c6a/4accf8ca39cf777216f4e93bb4f387e0eb2e78f9c0c12b76b254ba5ac69a85a6" 
+                type="audio/x-m4a" 
+                length="64605455" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25dcc330eac2f135b5c6a/f9f8b70d21949fa4c4bd1a49c604039918c422613e4b235145530e907183e365" 
+                type="audio/x-m4a" 
+                length="21338841" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095231</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/kesi/hvem-er-kesi-1-4-13332095231</link>
+            <title>Hvem er Kesi? 1:4</title>
+            <description>12-årige Oliver Kesi er på vej til en basketball-turnering på Nørrebro, men ikke for at spille. Han skal nemlig slås for den pige, han er forelsket i, men den rivaliserende bejler, der møder ham på slagmarken, er ingen andre end Benny Jamz: En joint rygende ung hiphopper, fuld af selvtillid og med en bøjle, som han bruger som grillz!
+
+Medvirkende: Oliver Kesi og Benny Jamz.
+Vært: Pelle Peter Jencel.
+Redaktion: Sandra Mia Susgaard, Ragnhild Lemmeke og Ula Bach Hulgaard.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Mon, 07 Dec 2020 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e716c12863ced1a1c87/5fb677f913a08af2a602b1001f455ebdf1e255cf945196e1e3625ccc75f8c5a8" 
+                type="audio/mpeg" 
+                length="67789485" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e716c12863ced1a1c87/458079125955f4a1e6770a309c4ee297c75ec17fa8ec5f91133602bbec573f2c" 
+                type="audio/mpeg" 
+                length="22596525" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e716c12863ced1a1c87/4f820b52590b79881413ac835c94477b58c10a7cd727c32ed7008d4a725e1ef7" 
+                type="audio/x-m4a" 
+                length="70925960" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e716c12863ced1a1c87/f20e09c4555f12f3983e90137850d53f253d1012ac855f67ce1d14bdc22670b8" 
+                type="audio/x-m4a" 
+                length="23397415" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095232</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/kesi/hvem-er-kesi-2-4-13332095232</link>
+            <title>Hvem er Kesi? 2:4</title>
+            <description>Kesi vælter ind ad døren til et vigtigt møde på sit nye pladeselskab. Han går direkte hen og lægger sig på bordet i mødelokalet, og mens et helt hold af hans nye chefer ser måbende til, begynder Kesi mødet. Han er ligeglad, for Kesi og BOC er de nye stjerner på den danske raphimmel, og intet kan stoppe ham nu - måske lige bortset fra ham selv.
+
+Medvirkende: Oliver Kesi, Benny Jamz og Mads Ebdrup.
+Vært: Pelle Peter Jencel.
+Redaktion: Sandra Mia Susgaard, Ragnhild Lemmeke, Bastian Bak og Ula Bach Hulgård.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Mon, 14 Dec 2020 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e726c12863ced1a1c91/fb1beef79ac42a00e617ecd696d113b4560f9c576ea272ed71b02ad2adbbd30f" 
+                type="audio/mpeg" 
+                length="44183853" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e726c12863ced1a1c91/a426c755cba772f08846822c86826503d78fdd42bfddccf1d7b2a6de37a0aa6a" 
+                type="audio/mpeg" 
+                length="14727981" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e726c12863ced1a1c91/d149ba207f5c22348e387455fd4cdabb67ffcbcfbb090dadfcb726c747c2854c" 
+                type="audio/x-m4a" 
+                length="46454393" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e726c12863ced1a1c91/17c30bd3957fe7da27eeb37a79846ae8ba79a06f0c1d4072456a061aa870be8d" 
+                type="audio/x-m4a" 
+                length="15267210" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095233</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/kesi/hvem-er-kesi-3-4-13332095233</link>
+            <title>Hvem er Kesi? 3:4</title>
+            <description>Kesi skal i studiet med Don Stefano og Jens Ole McCoy ovenpå nedturen efter Ung Hertug. De to er fast besluttede på at få Kesi tilbage i gamet - de skal lave et hit! Og det kræver helt særlige metoder: Nyklippet hår, hvidt tøj fra top til tå, solbriller, masser af champagne, og en pult betrukket med læder i slangeskindsprint selvfølgelig.
+
+Medvirkende: Oliver Kesi, Mads Ebdrup og Don Stefano.
+Vært: Pelle Peter Jencel.
+Redaktion: Sandra Mia Susgaard, Ragnhild Lemmeke, Bastian Bak og Ula Bach Hulgård.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Mon, 21 Dec 2020 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e746c12863ced1a1c99/7019c670b9200eed6972a51d34e5218869b641da7848af5dbb6193ab518dd28c" 
+                type="audio/mpeg" 
+                length="55648557" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e746c12863ced1a1c99/c6776fa4c508c28d3420645e0dbd1fabff6b124b263cfbe498f4f66ec1a2ed0c" 
+                type="audio/mpeg" 
+                length="18549549" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e746c12863ced1a1c99/8c7f164a6e7d7cea00fa6522ccbfc2f7ae4cc54ab8d0fec3df1ce31feaa7efb2" 
+                type="audio/x-m4a" 
+                length="58644436" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e746c12863ced1a1c99/0975c1b43de73fd248adf60d923109128543390edf3a3a916d53ca656c6a7707" 
+                type="audio/x-m4a" 
+                length="19231296" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332095234</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/kesi/hvem-er-kesi-4-4-13332095234</link>
+            <title>Hvem er Kesi? 4:4</title>
+            <description>Kesi skal lige til at gå på scenen til et vigtigt job - han skal spille til Kronprins Frederiks 50 års fødselsdag. Fra freestyle rapper til kongelig hofleverandør - det kan ikke blive større nu. Men pludselig bliver Kesi ramt af uheld, da han mister stemmen - og endnu større problemer lurer forude. Kan det lykkes Kesi vende tilbage til tronen?
+
+Medvirkende: Oliver Kesi og Hennedub.
+Vært: Pelle Peter Jencel.
+Redaktion: Sandra Mia Susgaard, Ragnhild Lemmeke, Bastian Bak og Ula Bach Hulgård.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Mon, 28 Dec 2020 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:58</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e756c12863ced1a1ca4/7c9690df9529b5a757236175d544483f6d5db08fb2aab4eddbe02ff61c99074a" 
+                type="audio/mpeg" 
+                length="67633389" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e756c12863ced1a1ca4/83fbbb86d2f63e88825fb0bc53f6eeda3b5ea2d670ba5987ad2af54e1fe2460c" 
+                type="audio/mpeg" 
+                length="22544493" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e756c12863ced1a1ca4/c4ae0787b2dd2c780f7cea19709aa6fe302bca07a9cedb336e4089ed67a20e90" 
+                type="audio/x-m4a" 
+                length="71245678" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60017e756c12863ced1a1ca4/9d0f4d8de4b5d3c4db88eef69566c5794f165978dbaef8a545b3e1ad8d1dfb15" 
+                type="audio/x-m4a" 
+                length="23364037" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195601</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/artigeardit/hvem-er-artigeardit-1-2-13332195601</link>
+            <title>Hvem er Artigeardit? 1:2</title>
+            <description>Ardit spænder alle muskler i sin krop for at få et ord ud af munden. Han hader at læse højt foran sine klassekammerater, for han stammer, og det gør ham både genert og stille. Så hvordan vil det gå Ardit, da han vælger at melde sig til DM i Børnerap?
+
+Medvirkende: Artigeardit.
+Vært: Pelle Peter Jencel.
+Redaktion: Sandra Mia Susgaard, Ragnhild Lemmeke, Stefan Rotovic Sørensen og Ula Hulgaard.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Tue, 23 Mar 2021 06:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:52:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:604a16401f100b721c64221e/3d1e242b13e1fdacb61b027f353eada256b881d7e5615e01794adb05d09509d5" 
+                type="audio/mpeg" 
+                length="75663405" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:604a16401f100b721c64221e/142a727cbc5f4cfbbdd98b210e34a28d8b9ac0a331fa7a72928e632efe46428f" 
+                type="audio/mpeg" 
+                length="25221165" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:604a16401f100b721c64221e/9f5221996734a300e66e5a9c6eba5bf2cfcfce29863e30fae57178830bfb7dcc" 
+                type="audio/x-m4a" 
+                length="80137338" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:604a16401f100b721c64221e/91c1b8271c0d14c170f36ea692bce62e13ffe916225de7585ca3aa6a3835b081" 
+                type="audio/x-m4a" 
+                length="26181773" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195602</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/artigeardit/hvem-er-artigeardit-2-2-13332195602</link>
+            <title>Hvem er Artigeardit? 2:2</title>
+            <description>Artigeardit er i studiet, det er morgen, og han har været vågen hele natten og lavet musik og festet. Pludselig ringer telefonen, og gennem tågerne forstår Ardit, at det er hans rektor i den anden ende med en klar besked: "Du er smidt ud af gymnasiet." Ardit er ved at få sit store gennembrud med musikken, men festerne fylder også mere og mere. Så hvilken vej skal han gå?
+
+Medvirkende: Artigeardit.
+Vært: Pelle Peter Jencel.
+Redaktion: Sandra Mia Susgaard, Ragnhild Lemmeke, Stefan Rotovic Sørensen og Ula Hulgaard.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Tue, 23 Mar 2021 06:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:604a16421f100b721c642226/c5f81f8b5b06d1169ab9dab01b4c66aacc65a21692f560bee20ba17d553c41ba" 
+                type="audio/mpeg" 
+                length="65805165" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:604a16421f100b721c642226/f302ede4fa13a565e5156a2756b098b89f396fabcf4f3647edc86cbfdb056feb" 
+                type="audio/mpeg" 
+                length="21935085" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:604a16421f100b721c642226/5eaaf6298941ca6f9673f2d31d008dcf762972fdb0129e46e49ee7349ef1cc56" 
+                type="audio/x-m4a" 
+                length="69540901" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:604a16421f100b721c642226/e33537fc77a31c980b8543d250169cff927096491a9fb4f4ea83fb43feb4e037" 
+                type="audio/x-m4a" 
+                length="22754598" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195611</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/jada/hvem-er-jada-1-3-13332195611</link>
+            <title>Hvem er Jada? 1:3</title>
+            <description>Jada elsker at synge, og det udlever hun både hjemme i Bisserup, på vikingemarkeder, i sydsjællandske forsamlingshuse og på MGK.
+Hun har netop startet bandet Jean D'Arc Stone, i håb om at kunne blive den popstjerne, hun er sat i verden for at være. Men hvordan går det, når hun og vennen Christian tropper uanmeldt op hos et af verdens største pladeselskaber for at bede om den pladekontrakt, som de uden tøven mener, de har fortjent?</description>
+            <pubDate>Tue, 22 Jun 2021 06:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6c9514cc9dcecdf435f/fcf263a194b27b657841ceb6a896d3249d22d298af3a49ac073d9129655d357c" 
+                type="audio/mpeg" 
+                length="64882794" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6c9514cc9dcecdf435f/672d8116c8ee8efa697e78e11b61171fc267582d9aefa2195fd307a31683c913" 
+                type="audio/mpeg" 
+                length="21627882" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6c9514cc9dcecdf435f/f28c8fbc3698b685340213c49926279e78c5c0bde6b7e49c6ec5a77aa971c84a" 
+                type="audio/x-m4a" 
+                length="87018291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6c9514cc9dcecdf435f/62dc094cc93956485b1c3770b97dce218334ec8ad8ae68ae0cbd1bdcaa0ba5b8" 
+                type="audio/x-m4a" 
+                length="65390659" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6c9514cc9dcecdf435f/208f21ebf7ddcd92fcc36f01054be14d8adb22d54ff9ee6daee70f4fb459e3d9" 
+                type="audio/x-m4a" 
+                length="22135327" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195612</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/jada/hvem-er-jada-2-3-13332195612</link>
+            <title>Hvem er Jada? 2:3</title>
+            <description>Jadas karriere kører på skinner, og med speederen i bund kaster hun sig hovedkulds ud i livet som popstjerne. Men det har en heftig pris, og hun bliver ramt af stress. Og hvad sker der så, når man er nødt til at sætte bremsen i lige dér, hvor man står overfor sit musikalske gennembrud og sit livs største drøm? Har hun tabt sin karriere på gulvet? Og får hun overhovedet flere chancer?</description>
+            <pubDate>Tue, 22 Jun 2021 06:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:43:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cb514cc9dcecdf4368/24fcc4c9b22cdc5318fc2811bd69b4b2ba9a22ab563bbc875ed19285c9ec0607" 
+                type="audio/mpeg" 
+                length="62754477" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cb514cc9dcecdf4368/89a9c18ba13a7c4fe9d6a008a180784033a741ba29d31bb7c8fcc6bd5989aabf" 
+                type="audio/mpeg" 
+                length="20918445" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cb514cc9dcecdf4368/ec344b589d925ba47a5569e06364940e6b01c34a4a2a9eb55e5be44ef7c5d3dd" 
+                type="audio/x-m4a" 
+                length="84164480" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cb514cc9dcecdf4368/1175f626fcf97ea25c14f8e373e8da9aa6dab6756355657e7cdd575d6689884f" 
+                type="audio/x-m4a" 
+                length="63246107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cb514cc9dcecdf4368/00d79bd9f88773efa3e523c04e10d817de19c529c0bcd6eec9920a7ea94eaae1" 
+                type="audio/x-m4a" 
+                length="21409408" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195613</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/jada/hvem-er-jada-3-3-13332195613</link>
+            <title>Hvem er Jada? 3:3</title>
+            <description>Jada står i regnskabsafdelingen på sit arbejde på Johan Borups Højskole, da telefonen ringer. Det er hendes manager Martin, der på underspillet vis overbringer hende den største nyhed, hun til dags dato har fået: Hun skal åbne Orange Scene på Roskilde Festival. Men hvad sker der så, når hun får at vide, at alting lukker ned; at koncerter og festivaler bliver aflyst på stribe? Kan hun holde modet oppe og blive ved med at lave det, hun elsker, når alting ser så sort ud? Og kommer der overhovedet mere musik?</description>
+            <pubDate>Tue, 22 Jun 2021 06:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:43:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cc514cc9dcecdf436c/5679935893182d6de6a7ace3f3f18a05debaeae8b934693e15a1f616ea03e6bd" 
+                type="audio/mpeg" 
+                length="62858161" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cc514cc9dcecdf436c/e1c2fc8b06704a49b79de69af69293977e5358546cf02d82ce16b50613d8c1d9" 
+                type="audio/mpeg" 
+                length="20953009" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cc514cc9dcecdf436c/1569e7d0c59aacdff23561fb71871464d2f5025ebdb153742b17eea22d9e6036" 
+                type="audio/x-m4a" 
+                length="84303031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cc514cc9dcecdf436c/d88e14ada9abf380adb6e5de3ab91cde0c1b6edd8c074cf55bc8ed25d71bcc9a" 
+                type="audio/x-m4a" 
+                length="63350303" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:60c0a6cc514cc9dcecdf436c/201c8c9eea9f0c8243df1f3d5b20c2251d77f7b5aac54d733d631bea462a5da4" 
+                type="audio/x-m4a" 
+                length="21444727" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195621</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/moe/hvem-er-moe-1-4-13332195621</link>
+            <title>Hvem er MØ? 1:4</title>
+            <description>Lidt udenfor Odense i den lille landsby Ubberud bor Karen. En helt almindelig pige med et ualmindeligt stort talent, der en dag skal tage hende med på et af Danmarks største musikeventyr. Men det aner hun ikke. Hun ved bare, at hun elsker Spice Girls. 
+
+Medvirkende: Karen Marie Ørsted (MØ) og Josefine Struckmann.
+Redaktion: Pelle Peter Jencel, Ula Bach Hulgaard, Ida Skjerk, Sandra Mia Susgaard og Karen Straarup.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Tue, 05 Oct 2021 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324b/7b1cdbe5ed84545b2dd0d5d813dbb69d732814316e136394d36e50220bd7790b" 
+                type="audio/mpeg" 
+                length="69539176" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324b/567e77cce219aca68d6ebcd408b78b99dc419cbdf74dea1310d812ddde5c239c" 
+                type="audio/mpeg" 
+                length="23180008" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324b/368a11e03c3f981d3c68fffff19d92828782efb11c60166d6284d9ebc1173be2" 
+                type="audio/x-m4a" 
+                length="93263608" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324b/632bb043660a42447b9bab86f6818b55ac13d854b0b57924ef282ce2880d1627" 
+                type="audio/x-m4a" 
+                length="70083687" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324b/e0bdffb0637a0a80b60825267e0c711329244be39bebb91445efabec6372da3f" 
+                type="audio/x-m4a" 
+                length="23723952" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195622</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/moe/hvem-er-moe-2-4-13332195622</link>
+            <title>Hvem er MØ? 2:4</title>
+            <description>Karen har lige spillet koncert på Roskilde Festival for første gang og for tusindvis af mennesker. Det er ikke til at fatte, og det bliver ikke større. Men lige om hjørnet venter en endnu vildere oplevelse, der sender Karen selvsikkert afsted mod stjernerne.
+
+Medvirkende: Karen Marie Ørsted (MØ), Ronni Vindahl og Melanie C.
+Redaktion: Pelle Peter Jencel, Ula Bach Hulgaard, Ida Skjerk, Sandra Mia Susgaard og Karen Straarup.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Tue, 05 Oct 2021 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324f/625e3398d958a092963d79f603d47738a0196128f4a408c3f30e5c88cd200258" 
+                type="audio/mpeg" 
+                length="57685676" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324f/ccd251d5c7748edad8c4c42782679c75255c9937d13143fb308cb0132e053c65" 
+                type="audio/mpeg" 
+                length="19228844" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324f/49310eee3745ec3558054adadd0e324c045e8a4255371802d0dc3b5e3a56b454" 
+                type="audio/x-m4a" 
+                length="77366312" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324f/1e15b94aee31b9669c19e743cbe712a1ee440b7a9264dff7d23dac93db1a46dd" 
+                type="audio/x-m4a" 
+                length="58137703" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92bf20f33685dba324f/7980ea90b12804ac82f1d7c82b8cc6ee8b8d6eef42dd89dceb000505ab8a65e4" 
+                type="audio/x-m4a" 
+                length="19680216" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195623</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/moe/hvem-er-moe-3-4-13332195623</link>
+            <title>Hvem er MØ? 3:4</title>
+            <description>Karen sidder i et underjordisk studie i Las Vegas sammen med DIPLO og hans folk, der bliver ved med at rette i den tekst og melodi, Karen har skrevet. Det er nu, de skal i mål med Lean On efter at have arbejdet på sangen i næsten et år.. samtidig mærker Karen signalerne fra sin krop, der snart ikke kan tournere mere.
+
+Medvirkende: Karen Marie Ørsted (MØ), Ronni Vindahl og DIPLO. 
+Redaktion: Pelle Peter Jencel, Ula Bach Hulgaard, Ida Skjerk, Sandra Mia Susgaard og Karen Straarup.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Tue, 05 Oct 2021 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:27</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e929f20f33685dba3246/244c74f54128e0d0cb56ce77788ce9d30bf748fa6953279c28099cf8b55c065a" 
+                type="audio/mpeg" 
+                length="61141676" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e929f20f33685dba3246/e20fe339b3f1734d983b67e7658ccff34b36020d4db2fdb2f5a47f4f54e77fbe" 
+                type="audio/mpeg" 
+                length="20380844" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e929f20f33685dba3246/d7c2755acda99ad8d0646f0631a9466324ed961c0e283fb690a3dd7079b051e5" 
+                type="audio/x-m4a" 
+                length="82001328" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e929f20f33685dba3246/9127d0857f34ab864072bfa10828db992d35e8ee44c96abcc40bb01e5c0e22b3" 
+                type="audio/x-m4a" 
+                length="61620715" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e929f20f33685dba3246/b6368ef6a7f6a0d3a629789a5912ba63dfaed92fc086fcaaabefa2dab29e5cfe" 
+                type="audio/x-m4a" 
+                length="20859232" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332195624</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/moe/hvem-er-moe-4-4-13332195624</link>
+            <title>Hvem er MØ? 4:4</title>
+            <description>MØ er tilbage på Roskilde Festival. Denne gang på Orange Scene men med en helt anden følelse end sidst. Hun ved, at hun denne gang skal tage afsked med sit liv, som hun kender det, når koncerten er slut.
+
+Medvirkende: Karen Marie Ørsted (MØ), Ronni Vindahl, Josefine Struckmann og DIPLO.
+Redaktion: Pelle Peter Jencel, Ula Bach Hulgaard, Ida Skjerk, Sandra Mia Susgaard og Karen Straarup.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Tue, 05 Oct 2021 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:49:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92a024da0d1bbd1ab91/443c28b33fa40fb7e620058fd01f470548a6b88392ada588c674f5e13761a9ea" 
+                type="audio/mpeg" 
+                length="71077673" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92a024da0d1bbd1ab91/7567bb191d931e7c7d942e87020328465d0327f3c0287dae21ce36f929382907" 
+                type="audio/mpeg" 
+                length="23692841" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92a024da0d1bbd1ab91/a9c90d47667bd8655c82dc28c91989a946b4e0d359898fa41bf3c81654d5ad5d" 
+                type="audio/x-m4a" 
+                length="95326965" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92a024da0d1bbd1ab91/b3a0bde20cec7632f0345fc8742251fdd520d561c69e9ddff4b75412af539534" 
+                type="audio/x-m4a" 
+                length="71634283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6156e92a024da0d1bbd1ab91/c440ab5a10a9f7ac54e7a7fae9e69a68ec1c441e9206b12a255cf155eac8ab3d" 
+                type="audio/x-m4a" 
+                length="24248861" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332295601</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/benjamin-lasnier/hvem-er-benjamin-lasnier-1-2-13332295601</link>
+            <title>Hvem er Benjamin Lasnier? 1:2</title>
+            <description>Den 13-årige Benjamin har det svært på sin nye skole, da hans kusine introducerer ham til et helt nyt socialt medie der hedder Instagram. Da en af hans følgere kort efter bemærker at Benjamin ligner Justin Bieber, går hans liv amok og pludselig står han med pladekontrakter og millioner af følgere.</description>
+            <pubDate>Tue, 19 Apr 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6242cfd5f946f959851c1523/c216e392283c3f737da606050595c4a39df22eca34e3529b1c6b3eaeb13c0332" 
+                type="audio/mpeg" 
+                length="53365915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6242cfd5f946f959851c1523/8a21ac9fc85b08c3a87a6f6e3d19d1fec187da2b120c7849ebeab839d960e8cc" 
+                type="audio/mpeg" 
+                length="17788699" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6242cfd5f946f959851c1523/d51dd7a2686a1696cf9c60d0414df805004ec9154a2f977cf16c851ff6f7fcc8" 
+                type="audio/x-m4a" 
+                length="53784017" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6242cfd5f946f959851c1523/d0fb512d1d125c3775c0db10b3da070849d92a2d4e481b8a95688780bd776b14" 
+                type="audio/x-m4a" 
+                length="18207321" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332295602</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/benjamin-lasnier/hvem-er-benjamin-lasnier-2-2-13332295602</link>
+            <title>Hvem er Benjamin Lasnier? 2:2</title>
+            <description>Teenagestjernen Benjamin er blevet fløjet til LA og Marokko med kæmpe verdensstjerner. Men har tabt det hele på gulvet igen. Så han sidder på sit drengeværelse og laver beats i underbukser, da rapperen Desiigner pludselig går live på instagram. Benjamin anmoder for sjov om at være med og dét bliver starten på det største eventyr i hans liv.</description>
+            <pubDate>Tue, 19 Apr 2022 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6242cfd6f946f959851c1527/626cd27b6455f9d0256984f0914a7a3b74088d578dbd00852aa0c37a29b4944f" 
+                type="audio/mpeg" 
+                length="73495387" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6242cfd6f946f959851c1527/d0afe0fce5f26f74e251f95cb979ffe1015af1e5324f5713ed7982c7c32c8afb" 
+                type="audio/mpeg" 
+                length="24498523" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6242cfd6f946f959851c1527/4b302ed76ef8b4998a8c9306d8e257004bd15b2441e6a53056453a6ecd022406" 
+                type="audio/x-m4a" 
+                length="74070781" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6242cfd6f946f959851c1527/0c136534eae76793e47cec3509081ae5fc4a933c6ff998a0e54ac281702cf1a7" 
+                type="audio/x-m4a" 
+                length="25074421" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332295611</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/aqua/hvem-er-aqua-1-4-13332295611</link>
+            <title>Hvem er Aqua? 1:4</title>
+            <description>En skummel mand vandrer ind på en tankstation i Birkerød med en sort affaldssæk fuld af tyvekoster og råber til de to drenge bag disken - "Er der nogen, der vil købe et keyboard?"
+I Norge bliver en teenagepige ansat som tv bingo-værtinde på baggrund af et videobånd fra en skolerevy. Og på Frederiksberg røver en ung mand en bodega.
+Sådan starter Danmarkshistoriens største musikeventyr.
+
+Medvirkende: Lene Nystrøm, Søren Rasted og Rene Dif.
+Redaktion: Pelle Peter Jencel, Ula Bach Hulgaard, Ida Skjerk, Sandra Mia Susgaard, Nina Liv Bendstrup, Frederik Bækgaard Ludwigs og Karen Albertsen.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Fri, 30 Sept 2022 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:52:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0ef4a813f5a3da5b1/0c576f48e3f285260d0939e8606d90dd8f030819238714f4028507267d4786c0" 
+                type="audio/mpeg" 
+                length="75579931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0ef4a813f5a3da5b1/74fadb22daf0e55764f5108f797c2d1f79b26e14e2e682486f99ec2ab3b51699" 
+                type="audio/mpeg" 
+                length="25193371" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0ef4a813f5a3da5b1/cc868c3cb92ebdd3ae9701932559dbe6addcb7a34bf2703db43caf9929dcd6df" 
+                type="audio/x-m4a" 
+                length="101365542" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0ef4a813f5a3da5b1/4d4ace8ac51c2b7479348fe37be79c51dc0d0fa1821039e65b1dcdab930a1911" 
+                type="audio/x-m4a" 
+                length="76172001" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0ef4a813f5a3da5b1/54584f31a3dee146e6e2c54e6379629cd47cd55f69fcd4948fdfa079df10883e" 
+                type="audio/x-m4a" 
+                length="25785716" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332295612</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/aqua/hvem-er-aqua-2-4-13332295612</link>
+            <title>Hvem er Aqua? 2:4</title>
+            <description>En ung mand sidder på en café med en mikrofon tapet fast under jakken og optager en samtale i hemmelighed. Hans band har nemlig store planer. Så store at de sender utallige postkort til P3 for at få dem ind på hitlisten. Nogle vil kalde det valgfusk, andre vil sige kreativ marketing. Men da året er omme ligger Aqua nummer 1.
+
+Medvirkende: Lene Nystrøm, Søren Rasted og Rene Dif.
+Redaktion: Pelle Peter Jencel, Ula Bach Hulgaard, Ida Skjerk, Sandra Mia Susgaard, Nina Liv Bendstrup, Frederik Bækgaard Ludwigs og Karen Albertsen.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Fri, 30 Sept 2022 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e4b3066954c0e58081/ef6b5a3193afe58df6436061c8d7b2d3c271bc4a97e71aaccbd616a0f59ca2a1" 
+                type="audio/mpeg" 
+                length="73787995" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e4b3066954c0e58081/950b52f19d2cc03a1aaa14f3fe5927df17aa735573278f5cc68b56f85e97e5ec" 
+                type="audio/mpeg" 
+                length="24596059" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e4b3066954c0e58081/0ad5e837354fabc93242b8c403a97feadbcefda3c2c353b24ef40ba6930f2677" 
+                type="audio/x-m4a" 
+                length="98962161" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e4b3066954c0e58081/377ef8648eace08d6beaeb59fffa4a4daf023881b8906266d9068bd7956903a5" 
+                type="audio/x-m4a" 
+                length="74365981" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e4b3066954c0e58081/d19f9ee18afd869a6c562fbc01c17ea22366a88687b3c3c8b8a40c332f70f6f3" 
+                type="audio/x-m4a" 
+                length="25174383" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332295613</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/aqua/hvem-er-aqua-3-4-13332295613</link>
+            <title>Hvem er Aqua? 3:4</title>
+            <description>På en landingsbane står tre privatfly i kø. De venter på at lette. I det forreste sidder Spice Girls. I det bagerste sidder Metallica. I det midterste sidder to tankpassere, en bingoværtinde og en stammende DJ. Søren, Lene, Rene og Claus. Og de har lige solgt en million fysiske albums. På én uge. Som det første band i årevis.
+
+Medvirkende: Lene Nystrøm, Søren Rasted og Rene Dif.
+Redaktion: Pelle Peter Jencel, Ula Bach Hulgaard, Ida Skjerk, Sandra Mia Susgaard, Nina Liv Bendstrup, Frederik Bækgaard Ludwigs og Karen Albertsen.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Fri, 30 Sept 2022 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:01:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58076/b49d9493819ae6064fe9e5e83db8bf4bbe5f178b37d589649b4bedb70010b254" 
+                type="audio/mpeg" 
+                length="87942619" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58076/bed7bc973cd888471694df2c0a485d93484e69f72ff097d69e9b1b3b1505f76a" 
+                type="audio/mpeg" 
+                length="29314267" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58076/e8e65d7881779fd294d662aba9e82b7fbd0eac38bba45e4adabb1221f02805cc" 
+                type="audio/x-m4a" 
+                length="117945999" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58076/2b612a785d3279f7e55a32aff5845caa861f06c944f36ccd43f8ec19a5040c83" 
+                type="audio/x-m4a" 
+                length="88631393" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58076/f55030b9ff19de10726f528f48c5c6c6e1121fe5aa031f7a0b814a6a18307ba9" 
+                type="audio/x-m4a" 
+                length="30003246" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332295614</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/aqua/hvem-er-aqua-4-4-13332295614</link>
+            <title>Hvem er Aqua? 4:4</title>
+            <description>I et lille pyntet lokale i Las Vegas står Søren og Lene. For tre uger siden kyssede de første gang. For to uger siden spillede de i et udsolgt Parken for 200 millioner tv-seere. Og tidligere i dag gik de om bord på et fly fra den anden side af jorden, for at blive hemmeligt gift. Men da de næste morgen vågner, står den danske presse på hotellet - hemmeligheden er sluppet ud og helvede bryder løs.
+
+Medvirkende: Lene Nystrøm, Søren Rasted og Rene Dif.
+Redaktion: Pelle Peter Jencel, Ula Bach Hulgaard, Ida Skjerk, Sandra Mia Susgaard, Nina Liv Bendstrup, Frederik Bækgaard Ludwigs og Karen Albertsen.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Fri, 30 Sept 2022 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58077/394a6307b4b39e337baaf7c657c71989e6f42fc22f98a8677d4c1ad204b33ba4" 
+                type="audio/mpeg" 
+                length="78056155" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58077/9eb3bbd60ed815dca19c85a7252c8c7b6f2865e2974d1e9014779089fef9a0ce" 
+                type="audio/mpeg" 
+                length="26018779" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58077/5fd330ca90080db68da97b3c3c9a939b517759855cf0a7e793385b636ed53e15" 
+                type="audio/x-m4a" 
+                length="104686262" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58077/768523962430ee8228951b216960f40f8c270f4d73b3ff2f37b14d046632a758" 
+                type="audio/x-m4a" 
+                length="78667373" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6332d1e0b3066954c0e58077/35a9ed2bcffd3acfe96b15db02c33e796d9e2b0f4b9540dcc42ff284aac845cd" 
+                type="audio/x-m4a" 
+                length="26630485" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332295621</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/drew-sycamore/hvem-er-drew-sycamore-1-2-13332295621</link>
+            <title>Hvem er Drew Sycamore? 1:2</title>
+            <description>I en mørk lade i den lille by Hvilsom Nordjylland kan man ofte i 1990´erne høre en lille pige skråle med på Christina Aguilera og Avril Lavigne. Pigen hedder Michelle Katarina Drew, og hun drømmer om en dag at blive sanger.
+Hun ved bare endnu ikke, hvor stor en stjerne, hun faktisk ender med at blive. Hun ved heller ikke, at hun for at nå dertil først må igennem en hård kamp for at overvinde sceneskræk, en overraskende international succes med et skoleprojekt og en stor, altopslugende sorg.
+
+Medvirkende: Drew Sycamore.
+Redaktion: Pelle Peter Jencel, Morten Narvedsen, Bastian Bak, Maja Rathmann Mølbak og Karen Albertsen. 
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Mon, 05 Dec 2022 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:48:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874646333e768231d6b12e/2437407b7842a91bb62acdf1729f197772d746a12a331e0b563bf6e30ab221f0" 
+                type="audio/mpeg" 
+                length="70471387" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874646333e768231d6b12e/07a34e66190048ca0af8b838115c3d1a2aad07c2008f37e4f963c1e314506066" 
+                type="audio/mpeg" 
+                length="23490523" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874646333e768231d6b12e/80c1d7c57d0ea33c8af7b91518c834f2e7421e50fc095c86892a462987eac7ff" 
+                type="audio/x-m4a" 
+                length="94513906" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874646333e768231d6b12e/777b941a57962ccc04bbbfdfcaedd8136eef0e73a29e1ac5f50d194468da10bc" 
+                type="audio/x-m4a" 
+                length="71023261" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874646333e768231d6b12e/1ab92dfbdb52ad75a5ed17734dfdc79e181f88ca711b0641e57bbb2da4ef1663" 
+                type="audio/x-m4a" 
+                length="24042902" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332295622</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/drew-sycamore/hvem-er-drew-sycamore-2-2-13332295622</link>
+            <title>Hvem er Drew Sycamore? 2:2</title>
+            <description>En nat i 2016 er store dele af den danske musikbranche samlet til fest hos et stort pladeselskab i det indre København. For nogle bare en god fest; for Drew en fest, der skal få afgørende betydning for resten af hendes liv.  
+På én aften bliver frøene sået til hendes første turne, en pladekontrakt og et endelig opgør med sceneskrækken. Men til festen møder hun også to mænd, der på hver sin måde får stor betydning for pigen fra Hvilsom.
+Den ene skriver hun et kæmpehit med, den anden bliver hendes livs kærlighed.
+
+Medvirkende: Drew Sycamore.
+Redaktion: Pelle Peter Jencel, Morten Narvedsen, Bastian Bak, Maja Rathmann Mølbak og Karen Albertsen.
+Programansvarlig: Søren Bygbjerg.</description>
+            <pubDate>Mon, 05 Dec 2022 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:27</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874643333e768231d6b126/bafae3c294a9ad6589691af8803470e7c442712c369f60c9c3a1705d6d540f0b" 
+                type="audio/mpeg" 
+                length="78431707" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874643333e768231d6b126/c94a87fcbd37d6b081f3f00f94bb91b5109583367b07c1cf147de7058039cdd8" 
+                type="audio/mpeg" 
+                length="26143963" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874643333e768231d6b126/78cf7225d5b5d68cd31934ae86e7995f7fc34ea45e1aceb5f6e6f398a736f9e9" 
+                type="audio/x-m4a" 
+                length="105189601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874643333e768231d6b126/32706cb0e566e5fbc5e5cbb0c39179bcb6b6b1d123229faf63d2cd2fafee316c" 
+                type="audio/x-m4a" 
+                length="79045601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63874643333e768231d6b126/188ae6c5fe96d02bdbf98bf9267b1eaa1cecb6f0d68c68634289b3ba4bdbae46" 
+                type="audio/x-m4a" 
+                length="26758412" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332395611</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/malte-ebert/hvem-er-malte-ebert-1-4-13332395611</link>
+            <title>Hvem er Malte Ebert? 1:4</title>
+            <description>I den lille by Andkær lidt uden for Vejle svinger en flyttebil ind på gårdspladsen ved et faldefærdigt hus. I bilen sidder en lille dreng med store lyseblå øjne. Drengen er Malte - en genert lille fyr, der ikke tør give mønter til den lokale gademusikant på strøget i vejle eller tale med pigerne henne i skolen.  Men som en dag skal vi få både guld, platin, det hele kongerige OG dronningen.
+
+Men først skal han igennem alverdens prøvelser, der både indebærer en middelmådig studentereksamen, en afstikker til et sted der hedder Crackhouse og en nedtur, der truer med at slutte eventyret, før det overhovedet er begyndt.
+
+Medvirkende: Malte Ebert.
+Redaktion: Andrew Moyo, Mads Bjørn Lundsgaard, Ula Bach Hulgård, Maja Rathmann Mølbak og Karen Albertsen.
+Programansvarlig: Isabella Alonso De Vera Hindkjær.</description>
+            <pubDate>Tue, 20 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbf2/30f0f93a373e55a8cc4a66e7be938ff27260b88cc83b877d601cfa2254ca9c83" 
+                type="audio/mpeg" 
+                length="52034203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbf2/80f39914f48d91bcd7b362625898fb6b8fc8e5239b7102943f9f4ceae55352bc" 
+                type="audio/mpeg" 
+                length="17344795" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbf2/162c4d8f77da21263b629b3b6cbc0a1c2fff59c2a82064652cf31f8a26f9e32a" 
+                type="audio/x-m4a" 
+                length="69786133" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbf2/931e982123e18993cf9918eb81b426f19a5d652a891149998817e82d22595a10" 
+                type="audio/x-m4a" 
+                length="52441385" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbf2/5e995c67a73172e6e00c546767ab3240c202814b9f22d2a22a8611fd92deee58" 
+                type="audio/x-m4a" 
+                length="17753047" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332395612</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/malte-ebert/hvem-er-malte-ebert-2-4-13332395612</link>
+            <title>Hvem er Malte Ebert? 2:4</title>
+            <description>Malte er røget med på et wildcard til SPOT Festivalen i Århus, hvor han gnubber albuer med den danske musikbranches spydspidser og forsøger at charmere sig lidt tættere på en pladekontrakt. 
+
+Pludselig er der et vindue - midt om natten på et gadehjørne i Århus synger Malte tre linjer i en ufærdig sangtekst foran de helt rigtige mennesker. Gulddreng har stukket hovedet frem fra skyggerne, og det bliver begyndelsen på et af de vildeste og skøreste kapitler i dansk musikhistorie. 
+
+Og på en sommer, hvor hele Danmark lærer at Belvedere er en vodka, der rimer på D'Angleterre.
+
+Medvirkende: Malte Ebert og Christian Skjølstrup.
+Redaktion: Andrew Moyo, Mads Bjørn Lundsgaard, Ula Bach Hulgård, Maja Rathmann Mølbak og Karen Albertsen.
+Programansvarlig: Isabella Alonso De Vera Hindkjær.</description>
+            <pubDate>Tue, 20 Jun 2023 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbfa/470534e1879722cc5fa723de79f6b34d1b9c976fb3810f4ad910047708d16f57" 
+                type="audio/mpeg" 
+                length="57513115" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbfa/f0bac8b0e05d4cf4c028a22ef46acca859a4b6a3d43d37526a2af4dad99b0215" 
+                type="audio/mpeg" 
+                length="19171099" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbfa/eb5a3b7bab2fd5950776467542e4ae9a17aef11fb88212e0bac3447f0fbff87b" 
+                type="audio/x-m4a" 
+                length="77134193" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbfa/883e0b85a356654e3c8640fb9eaeabaa0c1f02d5169fdfcaac0e031ff39f437d" 
+                type="audio/x-m4a" 
+                length="57963193" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fb2f049931670cbbfa/1cdd60d9328d0cf4f84973a604c457e4884a0372a2163764252df2bbb21420f0" 
+                type="audio/x-m4a" 
+                length="19622196" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332395613</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/malte-ebert/hvem-er-malte-ebert-3-4-13332395613</link>
+            <title>Hvem er Malte Ebert? 3:4</title>
+            <description>Gulddreng ligger i bagagerummet af en bil på Nettos parkeringsplads. Han har lige spillet til DMA, er gået nummer 1 med sine første to singler men han kan ikke engang fejre det. 
+For nogen i musikbranchen er blevet sure over hans øretæveindbydende attitude, og i ly af mørket flygter han hjem til Andkær, hvor han går under jorden på sit barndomsværelse.  Herfra kan han se, hvordan Gulddreng som en tornado fejer hen over Danmark og rydder hitlisterne.
+
+Men spørgsmålet er, hvor længe den gyldne facade holder?
+
+Medvirkende: Malte Ebert og Christian Skjølstrup.
+Redaktion: Andrew Moyo, Mads Bjørn Lundsgaard, Ula Bach Hulgård, Maja
+Rathmann Mølbak og Karen Albertsen.
+Programansvarlig: Isabella Alonso De Vera Hindkjær.</description>
+            <pubDate>Tue, 27 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fc2f049931670cbbfe/1396c5423f6d2b4964882551bb519ecb14e67adf8addc1596b98f8495cdeb84a" 
+                type="audio/mpeg" 
+                length="56354203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fc2f049931670cbbfe/13d8d509934ea031a40a85d3e003d71408b2312046eb711e2d776ee9a8d6c89d" 
+                type="audio/mpeg" 
+                length="18784795" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fc2f049931670cbbfe/70ece24f5b782ca9eaa9d223f217bf9958064194ddc5ad7d1f26f79154fe96f9" 
+                type="audio/x-m4a" 
+                length="75580230" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fc2f049931670cbbfe/825a6dc36232d02a508f4615821e8a8c3e2cf9aa5b55c6852a3d263796c16b15" 
+                type="audio/x-m4a" 
+                length="56795417" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fc2f049931670cbbfe/fea46ea497e2874a74c2e5690e0d676ef9b58e06d024494774118ae97500ae83" 
+                type="audio/x-m4a" 
+                length="19226716" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332395614</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/malte-ebert/hvem-er-malte-ebert-4-4-13332395614</link>
+            <title>Hvem er Malte Ebert? 4:4</title>
+            <description>Malte står og kigger ud mod salen, alle øjne hviler på ham, og lige foran ham sidder Hendes Majestæt Dronning Margrethe. Han synger de første linjer, og hun slår blikket ned. 
+
+Gulddreng blev lagt i graven. 11.000 mennesker mødte op til bisættelsen i Royal Arena, for en sidste gang at skråle med på hits som "Se mig nu", "Model" og "Drikker for lidt." 
+
+Men kan Malte Ebert klare sig uden Gulddreng? Har han tabt det hele på gulvet, eller kan han nå at overbevise dronningen og resten af Danmark?  Og så er det, at en gammel gylden følgesvend kommer ham til undsætning.
+
+Medvirkende: Malte Ebert og Christian Skjølstrup.
+Redaktion: Andrew Moyo, Mads Bjørn Lundsgaard, Ula Bach Hulgård, Maja Rathmann Mølbak og Karen Albertsen.
+Programansvarlig: Isabella Alonso De Vera Hindkjær.</description>
+            <pubDate>Tue, 04 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:17</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fd2f049931670cbc06/5e1cad33c4bf6e00513f77ed624fcc56294f740a451046e855c839df99ac5707" 
+                type="audio/mpeg" 
+                length="55145179" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fd2f049931670cbc06/b483d91fc0a8afef34c91f6582add308358076a5aba17424d3ff6fcd78aa6798" 
+                type="audio/mpeg" 
+                length="18381787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fd2f049931670cbc06/71ddfcb8cb9620f76cd4f28836539b1adb06d04a24c5f77b197aef86c540d7ee" 
+                type="audio/x-m4a" 
+                length="73959030" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fd2f049931670cbc06/1ccccba476abb311546ac5d473cbcfe41a0263fb0b6d489526a136e33a6585aa" 
+                type="audio/x-m4a" 
+                length="55577113" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481d1fd2f049931670cbc06/9e8f91aedc0fdf0518da65dcbc3d5f174ed2f25454f8fcfbb01796265b1245d2" 
+                type="audio/x-m4a" 
+                length="18814382" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332395621</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/phlake/hvem-er-phlake-1-3-13332395621</link>
+            <title>Hvem er Phlake? 1:3</title>
+            <description>Mads Bo sidder i en lejlighed og sipper Bacardi Razz. Året er 2010. I sofaen overfor sætter sig en fyr i en grøn bomberjakke. Fyren hedder Jonathan og er vist nok producer - måske et tegn til Mads Bo, der har en hemmelig drøm om at lave musik? De to drenge fra Albertslund veksler højst et par ord sammen den aften.
+Få år senere skal de indtage landets hitlister, de største scener og tilbringe nogle af deres livs største øjeblikke sammen. Det ved de bare ikke endnu her til festen, hvor de sidder i hver deres sofa og ser hinanden an.
+
+Medvirkende: Mads Bo Iversen og Jonathan Elkær.
+Redaktion: Pelle Peter Jencel, Mads Bjørn Lundsgaard, Bastian Bak, Maja Rathmann Mølbak og Morten Narvedsen.
+Programansvarlig: Isabella Alonso De Vera Hindkjær.</description>
+            <pubDate>Tue, 31 Oct 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:36</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bd053b521810c7d563/e742a95443a8ebf04b107cdfa545657e9844ceb90d9595a3fe897c87022f2ca4" 
+                type="audio/mpeg" 
+                length="58476187" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bd053b521810c7d563/bb9acdd48cf2447a4be7540465300586dc7c8ba0b4876ada9a750f0e464cb035" 
+                type="audio/mpeg" 
+                length="19492123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bd053b521810c7d563/a6d4f084994b8ea3f10c02e5a97fbed18995e902ff8e5a2a849eca7497e0d235" 
+                type="audio/x-m4a" 
+                length="78425817" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bd053b521810c7d563/ad999310c6ba9a2b62aa79ba0a8377b0e7b80dd793037fefa5943baed5c362e2" 
+                type="audio/x-m4a" 
+                length="58933781" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bd053b521810c7d563/dcef2e4c268c8dec5984958ee165a95bae66ffcc3901ea2589fd0e2de29198d7" 
+                type="audio/x-m4a" 
+                length="19950726" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332395622</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/phlake/hvem-er-phlake-2-3-13332395622</link>
+            <title>Hvem er Phlake? 2:3</title>
+            <description>Mads Bo og Jonathan har faktisk opgivet at lave musik sammen. Der er for mange konflikter, de rykker sig ikke. Men en enkelt sms sendt fra den ene side af jorden til den anden fører dem sammen igen. Da de mødes i studiet, begynder de på en sang med deres nye ven Gisli. Han foreslår, at det skal være en hyldest til gravide kvinder. Den kunne hedde Pregnant?
+Under et år senere er Phlake nomineret til 7 Danish Music Awards, har skabt kaostilstande på Roskilde Festival og er navnet alle taler om.
+
+Medvirkende: Mads Bo Iversen og Jonathan Elkær.
+Redaktion: Pelle Peter Jencel, Mads Bjørn Lundsgaard, Bastian Bak, Maja Rathmann Mølbak og Morten Narvedsen.
+Programansvarlig: Isabella Alonso De Vera Hindkjær.</description>
+            <pubDate>Tue, 31 Oct 2023 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bca5059640caf9bde4/b9dbb68338ee82dc52e9e4b1c35737b04c3334c5f643bf9f4429389831f0b722" 
+                type="audio/mpeg" 
+                length="56454427" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bca5059640caf9bde4/2f09903fee8a1bbabb89d8a2e04b7784b1d22804fe91d0b9e2c578c0b6daee2c" 
+                type="audio/mpeg" 
+                length="18818203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bca5059640caf9bde4/908b265693319959d546655ed45d9e2b55896cceec58699940c8a64c33900414" 
+                type="audio/x-m4a" 
+                length="75714781" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bca5059640caf9bde4/bded6920113dfd19ff5d7a0645982e0afc3d4c7168871b9456250673d92f2d05" 
+                type="audio/x-m4a" 
+                length="56896553" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bca5059640caf9bde4/d6ce482c54459e19e398e9bc1bd8eee3bf6491dfe71082fc937f3faeb54085b9" 
+                type="audio/x-m4a" 
+                length="19261001" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332395623</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/phlake/hvem-er-phlake-3-3-13332395623</link>
+            <title>Hvem er Phlake? 3:3</title>
+            <description>Phlake træder ind i det bombastiske bygningsværk af et hus. Stjerneproduceren Scott Storch kommer slentrende i silkeunderbukser og badekåbe og tilbyder dem at ryge et bonghoved superpotent weed. Mads Bo og Jonathan er kommet til Hollywood. Deres drengedrøm er gået i opfyldelse.
+Men hvordan klarer de at være på toppen af verden? Er det så ensomt, som alle siger? Og hvor længe kan man holde til det?
+
+Medvirkende: Mads Bo Iversen og Jonathan Elkær.
+Redaktion: Pelle Peter Jencel, Mads Bjørn Lundsgaard, Bastian Bak, Maja Rathmann Mølbak og Morten Narvedsen.
+Programansvarlig: Isabella Alonso De Vera Hindkjær.</description>
+            <pubDate>Tue, 31 Oct 2023 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:45:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bc25133fe8fddf420b/ef832315ad619f1a448a8f668b85e9422e8f35dfc72cbd44d80a1a0acce01ee8" 
+                type="audio/mpeg" 
+                length="65314459" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bc25133fe8fddf420b/ed01c23e6b1a304588874e911b5e5de32ed3dcf4d251918b015401f6e86c1a85" 
+                type="audio/mpeg" 
+                length="21771547" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bc25133fe8fddf420b/d6fdb09ca1354278b779711872a573a08804a29e07fe3adfafd79116695f52c0" 
+                type="audio/x-m4a" 
+                length="87597141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bc25133fe8fddf420b/bdd63b2195cf4d203a9b5a6af4c61be8198c044712bf4c40330d7f255971a083" 
+                type="audio/x-m4a" 
+                length="65825565" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6537b7bc25133fe8fddf420b/7a2e307da074476461dfd996caba824a438057a7a6c2dd061d2f5e16e8211df2" 
+                type="audio/x-m4a" 
+                length="22283704" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332395631</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/saint-clara/hvem-er-saint-clara-1-2-13332395631</link>
+            <title>Hvem er Saint clara? 1:2</title>
+            <description>I et lokale sidder en 14-årig pige, hendes mor og Thomas Helmig - og på bordet står en gulerodskage. Ind ad døren kommer en delegation af pladeselskabsfolk. De har været undervejs i 3 timer. Den 14-årige pige har været undervejs hele sit liv. Pigen hedder Clara, og hvad, hun ikke ved, er, at hun er tættere på drømmen om at blive landets næste store stjerne end nogensinde før. Men også, at hun skal så grueligt meget igennem, før hun endelig bliver til Saint clara.
+ 
+Medvirkende: Clara Toft Simonsen.
+Redaktion: Pelle Peter Jencel, Mads Bjørn Lundsgaard, Bastian Bak, Maja Rathmann Mølbak og Morten Narvedsen.
+Programansvarlig: Isabella Alonso De Vera Hindkjær.</description>
+            <pubDate>Tue, 21 Nov 2023 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b335f0310093f059d890/aaf42fde8cf178f60dfe2b42385c088eb220cd34b8a4020638f664d0a30528ce" 
+                type="audio/mpeg" 
+                length="50919412" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b335f0310093f059d890/21d7847a3aade7ac4c5be7d080957685a4a1e16c06c6e10bc4958c40ca17f5f3" 
+                type="audio/mpeg" 
+                length="16973428" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b335f0310093f059d890/f54d4eb296d375019963db5f8b93029d5c86a9db38e4c7ca6a93f4145ea18511" 
+                type="audio/x-m4a" 
+                length="68290535" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b335f0310093f059d890/3cd858e18618491b3e79dd2837bda87dc86c0e46a10d8f291bf370c402380bd3" 
+                type="audio/x-m4a" 
+                length="51317599" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b335f0310093f059d890/92edb48fd7e25b224e3086e08817a214e9c5d5d064f336783adcf9bb944da346" 
+                type="audio/x-m4a" 
+                length="17372675" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332395632</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/saint-clara/hvem-er-saint-clara-2-2-13332395632</link>
+            <title>Hvem er Saint clara? 2:2</title>
+            <description>Clara ligger vågen. Hun kigger på klokken, der før viste 01.00. Nu er den 04.00. Og hun har stadig ikke lukket et øje. Sådan er hver nat, og den 19-årige sangerinde er ved at blive sindssyg. Hendes krop er fyldt med stress og angst. Og selvom hun er begyndt at bedøve følelserne med vodka om morgenen, går de ikke væk. Så hun gør, som hun altid har gjort - skriver sine følelser ned og laver en sang om, hvordan hun har det. Kort efter bliver Crazy et af landets største hits. Men Clara sover stadig ikke.
+
+Medvirkende: Clara Toft Simonsen.
+Redaktion: Pelle Peter Jencel, Mads Bjørn Lundsgaard, Bastian Bak, Maja Rathmann Mølbak og Morten Narvedsen.
+Programansvarlig: Isabella Alonso De Vera Hindkjær.</description>
+            <pubDate>Tue, 21 Nov 2023 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:51:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b32ca110f46bbff30f40/f635771acc5bcbb15596a43b8586f4a50aecda52374a967e9e35f61a9b058fc7" 
+                type="audio/mpeg" 
+                length="74794613" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b32ca110f46bbff30f40/15b39ee25745ba4c508e3a19d4a244a9980b84036184d1735cf2dcbd5051a45b" 
+                type="audio/mpeg" 
+                length="24931829" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b32ca110f46bbff30f40/c18f4fa929bae42610a52128fa322262c544a91f97a549e991d24e0dc91585ed" 
+                type="audio/x-m4a" 
+                length="100311499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b32ca110f46bbff30f40/aae288da2345c30c8473fc2284516f33bd61b2dc8e450bd69a9338db116547da" 
+                type="audio/x-m4a" 
+                length="75379955" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6554b32ca110f46bbff30f40/389a0218c3c38a42b671001c307980c5c4891d065c22abe1089340a8dd8ecc8b" 
+                type="audio/x-m4a" 
+                length="25517712" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496111</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/tessa/hvem-er-tessa-1-4-13332496111</link>
+            <title>Hvem er Tessa? 1:4</title>
+            <description>Tessa vandrer rundt i januarkulden på Vesterbro. Året er 2014, og hun er 16 år gammel. Hun har været til fest, men har ikke noget sted at overnatte. Den hjemløse teenager ender med at bryde ind på McDonald's og sover på toilettet. Et par år senere skal den samme pige ændre dansk musik. Det ved hun bare slet ikke endnu.
+I første afsnit af Hvem Er Tessa møder vi en ung pige, der skal finde sin vej i tilværelsen. Før hun en dag får en helt speciel besked, der skal ændre hendes liv.
+
+Vært: Pelle Peter Jencel.
+Klipper: Ole Fugl Hørkilde.
+Lyddesign: Jakob Franck Jensen.
+Projektleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 05 Mar 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:41:58</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ca/351664d7dd92f3f26fdd8060a41c32bcde3fb2320d21f309461bbaa64870b251" 
+                type="audio/mpeg" 
+                length="60450481" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ca/37a08d3f38633734e04866495404991410072ba811a70cc7e300c12484f556c0" 
+                type="audio/mpeg" 
+                length="20150449" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ca/2d9fea70557a05814cd1440fe062ffae336339fd74d3b1beeb6b64c60e584120" 
+                type="audio/x-m4a" 
+                length="81073661" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ca/8df69bb541422e88dbd03ae908018ea387fe04e8987bc5d664cef3476c9f4934" 
+                type="audio/x-m4a" 
+                length="60923535" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ca/d0672cb52babc25a4a224b7392b6af43d8da28322bd6960bd8ccce30f1386ac3" 
+                type="audio/x-m4a" 
+                length="20624197" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496112</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/tessa/hvem-er-tessa-2-4-13332496112</link>
+            <title>Hvem er Tessa? 2:4</title>
+            <description>"Jeg glæder mig til i morgen" sms'er Tessa. Kort efter får hun et svar tilbage - "Det er fucking NU!".
+Hun har set forkert i kalenderen. Og 20 minutter senere, i et klasselokale i Ishøj, afbrydes en rap-workshop, da døren vælter op. Alle i lokalet får et chok, og ind stormer en stor pels. Under pelsen er en pige med lange vipper og på stilletter. Og selvom pelsen fælder, og Tessa er kommet tre timer for sent, er det det hurtigt glemt. For da hun stiller sig op til tavlen og begynder at rappe, står tiden stille. Ingen har oplevet noget lignende.
+Tessas drøm om at blive landets første kvindelige rapsuperstjerne er langt væk. Men med en spåkone i ryggen og en særlig stålfast vilje, gør hun alt, hvad hun kan, for at drømmen bliver til virkelighed.
+
+Vært: Pelle Peter Jencel.
+Klipper: Ole Fugl Hørkilde.
+Lyddesign: Jakob Franck Jensen.
+Projektleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 05 Mar 2024 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ce/1b8444b61846767d5442e19813229800efa8d51f1cddb6187735ea4db59dd9b8" 
+                type="audio/mpeg" 
+                length="56000295" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ce/c40ef84d7e68660a0020d2e3a767f4d721473dff6af0f6bfb9022e0dd78daed6" 
+                type="audio/mpeg" 
+                length="18667047" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ce/cdb4ed19d6dd58ef9dfa14e5876cdbef7bac53677a77b9e93112d4d1aee5fc1f" 
+                type="audio/x-m4a" 
+                length="75105039" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ce/012a327ca1c7251ddf968df483d2d2c8663bcd960985c8d9c08c9c2141e1993d" 
+                type="audio/x-m4a" 
+                length="56438399" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31abbca32bb607bec10ce/2ba6da6d11cb5d6a23204b7e75c0b49014e92b6269ca2b5548ce6fea36ba230b" 
+                type="audio/x-m4a" 
+                length="19105977" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496113</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/tessa/hvem-er-tessa-3-4-13332496113</link>
+            <title>Hvem er Tessa? 3:4</title>
+            <description>Aalborg Politi får et opkald. Kort efter er der blå blink i Jomfru Ane Gade, som er så proppet af mennesker, at der er opstået kaos og nu skal ryddes af ordensmagten. Alt sammen fordi at en helt ny fremadstormende rapstjerne skal spille koncert. Og sådan er det overalt, hvor Tessa spiller. Dronningen er landet.
+Men vi har alle en fortid. Og Tessas er ved at indhente hende. For det er ikke alle, der hepper på landets nye sensation. Og det skal hun snart opdage.
+
+Vært: Pelle Peter Jencel.
+Klipper: Ole Fugl Hørkilde.
+Lyddesign: Jakob Franck Jensen.
+Projektleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 05 Mar 2024 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5443a4802de9320ff/8b2681918938955e76cf7556591c5c32f43e0db9b6e0ad6d9ff68efa34eb18f6" 
+                type="audio/mpeg" 
+                length="68121073" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5443a4802de9320ff/8b77bf21cdaec6072b86c4867ec3f2edecd71b7ebd9a6e1aabbeab3e5eff1b35" 
+                type="audio/mpeg" 
+                length="22707313" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5443a4802de9320ff/9fdb12c145e666b7e877007d7639d26942c0654f2c0539e60de54dc15419f6a4" 
+                type="audio/x-m4a" 
+                length="91360743" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5443a4802de9320ff/b452e03ba3ac61159c412db960956afa782404cf3978df3739aacee46304331e" 
+                type="audio/x-m4a" 
+                length="68653799" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5443a4802de9320ff/77b02744172eec13226273a77df2fc0c2b260bd2a7c6ff15379fe8907ac434d1" 
+                type="audio/x-m4a" 
+                length="23241064" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496114</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/tessa/hvem-er-tessa-4-4-13332496114</link>
+            <title>Hvem er Tessa? 4:4</title>
+            <description>Pigen der overnattede på et McDonald's toilet er blevet en vigtig kvinde. Vigtig for samfundsdebatten, vigtig for dansk musik og ikke mindst vigtig for de fans, der endelig har fået en at spejle sig i. Og nu har hun tænkt sig at tage hævn.
+Så med tårerne trillende ned ad kinderne, indspiller hun sit livs hårdeste sang.
+
+Vært: Pelle Peter Jencel.
+Klipper: Ole Fugl Hørkilde.
+Lyddesign: Jakob Franck Jensen.
+Projektleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 05 Mar 2024 05:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:52:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5ca32bb607bec10f9/1cd4b8e7035fac3a39b5244c1d406188fc7fd39212555ca6e9a03bcc40fa20d0" 
+                type="audio/mpeg" 
+                length="75142512" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5ca32bb607bec10f9/8cdec2a60d5590a327c1831b54db358afa9ff728e8d2e88ac65eb1ae0074e8a3" 
+                type="audio/mpeg" 
+                length="25047792" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5ca32bb607bec10f9/88fbebfb37d4c7fe049081c387751d7b859662c0a3fde052ce39faa6a3853402" 
+                type="audio/x-m4a" 
+                length="100777733" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5ca32bb607bec10f9/2965a94af6a081ce418470b384bb30032da022a752eb6c3250d6677b786a088a" 
+                type="audio/x-m4a" 
+                length="75730331" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65d31ac5ca32bb607bec10f9/a8ed52a37f74f2791ac6a421bd43aae44bf922fe57a935fbb6b3c787870a9429" 
+                type="audio/x-m4a" 
+                length="25636437" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496121</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s2-the-minds-of-99/hvem-er-the-minds-of-99-ii-1-5-13332496121</link>
+            <title>Hvem er The Minds of 99? II 1:5</title>
+            <description>Det er december 2018. The Minds of 99 er rejst til ferieøen Koh Samui i Thailand, hvor de holder juleferie med deres familier. Pludselig vælter en tropisk storm indover kysten og truer med at ødelægge det idylliske paradis. Men det er netop midt i det kaos af væltede træer og menneskeaffald, som stormen efterlader, at bandet skal finde lyden af deres næste album - eller måske nærmere deres filosofi?
+I første afsnit af Hvem er The Minds of 99 II skal du med til Thailand, hvor ideen til Infinity Action fødes - og så tager vi også med bandet til LA, hvor en pose vingummibamser med weed åbner porten til en anden verden, og hvor en langskægget producer hjælper dem med at finde deres nye, neongrønne lyd.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 16 Apr 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525f5c1c0160b3479783/3951cd932825360164495bc0ebe6da8c264c29c159f18813faeb7ab415e44b9f" 
+                type="audio/mpeg" 
+                length="49405691" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525f5c1c0160b3479783/4b6ba5f52558e3a2bb102d92ef4abfd5821f25be11c9309bc85dc06af517decf" 
+                type="audio/mpeg" 
+                length="16468859" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525f5c1c0160b3479783/412fc4e000983edd74d12cc8c426c50d8e0df9456b5d06f275b17105bc14dff1" 
+                type="audio/x-m4a" 
+                length="66261435" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525f5c1c0160b3479783/6ea88cc6267e99a7f7919e73850f37af82bcf2bc1215983775f2b3c08b76a98b" 
+                type="audio/x-m4a" 
+                length="49792787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525f5c1c0160b3479783/54c0a78bb3db5fce6b9642a29726da28b6123296b485560ccc8b0e77d6d1ed27" 
+                type="audio/x-m4a" 
+                length="16855483" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496122</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s2-the-minds-of-99/hvem-er-the-minds-of-99-ii-2-5-13332496122</link>
+            <title>Hvem er The Minds of 99? II 2:5</title>
+            <description>Skydedørene i ankomsthallen i Københavns Lufthavn glider til side, og ud kommer bandmedlemmerne fra The Minds of 99. De er flyvende, ikke til at skyde igennem. I deres kufferter ligger fem sange, som de har groet i LA, og som nu skal vises frem for Danmark. Fem sange, der definerer deres nye neongrønne retning, og som verden utvivlsomt må elske fra første sekund. Men det skal vise sig, at de tager grueligt fejl.
+I andet afsnit af Hvem er The Minds of 99 II møder vi et band med en imponerende og grænseløs tro på sig selv og deres projekt - en tro, der dog snart bliver udfordret af bunkevis af sure fans, en knusende træthed og en komplet udtørret kreativ kilde.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 16 Apr 2024 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525be3262b54396e9788/3ff28f24437681c55bbc5b96ead5abf043c8d7c4fcb9b6142d906988ce7cfedc" 
+                type="audio/mpeg" 
+                length="56401782" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525be3262b54396e9788/5ef5965e2be6b5d44328addcf6071e029ecfb1b99ff78790958abbfe6296db95" 
+                type="audio/mpeg" 
+                length="18800886" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525be3262b54396e9788/f863c6f70621c078c165baf610b71120d5e0aba3c4fdca3475b8a43ebee96660" 
+                type="audio/x-m4a" 
+                length="75644204" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525be3262b54396e9788/2535dd56ed0593b34eabcbda782126fc038d80b05af03d99e4fe3416c5c35a06" 
+                type="audio/x-m4a" 
+                length="56843483" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525be3262b54396e9788/9f4ef425764a477bd0347e6067c8a6742d46d81a13873d2f0473cd57bb8dcf25" 
+                type="audio/x-m4a" 
+                length="19242160" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496123</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s2-the-minds-of-99/hvem-er-the-minds-of-99-ii-3-5-13332496123</link>
+            <title>Hvem er The Minds of 99? II 3:5</title>
+            <description>The Minds of 99 er vendt tilbage til LA for at genfinde noget af den kreative energi, som de blev opfyldt af under sidste besøg hos superproduceren Frederik Thaae. Men da Jukse skal igennem security, går det galt - og det skal vise sig at blive et forvarsel på den modgang og kaos, der venter bandet her i 2020.
+I tredje afsnit af Hvem er The The Minds of 99 II skal du opleve, hvordan bandets drøm om at spille i Parken bliver til et mareridt, og så får du et helt særligt indblik i, hvad corona-isolation gør ved et dansk rockband.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 16 Apr 2024 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d502df15133dccdf0/aac12d9a38eeb223b5ee04c5396c48e07d7ffae0cfe3a9375c65791573b53d45" 
+                type="audio/mpeg" 
+                length="56609718" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d502df15133dccdf0/321b95f307714292d40a337eb1fea11342e283a0ce03f3907a1bb25abc10e5bb" 
+                type="audio/mpeg" 
+                length="18870198" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d502df15133dccdf0/6c6c5710dc2504c8eb212f8e4a011378b8756f71b8754ccbaa2fe2b5df6f082d" 
+                type="audio/x-m4a" 
+                length="75923019" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d502df15133dccdf0/5c15c95b1569220c6a653c742ac0e3707dc178ed8434e29c77af5aabe6f88142" 
+                type="audio/x-m4a" 
+                length="57053007" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d502df15133dccdf0/2d07e98b25b839f4e8e47569bcb36d889e2db820a42d1a348455788c6119d947" 
+                type="audio/x-m4a" 
+                length="19313027" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496124</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s2-the-minds-of-99/hvem-er-the-minds-of-99-ii-4-5-13332496124</link>
+            <title>Hvem er The Minds of 99? II 4:5</title>
+            <description>Vi er i begyndelsen af 2021. De fem bandmedlemmer i The Minds of 99 skal om få måneder underholde 50.000 mennesker på Danmarks nationalstadion, men står samtidig med en halvfærdig plade i hånden - og coronamelankolien er begyndt at tære på selvtilliden. Kan de overhovedet nå at blive klar?
+I fjerde afsnit af Hvem er The Minds of 99 II er der peptalk i bunkeren, big life og smadrede ribben. Og så skal du med til den måske vigtigste koncert i nyere Danmarkshistorie. En koncert, der skal ændre drengenes status og liv, men ikke, som man skulle tro, nødvendigvis til det bedre.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 16 Apr 2024 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525b08347ccaf3cf2860/790af0ad89248184985c35e378ec87095c402526418f171010cdc5163b005b84" 
+                type="audio/mpeg" 
+                length="47543485" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525b08347ccaf3cf2860/ade1cb0fc773eb92bd7fb40678053d0d67ccd91b5c076ec086d3b1d6d6950349" 
+                type="audio/mpeg" 
+                length="15848125" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525b08347ccaf3cf2860/a900337398b09635b5628be8cd3c50b18f85867693ca1fb81004a78302af3be9" 
+                type="audio/x-m4a" 
+                length="63763984" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525b08347ccaf3cf2860/cfcf672e6de463cfef479ea223a0d52ba1a32f0605757ce7ae6fc11cfec19793" 
+                type="audio/x-m4a" 
+                length="47916099" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525b08347ccaf3cf2860/00fde5db38035d3011cd2cd595a637dfcedf97885be566906ae84b344d24fa6b" 
+                type="audio/x-m4a" 
+                length="16220184" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496125</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/s2-the-minds-of-99/hvem-er-the-minds-of-99-ii-5-5-13332496125</link>
+            <title>Hvem er The Minds of 99? II 5:5</title>
+            <description>The Minds of 99 står på scenen foran et jublende menneskehav. Året er 2022, og de er midt i deres pompøse Arena-tour. Koncertdeltagerne smiler og hujer, men de fem bandmedlemmer, der normalt let matcher den entusiasme, er mindre begejstrede. Bandet, der trives bedst med modstand, mærker, at de måske er ved sejre sig selv ihjel.
+I femte afsnit af Hvem er Minds of 99 II genfinder bandet glæden ved halvtomme spillesteder i Norge og lejrskolelivet i tourbussen - men ud af de blå bliver de samtidig ramt af den største prøvelse i bandets historie.
+ 
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 16 Apr 2024 05:04:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d08347ccaf3cf2868/88bbc378f535c01e239f889044f33ffcc041ae9aa7258fc6435b15b40c235d75" 
+                type="audio/mpeg" 
+                length="46646070" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d08347ccaf3cf2868/d1d12305c0f662dc9d9d74a869eb7bbbf3e78dc487d386f3cf6cb0dc751f70ef" 
+                type="audio/mpeg" 
+                length="15548982" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d08347ccaf3cf2868/75b1638c9cc59f9b9070ddd6e1464164e0dcec0d6a461a413fedb330ea93fe37" 
+                type="audio/x-m4a" 
+                length="62560193" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d08347ccaf3cf2868/e1811912aac02f966febc0e02fa2a03a585fa45fc42951475eb31a9ec067b67d" 
+                type="audio/x-m4a" 
+                length="47011499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9525d08347ccaf3cf2868/615e5c44d0eb75233dc230391d145ca42221364fa0fd0b4e8ba803b0b4b14cd2" 
+                type="audio/x-m4a" 
+                length="15913965" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496131</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/taylor-swift/hvem-er-taylor-swift-1-5-13332496131</link>
+            <title>Hvem er Taylor Swift? 1:5</title>
+            <description>En 11-årig, lyshåret pige går med målrettede skridt ned ad gaden i downtown, Nashville. I hånden har hun en CD med covernumre, hun selv har indspillet - og tiden er inde til at pladeselskaberne i countrymusikkens hovedstad indser, at hun er det talent, de leder efter. Det skal hurtigt vise sig, at hun har ret, og det nye talent ser ud til at være ustoppelig. Lige indtil et af tidens mest anerkendte rap-ikoner afbryder hende midt i en takketale til et storslået awardshow.
+
+Gæst: Frederikke Amalie Muff.
+Vært: Andrew Moyo.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+
+Kilder:
+Eyewitness News, ABC 7 Chicago.
+First Move, CNN Business.
+Miss Americana, Tremolo Productions, Netflix.
+The Ellen DeGeneres Show.
+Taylor Swift: A young singer's meteoric rise, 60 minutes, CBS.
+Graham Norton Show, BBC.
+Penford Media.
+BBC.
+VMA Awards 2009, MTV.</description>
+            <pubDate>Tue, 25 Jun 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ee266f037612aa3e8c/5836995497c8ebf77ff8f3a63889dd043a8fdfdc0584159a157367669ab6aa42" 
+                type="audio/mpeg" 
+                length="63380016" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ee266f037612aa3e8c/c25660dc6a8a2f2deef765e859acfa368df01d4f85a9ea61d83e566f16687864" 
+                type="audio/mpeg" 
+                length="21126960" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ee266f037612aa3e8c/72f3d2e29681d92390bf13a860cfd6e5d8e03125aa3f5803a63df30677eeca83" 
+                type="audio/x-m4a" 
+                length="85002844" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ee266f037612aa3e8c/bd2c1c0935b517ec9a7dd9c76d5733fa6d70c5b6846ad8aa2891083b77d13788" 
+                type="audio/x-m4a" 
+                length="63876111" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ee266f037612aa3e8c/7c0d5d52349fbbcb4c3e22a50af6b7ff01289f8068801f5a3afd9636ed095fde" 
+                type="audio/x-m4a" 
+                length="21622668" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496132</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/taylor-swift/hvem-er-taylor-swift-2-5-13332496132</link>
+            <title>Hvem er Taylor Swift? 2:5</title>
+            <description>19-årige Taylor Swift står på scenen til MTV Video Music Awards, foran hende i salen sidder alle de største stjerner fra musikbranchen - og de buh'er. Ikke af hende, finder hun senere ud af, men på det tidspunkt har ydmygelsen allerede nået at tænde en ild i hende. Hun skal nok vise verden, at hun hører til på den scene - og en vigtig brik i den mission er en svensk superproducer. Så Taylor tager telefonen og ringer til Sverige.
+
+Gæst: Frederikke Amalie Muff.
+Vært: Andrew Moyo.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+
+Kilder:
+VMA Awards 2009, MTV.
+The Today Show, NBC.
+Jimmy Kimmel Live, ABC.
+Larry King Live, CNN.
+TMZ.
+ABC News.
+Yahoo! News.
+Watch What Happens: Live, Brave TV.
+Katie, Disney-ABC.
+CBS Sunday Morning, CBS.</description>
+            <pubDate>Tue, 25 Jun 2024 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e91/7f053ec7fa7d7b89d228e4b9ea34c6365c2a104254720b26de987585ec574a03" 
+                type="audio/mpeg" 
+                length="45547059" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e91/4e759fe2301c7d50e0cdcfa009ce987b73fe8d2bc19be4eb66774d7a7e39432d" 
+                type="audio/mpeg" 
+                length="15182643" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e91/ecb3df958cf6887951f5732e77ac6d35a81bff91649112319d56baf354531137" 
+                type="audio/x-m4a" 
+                length="61086008" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e91/fb4844fb604d7527b5eda8e5ab5eccdf3bf84f0f9540479f2d111c5fe5275eb5" 
+                type="audio/x-m4a" 
+                length="45903571" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e91/17301fd4008b9422e60588cec91e4087f769a308e699017c676bf299dcbf6755" 
+                type="audio/x-m4a" 
+                length="15538992" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496133</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/taylor-swift/hvem-er-taylor-swift-3-5-13332496133</link>
+            <title>Hvem er Taylor Swift? 3:5</title>
+            <description>Fra toppen af Empire State Building i New York har en 24-årig Taylor Swift akkurat præsenteret verden for sit femte album, 1989. En uge senere har hun solgt flere end 1,2 millioner albums og slået alle salgsrekorder. Det går godt nu! Men det, Taylor ikke ved på det her tidspunkt, er, at der om lidt bliver lækket en video på Snapchat, der skal kaste hende ud i sit livs største krise. En video, der viser et telefonopkald imellem hende og Kanye West.
+
+Gæst: Frederikke Amalie Muff.
+Vært: Andrew Moyo.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+
+Kilder:
+Cosmopolitan.
+ClevverTV.
+ClevverNews.
+Girls, HBO.
+Carpool Karaoke, Hollywood Life.
+Dailymotion.
+Kanye West Live Performances, Tidal.
+The View, ABC.
+Miss Americana, Tremolo Productions, Netflix.
+CBS Sunday Morning, CBS.</description>
+            <pubDate>Tue, 25 Jun 2024 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e95/a04cb8d830fe5fd9efef611f45956bd96915ba8bd39a9b92aeed3d8b0337e5f5" 
+                type="audio/mpeg" 
+                length="52897972" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e95/eabf92dc2bb1ee7bc45b8a5563e413011c8bf1e3659b184d7260b45a14faccf3" 
+                type="audio/mpeg" 
+                length="17632948" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e95/476d7d9a7191d73f457e197ebb885c6b1c3ca91465d24272900ba9a8f03f54eb" 
+                type="audio/x-m4a" 
+                length="70945280" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e95/474276c2541e3ab926accba193d919248416222c906bfd6d22b3247aa402081d" 
+                type="audio/x-m4a" 
+                length="53312483" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e95/e8deb22e5c0b53629b6780fdf17e5392449b5412c380b4050f9a95d5d5b62a6a" 
+                type="audio/x-m4a" 
+                length="18046888" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496134</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/taylor-swift/hvem-er-taylor-swift-4-5-13332496134</link>
+            <title>Hvem er Taylor Swift? 4:5</title>
+            <description>Efter at være som sunket i jorden i over et år, er 27-årige Taylor Swift nu tilbage - og hun har lagt store planer, imens hun har skjult sig fra omverdenen. Det er blevet tid til at overtage verdensherredømmet. Med Taylors Versions genvinder hun overlegent kontrollen med sine første udgivelser og næste skridt er en verdensturné. Taylor er klar! Hendes fans er klar! Det skal vise sig, at det er Ticketmaster ikke.
+
+Gæst: Frederikke Amalie Muff.
+Vært: Andrew Moyo.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+
+Kilder:
+Late Night with Seth Meyers, NBC.
+Jesse Waters Primetime, Fox News.
+CBS Sunday Morning, CBS.
+Taylor Swift Station.
+Video Music Awards 2022, MTV.
+The Tonight Show, NBC.
+GMA, NBC News.
+Nightlinr, ABC.</description>
+            <pubDate>Tue, 25 Jun 2024 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:21:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e99/5554b9ad721d1a572a6ef0cd652fbf7fa89145d6ee25f1efaa2f08adecbdcc33" 
+                type="audio/mpeg" 
+                length="30250802" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e99/9ed51787b875bc42d37df800f71ea3a3971ad76318ab89f9b264d93e3fa595f2" 
+                type="audio/mpeg" 
+                length="10083890" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e99/625da295ce3b5e3b61189105f4d8a3d51e9d0583fa93427619fb98565cfc2e05" 
+                type="audio/x-m4a" 
+                length="40571633" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e99/354aba923f4b4de64c70e6bfb9778cbf412f576aedba05a21da3caa94a480001" 
+                type="audio/x-m4a" 
+                length="30487963" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666170ef266f037612aa3e99/76e3a24836acf0a3e62c8e9cb7406c56c169836274cf950f6031f1bea4d099bc" 
+                type="audio/x-m4a" 
+                length="10320757" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496135</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/taylor-swift/hvem-er-taylor-swift-5-5-13332496135</link>
+            <title>Hvem er Taylor Swift? 5:5</title>
+            <description>The ERAs Tour pløjer henover verdenskortet og frembringer bogstaveligt talt jordskælv i de byer, hvor cirkusset gør holdt. Og det er midt i det ekstremt velkoreograferede kaos, at Taylor finder sin næste store kærlighed og samtidig beskyldes for at være hemmelig agent for Pentagon og Det Hvide Hus. Den nu 32-årige Taylor Swift står på toppen af verden og er mere ombejlet og omdiskuteret end nogensinde - men det er slut med at lade sig styre af andres meninger.
+
+Gæst: Frederikke Amalie Muff.
+Vært: Andrew Moyo.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+
+Kilder:
+Jesse Waters Primetime, Fox News.
+New Heights with Jason &#x26; Travis Kelce.
+Nightline, ABC.
+CBS NFL.
+Entertainment Tonight.
+Kens5 News.
+Late Night with Seth Meyers, NBC.
+MSN NBC.
+Miss Americana, Tremolo Productions, Netflix.
+BBC.</description>
+            <pubDate>Tue, 25 Jun 2024 05:04:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6666c3bc9d11febf9cbb01fa/2535727d220d3320e54ec49aa4afc82a8cf99d4b215d4e2c629605fb06dcd646" 
+                type="audio/mpeg" 
+                length="50318071" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6666c3bc9d11febf9cbb01fa/af7a2fa5d1c63074355b2b61cba1a1def5dcbf7c9ed0027f4386dc29a74c2c59" 
+                type="audio/mpeg" 
+                length="16772983" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6666c3bc9d11febf9cbb01fa/f5b50b046e9ee975f73d0846a1acd250d83ee6d59257658d64465cdd02c25839" 
+                type="audio/x-m4a" 
+                length="67485107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6666c3bc9d11febf9cbb01fa/4d86066d0d7961ad637be2b80c24073bb308d2e5e2d9ad3eb43260894c0e9732" 
+                type="audio/x-m4a" 
+                length="50712311" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6666c3bc9d11febf9cbb01fa/1aa48b40802bbfdeb1c99a530c3605f9a823283b98f675809e6eaaeed0eb6ff3" 
+                type="audio/x-m4a" 
+                length="17166715" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496151</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/christopher/hvem-er-christopher-1-5-13332496151</link>
+            <title>Hvem er Christopher? 1:5</title>
+            <description>Under flyenes brølen ved Kastrup står en lyshåret dreng og jonglerer med en fodbold. Han prøver at slå sin egen rekord, han vil hele tiden blive bedre. Og sådan fortsætter han, indtil han finder sig selv skrigende ind i et håndklæde et sted i Kina godt tyve år senere. Christophers selvdisciplin er nøglen til hans succes, men også roden til den splittelse, der nu - en novemberdag i 2023 - er tæt på at rive ham midt over.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 03 Sept 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76dfd/53620d728fdf095f58465a5e379028a5553c43d358135e5b9a486843d38beb1c" 
+                type="audio/mpeg" 
+                length="56389407" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76dfd/a9f81a6a9d0a678f36e5430ccc8bd4b1056d0a1cb50c0bb86e8ee8e7caeb527d" 
+                type="audio/mpeg" 
+                length="18796575" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76dfd/7e32effb6118674946a6a654776aa8ae8028e629c6c271436919426620bc167f" 
+                type="audio/x-m4a" 
+                length="75627628" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76dfd/11f5fe4669de38ed246368da09c6871e057fd5327ebf14826f5aa84eb20306ec" 
+                type="audio/x-m4a" 
+                length="56831123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76dfd/02043edff100324d70b6263548b3116bb10f47a3a47d261c9081ace2067fb365" 
+                type="audio/x-m4a" 
+                length="19237932" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496152</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/christopher/hvem-er-christopher-2-5-13332496152</link>
+            <title>Hvem er Christopher? 2:5</title>
+            <description>I et klasselokale på Niels Brock Handelsgymnasium sidder en ung mand og kigger ud ad vinduet. Han opdager slet ikke, at læreren råber ham op til tavlen, for alle hans tanker kredser om den pladekontrakt, han lige har fået. En pladekontrakt, der som en trylleformular skal få alle hans drømme til at blive til virkelighed: Berømmelse, penge, fans - og en helt særlig romance. Men sammen med drømmene kommer også et mareridt. Christopher skal nemlig få sit hjerte knust på forsiden af de kulørte blade.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 03 Sept 2024 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e01/2db230d61c4d1f54e8d2e4e9e7c8d4ad7608fbeafdec01502b1a68edfa2d4a9e" 
+                type="audio/mpeg" 
+                length="52333791" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e01/be1641a81211b4e865cc8a3ecddaee7022955fffee385b572ce650452affc114" 
+                type="audio/mpeg" 
+                length="17444703" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e01/4d33bc65a43d6e00888abfb8f47f9b3aeb8cc4b0ef9e592eba0c6bf5444e318f" 
+                type="audio/x-m4a" 
+                length="70188533" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e01/cb89cd2ab1a018ae976eb5fda94da19049d188b4c943da3919dfc757f4bdc946" 
+                type="audio/x-m4a" 
+                length="52743703" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e01/54763047cd25fe715ab7a6d7e22b81752c8ca29dd51bbf6e0bac0937c426ed56" 
+                type="audio/x-m4a" 
+                length="17854393" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496153</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/christopher/hvem-er-christopher-3-5-13332496153</link>
+            <title>Hvem er Christopher? 3:5</title>
+            <description>Hvis du er en kendis i 2014 på jagt efter en fest, så flytter du ind på lejlighedshotellet, STAY. DJ Tiësto spiller bangers i gården. Remee holder hof i Penthousen. Og midt mellem halvnøgne modeller og champagnetårne bor 22-årige Christopher i en lejlighed uden møbler. Han ved egentlig godt, at han burde skrue ned, men ender med at ramme muren og få næseblod foran 10.000 mennesker. Og som det er med historien, har den det med at gentage sig: 32-årige Christopher har allerede glemt Kinas rædsler og har sat sig på flyet til Latinamerika.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 03 Sept 2024 05:02:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e05/5384578e33b2de6ed407aef8ba72c266a1d1c842d883e1329776e792b60a7c77" 
+                type="audio/mpeg" 
+                length="54661407" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e05/ae0c3c2a026fdc9660b79164190e31b1a2b51629b0789826e990b24ee8df8bfe" 
+                type="audio/mpeg" 
+                length="18220575" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e05/482ae993326b93fd9cc8d7977e3fab64ae71d0d0417e5c074bbdf96520f167d8" 
+                type="audio/x-m4a" 
+                length="73310096" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e05/e64f77f58616f721292b226517622a5bd33a70c8034fb0a9cb51a89420d78177" 
+                type="audio/x-m4a" 
+                length="55089559" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0ea56be59b02e76e05/89f121f20053cbe85395c50a637405b8c0b481df0aa485e1a199c13141988aa6" 
+                type="audio/x-m4a" 
+                length="18648456" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496154</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/christopher/hvem-er-christopher-4-5-13332496154</link>
+            <title>Hvem er Christopher? 4:5</title>
+            <description>Christopher har altid haft store ambitioner. Men ved siden af de karrieremæssige mål ligger også et personligt mål om at blive en "2.0-version af sine egne forældre". Men hvordan går det lige med at være en kærlig og nærværende far, når Korea står og kalder på ham? Noget det eksotiske land har gjort, lige siden Christopher en regnvåd aften satte sig ind på Kongens Nytorv og skruede op for sin nye sangstemme.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 03 Sept 2024 05:03:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:48</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa56be59b02e76e0d/6693682f0958e3aa84a64479960f720fa87dbddf2f9bd6a1622b960c9d7f910d" 
+                type="audio/mpeg" 
+                length="54433887" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa56be59b02e76e0d/ddcefc1f1ae1ffb03a9a71871913b9fe4953ec745e8282fe4a4995691e2bd021" 
+                type="audio/mpeg" 
+                length="18144735" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa56be59b02e76e0d/8760b520e9fb093af8d2873a35f622df4ec323fe5e6a280cb6b2e07a9995c203" 
+                type="audio/x-m4a" 
+                length="73005288" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa56be59b02e76e0d/02e6903b481992175c27928134f934ec48503c211542e4b778485db9c390cbaa" 
+                type="audio/x-m4a" 
+                length="54860487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa56be59b02e76e0d/e6fedb435d270de8331c057264b837450fb5e4fbdc2a4f5390f034dfd50377db" 
+                type="audio/x-m4a" 
+                length="18570868" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496155</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/christopher/hvem-er-christopher-5-5-13332496155</link>
+            <title>Hvem er Christopher? 5:5</title>
+            <description>Verdenstouren lakker mod enden, og det skal vise sig, om Christophers bange anelser i begyndelsen af interviewrækken er blevet til virkelighed. Bebrejder hans døtre ham? Hvad med hans kone? Har han truffet de rigtige valg mellem faderskab og eventyrlyst? Det føles som om, han er hovedpersonen i en dramatisk film - og det er han på en måde også. En sommerdag på Tisvildeleje Strand under pandemien skal nemlig blive startskuddet på et kapitel af Christophers karriere, der overgår selv den vildeste fiktion.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 03 Sept 2024 05:04:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa127df4c0a3c2b50/855c7a02c3962214626897025da83b2d4a95d0df4f7a9016cdb31cc436aaced9" 
+                type="audio/mpeg" 
+                length="48073695" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa127df4c0a3c2b50/892fbd2c1c39ba8258cb24d8c319547decbaec1b440bc8b404a9b7383934d8e2" 
+                type="audio/mpeg" 
+                length="16024671" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa127df4c0a3c2b50/57b018fb2bfb16130c689afd7bb6e3b76ac698b5f6c2cebe4d1ebfa34fb709c8" 
+                type="audio/x-m4a" 
+                length="64475363" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa127df4c0a3c2b50/af031703a877ca65fe40e97d96f86d3362dc60ed328bc5c5ec80a9a592b63f5d" 
+                type="audio/x-m4a" 
+                length="48450639" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc3d0fa127df4c0a3c2b50/744a28bf9417cce57a9638164467d5716cd70c9962b677999b563032599521fb" 
+                type="audio/x-m4a" 
+                length="16401151" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496171</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/simon-kvamm/hvem-er-simon-kvamm-1-6-13332496171</link>
+            <title>Hvem er Simon Kvamm? 1:6</title>
+            <description>I en dagligstue i Silkeborg i midten af 80'erne sidder en dreng i tennistøj og øver sig på sine klaverlektier. Unge Simon er splittet mellem sportens fællesskaber og musikkens indadvendthed. Han elsker sammenholdet med sine knallert-venner, men af frygt for deres øgenavne undertrykker han sin lyst til at stå på en scene - lige indtil en augustdag i spisesalen på Baaring Højskole.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 22 Oct 2024 05:00:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafa7a2971143801c99c/2be1ff3b73383c412db23232ceed332d3a0b89d7188adb7200d93eaa251a54a8" 
+                type="audio/mpeg" 
+                length="41746035" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafa7a2971143801c99c/5adabd6c595e41a25877c0cf3fc566cb1a70398ddbe9cea206124c9d01b19f2d" 
+                type="audio/mpeg" 
+                length="13915635" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafa7a2971143801c99c/370357ec92b7fe8fce3b1e9f5ba8d017181e784f41b2075b1a322bf696a2b919" 
+                type="audio/x-m4a" 
+                length="55988119" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafa7a2971143801c99c/7cb976290035ad4fb87db160de14cdef3340ea7e006b1cc4356c48bb437e6c29" 
+                type="audio/x-m4a" 
+                length="42072831" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafa7a2971143801c99c/a1dc99f0c3bc814ba7c3b82b790c71a164ad6570bac6b6bd9a23b5d48c2fd26b" 
+                type="audio/x-m4a" 
+                length="14242239" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496172</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/simon-kvamm/hvem-er-simon-kvamm-2-6-13332496172</link>
+            <title>Hvem er Simon Kvamm? 2:6</title>
+            <description>Det er en forandret Simon, der kommer hjem fra højskolen. Inden længe finder han sig selv på Aarhus Universitet, hvor en fælles foragt for Stevie Wonder samler en ny klub omkring ham. En klub ved navn Nephew. Op gennem slutningen af 90'erne knokler de for gennembruddet - men det kommer aldrig. Slukøret skriver Simon derfor et afskedsbrev til sine bandkammerater. Men skæbnen har lagt andre planer for "Die Neffen".
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 22 Oct 2024 05:01:00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9a9/2f2a660466a2c3fbb0f5c4398f4687b5e6dcc92d9d6b29a439b3aee1eb06745b" 
+                type="audio/mpeg" 
+                length="51733875" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9a9/8adeb60e311bb83e711b2beb5521d951637b2e4bfbd420fdae20b1f892dd3529" 
+                type="audio/mpeg" 
+                length="17244915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9a9/416960e72cb7e9328685e6e2a802144b9a4bc32310855467bdda78709addfe6e" 
+                type="audio/x-m4a" 
+                length="69383804" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9a9/2fc0571ce44a3b7d42309db01a1506a13d89001d629f4ead8d8bc71d02ed039c" 
+                type="audio/x-m4a" 
+                length="52139059" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9a9/48cccadbb1b9bdc9cea500f4c4eecb3d615ed9106b0e22325575501d73675631" 
+                type="audio/x-m4a" 
+                length="17649648" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496173</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/simon-kvamm/hvem-er-simon-kvamm-3-6-13332496173</link>
+            <title>Hvem er Simon Kvamm? 3:6</title>
+            <description>I begyndelsen af 00'erne træder en journalistpraktikant med britpop-hår ind på Danmarks Radio. Vennerne i Nephew har nemlig nedgraderet bandet til en fælles hobby, hvor de for tiden indspiller sangskitser for at gemme dem til eftertiden. Men efter at have været en tur igennem en særlig iMac, er sangene som forvandlede. En konvolut med en brændt CD bliver sendt til P3, og med ét trækker det op til en perfekt storm over Simon.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 29 Oct 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9b1/c50f57516326c32830f09034c56bfc39b3bcf19a85471887698eefa9b3a08523" 
+                type="audio/mpeg" 
+                length="55612083" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9b1/2212de3bd03c2c867438e980bee265b883c0e4f67d799f09f9c7bf5fa1b0796a" 
+                type="audio/mpeg" 
+                length="18537651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9b1/550286a7e42759491eb745debb839a9642665ff9761c2ae000ba8991fffd930f" 
+                type="audio/x-m4a" 
+                length="74585324" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9b1/c43884d6e91952e273dfcdf7673c1a2a6917aada9b1d04b9d3e99d529be6624a" 
+                type="audio/x-m4a" 
+                length="56047847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafc7a2971143801c9b1/5244535d5455eb4c3390c1c723f75dc481fd52b570891772431a6165d14e1076" 
+                type="audio/x-m4a" 
+                length="18972800" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496174</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/simon-kvamm/hvem-er-simon-kvamm-4-6-13332496174</link>
+            <title>Hvem er Simon Kvamm? 4:6</title>
+            <description>Simon vågner ved lyden af nogen, der råber hans navn. Fra sit vindue kan han se en gruppe piger, der hopper på køleren af hans gamle Mazda. Her i 2004 er han Danmarks måske mest kendte mand, der både fylder på fredagens sendeflade med Drengene fra Angora og i ungdommens øregange med Nephew. For den jyske knægt, der var bange for at træde ved siden af, er det en underlig blanding af drøm og mareridt. Presset stiller ham over for et dilemma: Hvilken hest skal han sætte pengene på?
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 05 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:41:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafdf341a59a1bc5bf96/b70f9fab2e2cfdd2ecf4ab49bfe272f881b00f9c657407e3e7929329ad07c6ea" 
+                type="audio/mpeg" 
+                length="59685560" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafdf341a59a1bc5bf96/89b05bf94b122b67b8f5df2ade10686cb128dd447725224d964229cbb290189a" 
+                type="audio/mpeg" 
+                length="19895480" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafdf341a59a1bc5bf96/5e8e944c24e4f299cced9b43094f8d13ac66d99ea1aab0dc57f01cb9bbfae3e3" 
+                type="audio/x-m4a" 
+                length="80048476" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafdf341a59a1bc5bf96/6b786cfabde257360f4bbbb44928f021693695cde527b4b3ce2798d977924567" 
+                type="audio/x-m4a" 
+                length="60153143" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafdf341a59a1bc5bf96/50cb3ba48aaa3635086fef5ece22de66278c792f74c709651793f59b6ad47e9c" 
+                type="audio/x-m4a" 
+                length="20362476" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496175</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/simon-kvamm/hvem-er-simon-kvamm-5-6-13332496175</link>
+            <title>Hvem er Simon Kvamm? 5:6</title>
+            <description>I slutningen af 00'erne er Nephew Danmarks største band, kendetegnet ved tunge beats, vilde synthesizere og kryptisk lyrik. Men pludselig lander der en single fra forsangeren, hvor han spiller lejrbålsguitar og synger om knallerter med sin gode ven Peter Sommer. Simon har genopfundet sig selv - men gør han det på bekostning af andres drømme? Det får han tid til at tænke over, efter at han i en brandert tager en livsomvæltende beslutning med sin kone.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 12 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:23:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafaf341a59a1bc5bf80/a8a957cc2bfbb2f550710769b91deba1721b0a4a5c3732c0a0a3c3e9b15e6fe1" 
+                type="audio/mpeg" 
+                length="33445874" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafaf341a59a1bc5bf80/3a795008dda956928b5c5f6a13b12ec9a8c4bbc48df29e25b0df5b5941cc3448" 
+                type="audio/mpeg" 
+                length="11148914" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafaf341a59a1bc5bf80/e691262db15dbfefa517dfbc4b81fac98b19e09a09e7e96eac59e41f7646b6dc" 
+                type="audio/x-m4a" 
+                length="44856401" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafaf341a59a1bc5bf80/bb382ed71860d62ddd7eee02fbda438cb8bc6bb3e4d74c1a77fa5653aec7a100" 
+                type="audio/x-m4a" 
+                length="33707863" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafaf341a59a1bc5bf80/2b3860e5138295b2947bdf5e96fce92e7df4391b27eef7a058f6cd72528c9683" 
+                type="audio/x-m4a" 
+                length="11410681" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496176</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/simon-kvamm/hvem-er-simon-kvamm-6-6-13332496176</link>
+            <title>Hvem er Simon Kvamm? 6:6</title>
+            <description>Mellem høje klitter og grundstødte projekter går Simon rundt i en livskrise. Han er flyttet til Klitmøller, men kan ikke finde den ro, han kom for - ikke før han sætter sig ind i byens lille kirke. Herfra udspringer et nyt evangelium i fortællingen om manden med de mange ansigter. Et musikalsk kapitel, som skal binde fortiden, nutiden og fremtiden sammen. Der er nemlig altid en slange - eller en hugorm - i paradis.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Produktionsleder: Line Enggaard Fejer.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 19 Nov 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafe7a2971143801c9be/b846ab0b7b6f419457f386b41a55cc87c1f101b97c674e1f40fd4c4cef92addc" 
+                type="audio/mpeg" 
+                length="44335733" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafe7a2971143801c9be/c753910444a9c6379cd46a85205e11fc8bea36c51888265afe166c04ba5e4e0c" 
+                type="audio/mpeg" 
+                length="14778869" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafe7a2971143801c9be/3df9d8d1bc28caaa1aae011327b8d22854b7b5b89fee32293aea1fb76715fcc2" 
+                type="audio/x-m4a" 
+                length="59461315" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafe7a2971143801c9be/b4af8fd4f9db7b3b594335df7ed56c355e1867fdd2f40187b6b273757a558353" 
+                type="audio/x-m4a" 
+                length="44682783" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670cfafe7a2971143801c9be/9ec1d48ed52398c973adb3122f37b9562052952776bb442e381470a1f26c7952" 
+                type="audio/x-m4a" 
+                length="15125743" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496181</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/infernal/hvem-er-infernal-1-4-13332496181</link>
+            <title>Hvem er Infernal? 1:4</title>
+            <description>I hver sin københavnske forstad sidder to outsidere og kigger ud ad hvert deres skolevindue. Den ene føler sig dummere end de andre i klassen, den anden føler sig klogere. Snart skal både den indadvendte dreng og 12-talspigen opdage technomusikkens euforiske verden, hvilket skal føre dem sammen i et venskab for livet - og måske også lidt mere end det.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 10 Dec 2024 05:00:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ee61fb353153a8b11/e3b16cae632d84dcdd482777a70d01ae236d9e50b73b4ad9cc0ee5a41f77f0c1" 
+                type="audio/mpeg" 
+                length="56940913" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ee61fb353153a8b11/5645f10803b67556411e0e2febc088e3804af862d025ac7dacf609fce6394e07" 
+                type="audio/mpeg" 
+                length="18980593" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ee61fb353153a8b11/777ae1c3b5dcbd2c9b5281c871fdf9a663ed11a537b78cba85f67f65b4fa5c30" 
+                type="audio/x-m4a" 
+                length="76366593" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ee61fb353153a8b11/6c3c75f3736e910b6eaa58f370370f56b9f4f117b670593e2299d49636f01d1e" 
+                type="audio/x-m4a" 
+                length="57386307" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ee61fb353153a8b11/6842fe67c1ba7f5d43d989418128f72d17d6dbd18759abd1590702c7d3f77df1" 
+                type="audio/x-m4a" 
+                length="19425901" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496182</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/infernal/hvem-er-infernal-2-4-13332496182</link>
+            <title>Hvem er Infernal? 2:4</title>
+            <description>På en skrattende fastnetforbindelse mellem København og Aarhus opstår sød musik mellem teenagerne Paw og Lina. Snart skal de udgive deres første musik - og det fører dem ind i mørket på dunkle fetich-klubber, der selvantænder, når de giver koncert iført lak, læder og seletøj. Et kort øjeblik kan de måske godt tvivle på, om de er på rette kurs. Hvad ingen i lokalet dog ved er, at de et par måneder senere skal være landskendte popstjerner.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 10 Dec 2024 05:01:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56db075b4261345c0d4/fbf5451a4bf31fff7587a07b25fe9a0b084892c34676f89b30b9460baedf417a" 
+                type="audio/mpeg" 
+                length="46574069" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56db075b4261345c0d4/314b86e21ede491e21a2405bfed52753635f2a9368ddded38e5de34540e6a2f5" 
+                type="audio/mpeg" 
+                length="15524981" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56db075b4261345c0d4/5d862b3132ebf82635b6070f702e62d3150759558721acede9022f7a63d63244" 
+                type="audio/x-m4a" 
+                length="62462699" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56db075b4261345c0d4/6ac3f1df6f9f49e8d483caa2261e50314e2a94b511f146bbb273381148beb5ca" 
+                type="audio/x-m4a" 
+                length="46938215" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56db075b4261345c0d4/737546866b196031917362c4aac65f925fcd9896abead672855cc0dadeed8ea6" 
+                type="audio/x-m4a" 
+                length="15889175" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496183</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/infernal/hvem-er-infernal-3-4-13332496183</link>
+            <title>Hvem er Infernal? 3:4</title>
+            <description>Infernal er blandt slut-90'ernes største danske teenidoler. Med mere end 80.000 solgte albums ender de med at definere lyden af dansk popmusik - og der er eufori og nærmest Beatles-tilstande, hver gang de indtager en af landets scener. Men når der er højt at flyve, er der også dybt at falde. Verden omkring dem vender på en tallerken, og da de til en koncert i en ungdomsklub prøver at skifte musikalsk retning, sker der noget, som kommer til at forfølge Paw resten af livet.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 10 Dec 2024 05:02:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56d6565d571840bb0d8/239de5fc023d2899c972c9787d342c189054ca0b4d0fd223dd2d8687ebafd8d1" 
+                type="audio/mpeg" 
+                length="51398061" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56d6565d571840bb0d8/3354d6036fd1c21e7208f4dcbc1758282003fe099b987dd212ce3389b1c097b9" 
+                type="audio/mpeg" 
+                length="17132973" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56d6565d571840bb0d8/66210e6fe96e8fc04f196d61e5275d81699f818688fe81411647ee65b44599a9" 
+                type="audio/x-m4a" 
+                length="68932616" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56d6565d571840bb0d8/9424649d65c50ba75666d25b23df948676cbe5fa4ca4255d9e136781a7e2b203" 
+                type="audio/x-m4a" 
+                length="51800083" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56d6565d571840bb0d8/844ebd90f6600d30278016d524e16adc794df2409a15781ea877a270193da820" 
+                type="audio/x-m4a" 
+                length="17534928" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496184</guid>
+            <link>https://www.dr.dk/lyd/p3/hvem-er/infernal/hvem-er-infernal-4-4-13332496184</link>
+            <title>Hvem er Infernal? 4:4</title>
+            <description>Med deres gigahit har Infernal genvundet æren - og mere til! I midten af nullerne hitter de i mere end 30 lande og spilles på repeat på Storbritaniens største radiokanal. Men på det værst tænkelige tidspunkt skal barndommens spøgelser vende tilbage og spænde ben for drømmene. Først ti år senere skal skæbnen vise Paw og Lina, at de faktisk altid har trivedes bedst i modvind - når bare de står side om side.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Jakob Franck Jensen.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+            <pubDate>Tue, 10 Dec 2024 05:03:00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:41:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ef43ee13a09aa1efd/93ed620525e9ea04e25b0f361053b2a66b3e372ebf82c4a5cdfed50a0c2215c8" 
+                type="audio/mpeg" 
+                length="59485685" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ef43ee13a09aa1efd/ec6affb533c594a28a18cabda0413fe36bc49103656599d2b41c80b860a5c458" 
+                type="audio/mpeg" 
+                length="19828853" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ef43ee13a09aa1efd/0b84b2c22340470d738eae51cf3ee570cb7e85c811fc21b5f1a6db98f42ac6ee" 
+                type="audio/x-m4a" 
+                length="79780049" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ef43ee13a09aa1efd/bda96b037598180206290b2bd088b3d8d2593d14bb28ce09bbce60349cec5100" 
+                type="audio/x-m4a" 
+                length="59951411" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6745b56ef43ee13a09aa1efd/3d95ce0896286e5f9d68aeb9f9fbe79a14123ba06a1668a4f202d6fe83f3e334" 
+                type="audio/x-m4a" 
+                length="20294169" />
+        </item>
+    </channel>
+</rss>

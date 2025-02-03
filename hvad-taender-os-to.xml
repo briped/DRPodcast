@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/podcast/hvad-taender-os-to.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Hvad tænder os to? (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/hvad-taender-os-to-4080302192000</link>
+        <description>Kristina og Mette vil gerne rykke grænserne for deres sexliv, men det er ikke let for den introverte Kristina at tale om sex. Kristina er dog ikke sen til at lade sig overtale til at tage med sin kæreste ud på en rejse, der indeholder hemmelige sexfantasier, klitoris-kunst, cuddling sessions, pleasure parties og lesbisk porno. Fra den danske provins går turen til New Yorks kreative klasse og ned i Berlins mørke undergrund.
+Podcasten indeholder optagelser af eksplicit sex.
+Tilrettelæggelse og Indtaling: Kristina Nya Glaffey. 
+Musik, mix og klip: Hjalte Lehmann. 
+Supplerende speak: Lea Linstow. 
+Manuskonsulent og redaktør: Mikkel Clausen. 
+Produceret for DR af Filt Cph.
+
+&#x3C;a href="https://xmpl.dk/podcast/"&#x3E;Recycled&#x3C;/a&#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Mon, 06 Jan 2025 07:12:31 +01:00</lastBuildDate>
+        <itunes:explicit>True</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/podcast/hvad-taender-os-to.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/podcast/cover/hvad-taender-os-to.jpg</url>
+            <title>Hvad tænder os to? (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/hvad-taender-os-to-4080302192000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/podcast/cover/hvad-taender-os-to.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Livsstil</category>
+        <itunes:category text="Livsstil" />
+        <item>
+            <guid isPermaLink="false">16122393051</guid>
+            <link>https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-1-6-tal-ikke-om-det-16122393051</link>
+            <title>1:6 - Tal ikke om det</title>
+            <description>Første udfordring for Kristina er overhovedet at turde tale om sex, at vove at dele sine intime og hemmelige fantasier med sin kæreste. 
+Tilrettelæggelse og Indtaling: Kristina Nya Glaffey. 
+Musik, mix og klip: Hjalte Lehmann. 
+Supplerende speak: Lea Linstow. 
+Manuskonsulent og redaktør: Mikkel Clausen. 
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Tue, 20 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>True</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/51f94ef317a96f9e5661c3fbea0f8d14fd97fa7f462b689a19d9666a2a77abeb" 
+                type="audio/mpeg" 
+                length="36706267" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/a72b8a2fabdaafe0ad76911ff5116727c05b3494b6883def221a6afdc16154f0" 
+                type="audio/mpeg" 
+                length="12235483" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/916b4b97a849f13936516de490b8356b64cf76d66349d94ebd6f9c81bee511fa" 
+                type="audio/x-m4a" 
+                length="49229803" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/91a2bfc1cfb18dd6dff58e7309bc6bcab6c0a8d854c46e5223c83f6d9f99040e" 
+                type="audio/x-m4a" 
+                length="36994241" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/dda3af66806a91c42c1d210479769c3acfa58587f9353be375911b2a2a2e2e0c" 
+                type="audio/x-m4a" 
+                length="12523976" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393052</guid>
+            <link>https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-2-6-sig-det-til-hele-verden-16122393052</link>
+            <title>2:6 - Sig det til hele verden</title>
+            <description>I Brooklyn, New York møder Kristina og hendes kæreste klitoris-kunstneren Sophia Wallace. På et økologisk landbrug på Sydsjælland, besøger de et par, der har gjort sig interessante erfaringer med både S/M-klubber og sexfester.
+Tilrettelæggelse og Indtaling: Kristina Nya Glaffey. 
+Musik, mix og klip: Hjalte Lehmann. 
+Supplerende speak: Lea Linstow. 
+Medvirkende: Sophia Wallace.
+Manuskonsulent og redaktør: Mikkel Clausen.
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Tue, 20 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>True</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/0868e7ed272f2f47e5ae3db53c6f194aa895bcee5baefce81d8b937156008919" 
+                type="audio/mpeg" 
+                length="37656667" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/fa87b0aa0e17576191c3f35bb89e404ac868ae758e47edda2bd7753d714cb5ef" 
+                type="audio/mpeg" 
+                length="12552283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/22b01db31f64dbbdc0b795fdee2f84f7ea348d5da4ac2aa72b3cdc35d7dd24d0" 
+                type="audio/x-m4a" 
+                length="50504249" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/0aefb56caf9ee5b6269ea12f4dff3dd28a06087ea17ce63f45bb54fbc5791b34" 
+                type="audio/x-m4a" 
+                length="37951913" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/cdf1f323f13ba0611591dc64ca4f334c486c9bde447760b918e7094274d2c003" 
+                type="audio/x-m4a" 
+                length="12848250" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393053</guid>
+            <link>https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-3-6-se-ikke-roere-16122393053</link>
+            <title>3:6 - Se, ikke røre</title>
+            <description>I en lejlighed i Berlin skal Kristina og hendes kæreste overvære optagelserne til en lesbisk pornofilm, men først mødes de med queer-porno-instruktøren, Mahx Capacity, der går linen helt ud i sine film.
+Denne episode indeholder optagelser af eksplicit sex
+Tilrettelæggelse og Indtaling: Kristina Nya Glaffey. 
+Musik, mix og klip: Hjalte Lehmann. 
+Supplerende speak: Lea Linstow. 
+Medvirkende: Mahx Capacity, Goodyn Green, Jasko Fide, Kali Sudhra.
+Manuskonsulent og redaktør: Mikkel Clausen. 
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Tue, 27 Jun 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>True</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/58ad362ba0548364c3af4be7df31e6a572ee09b4f01f5c1037a2df8a64c0f72b" 
+                type="audio/mpeg" 
+                length="36986203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/74e172b28ee3b4c0378b82f51627a92897612e23965a850ffe0edb21f2679725" 
+                type="audio/mpeg" 
+                length="12328795" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/8f4d4eb61f641bb0df778b8ae50fccd83ffc7aeb59e09524e2593e3f5079fb8f" 
+                type="audio/x-m4a" 
+                length="49604799" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/c823fbbce0c354b0fa4afae7bc41ac20dfb8675d415b08de67b550ed744a8b14" 
+                type="audio/x-m4a" 
+                length="37275977" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/49d5b76bc9d2a243c9f320957c72d3a31d7608def9b8bca7295ce5ce133547f8" 
+                type="audio/x-m4a" 
+                length="12619496" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393054</guid>
+            <link>https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-4-6-hold-om-mig-16122393054</link>
+            <title>4:6 - Hold om mig</title>
+            <description>I et forsøg på for en stund at dyrke den sensuelle berøring og det følsomme nærvær, tager Kristina sin kæreste med til 'mindful cuddling'. Men aftenen tager en uventet drejning.
+Tilrettelæggelse og Indtaling: Kristina Nya Glaffey.
+Musik, mix og klip: Hjalte Lehmann.
+Supplerende speak: Lea Linstow. 
+Manuskonsulent og redaktør: Mikkel Clausen.
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Tue, 04 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>True</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:22:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/975f07692b5fc1d63ab020ef5751320360bd51965845a2fedae8aba791dbdd9c" 
+                type="audio/mpeg" 
+                length="33023899" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/cbe49c8eb304f0ddd74468296ab3a85b496cd6f4d5f6ac6040c9765118ebe1a0" 
+                type="audio/mpeg" 
+                length="11008027" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/d01964dbdf87610b69bf790f2af5acfc6ad1a12ddef1fed924da3a7b815a8847" 
+                type="audio/x-m4a" 
+                length="44290502" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/96ffc320a2100a50481052a4461c0e3d7655b437a97b17f3b2a92ba0f95e3a99" 
+                type="audio/x-m4a" 
+                length="33282617" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/563890f9cc86234d67b40e1b35a296ef8171d9459fb8aeeb7c1013e29573835d" 
+                type="audio/x-m4a" 
+                length="11267809" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393055</guid>
+            <link>https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-5-6-den-store-stygge-sexfest-16122393055</link>
+            <title>5:6 - Den Store Stygge Sexfest</title>
+            <description>I en af Berlins mere vovede natklubber bevæger Kristina og kæresten sig omsider ind bag de tunge gardiner til et af stedets dark rooms. Det bliver en oplevelse, de sent skal glemme.
+Tilrettelæggelse og Indtaling: Kristina Nya Glaffey. 
+Musik, mix og klip: Hjalte Lehmann. 
+Supplerende speak: Lea Linstow. 
+Medvirkende: Goodyn Green.
+Manuskonsulent og redaktør: Mikkel Clausen. 
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Tue, 11 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>True</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:22:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/11c241fd83ca78f69d9fe41d4fa84fb468831a7587ef044a00fd6d6738486c2c" 
+                type="audio/mpeg" 
+                length="32127643" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/b8225bfed7a902f65ba02e2ad066e9a25396d33c16da46a163519c4b8c7ce76e" 
+                type="audio/mpeg" 
+                length="10709275" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/6b967f2f3daaba3e9ab9890afe013754dd9a6fcc4523f171eb1c3d978085399e" 
+                type="audio/x-m4a" 
+                length="43088811" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/caaccf0f0143c3f9285dcec63620444f555b23e48ebd23ca4a2ce75c379d94da" 
+                type="audio/x-m4a" 
+                length="32379525" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/ab1f01fc5615ec5245d1dc3fb34ce9b1b06b96f2b1a036a32b390740759fb9a2" 
+                type="audio/x-m4a" 
+                length="10962010" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393056</guid>
+            <link>https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-6-6-tid-til-eftertanke-16122393056</link>
+            <title>6:6 - Tid til eftertanke</title>
+            <description>Kristina og hendes kæreste mødes med to erfarne, lesbiske kvinder, der giver et kvalificeret bud på, hvordan man holder gang i sit sexliv og bevarer kærligheden gennem et langt parforhold.
+Tilrettelæggelse og Indtaling: Kristina Nya Glaffey. 
+Musik, mix og klip: Hjalte Lehmann. 
+Supplerende speak: Lea Linstow. 
+Manuskonsulent og redaktør: Mikkel Clausen. 
+Produceret for DR af Filt Cph.</description>
+            <pubDate>Tue, 18 Jul 2023 05:00:00 +02:00</pubDate>
+            <itunes:explicit>True</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/67c7752beffe72dd41fc92005eabc56b51d7f6487ea4b2ffbe4a0e9b0a0b0373" 
+                type="audio/mpeg" 
+                length="35060059" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/960f973fedc3237be8a9a8dd74bd90e63e61e65c83dcb29036f6440d9b082949" 
+                type="audio/mpeg" 
+                length="11686747" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/4d7054fcb47352b433747a911cf8e5a3392becc3af9404f4d50bf650c4538f50" 
+                type="audio/x-m4a" 
+                length="47021487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/315d84015df083dccbf26ed6598d5fcf21824734c45a055adb6cba6d878a70f7" 
+                type="audio/x-m4a" 
+                length="35334753" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/b8fe0aef8eaa18dac406f1f1fc84eb181370bc310925c60125266beafff5a637" 
+                type="audio/x-m4a" 
+                length="11962378" />
+        </item>
+    </channel>
+</rss>

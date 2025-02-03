@@ -1,0 +1,1012 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5074397345000",
+  "sortLetter": "m",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Kultur",
+    "Portrætter"
+  ],
+  "numberOfEpisodes": 7,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2023-12-11T05:06:00+01:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool-5074397345000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/dorrits-alder",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5074397345000",
+  "productionNumber": "5074397345000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:6565e1a842547a2ceec128de",
+  "slug": "moden-og-cool-5074397345000",
+  "title": "Moden & cool",
+  "description": "Dorrit Bøilerehauge er influencer, fotomodel og forsker med en mission. Som 63-årig har hun sat sig for at vise, at det er cool at være moden. Dorrit nægter at tale om ømme knæ og søvnløse nætter, for det er ikke dér, den interessante samtale ligger. I seriens syv episoder opsøger hun mennesker, hun finder inspirerende, og taler med dem om interesser, fremtidsdrømme og erfaringer med at blive ældre. Medvirkende er Dorrit Bøilerehauge, Margrethe Vestager, Mikkel Beha Erichsen, Karen Mukupa, Henrik Vibskov, Stine Bosse og Brian Holm. Tilrettelæggelse Mette Willumsen og Sara Røjkjær Knudsen. Redaktører Hanne Barslund og Carsten Nielsen.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67015e12ac68322c7b3aac01",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/png",
+      "blurHash": "NIMs[;RPys?cRORP?ci_yDkWQ,WA%Mx]M{IAf5s.",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e12ac68322c7b3aac01&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e12ac68322c7b3aac02&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67015e12ac68322c7b3aac03",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oDM?-yDi*0-;Vs%g?cv#.SsAn3Nx?c%hDhD%NFMx.8VXVDs:kW%ft7WBnOxZR+RjbJt7oyoexuR-",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e12ac68322c7b3aac03&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/png",
+      "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67015e12ac68322c7b3aac02&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#2E1E13",
+        "#D6D1D2"
+      ]
+    },
+    "colors": {
+      "dark": "#2E1E13",
+      "light": "#D6D1D2"
+    }
+  },
+  "sSlug": "moden-og-cool",
+  "rssUri": "https://xmpl.dk/podcast/moden-og-cool.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032327001",
+      "durationMilliseconds": 1908308,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032327001",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-11T05:00:00+01:00",
+      "startTime": "2023-12-11T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool/moden-og-cool-1/moden-og-cool-1-7-walk-the-talk-med-dorrit-boeilerehauge-11032327001",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:6565e1a9c638d654cdc54ef6",
+      "series": {
+        "title": "Moden & cool",
+        "id": "urn:dr:radio:series:6565e1a842547a2ceec128de",
+        "slug": "moden-og-cool-5074397345000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool-5074397345000",
+        "learnId": "urn:dr:ocs:audio:content:series:5074397345000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 15626589,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e5/9d9f6eac5cb702d2f914575eb6634445c4aeb31318f01473eb478c0e739c1f5b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 46159579,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e5/6bb6937c8ee36250be69d54dcc5220aec236cde26b2d91d61bebdfc3b7b23555"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 61426359,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e5/f5d2351fb6ff56a08366f8c2ea10a7852aa5851749670579450a5debc282d895"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 15267318,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e5/f39c2e9a0d5487218facac6814d602c1713f73ad44ab79e2b77c97b45d040702"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 45801078,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e5/96f020ad6eaa9aae9f30ed009791de8a5ec3f3ddb3a036d84d00f953aeeeb9c0"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e5/b7d9e952612b8c0df3ed2e756dcf4359e67cf3b58fedfd3f041673c83d01712f"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032327001",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-11T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:6565e1a942547a2ceec128e5",
+      "slug": "moden-og-cool-1-7-walk-the-talk-med-dorrit-boeilerehauge-11032327001",
+      "title": "1:7 - Walk the talk med Dorrit Bøilerehauge",
+      "description": "Synet på alder er rustent og gammeldags. Det mener Dorrit Bøilerehauge, som har arbejdet med mode, markedsføring og branding i mange år. Selv synes hun, at modne mennesker er cool, og at der med alderen kommer en større frihed og tilfredshed. Dorrit er drevet af at prøve nye ting, og efter hun er fyldt 60, er hun blevet model og influencer. Stærkt støttet af sine to voksne døtre. Medvirkende Dorrit Bøilerehauge, antropolog Bjarke Oxlund, Anna Sofia og Cristina Bøilerehauge Sanna samt modeller og ansatte hos Five Units. Tilrettelæggelse Mette Willumsen og Sara Røjkjær Knudsen. Redaktører Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac01",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIMs[;RPys?cRORP?ci_yDkWQ,WA%Mx]M{IAf5s."
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac03",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDM?-yDi*0-;Vs%g?cv#.SsAn3Nx?c%hDhD%NFMx.8VXVDs:kW%ft7WBnOxZR+RjbJt7oyoexuR-"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#2E1E13",
+            "#D6D1D2"
+          ]
+        },
+        "colors": {
+          "dark": "#2E1E13",
+          "light": "#D6D1D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032327002",
+      "durationMilliseconds": 1812629,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032327002",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-11T05:01:00+01:00",
+      "startTime": "2023-12-11T05:01:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool/moden-og-cool-1/moden-og-cool-2-7-ud-med-stereotyperne-med-margrethe-vestager-11032327002",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:6565e1aad041a0b1a5d9c4fc",
+      "previousId": "urn:dr:radio:episode:6565e1a942547a2ceec128e5",
+      "series": {
+        "title": "Moden & cool",
+        "id": "urn:dr:radio:series:6565e1a842547a2ceec128de",
+        "slug": "moden-og-cool-5074397345000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool-5074397345000",
+        "learnId": "urn:dr:ocs:audio:content:series:5074397345000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14843289,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a9c638d654cdc54ef6/3bb3497df415b2a31b83af6ef85e6762dc05c49b0ca418ce75372e795130ea1f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 43845327,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a9c638d654cdc54ef6/57d7b89dc09c57f2289b4d9a3b1aebbb0b652c8dcc926ef4390494b70f0dea25"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 58346663,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a9c638d654cdc54ef6/a897defe7eeac9c2bf707902f9b306e4b6efce1e2a740ec18433bed76baf5ca0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14502004,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a9c638d654cdc54ef6/ae9a05376b881df3f151c8d6dfdfa9227f4537228bf27c2241b0dd6337a4bb44"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 43505140,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a9c638d654cdc54ef6/6264872f531926e321e4e2a225abaf3bc978e66e82d492c737dd25b8f5f4011f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a9c638d654cdc54ef6/32a057da5a78d72d3c8e0871839bb300c8e3c4c0a8794a03138a01000d5cf556"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032327002",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-11T05:01:00+01:00",
+      "id": "urn:dr:radio:episode:6565e1a9c638d654cdc54ef6",
+      "slug": "moden-og-cool-2-7-ud-med-stereotyperne-med-margrethe-vestager-11032327002",
+      "title": "2:7 - Ud med stereotyperne med Margrethe Vestager",
+      "description": "Dorrit Bøilerehauge er inspireret af Margrethe Vestagers format og professionalisme, og har inviteret hende til en samtale om, hvad modenhed betyder for politikerens gennemslagskraft og magt. Medvirkende Dorrit Bøilerehauge, Margrethe Vestager og aldringsforsker Anette Tybjerg-Jeppesen. Tilrettelæggelse Mette Willumsen og Sara Røjkjær Knudsen. Redaktører Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac01",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIMs[;RPys?cRORP?ci_yDkWQ,WA%Mx]M{IAf5s."
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac03",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDM?-yDi*0-;Vs%g?cv#.SsAn3Nx?c%hDhD%NFMx.8VXVDs:kW%ft7WBnOxZR+RjbJt7oyoexuR-"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#2E1E13",
+            "#D6D1D2"
+          ]
+        },
+        "colors": {
+          "dark": "#2E1E13",
+          "light": "#D6D1D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032327003",
+      "durationMilliseconds": 1817278,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032327003",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-11T05:02:00+01:00",
+      "startTime": "2023-12-11T05:02:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool/moden-og-cool-1/moden-og-cool-3-7-nysgerrig-paa-ny-med-mikkel-beha-erichsen-11032327003",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:6565e1aa42547a2ceec128f1",
+      "previousId": "urn:dr:radio:episode:6565e1a9c638d654cdc54ef6",
+      "series": {
+        "title": "Moden & cool",
+        "id": "urn:dr:radio:series:6565e1a842547a2ceec128de",
+        "slug": "moden-og-cool-5074397345000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool-5074397345000",
+        "learnId": "urn:dr:ocs:audio:content:series:5074397345000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14881298,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aad041a0b1a5d9c4fc/1cfdffdfdd1cdc157f4718011d32ec9e21a84d3850a33b684abf444d00c77779"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 43957811,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aad041a0b1a5d9c4fc/dde2bd88f16bf24dd3d2d856f1691886f4ec3c3adc31776f9615cde9f7c99b91"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 58496280,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aad041a0b1a5d9c4fc/ff0ffd5e74beb63770ae34a1568a70f48847c2b9aab02fa791f4bce84916f78f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14539065,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aad041a0b1a5d9c4fc/68efd1618d5ff3d85f7e57f72ece64e725451e03a03587ba7ee10e76fc3c05b5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 43616313,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aad041a0b1a5d9c4fc/3f496f48e86ea6f15e7d29c7584cab7aacdadbe93f9fef66487c851d1170ea03"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aad041a0b1a5d9c4fc/ae1f8f312a91085e883c1202c3676229b069956cee2b6aabb50ddbe441246fbc"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032327003",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-11T05:02:00+01:00",
+      "id": "urn:dr:radio:episode:6565e1aad041a0b1a5d9c4fc",
+      "slug": "moden-og-cool-3-7-nysgerrig-paa-ny-med-mikkel-beha-erichsen-11032327003",
+      "title": "3:7 - Nysgerrig på ny med Mikkel Beha Erichsen",
+      "description": "Dorrit Bøilerehauge har fulgt Mikkel Beha Erichsens tv-fortællinger og rejser som kaptajn. Hun er nysgerrig efter at høre, hvordan han har det med at lade næste generation komme til. Og hvordan hans rolle i familien ændrer sig. Medvirkende Dorrit Bøilerehauge, Mikkel Beha Erichsen, antropolog Marie Konge Nielsen, Anna Sofia og Cristina Bøilerehauge Sanna. Tilrettelæggelse Mette Willumsen og Sara Røjkjær Knudsen. Redaktører Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac01",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIMs[;RPys?cRORP?ci_yDkWQ,WA%Mx]M{IAf5s."
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac03",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDM?-yDi*0-;Vs%g?cv#.SsAn3Nx?c%hDhD%NFMx.8VXVDs:kW%ft7WBnOxZR+RjbJt7oyoexuR-"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#2E1E13",
+            "#D6D1D2"
+          ]
+        },
+        "colors": {
+          "dark": "#2E1E13",
+          "light": "#D6D1D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032327004",
+      "durationMilliseconds": 1816478,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032327004",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-11T05:03:00+01:00",
+      "startTime": "2023-12-11T05:03:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool/moden-og-cool-1/moden-og-cool-4-7-moden-succes-med-karen-mukupa-11032327004",
+      "order": 100004,
+      "nextId": "urn:dr:radio:episode:6565e1aac638d654cdc54efe",
+      "previousId": "urn:dr:radio:episode:6565e1aad041a0b1a5d9c4fc",
+      "series": {
+        "title": "Moden & cool",
+        "id": "urn:dr:radio:series:6565e1a842547a2ceec128de",
+        "slug": "moden-og-cool-5074397345000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool-5074397345000",
+        "learnId": "urn:dr:ocs:audio:content:series:5074397345000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14874685,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa42547a2ceec128f1/090b9f8e445ab95c84aa6d5fc6f6c8caf47aed67a1f0d769547a0535dc934696"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 43938695,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa42547a2ceec128f1/e5d42ae178f64ae4b8f0b9629ba4dc083aeb5f464ffac318c26722612e1a878f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 58470933,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa42547a2ceec128f1/0f1eafc5eadd444751fc7f267d0b9c0a88e3c72c76a2dd99beebf0bf8cd89c7b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14532728,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa42547a2ceec128f1/965bb11f7e8d26d6d0a22c059b15302ac7fdcd7f64fb9353e624facd95892669"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 43597304,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa42547a2ceec128f1/58cc1c62544a3e8bd030e265aed00598af189d25aea57e2b7925b7d393f907f8"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa42547a2ceec128f1/81eda915b4167256ac2928cab7ea347a44d2b7dbd647a9edc529731b0587092b"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032327004",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-11T05:03:00+01:00",
+      "id": "urn:dr:radio:episode:6565e1aa42547a2ceec128f1",
+      "slug": "moden-og-cool-4-7-moden-succes-med-karen-mukupa-11032327004",
+      "title": "4:7 - Moden succes med Karen Mukupa",
+      "description": "Dorrit Bøilerehauge er imponeret over Karen Mukupas power som moden rapper i spotlightet. Dorrit nyder også selv at arbejde med farver, bevægelser, lys og musik som 63-årig model og influencer. Men de stikker begge ud fra vante forestillinger om, hvornår alder er en begrænsning i en branche. Medvirkende Dorrit Bøilerehauge, Karen Mukupa og økonomiprofessor Christian Bjørnskov. Tilrettelæggelse Mette Willumsen og Sara Røjkjær Knudsen. Redaktører Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac01",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIMs[;RPys?cRORP?ci_yDkWQ,WA%Mx]M{IAf5s."
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac03",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDM?-yDi*0-;Vs%g?cv#.SsAn3Nx?c%hDhD%NFMx.8VXVDs:kW%ft7WBnOxZR+RjbJt7oyoexuR-"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#2E1E13",
+            "#D6D1D2"
+          ]
+        },
+        "colors": {
+          "dark": "#2E1E13",
+          "light": "#D6D1D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032327005",
+      "durationMilliseconds": 1764672,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032327005",
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-11T05:04:00+01:00",
+      "startTime": "2023-12-11T05:04:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool/moden-og-cool-1/moden-og-cool-5-7-modne-modeller-paa-catwalken-med-henrik-vibskov-11032327005",
+      "order": 100005,
+      "nextId": "urn:dr:radio:episode:6565e1aa0e187c87474be8d9",
+      "previousId": "urn:dr:radio:episode:6565e1aa42547a2ceec128f1",
+      "series": {
+        "title": "Moden & cool",
+        "id": "urn:dr:radio:series:6565e1a842547a2ceec128de",
+        "slug": "moden-og-cool-5074397345000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool-5074397345000",
+        "learnId": "urn:dr:ocs:audio:content:series:5074397345000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14450689,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aac638d654cdc54efe/cdedfca23d401738d259b153c2bbb70a92716342cc8b69ff042ae8feaa0d555f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 42685819,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aac638d654cdc54efe/651a711d6e7dafe98d61037c73c5b29bea56f5d16739fa0259004051b70ab9d4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 56803723,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aac638d654cdc54efe/5710b4c1036842ca33f3299ab6e12325d719a6489b204af9dd86920d65b904eb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14118392,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aac638d654cdc54efe/63cc92e14d7bf3231b4cb1b428c80306d28f4e81ef362b539c4fc26643fb8cf9"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 42354296,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aac638d654cdc54efe/5a2ceff3a59b78988772687ad3352f78aa07227aabf10248607aefae814416ea"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aac638d654cdc54efe/98c1440a4d4158c0906119079c30768416886f30bb78596c0a1632fde4223db3"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032327005",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-11T05:04:00+01:00",
+      "id": "urn:dr:radio:episode:6565e1aac638d654cdc54efe",
+      "slug": "moden-og-cool-5-7-modne-modeller-paa-catwalken-med-henrik-vibskov-11032327005",
+      "title": "5:7 - Modne modeller på catwalken med Henrik Vibskov",
+      "description": "Dorrit Bøilerehauge elsker mode, og hendes forhold til materialer og farver er passioneret. En af de designere hun lægger mærke til, er Henrik Vibskov, der viser sit tøj på modeller i alle aldre. Designeren bliver med alderen mere og mere sikker på sig selv, sine metoder og fornemmelse for at træffe de rigtige beslutninger. Medvirkende Dorrit Bøilerehauge og Henrik Vibskov. Tilrettelæggelse Mette Willumsen og Sara Røjkjær Knudsen. Redaktører Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac01",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIMs[;RPys?cRORP?ci_yDkWQ,WA%Mx]M{IAf5s."
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac03",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDM?-yDi*0-;Vs%g?cv#.SsAn3Nx?c%hDhD%NFMx.8VXVDs:kW%ft7WBnOxZR+RjbJt7oyoexuR-"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#2E1E13",
+            "#D6D1D2"
+          ]
+        },
+        "colors": {
+          "dark": "#2E1E13",
+          "light": "#D6D1D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032327006",
+      "durationMilliseconds": 1823706,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032327006",
+      "episodeNumber": 6,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-11T05:05:00+01:00",
+      "startTime": "2023-12-11T05:05:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool/moden-og-cool-1/moden-og-cool-6-7-der-er-brug-for-mig-med-stine-bosse-11032327006",
+      "order": 100006,
+      "nextId": "urn:dr:radio:episode:6565e1a942547a2ceec128e9",
+      "previousId": "urn:dr:radio:episode:6565e1aac638d654cdc54efe",
+      "series": {
+        "title": "Moden & cool",
+        "id": "urn:dr:radio:series:6565e1a842547a2ceec128de",
+        "slug": "moden-og-cool-5074397345000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool-5074397345000",
+        "learnId": "urn:dr:ocs:audio:content:series:5074397345000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14933974,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa0e187c87474be8d9/f1d3d6d24ad27ef2823f83f708617f4691dff9cd078fa338651ba5ffbc5266a9"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 44113671,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa0e187c87474be8d9/9296de30f67bbf93927edb8c50042dd40ba610a206e3228fc954ec7a4941fff8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 58703621,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa0e187c87474be8d9/2c1d1fdfc68103f33bc16aa83d714107e05632b240002515c2dae05d92970a3a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14590518,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa0e187c87474be8d9/9790c2ac7991cb1b6d8b1dab192318484f5fab01250c30371b3e29ccdf4840f0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 43770678,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa0e187c87474be8d9/633cf40ccacaef8472fed09c7be16956942fcb9975150dc4522af46c2e7f6485"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1aa0e187c87474be8d9/1c2efb42635d61c02161ec4a5f048db58e65a1bac90448a4c21f674a250c0274"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032327006",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-11T05:05:00+01:00",
+      "id": "urn:dr:radio:episode:6565e1aa0e187c87474be8d9",
+      "slug": "moden-og-cool-6-7-der-er-brug-for-mig-med-stine-bosse-11032327006",
+      "title": "6:7 - Der er brug for mig med Stine Bosse",
+      "description": "Dorrit Bøilerehauge har altid fulgt erhvervskvinde og debattør Stine Bosse, og er imponeret over hendes store samfundsengagement. Stine Bosse er drevet af at have et formål, både privat og professionelt. Forbilledet er hendes farmor, der tog en stor livsopgave på sig. Medvirkende Dorrit Bøilerehauge, Stine Bosse og økonomiprofessor Christian Bjørnskov. Tilrettelæggelse Mette Willumsen og Sara Røjkjær Knudsen. Redaktører Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac01",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIMs[;RPys?cRORP?ci_yDkWQ,WA%Mx]M{IAf5s."
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac03",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDM?-yDi*0-;Vs%g?cv#.SsAn3Nx?c%hDhD%NFMx.8VXVDs:kW%ft7WBnOxZR+RjbJt7oyoexuR-"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#2E1E13",
+            "#D6D1D2"
+          ]
+        },
+        "colors": {
+          "dark": "#2E1E13",
+          "light": "#D6D1D2"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11032327007",
+      "durationMilliseconds": 1781195,
+      "categories": [
+        "Kultur",
+        "Portrætter"
+      ],
+      "productionNumber": "11032327007",
+      "episodeNumber": 7,
+      "seasonNumber": 1,
+      "publishTime": "2023-12-11T05:06:00+01:00",
+      "startTime": "2023-12-11T05:06:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool/moden-og-cool-1/moden-og-cool-7-7-nye-bjergtoppe-med-brian-holm-11032327007",
+      "order": 100007,
+      "previousId": "urn:dr:radio:episode:6565e1aa0e187c87474be8d9",
+      "series": {
+        "title": "Moden & cool",
+        "id": "urn:dr:radio:series:6565e1a842547a2ceec128de",
+        "slug": "moden-og-cool-5074397345000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/moden-og-cool-5074397345000",
+        "learnId": "urn:dr:ocs:audio:content:series:5074397345000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 14585854,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e9/2897e05299e43d3416a91333254277f28b49ab01f0f9a635a21977041233d18e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 43085203,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e9/102eb6ccd9d89ab29bf4ed5b34daf683067d72b3f4803cf0cdf802e04cb2886a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 57335159,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e9/5e56440ab3bf6acb0ffa0a1b1256a6fd1143b19b38d12837e20a1aa8b1e6fc8b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 14250489,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e9/2f408982b1900f1e1963ca85ad9ee7964658e53ef5512b90f8cfff4f608d259a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 42750585,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e9/5ad503d549aa62a1899b2d6832b7bdbc07dfdf6716e5bab5d94822c9b8b5e9af"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6565e1a942547a2ceec128e9/45bc60062266a50014df09f26a43ea3c6e7a24a55c85b6aefbe1a871b80e18bd"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11032327007",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2023-12-11T05:06:00+01:00",
+      "id": "urn:dr:radio:episode:6565e1a942547a2ceec128e9",
+      "slug": "moden-og-cool-7-7-nye-bjergtoppe-med-brian-holm-11032327007",
+      "title": "7:7 - Nye bjergtoppe med Brian Holm",
+      "description": "Dorrit Bøilerehauge ser cykelrytteren Brian Holm som stilikon og som et menneske med en enorm mental og fysisk styrke. Hans vedholdenhed og selvdisciplin bliver ikke mindre med alderen. Han dropper aldrig sin træning og sætter sig konstant nye mål. Medvirkende Dorrit Bøilerehauge, Brian Holm og antropolog Bjarke Oxlund. Tilrettelæggelse Mette Willumsen og Sara Røjkjær Knudsen. Redaktører Hanne Barslund og Carsten Nielsen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac01",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/png",
+          "blurHash": "NIMs[;RPys?cRORP?ci_yDkWQ,WA%Mx]M{IAf5s."
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac03",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oDM?-yDi*0-;Vs%g?cv#.SsAn3Nx?c%hDhD%NFMx.8VXVDs:kW%ft7WBnOxZR+RjbJt7oyoexuR-"
+        },
+        {
+          "id": "urn:dr:radio:image:67015e12ac68322c7b3aac02",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/png",
+          "blurHash": "oFM%QDD%ys-;Vs%g?ww^%~ofn3R+.9%hI9IURiR5%#ROVXofkW%MtQR*jEt6R+V@Roogoej[xaS5"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#2E1E13",
+            "#D6D1D2"
+          ]
+        },
+        "colors": {
+          "dark": "#2E1E13",
+          "light": "#D6D1D2"
+        }
+      }
+    }
+  ]
+}

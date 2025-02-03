@@ -1,0 +1,887 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:4080302192000",
+  "sortLetter": "h",
+  "channel": {
+    "title": "P1",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+    "slug": "p1",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/p1"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Livsstil"
+  ],
+  "numberOfEpisodes": 6,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2023-06-20T05:00:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to-4080302192000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/hvad-taender-os-to",
+  "psdbUrn": "urn:dr:mu:bundle:6481e6507140142884b72aed",
+  "psdbSlug": "hvad-taender-os-to",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:4080302192000",
+  "productionNumber": "4080302192000",
+  "isAvailableOnDemand": true,
+  "explicitContent": true,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:6481e6528904cd8f08302c13",
+  "slug": "hvad-taender-os-to-4080302192000",
+  "title": "Hvad tænder os to?",
+  "punchline": "En sexrejse, med alt fra klitoriskunst til dark rooms og lesbisk porno",
+  "description": "Kristina og Mette vil gerne rykke grænserne for deres sexliv, men det er ikke let for den introverte Kristina at tale om sex. Kristina er dog ikke sen til at lade sig overtale til at tage med sin kæreste ud på en rejse, der indeholder hemmelige sexfantasier, klitoris-kunst, cuddling sessions, pleasure parties og lesbisk porno. Fra den danske provins går turen til New Yorks kreative klasse og ned i Berlins mørke undergrund.\nPodcasten indeholder optagelser af eksplicit sex.\nTilrettelæggelse og Indtaling: Kristina Nya Glaffey. \nMusik, mix og klip: Hjalte Lehmann. \nSupplerende speak: Lea Linstow. \nManuskonsulent og redaktør: Mikkel Clausen. \nProduceret for DR af Filt Cph.",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7916",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NPRB|cD4PXNYROrr-4$d#*rqozkWENE3MyaMogkX",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001eb8b90c51f5c08c7916&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001eb8b90c51f5c08c7917&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7918",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oKQbRa5uI-quTKY5]y;0r?pJ%LxW0h9Hn9X-M{R5~A.8TJVEnho}OqWTs+r?RQS5.RtQM{Neahi_",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001eb8b90c51f5c08c7918&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001eb8b90c51f5c08c7917&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#04213D",
+        "#EED0AE"
+      ]
+    },
+    "colors": {
+      "dark": "#04213D",
+      "light": "#EED0AE"
+    }
+  },
+  "sSlug": "hvad-taender-os-to",
+  "rssUri": "https://xmpl.dk/podcast/hvad-taender-os-to.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393051",
+      "durationMilliseconds": 1529411,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "16122393051",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2023-06-20T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-1-6-tal-ikke-om-det-16122393051",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:6481e6548904cd8f08302c26",
+      "series": {
+        "title": "Hvad tænder os to?",
+        "id": "urn:dr:radio:series:6481e6528904cd8f08302c13",
+        "slug": "hvad-taender-os-to-4080302192000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to-4080302192000",
+        "learnId": "urn:dr:ocs:audio:content:series:4080302192000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12523976,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/dda3af66806a91c42c1d210479769c3acfa58587f9353be375911b2a2a2e2e0c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12235483,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/a72b8a2fabdaafe0ad76911ff5116727c05b3494b6883def221a6afdc16154f0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 36994241,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/91a2bfc1cfb18dd6dff58e7309bc6bcab6c0a8d854c46e5223c83f6d9f99040e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 36706267,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/51f94ef317a96f9e5661c3fbea0f8d14fd97fa7f462b689a19d9666a2a77abeb"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 49229803,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/916b4b97a849f13936516de490b8356b64cf76d66349d94ebd6f9c81bee511fa"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6528904cd8f08302c16/825ea30d4d4ccfe887d8f66f461c5359bec674ba7297eab16b67c1567cedab52"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481e6507140142884b72aeb",
+      "psdbSlug": "hvad-taender-os-to-1-6-tal-ikke-om-det",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393051",
+      "isAvailableOnDemand": true,
+      "explicitContent": true,
+      "latestPublishTime": "2023-06-20T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481e6528904cd8f08302c16",
+      "slug": "hvad-taender-os-to-1-6-tal-ikke-om-det-16122393051",
+      "title": "1:6 - Tal ikke om det",
+      "description": "Første udfordring for Kristina er overhovedet at turde tale om sex, at vove at dele sine intime og hemmelige fantasier med sin kæreste. \nTilrettelæggelse og Indtaling: Kristina Nya Glaffey. \nMusik, mix og klip: Hjalte Lehmann. \nSupplerende speak: Lea Linstow. \nManuskonsulent og redaktør: Mikkel Clausen. \nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7916",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NPRB|cD4PXNYROrr-4$d#*rqozkWENE3MyaMogkX"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7918",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbRa5uI-quTKY5]y;0r?pJ%LxW0h9Hn9X-M{R5~A.8TJVEnho}OqWTs+r?RQS5.RtQM{Neahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#04213D",
+            "#EED0AE"
+          ]
+        },
+        "colors": {
+          "dark": "#04213D",
+          "light": "#EED0AE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393052",
+      "durationMilliseconds": 1569011,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "16122393052",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2023-06-20T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-2-6-sig-det-til-hele-verden-16122393052",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:6481e6542f049931670d2058",
+      "previousId": "urn:dr:radio:episode:6481e6528904cd8f08302c16",
+      "series": {
+        "title": "Hvad tænder os to?",
+        "id": "urn:dr:radio:series:6481e6528904cd8f08302c13",
+        "slug": "hvad-taender-os-to-4080302192000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to-4080302192000",
+        "learnId": "urn:dr:ocs:audio:content:series:4080302192000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12848250,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/cdf1f323f13ba0611591dc64ca4f334c486c9bde447760b918e7094274d2c003"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12552283,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/fa87b0aa0e17576191c3f35bb89e404ac868ae758e47edda2bd7753d714cb5ef"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 37951913,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/0aefb56caf9ee5b6269ea12f4dff3dd28a06087ea17ce63f45bb54fbc5791b34"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 37656667,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/0868e7ed272f2f47e5ae3db53c6f194aa895bcee5baefce81d8b937156008919"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 50504249,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/22b01db31f64dbbdc0b795fdee2f84f7ea348d5da4ac2aa72b3cdc35d7dd24d0"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6548904cd8f08302c26/cfb77039b609bb98c65bfb0e0b10cea6f2afb5ac23f2c0956bb27e02e33a6b43"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481e6507140142884b72af1",
+      "psdbSlug": "hvad-taender-os-to-2-6-sig-det-til-hele-verden",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393052",
+      "isAvailableOnDemand": true,
+      "explicitContent": true,
+      "latestPublishTime": "2023-06-20T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481e6548904cd8f08302c26",
+      "slug": "hvad-taender-os-to-2-6-sig-det-til-hele-verden-16122393052",
+      "title": "2:6 - Sig det til hele verden",
+      "description": "I Brooklyn, New York møder Kristina og hendes kæreste klitoris-kunstneren Sophia Wallace. På et økologisk landbrug på Sydsjælland, besøger de et par, der har gjort sig interessante erfaringer med både S/M-klubber og sexfester.\nTilrettelæggelse og Indtaling: Kristina Nya Glaffey. \nMusik, mix og klip: Hjalte Lehmann. \nSupplerende speak: Lea Linstow. \nMedvirkende: Sophia Wallace.\nManuskonsulent og redaktør: Mikkel Clausen.\nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7916",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NPRB|cD4PXNYROrr-4$d#*rqozkWENE3MyaMogkX"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7918",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbRa5uI-quTKY5]y;0r?pJ%LxW0h9Hn9X-M{R5~A.8TJVEnho}OqWTs+r?RQS5.RtQM{Neahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#04213D",
+            "#EED0AE"
+          ]
+        },
+        "colors": {
+          "dark": "#04213D",
+          "light": "#EED0AE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393053",
+      "durationMilliseconds": 1541075,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "16122393053",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2023-06-27T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-3-6-se-ikke-roere-16122393053",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:6481e6538904cd8f08302c1e",
+      "previousId": "urn:dr:radio:episode:6481e6548904cd8f08302c26",
+      "series": {
+        "title": "Hvad tænder os to?",
+        "id": "urn:dr:radio:series:6481e6528904cd8f08302c13",
+        "slug": "hvad-taender-os-to-4080302192000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to-4080302192000",
+        "learnId": "urn:dr:ocs:audio:content:series:4080302192000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12619496,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/49d5b76bc9d2a243c9f320957c72d3a31d7608def9b8bca7295ce5ce133547f8"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12328795,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/74e172b28ee3b4c0378b82f51627a92897612e23965a850ffe0edb21f2679725"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 37275977,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/c823fbbce0c354b0fa4afae7bc41ac20dfb8675d415b08de67b550ed744a8b14"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 36986203,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/58ad362ba0548364c3af4be7df31e6a572ee09b4f01f5c1037a2df8a64c0f72b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 49604799,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/8f4d4eb61f641bb0df778b8ae50fccd83ffc7aeb59e09524e2593e3f5079fb8f"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6542f049931670d2058/88d1cf1cd2b4a168d957ce27b9bc90a5dfc25035754aa0ebf01d3e75bb0bce93"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481e650539f020020fbc891",
+      "psdbSlug": "hvad-taender-os-to-3-6-se-ikke-roere",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393053",
+      "isAvailableOnDemand": true,
+      "explicitContent": true,
+      "latestPublishTime": "2023-06-27T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481e6542f049931670d2058",
+      "slug": "hvad-taender-os-to-3-6-se-ikke-roere-16122393053",
+      "title": "3:6 - Se, ikke røre",
+      "description": "I en lejlighed i Berlin skal Kristina og hendes kæreste overvære optagelserne til en lesbisk pornofilm, men først mødes de med queer-porno-instruktøren, Mahx Capacity, der går linen helt ud i sine film.\nDenne episode indeholder optagelser af eksplicit sex\nTilrettelæggelse og Indtaling: Kristina Nya Glaffey. \nMusik, mix og klip: Hjalte Lehmann. \nSupplerende speak: Lea Linstow. \nMedvirkende: Mahx Capacity, Goodyn Green, Jasko Fide, Kali Sudhra.\nManuskonsulent og redaktør: Mikkel Clausen. \nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7916",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NPRB|cD4PXNYROrr-4$d#*rqozkWENE3MyaMogkX"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7918",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbRa5uI-quTKY5]y;0r?pJ%LxW0h9Hn9X-M{R5~A.8TJVEnho}OqWTs+r?RQS5.RtQM{Neahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#04213D",
+            "#EED0AE"
+          ]
+        },
+        "colors": {
+          "dark": "#04213D",
+          "light": "#EED0AE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393054",
+      "durationMilliseconds": 1375979,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "16122393054",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2023-07-04T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-4-6-hold-om-mig-16122393054",
+      "order": 100004,
+      "nextId": "urn:dr:radio:episode:6481e6558904cd8f08302c32",
+      "previousId": "urn:dr:radio:episode:6481e6542f049931670d2058",
+      "series": {
+        "title": "Hvad tænder os to?",
+        "id": "urn:dr:radio:series:6481e6528904cd8f08302c13",
+        "slug": "hvad-taender-os-to-4080302192000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to-4080302192000",
+        "learnId": "urn:dr:ocs:audio:content:series:4080302192000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 11267809,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/563890f9cc86234d67b40e1b35a296ef8171d9459fb8aeeb7c1013e29573835d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11008027,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/cbe49c8eb304f0ddd74468296ab3a85b496cd6f4d5f6ac6040c9765118ebe1a0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 33282617,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/96ffc320a2100a50481052a4461c0e3d7655b437a97b17f3b2a92ba0f95e3a99"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 33023899,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/975f07692b5fc1d63ab020ef5751320360bd51965845a2fedae8aba791dbdd9c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 44290502,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/d01964dbdf87610b69bf790f2af5acfc6ad1a12ddef1fed924da3a7b815a8847"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6538904cd8f08302c1e/0c2e8684dd94dd3dd9139efc542acf1464e23e717c5bfd3e891b31344b9febc7"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481e650539f020020fbc88f",
+      "psdbSlug": "hvad-taender-os-to-4-6-hold-om-mig",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393054",
+      "isAvailableOnDemand": true,
+      "explicitContent": true,
+      "latestPublishTime": "2023-07-04T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481e6538904cd8f08302c1e",
+      "slug": "hvad-taender-os-to-4-6-hold-om-mig-16122393054",
+      "title": "4:6 - Hold om mig",
+      "description": "I et forsøg på for en stund at dyrke den sensuelle berøring og det følsomme nærvær, tager Kristina sin kæreste med til 'mindful cuddling'. Men aftenen tager en uventet drejning.\nTilrettelæggelse og Indtaling: Kristina Nya Glaffey.\nMusik, mix og klip: Hjalte Lehmann.\nSupplerende speak: Lea Linstow. \nManuskonsulent og redaktør: Mikkel Clausen.\nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7916",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NPRB|cD4PXNYROrr-4$d#*rqozkWENE3MyaMogkX"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7918",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbRa5uI-quTKY5]y;0r?pJ%LxW0h9Hn9X-M{R5~A.8TJVEnho}OqWTs+r?RQS5.RtQM{Neahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#04213D",
+            "#EED0AE"
+          ]
+        },
+        "colors": {
+          "dark": "#04213D",
+          "light": "#EED0AE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393055",
+      "durationMilliseconds": 1338635,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "16122393055",
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "publishTime": "2023-07-11T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-5-6-den-store-stygge-sexfest-16122393055",
+      "order": 100005,
+      "nextId": "urn:dr:radio:episode:6481e6558904cd8f08302c2a",
+      "previousId": "urn:dr:radio:episode:6481e6538904cd8f08302c1e",
+      "series": {
+        "title": "Hvad tænder os to?",
+        "id": "urn:dr:radio:series:6481e6528904cd8f08302c13",
+        "slug": "hvad-taender-os-to-4080302192000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to-4080302192000",
+        "learnId": "urn:dr:ocs:audio:content:series:4080302192000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 10962010,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/ab1f01fc5615ec5245d1dc3fb34ce9b1b06b96f2b1a036a32b390740759fb9a2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 10709275,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/b8225bfed7a902f65ba02e2ad066e9a25396d33c16da46a163519c4b8c7ce76e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 32379525,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/caaccf0f0143c3f9285dcec63620444f555b23e48ebd23ca4a2ce75c379d94da"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 32127643,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/11c241fd83ca78f69d9fe41d4fa84fb468831a7587ef044a00fd6d6738486c2c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 43088811,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/6b967f2f3daaba3e9ab9890afe013754dd9a6fcc4523f171eb1c3d978085399e"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c32/39d9ee0775f1a354445abd4fb2c668e883bc16e28ee76cc02a4f12f0c4e92b87"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481e651539f020020fbc895",
+      "psdbSlug": "hvad-taender-os-to-5-6-den-store-stygge-sexfest",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393055",
+      "isAvailableOnDemand": true,
+      "explicitContent": true,
+      "latestPublishTime": "2023-07-11T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481e6558904cd8f08302c32",
+      "slug": "hvad-taender-os-to-5-6-den-store-stygge-sexfest-16122393055",
+      "title": "5:6 - Den Store Stygge Sexfest",
+      "description": "I en af Berlins mere vovede natklubber bevæger Kristina og kæresten sig omsider ind bag de tunge gardiner til et af stedets dark rooms. Det bliver en oplevelse, de sent skal glemme.\nTilrettelæggelse og Indtaling: Kristina Nya Glaffey. \nMusik, mix og klip: Hjalte Lehmann. \nSupplerende speak: Lea Linstow. \nMedvirkende: Goodyn Green.\nManuskonsulent og redaktør: Mikkel Clausen. \nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7916",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NPRB|cD4PXNYROrr-4$d#*rqozkWENE3MyaMogkX"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7918",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbRa5uI-quTKY5]y;0r?pJ%LxW0h9Hn9X-M{R5~A.8TJVEnho}OqWTs+r?RQS5.RtQM{Neahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#04213D",
+            "#EED0AE"
+          ]
+        },
+        "colors": {
+          "dark": "#04213D",
+          "light": "#EED0AE"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:16122393056",
+      "durationMilliseconds": 1460819,
+      "categories": [
+        "Livsstil"
+      ],
+      "productionNumber": "16122393056",
+      "episodeNumber": 6,
+      "seasonNumber": 1,
+      "publishTime": "2023-07-18T05:00:00+02:00",
+      "startTime": "2023-06-20T05:00:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to/hvad-taender-os-to-1/hvad-taender-os-to-6-6-tid-til-eftertanke-16122393056",
+      "order": 100006,
+      "previousId": "urn:dr:radio:episode:6481e6558904cd8f08302c32",
+      "series": {
+        "title": "Hvad tænder os to?",
+        "id": "urn:dr:radio:series:6481e6528904cd8f08302c13",
+        "slug": "hvad-taender-os-to-4080302192000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/p1/hvad-taender-os-to-4080302192000",
+        "learnId": "urn:dr:ocs:audio:content:series:4080302192000"
+      },
+      "channel": {
+        "title": "P1",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b462d",
+        "slug": "p1",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/p1"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 11962378,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/b8fe0aef8eaa18dac406f1f1fc84eb181370bc310925c60125266beafff5a637"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11686747,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/960f973fedc3237be8a9a8dd74bd90e63e61e65c83dcb29036f6440d9b082949"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 35334753,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/315d84015df083dccbf26ed6598d5fcf21824734c45a055adb6cba6d878a70f7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 35060059,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/67c7752beffe72dd41fc92005eabc56b51d7f6487ea4b2ffbe4a0e9b0a0b0373"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 47021487,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/4d7054fcb47352b433747a911cf8e5a3392becc3af9404f4d50bf650c4538f50"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481e6558904cd8f08302c2a/3fc1adf71792d82b685c1337a9b64c4ef50bb3f3248c7fbce9ce01cd38321c0b"
+        }
+      ],
+      "psdbUrn": "urn:dr:mu:programcard:6481e651539f020020fbc893",
+      "psdbSlug": "hvad-taender-os-to-6-6-tid-til-eftertanke",
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:16122393056",
+      "isAvailableOnDemand": true,
+      "explicitContent": true,
+      "latestPublishTime": "2023-07-18T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6481e6558904cd8f08302c2a",
+      "slug": "hvad-taender-os-to-6-6-tid-til-eftertanke-16122393056",
+      "title": "6:6 - Tid til eftertanke",
+      "description": "Kristina og hendes kæreste mødes med to erfarne, lesbiske kvinder, der giver et kvalificeret bud på, hvordan man holder gang i sit sexliv og bevarer kærligheden gennem et langt parforhold.\nTilrettelæggelse og Indtaling: Kristina Nya Glaffey. \nMusik, mix og klip: Hjalte Lehmann. \nSupplerende speak: Lea Linstow. \nManuskonsulent og redaktør: Mikkel Clausen. \nProduceret for DR af Filt Cph.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7916",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NPRB|cD4PXNYROrr-4$d#*rqozkWENE3MyaMogkX"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7918",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbRa5uI-quTKY5]y;0r?pJ%LxW0h9Hn9X-M{R5~A.8TJVEnho}OqWTs+r?RQS5.RtQM{Neahi_"
+        },
+        {
+          "id": "urn:dr:radio:image:67001eb8b90c51f5c08c7917",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oKQbUiALJ4q[TKY5]{;Jw^pc%LxV0#9HnTX-M{R5~A.8TJVEnho}OqS0s+r?RQS5.RtQMyNKahi_"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#04213D",
+            "#EED0AE"
+          ]
+        },
+        "colors": {
+          "dark": "#04213D",
+          "light": "#EED0AE"
+        }
+      }
+    }
+  ]
+}

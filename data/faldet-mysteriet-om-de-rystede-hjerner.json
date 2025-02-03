@@ -1,0 +1,741 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5372264161000",
+  "sortLetter": "f",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar"
+  ],
+  "numberOfEpisodes": 5,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-03-27T05:03:00+01:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/faldet",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5372264161000",
+  "productionNumber": "5372264161000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:65f9541e08347ccaf3cf2fb3",
+  "slug": "faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+  "title": "Faldet - mysteriet om de rystede hjerner",
+  "punchline": "Mads oplever, at langvarige hjernerystelser svigtes af sundhedssystemet",
+  "description": "Det første Mads Ellesøe hører da han åbner sine øjne er hans 7-årige datter, der råber \"FAR!\". Så mærker han, hvordan det bløder fra baghovedet. Han er faldet og har slået hovedet ned i badeværelsesgulvet. Et slag, der udvikler sig til at blive en langvarig hjernerystelse. Midt i sin kamp for at blive rask, oplever Mads, ligesom mange andre med længerevarende hjernerystelser, at blive overladt til sig selv uden meget hjælp fra det danske sundhedssystem. Pludselig opdager Mads Ellesøe, at der i USA virker til at være en helt anden tilgang til at behandle hjernerystelser. Så han rejser afsted i håb om at finde kuren mod hjernerystelser.\nVært og tilrettelæggelse: Mads Ellesøe.\nTilrettelæggelse, mix og musik: Mikkel Rönnau, MonoMono.\nRedaktør: Jens Vithner.\nOBS - der findes en version af serien uden musik og lyddesign med titlen \"FALDET - LYDFØLSOM VERSION\".",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67001f8e722b3b22f91925d9",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NdOnhDoL{eoL-ps:z:jtTda|RjjuNba|xZfQaej[",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001f8e722b3b22f91925d9&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001f8e722b3b22f91925da&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67001f8e722b3b22f91925db",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oWN9IdjZh}oL#ls:_hayyDjsOrjZnPay%2jZslofY6ayIUWVafayr=oLr?bHxGayVYo0tlazW;j[",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001f8e722b3b22f91925db&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67001f8e722b3b22f91925da&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#0E2033",
+        "#F99597"
+      ]
+    },
+    "colors": {
+      "dark": "#0E2033",
+      "light": "#F99597"
+    }
+  },
+  "sSlug": "faldet-mysteriet-om-de-rystede-hjerner",
+  "rssUri": "https://xmpl.dk/podcast/faldet-mysteriet-om-de-rystede-hjerner.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418501",
+      "durationMilliseconds": 1535513,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418501",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-26T15:45:00+01:00",
+      "startTime": "2024-03-26T15:45:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-1-5-den-usynlige-fjende-11802418501",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:65f9541e5c1c0160b3479ec2",
+      "series": {
+        "title": "Faldet - mysteriet om de rystede hjerner",
+        "id": "urn:dr:radio:series:65f9541e08347ccaf3cf2fb3",
+        "slug": "faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "learnId": "urn:dr:ocs:audio:content:series:5372264161000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12573453,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e08347ccaf3cf2fb7/616a93a5b3f3372b8ad2f55484aecf9838fee97efb74e07fd3d96521bf257c28"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 37142903,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e08347ccaf3cf2fb7/765cc7c8c5566530afe87fb141744f563f1645d806971d175b11d6c47c515aa1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 49427677,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e08347ccaf3cf2fb7/5d1681b95d002cb1c9287c685da29bdf1fd7627dee26497dbe2905185efcefe0"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12285008,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e08347ccaf3cf2fb7/df9d288ee7d30dab3fa3465a04205eb36d8d2cb3573637aaadd7a6fb5a76f168"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 36854096,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e08347ccaf3cf2fb7/2353bf3f9c6ca760dd35e8f8dff2cc8c5a6a02aaab9e691473a9b45bc3d0072d"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e08347ccaf3cf2fb7/389c8c2612a1d984d285529ffef43a2c77d82a6280f4b3bae1dfe6283e5a065e"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418501",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-26T15:45:00+01:00",
+      "id": "urn:dr:radio:episode:65f9541e08347ccaf3cf2fb7",
+      "slug": "faldet-mysteriet-om-de-rystede-hjerner-1-5-den-usynlige-fjende-11802418501",
+      "title": "1:5 - Den usynlige fjende",
+      "description": "Da Mads Ellesøe slår hovedet i badeværelsesgulvet, bliver hans liv sat på pause. De efterfølgende måneder oplever han, at ingen i sundhedssystemet kan fortælle ham, hvad han skal gøre for at blive rask. Han må flytte væk fra sin kæreste og børn, og ind på sit gamle børneværelse hos sin mor. Her begynder ét spørgsmål at trænge sig på: Er vi i Danmark gode nok til at behandle personer med længerevarende hjernerystelser?",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925d9",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NdOnhDoL{eoL-ps:z:jtTda|RjjuNba|xZfQaej["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925db",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWN9IdjZh}oL#ls:_hayyDjsOrjZnPay%2jZslofY6ayIUWVafayr=oLr?bHxGayVYo0tlazW;j["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2033",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2033",
+          "light": "#F99597"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418502",
+      "durationMilliseconds": 1671596,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418502",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-27T05:00:00+01:00",
+      "startTime": "2024-03-27T05:00:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-2-5-nedrullede-gardiner-11802418502",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:65f9541f08347ccaf3cf2fc1",
+      "previousId": "urn:dr:radio:episode:65f9541e08347ccaf3cf2fb7",
+      "series": {
+        "title": "Faldet - mysteriet om de rystede hjerner",
+        "id": "urn:dr:radio:series:65f9541e08347ccaf3cf2fb3",
+        "slug": "faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "learnId": "urn:dr:ocs:audio:content:series:5372264161000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13687680,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e5c1c0160b3479ec2/da52cdaa75a13222b9efce533052ab2ddfa80ce264fc0eb6ce1a1aba72006ade"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 40434491,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e5c1c0160b3479ec2/43b74b4a91e00383d4ee37eeb7d3477eb122ad3c1a6df48c0493575bb121ae3c"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 53807932,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e5c1c0160b3479ec2/551974d2cc745a9997832f7647b2bd5574a3426e24a35afdfc2f1f63a5136e04"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13373593,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e5c1c0160b3479ec2/9e720bb20098c8c751268905c40bae4a8ad0b2259a80a77823c2e961df6a51b1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 40119961,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e5c1c0160b3479ec2/1c35f154af9be81dc417f6c26a7f46e52bd42235595a3750ebd0c30b33947a08"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541e5c1c0160b3479ec2/d754afd8ca3902618c5b364a0d90a1517530aafde9f0d54f78830f26d6dbfbd6"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418502",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-27T05:00:00+01:00",
+      "id": "urn:dr:radio:episode:65f9541e5c1c0160b3479ec2",
+      "slug": "faldet-mysteriet-om-de-rystede-hjerner-2-5-nedrullede-gardiner-11802418502",
+      "title": "2:5 - Nedrullede gardiner",
+      "description": "Bag nedrullede gardiner oplever Mads, at tiden er ved at løbe ud for en hurtig helbredelse af hjernerystelsen. Spørgsmålet er, om Mads kan undgå at hans sygdom bliver kronisk, som en læge har advaret ham om.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925d9",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NdOnhDoL{eoL-ps:z:jtTda|RjjuNba|xZfQaej["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925db",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWN9IdjZh}oL#ls:_hayyDjsOrjZnPay%2jZslofY6ayIUWVafayr=oLr?bHxGayVYo0tlazW;j["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2033",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2033",
+          "light": "#F99597"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418503",
+      "durationMilliseconds": 1482455,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418503",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-27T05:01:00+01:00",
+      "startTime": "2024-03-27T05:01:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-3-5-et-sidste-haab-11802418503",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:65f9541fee4be922aeeb5c82",
+      "previousId": "urn:dr:radio:episode:65f9541e5c1c0160b3479ec2",
+      "series": {
+        "title": "Faldet - mysteriet om de rystede hjerner",
+        "id": "urn:dr:radio:series:65f9541e08347ccaf3cf2fb3",
+        "slug": "faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "learnId": "urn:dr:ocs:audio:content:series:5372264161000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 12139069,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541f08347ccaf3cf2fc1/d50259a3c641ee9e257138f4d37de21d8bc13e2d0b9448ce0787ae05ddcc71d4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 35859579,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541f08347ccaf3cf2fc1/31515e5ced97ea31eba8ced0c76ab8168e826f1897603cfd4831218ceb1aadac"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 47719933,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541f08347ccaf3cf2fc1/0e230859f5ec95466961f1d442d4b63d92080c06a8b66a35d485cd96b0acc115"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11860467,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541f08347ccaf3cf2fc1/9d812f72551dd90a1f800a168badd43e290796e577fea40c1a365b8f1a5380ab"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 35580531,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541f08347ccaf3cf2fc1/17fd7a718f3986d92ca8e9262056659a584bc5ae41c347f84dc23ef96022f0db"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541f08347ccaf3cf2fc1/a5a7fc3cd1a83e03784c2b753773ca402b90e52556820e7538df130d06873f86"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418503",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-27T05:01:00+01:00",
+      "id": "urn:dr:radio:episode:65f9541f08347ccaf3cf2fc1",
+      "slug": "faldet-mysteriet-om-de-rystede-hjerner-3-5-et-sidste-haab-11802418503",
+      "title": "3:5 - Et sidste håb",
+      "description": "Med ørepropper i ørerne sætter Mads Ellesøe sig i flyet mod USA. Gemmer de her på den behandling, der kan kurere hans langvarige hjernerystelse? Efter næsten to års sygdom er det måske hans allersidste mulighed for at blive rask.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925d9",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NdOnhDoL{eoL-ps:z:jtTda|RjjuNba|xZfQaej["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925db",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWN9IdjZh}oL#ls:_hayyDjsOrjZnPay%2jZslofY6ayIUWVafayr=oLr?bHxGayVYo0tlazW;j["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2033",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2033",
+          "light": "#F99597"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418504",
+      "durationMilliseconds": 1615404,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418504",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-27T05:02:00+01:00",
+      "startTime": "2024-03-27T05:02:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-4-5-tigerens-oeje-11802418504",
+      "order": 100004,
+      "nextId": "urn:dr:radio:episode:65f9541fe3262b54396e9f1b",
+      "previousId": "urn:dr:radio:episode:65f9541f08347ccaf3cf2fc1",
+      "series": {
+        "title": "Faldet - mysteriet om de rystede hjerner",
+        "id": "urn:dr:radio:series:65f9541e08347ccaf3cf2fb3",
+        "slug": "faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "learnId": "urn:dr:ocs:audio:content:series:5372264161000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13227596,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fee4be922aeeb5c82/2a30f9af46c55b5c6e29b69060ec61881d684f79fab8c0c86035ffe51efeef77"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 39075363,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fee4be922aeeb5c82/9fab6598215e50d60b618b1b119e7453c3478a0547c46da53b354a6c0ed9a0b7"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 51999208,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fee4be922aeeb5c82/12aa9b69740a95afca42cab26883dd9c7d3fab97be5c4368b4d27a907cce2390"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 12924175,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fee4be922aeeb5c82/1326b2820e37dbd2b4f303e2013470b80460c8659fc3013930b91ceaac351290"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 38771599,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fee4be922aeeb5c82/9a4d73cad96db32d0c4b491b624037e613c1dfcb9a81bae51ba4e3d61b37411b"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fee4be922aeeb5c82/be34927266e6dee1e7a2903c881d65b097e2fbf5851c5536ad0ac1ca6bfeafe5"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418504",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-27T05:02:00+01:00",
+      "id": "urn:dr:radio:episode:65f9541fee4be922aeeb5c82",
+      "slug": "faldet-mysteriet-om-de-rystede-hjerner-4-5-tigerens-oeje-11802418504",
+      "title": "4:5 - Tigerens øje",
+      "description": "I Pittsburgh bliver Mads' verden vendt på hovedet. Lægerne beder ham gøre alt, som han har forsøgt at undgå de sidste to år. Masser af støj, træning og høj musik er kuren på hans rystede hjerne, siger de. Nu skal genoptræningsprogrammet vise sit værd de næste to uger. Men hvorfor har Mads fået den modsatte instruktion af lægerne i Danmark?",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925d9",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NdOnhDoL{eoL-ps:z:jtTda|RjjuNba|xZfQaej["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925db",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWN9IdjZh}oL#ls:_hayyDjsOrjZnPay%2jZslofY6ayIUWVafayr=oLr?bHxGayVYo0tlazW;j["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2033",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2033",
+          "light": "#F99597"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802418505",
+      "durationMilliseconds": 784172,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802418505",
+      "episodeNumber": 5,
+      "seasonNumber": 1,
+      "publishTime": "2024-03-27T05:03:00+01:00",
+      "startTime": "2024-03-27T05:03:00+01:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-5-5-bonusepisode-albertes-rejse-til-pittsburgh-11802418505",
+      "order": 100005,
+      "previousId": "urn:dr:radio:episode:65f9541fee4be922aeeb5c82",
+      "series": {
+        "title": "Faldet - mysteriet om de rystede hjerner",
+        "id": "urn:dr:radio:series:65f9541e08347ccaf3cf2fb3",
+        "slug": "faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+        "learnId": "urn:dr:ocs:audio:content:series:5372264161000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 6421796,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fe3262b54396e9f1b/c517006853d3fefa50d95a98698090d3aff543b75f8c429fd453c61a40e11d6d"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 18969695,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fe3262b54396e9f1b/8a28f6cf316e3a181cfd665cc31d3f2b77ed53095bcd9d8dbd05c5a4b13eea9e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 25243584,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fe3262b54396e9f1b/8cb5065d4d547158b5fdc20a1eb2b8c0ef2817b8eadb58e17116cc3c4b67728e"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 6274198,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fe3262b54396e9f1b/d77e2df8cba0121142c2c0a3255bed7c267b496d4fc4aefc76059686e5d4d070"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 18821782,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fe3262b54396e9f1b/639c36f71fd042890c267c2ababef5233983988613578068f758d526cf78d325"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f9541fe3262b54396e9f1b/a71d54dfe1d2830d6f582027f3d9c02eb48a621bdadeac12173935f4b171919e"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802418505",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-03-27T05:03:00+01:00",
+      "id": "urn:dr:radio:episode:65f9541fe3262b54396e9f1b",
+      "slug": "faldet-mysteriet-om-de-rystede-hjerner-5-5-bonusepisode-albertes-rejse-til-pittsburgh-11802418505",
+      "title": "5:5 - Bonusepisode - Albertes rejse til Pittsburgh",
+      "description": "19-årige Alberte har fået revet sit ungdomsliv midt over af en massiv hjernerystelse. Ligesom Mads søger hun løsningen i USA og nu mødes de for at tale om, hvilken effekt behandlingen har haft på hende.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925d9",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NdOnhDoL{eoL-ps:z:jtTda|RjjuNba|xZfQaej["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925db",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oWN9IdjZh}oL#ls:_hayyDjsOrjZnPay%2jZslofY6ayIUWVafayr=oLr?bHxGayVYo0tlazW;j["
+        },
+        {
+          "id": "urn:dr:radio:image:67001f8e722b3b22f91925da",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oUMigBo2U^fl+]s:@Efkt,WVOYf6I=a|xtWVsSofT{fkD%WVafjZm,oLxZbHs:jZw0oKb^f6NaoL"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#0E2033",
+            "#F99597"
+          ]
+        },
+        "colors": {
+          "dark": "#0E2033",
+          "light": "#F99597"
+        }
+      }
+    }
+  ]
+}

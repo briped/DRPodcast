@@ -1,0 +1,609 @@
+{
+  "type": "Series",
+  "learnId": "urn:dr:ocs:audio:content:series:5201941906000",
+  "sortLetter": "v",
+  "channel": {
+    "title": "SPECIAL RADIO",
+    "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+    "slug": "special-radio",
+    "type": "Channel",
+    "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+  },
+  "isUmbrella": false,
+  "categories": [
+    "Dokumentar"
+  ],
+  "numberOfEpisodes": 4,
+  "numberOfSeasons": 1,
+  "presentationType": "Show",
+  "groupingType": "Seasons",
+  "latestEpisodeStartTime": "2024-06-10T05:04:00+02:00",
+  "presentationUrl": "https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+  "podcastUrl": "https://api.dr.dk/podcasts/v1/feeds/vidnesbyrd",
+  "ocsUrn": "urn:dr:ocs:audio:content:series:5201941906000",
+  "productionNumber": "5201941906000",
+  "isAvailableOnDemand": true,
+  "explicitContent": false,
+  "defaultOrder": "Asc",
+  "id": "urn:dr:radio:series:6655834fbe7905fb09c8e2b0",
+  "slug": "vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+  "title": "Vidnesbyrd - Sexisme i musikbranchen",
+  "punchline": "Kvindelige musikere beretter om en musikbranche gennemsyret af sexisme",
+  "description": "I et musikstudie står en kvindelig musiker midt i indspilningen af en ny sang. Pludselig stopper produceren musikken og siger til kvinden, at hun skal vise sine bryster. Ellers kan de ikke fortsætte.\nI denne podcastserie står en række prominente og yngre kvindelige musikere frem og fortæller om den sexisme, som de mener gennemsyrer musikbranchen.\nIgennem en række konkrete vidnesbyrd fortæller kvinderne, hvordan sexisme har påvirket deres liv og karriere i en af de mest prestigefyldte, kunstneriske brancher.\n\nTilrettelæggelse: Jakob Rasmussen.\nResearch: Line Ritz, Sandra Haugaard og Ole Tornbjerg.\nMusik og lyddesign: Malte Winter Bothe.\nRedaktion: Signe Mandsdotter, Merle Baeré, Sarah Breilev Vinther og Fadumo Mahamed Abdalla.\nRedaktør: Troels Kingo og Jens Vithner.\n\nHar du en historie vi skal undersøge? Skriv til drundersoeger@proton.me",
+  "imageAssets": [
+    {
+      "id": "urn:dr:radio:image:67023cf3b90c51f5c0958945",
+      "target": "Default",
+      "ratio": "16:9",
+      "format": "image/jpeg",
+      "blurHash": "NF97Lst60KM|f6xa9Eay-;j[j@fRNGWBs:t6oeR*",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cf3b90c51f5c0958945&scaleAfter=crop&quality=70&w=720&h=405"
+    },
+    {
+      "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+      "target": "SquareImage",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cf3b90c51f5c0958946&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023cf3b90c51f5c0958947",
+      "target": "Podcast",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oIByy|%1IBRjD*R*4Tso%2oLxuWVjbjFn%xZxZf+_3snRPoMRjbH00oe%Laet8WB_3kCRPaeM{ay",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cf3b90c51f5c0958947&scaleAfter=crop&quality=70&w=720&h=720"
+    },
+    {
+      "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+      "target": "Default",
+      "ratio": "1:1",
+      "format": "image/jpeg",
+      "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay",
+      "uri": "https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file=%2Fradio%2Fv2%2Fimages%2Fraw%2Furn%3Adr%3Aradio%3Aimage%3A67023cf3b90c51f5c0958946&scaleAfter=crop&quality=70&w=720&h=720"
+    }
+  ],
+  "visualIdentity": {
+    "gradient": {
+      "colors": [
+        "#291818",
+        "#A8A89D"
+      ]
+    },
+    "colors": {
+      "dark": "#291818",
+      "light": "#A8A89D"
+    }
+  },
+  "sSlug": "vidnesbyrd-sexisme-i-musikbranchen",
+  "rssUri": "https://xmpl.dk/podcast/vidnesbyrd-sexisme-i-musikbranchen.xml",
+  "episodes": [
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802452002",
+      "durationMilliseconds": 1389840,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802452002",
+      "episodeNumber": 1,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-10T05:01:00+02:00",
+      "startTime": "2024-06-10T05:01:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen/vidnesbyrd-sexisme-i-musikbranchen-1/vidnesbyrd-1-4-en-uheldig-begyndelse-11802452002",
+      "order": 100001,
+      "nextId": "urn:dr:radio:episode:6655834fbe7905fb09c8e2b6",
+      "series": {
+        "title": "Vidnesbyrd - Sexisme i musikbranchen",
+        "id": "urn:dr:radio:series:6655834fbe7905fb09c8e2b0",
+        "slug": "vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+        "learnId": "urn:dr:ocs:audio:content:series:5201941906000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 11380663,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/06fdb6a99368994d9d016cc763e1f9641c099237e74e5ab73603e4bb5e4ea0f2"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 33619087,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/7b71f16322385aaf02c1f791d76fcb07c065ec1e2ee3f0523a5b11aa80e7d234"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 44738331,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/f29fcdac5e9246e8087df397272c441148c714b8b66401d28f364fe8cbd05757"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 11119752,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/4b54a999a824dfb733f71729b093dfc38e1301bfe8ab347f8b36dc60379c6e05"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 33358344,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/4afbce14e92cd274a2c75df4796ec75abe47006aa7fa7206736203f3efa89766"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/8f971aea1612ac9730b75a7a439d5c4f41ec4d4e967f2380eaeee6fe55ce308f"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802452002",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-10T05:01:00+02:00",
+      "id": "urn:dr:radio:episode:66558350562f0a2982bc3d9b",
+      "slug": "vidnesbyrd-1-4-en-uheldig-begyndelse-11802452002",
+      "title": "Vidnesbyrd 1:4 - En uheldig begyndelse",
+      "description": "En række kvindelige musikere står nu frem og fortæller om deres oplevelser med sexisme i musikbranchen. Men flere af dem er bange for, at deres konkrete vidnesbyrd om sexisme i musikbranchen, vil ende med at få konsekvenser for deres fremtidige karriere.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958945",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NF97Lst60KM|f6xa9Eay-;j[j@fRNGWBs:t6oeR*"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958947",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oIByy|%1IBRjD*R*4Tso%2oLxuWVjbjFn%xZxZf+_3snRPoMRjbH00oe%Laet8WB_3kCRPaeM{ay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#291818",
+            "#A8A89D"
+          ]
+        },
+        "colors": {
+          "dark": "#291818",
+          "light": "#A8A89D"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802452003",
+      "durationMilliseconds": 2523156,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802452003",
+      "episodeNumber": 2,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-17T05:00:00+02:00",
+      "startTime": "2024-06-10T05:02:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen/vidnesbyrd-sexisme-i-musikbranchen-1/vidnesbyrd-2-4-gammel-nok-til-at-vaere-min-far-11802452003",
+      "order": 100002,
+      "nextId": "urn:dr:radio:episode:6655834f385dfedb00eae2a5",
+      "previousId": "urn:dr:radio:episode:66558350562f0a2982bc3d9b",
+      "series": {
+        "title": "Vidnesbyrd - Sexisme i musikbranchen",
+        "id": "urn:dr:radio:series:6655834fbe7905fb09c8e2b0",
+        "slug": "vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+        "learnId": "urn:dr:ocs:audio:content:series:5201941906000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 20659763,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/d02f63d89a0929c596fb7fdb4b6a808c9457f07c48443893c97546745f691cd5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 61031295,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/ef4620ef62c4ab84dff4440e62d53ebe458fb3d86c3f312efad3c65c8e8978ef"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 81217203,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/01a0fb9fcf39b76047608610f8a1f1effe46f588f96a7c6fd5430023ec7e8110"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 20186151,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/13240b259809a2505aba28beeec14062d51db881c9c966c09a426e7f88979938"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 60557607,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/05ce0dde02bdf8d20f2a94fd15dad9f925868e9c4b76b51c1012b6a99a060631"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/06dab91de6fbfe169be37bffac9d39472b96c45f884390cbe96c94f8161eae2a"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802452003",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-17T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6655834fbe7905fb09c8e2b6",
+      "slug": "vidnesbyrd-2-4-gammel-nok-til-at-vaere-min-far-11802452003",
+      "title": "Vidnesbyrd 2:4 - Gammel nok til at være min far",
+      "description": "En række kvinder deler deres fortællinger om den samme mandlige artist. Et forhold til en 16-årig kollega, uønskede hænder på brysterne og seksualiserede beskeder har nu fået dem til at træde frem med deres historier.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958945",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NF97Lst60KM|f6xa9Eay-;j[j@fRNGWBs:t6oeR*"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958947",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oIByy|%1IBRjD*R*4Tso%2oLxuWVjbjFn%xZxZf+_3snRPoMRjbH00oe%Laet8WB_3kCRPaeM{ay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#291818",
+            "#A8A89D"
+          ]
+        },
+        "colors": {
+          "dark": "#291818",
+          "light": "#A8A89D"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802452004",
+      "durationMilliseconds": 2152760,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802452004",
+      "episodeNumber": 3,
+      "seasonNumber": 1,
+      "publishTime": "2024-06-24T05:00:00+02:00",
+      "startTime": "2024-06-10T05:03:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen/vidnesbyrd-sexisme-i-musikbranchen-1/vidnesbyrd-3-4-sexisme-paa-toppen-11802452004",
+      "order": 100003,
+      "nextId": "urn:dr:radio:episode:6655834f562f0a2982bc3d96",
+      "previousId": "urn:dr:radio:episode:6655834fbe7905fb09c8e2b6",
+      "series": {
+        "title": "Vidnesbyrd - Sexisme i musikbranchen",
+        "id": "urn:dr:radio:series:6655834fbe7905fb09c8e2b0",
+        "slug": "vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+        "learnId": "urn:dr:ocs:audio:content:series:5201941906000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 17627140,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/22870f49127be829727d9f736c093f17af31962bb4d9da2ed7547d03d11881f5"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 52072471,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/d1c981ac1b2c30a887ed417c4e0dfd94e365b89b2f5f29e1a419a78cf5669d5b"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 69295116,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/6833e1018c40cea922863d94c74091eb93553ce0d7dc75747606af5cfd08516f"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 17223044,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/53809b74ed6fa45987a517d957e456be0a8b542e4d040447ff93a7b33dc00db1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 51668228,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/98336b6e8ac347df5fa8b182c258b1bec65d236fb3aa626c0e5c40709039414b"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/39a569d81ab21ffb4a95f9104f5d3152eb4f650a79ce6c4d119e25e9687429b4"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802452004",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-06-24T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6655834f385dfedb00eae2a5",
+      "slug": "vidnesbyrd-3-4-sexisme-paa-toppen-11802452004",
+      "title": "Vidnesbyrd 3:4 - Sexisme på Toppen",
+      "description": "En laksko glider ind under kjolen på en sangerinde kort før hun går ind på scenen. \"Det er så jeg kan se op\" siger et mandligt bandmedlem. Og hun er ikke den eneste deltager, der har oplevet et sexistisk miljø på TV2 musikprogram Toppen af Poppen.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958945",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NF97Lst60KM|f6xa9Eay-;j[j@fRNGWBs:t6oeR*"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958947",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oIByy|%1IBRjD*R*4Tso%2oLxuWVjbjFn%xZxZf+_3snRPoMRjbH00oe%Laet8WB_3kCRPaeM{ay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#291818",
+            "#A8A89D"
+          ]
+        },
+        "colors": {
+          "dark": "#291818",
+          "light": "#A8A89D"
+        }
+      }
+    },
+    {
+      "type": "Episode",
+      "learnId": "urn:dr:ocs:audio:content:playable:11802452005",
+      "durationMilliseconds": 1630973,
+      "categories": [
+        "Dokumentar"
+      ],
+      "productionNumber": "11802452005",
+      "episodeNumber": 4,
+      "seasonNumber": 1,
+      "publishTime": "2024-07-01T05:00:00+02:00",
+      "startTime": "2024-06-10T05:04:00+02:00",
+      "presentationUrl": "https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen/vidnesbyrd-sexisme-i-musikbranchen-1/vidnesbyrd-4-4-det-feminine-element-11802452005",
+      "order": 100004,
+      "previousId": "urn:dr:radio:episode:6655834f385dfedb00eae2a5",
+      "series": {
+        "title": "Vidnesbyrd - Sexisme i musikbranchen",
+        "id": "urn:dr:radio:series:6655834fbe7905fb09c8e2b0",
+        "slug": "vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+        "type": "Series",
+        "isAvailableOnDemand": true,
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+        "learnId": "urn:dr:ocs:audio:content:series:5201941906000"
+      },
+      "channel": {
+        "title": "SPECIAL RADIO",
+        "id": "urn:dr:radio:channel:5fa156d1da351264f87b4627",
+        "slug": "special-radio",
+        "type": "Channel",
+        "presentationUrl": "https://www.dr.dk/lyd/special-radio"
+      },
+      "audioAssets": [
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 64,
+          "fileSize": 13354952,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/c6405db532857f04e33f2e4714cd567a8d919f5b6e3a082cd1e9b6222e09cec1"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 192,
+          "fileSize": 39451483,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/71caab5f4f1149da49724a233e20a6aae4b2fee19269267bda9efc9e3b3c22d6"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp4",
+          "bitrate": 256,
+          "fileSize": 52499812,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/527dd2ccd0380f19e9e81acf82cd14aec6f2803c9bf012522573af9a45c8347a"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 64,
+          "fileSize": 13048778,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/448ac12bbb8ed1eaa8d1a912fbcf17d5667eaf267ee3bfe8a156fac8e1b7b8e4"
+        },
+        {
+          "target": "Progressive",
+          "isStreamLive": false,
+          "format": "mp3",
+          "bitrate": 192,
+          "fileSize": 39145418,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/c071d44c18162080945837f67c151d2a829bedca65f731f477a166185fd19b64"
+        },
+        {
+          "target": "Stream",
+          "isStreamLive": false,
+          "format": "HLS",
+          "bitrate": 0,
+          "url": "https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/87fcfffd731ddb3b15040db0a53c329b69bbab20f486b325e0294970f3e4d434"
+        }
+      ],
+      "ocsUrn": "urn:dr:ocs:audio:content:playable:11802452005",
+      "isAvailableOnDemand": true,
+      "explicitContent": false,
+      "latestPublishTime": "2024-07-01T05:00:00+02:00",
+      "id": "urn:dr:radio:episode:6655834f562f0a2982bc3d96",
+      "slug": "vidnesbyrd-4-4-det-feminine-element-11802452005",
+      "title": "Vidnesbyrd 4:4 - Det feminine element",
+      "description": "På forsiden af et stort musikmagasin, sidder en kvindelig musiker nøgen. Men hvad har det egentlig med musikken at gøre, spørger hun sig selv i dag? Det er godt at være fuckable, hvis du vil til tops i dansk musik konkluderer hun efter to årtier i branchen. Det vil hun og andre gerne gøre op med i dag.",
+      "imageAssets": [
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958945",
+          "target": "Default",
+          "ratio": "16:9",
+          "format": "image/jpeg",
+          "blurHash": "NF97Lst60KM|f6xa9Eay-;j[j@fRNGWBs:t6oeR*"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+          "target": "SquareImage",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958947",
+          "target": "Podcast",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oIByy|%1IBRjD*R*4Tso%2oLxuWVjbjFn%xZxZf+_3snRPoMRjbH00oe%Laet8WB_3kCRPaeM{ay"
+        },
+        {
+          "id": "urn:dr:radio:image:67023cf3b90c51f5c0958946",
+          "target": "Default",
+          "ratio": "1:1",
+          "format": "image/jpeg",
+          "blurHash": "oJBfz?xtE1NGD*WB00ayxujsxuayW=RkWBt6t6of?bjZM|bHRjj[00oexuWBt7WB_3kCRPaeM{ay"
+        }
+      ],
+      "visualIdentity": {
+        "gradient": {
+          "colors": [
+            "#291818",
+            "#A8A89D"
+          ]
+        },
+        "colors": {
+          "dark": "#291818",
+          "light": "#A8A89D"
+        }
+      }
+    }
+  ]
+}
