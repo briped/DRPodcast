@@ -1,17 +1,18 @@
-$VerbosePreference = 'Continue'
-#$DebugPreference = 'Continue'
 $Manifest = [System.IO.FileInfo](Join-Path -Path $(Join-Path -Path $PSScriptRoot -ChildPath 'pwshModule') -ChildPath 'DRPodcastShell.psd1')
 Import-Module -Force -Name $Manifest
+Start-Transcript -OutputDirectory (Join-Path -Path $Config.Path.Module.Parent -ChildPath '.transcripts')
+$VerbosePreference = 'Continue'
+#$DebugPreference = 'Continue'
 
 $WalledFile = [System.IO.FileInfo](Join-Path -Path $PSScriptRoot -ChildPath 'walled.json')
 
 #<#
 $Walled = Get-Content -Raw -Encoding utf8 -Path $WalledFile.FullName | ConvertFrom-Json
 $Podcasts = $Walled | 
-    Sort-Object -Unique id | 
-    Sort-Object -Property title | 
-    Get-DRPodcast
+    Get-DRPodcast | 
+    Sort-Object -Unique -Property id
 #>
+
 foreach ($Podcast in $Podcasts) {
     $Refresh = $false
     Write-Verbose -Message "Processing: '$($Podcast.title)'."
@@ -42,3 +43,4 @@ foreach ($Podcast in $Podcasts) {
 $Podcasts | New-DRJson | Out-File -Force -Encoding utf8 -FilePath $(Join-Path -Path $Config.Path.Pages -ChildPath "podcasts.json")
 $VerbosePreference = 'SilentlyContinue'
 #$DebugPreference = 'SilentlyContinue'
+Stop-Transcript
