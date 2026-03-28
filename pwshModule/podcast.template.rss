@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="{{rssUri}}" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>{{title}}</title>
+        <link>{{presentationUrl}}</link>
+        <description>{{description}}</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>{{lastBuildDate}}</lastBuildDate>
+        <itunes:explicit>{{explicitContent}}</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>{{rssUri}}</itunes:new-feed-url>
+        <image>
+            <url>{{feedCoverUri}}</url>
+            <title>{{title}}</title>
+            <link>{{presentationUrl}}</link>
+        </image>
+        <itunes:image href="{{feedCoverUri}}" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        {{#categories}}
+        <category>{{.}}</category>
+        <itunes:category text="{{.}}" />
+        {{/categories}}
+        {{#episodes}}
+        <item>
+            <guid isPermaLink="false">{{productionNumber}}</guid>
+            <link>{{presentationUrl}}</link>
+            <title>{{title}}</title>
+            <description>{{description}}</description>
+            <pubDate>{{publishTime}}</pubDate>
+            <itunes:explicit>{{explicitContent}}</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>{{duration}}</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            {{#audioAssets}}
+            <enclosure url="{{url}}" 
+                type="{{contentType}}" 
+                length="{{fileSize}}" />
+            {{/audioAssets}}
+        </item>
+        {{/episodes}}
+    </channel>
+</rss>
