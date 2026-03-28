@@ -67,7 +67,7 @@ function Get-Episode {
         $Items | Add-AudioContentType
         if (!$Podcast.episodes) { $_ | Add-Member -NotePropertyName 'episodes' -NotePropertyValue $Items }
         else { $Podcast.episodes = $Items }
-        $Podcast
+        #$Podcast
     }
     end {
         if ($DebugPreference -ne 'SilentlyContinue') {
