@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/verdens-navle.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Verdens navle (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/verdens-navle-6640598279461</link>
+        <description>Lone Frank er biolog og videnskabsjournalist. Peter &amp;#xD8;rb&amp;#xE6;k er historiker. Hver uge dykker de sammen ned i et videnskabeligt f&amp;#xE6;nomen, som karakteriserer livet som menneske. For hvad er mennesket egentlig for et besynderligt dyr? Hvor kommer vi fra? Og hvorfor f&amp;#xF8;ler, t&amp;#xE6;nker og handler vi, som vi g&amp;#xF8;r?
+Bliv klogere p&amp;#xE5; menneskelivets forunderlige afkroge, n&amp;#xE5;r historien og videnskaben m&amp;#xF8;des og udforsker det, der st&amp;#xE5;r i centrum hos os alle sammen, nemlig os selv: Mennesket som verdens navle.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.13 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/verdens-navle.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/verdens-navle.jpg</url>
+            <title>Verdens navle (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle-6640598279461</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/verdens-navle.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Historie</category>
+        <itunes:category text="Historie" />
+        <category>Videnskab og tech</category>
+        <itunes:category text="Videnskab og tech" />
+        <item>
+            <guid isPermaLink="false">11032627132</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/lort-11032627132</link>
+            <title>Lort</title>
+            <description>Hvad fort&amp;#xE6;ller lort om vores krop? Og hvordan kan lort bruges som historisk kilde? Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i lort. 
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k
+Producer: Sarah Randeris
+Klipper: Martha Winther
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 24 Mar 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728bb73064306f2b687a/a28608598ea1207b73b4a893cdc22c2d51a7b9776c25f8714064096ac7ac4d27" 
+                type="audio/x-m4a" 
+                length="27913733" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728bb73064306f2b687a/f41e5a1943cc92c1d43085ee7ea4b7b6446f795df70db97d757051ebd5ef5b81" 
+                type="audio/x-m4a" 
+                length="82461087" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728bb73064306f2b687a/c7b1b5718bbfd2d462f9e26c2e1bf1b259984a30539a6b17e50ea4173fbdfd93" 
+                type="audio/x-m4a" 
+                length="109734589" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728bb73064306f2b687a/2a1870da627c7d13556dac1a95f206f4cce6f2b58f294506316829edf40b3ed7" 
+                type="audio/mpeg" 
+                length="27274051" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728bb73064306f2b687a/8fb23fe25741b2327e3aef96a1d3070d883906f4649e925ec3210ad9cf059b16" 
+                type="audio/mpeg" 
+                length="81821251" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728bb73064306f2b687a/cce9a85961ec946f2b3d68f1aabfd89f0bc2419d456c49f5140c97d89d178669" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627122</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/skoenhed-11032627122</link>
+            <title>Sk&amp;#xF8;nhed</title>
+            <description>Hvad betyder det for et menneske at v&amp;#xE6;re f&amp;#xF8;dt smuk? Og hvordan har vi set forskelligt p&amp;#xE5; sk&amp;#xF8;nhed gennem historien? Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i f&amp;#xE6;nomenet sk&amp;#xF8;nhed.
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k
+Producer: Sarah Randeris
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 17 Mar 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019ff/c7fe1f48b696203285a3b492ca98febdd5ff706b46520b27b71b2447d53b1662" 
+                type="audio/x-m4a" 
+                length="27168824" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019ff/2b2d04728b4e5e324188c0b2aed8e716a62698b4d2476f4684ac19269f7c68ef" 
+                type="audio/x-m4a" 
+                length="80260383" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019ff/b70406b1cb0f554947e6ba1b16d43f2d600eaa8f237018e1dda08d3939a17a5d" 
+                type="audio/x-m4a" 
+                length="106805608" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019ff/216dca650a99ea7dbe852b5fe7a4fb2cb76a6d168ca0a5b36051d11ae0572b52" 
+                type="audio/mpeg" 
+                length="26545976" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019ff/eddd7ce9b3665941fb05b78b5e663d21936d3fdfcda67ca6c4a88a53a51dde79" 
+                type="audio/mpeg" 
+                length="79637048" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019ff/aead01dd60cac5c3a591a08c3f92329fb33012ce66d60da42af78a9d4bcb035b" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627112</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/politisk-overbevisning-11032627112</link>
+            <title>Politisk overbevisning</title>
+            <description>Er vores politiske overbevisning bestemt af vores gener? Og er der tidspunkter i historien, hvor bestemte samfundsm&amp;#xE6;ssige forandringer har f&amp;#xE5;et danskerne til at skifte politisk retning? Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i menneskets politiske overbevisninger. 
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k
+Producer: Sarah Randeris
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 10 Mar 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:48</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019f6/3a6fc29a48ae0e614c7e493cf281475499862d48ad79f6f449c42477aafa37a3" 
+                type="audio/x-m4a" 
+                length="27909553" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019f6/11fc7f9efc9c7a29951fe7f7642ffbe57d18eb28b240f3806c204dd27fd4e029" 
+                type="audio/x-m4a" 
+                length="82448727" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019f6/ec8c8428981059ae6713f5a31e60422b7cea93bd98a3d0c41e64efbf7ccd8308" 
+                type="audio/x-m4a" 
+                length="109717713" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019f6/e346015d25313152a4eeaf5ffe58753cd3e563b31fb8e187131057d29acdcff0" 
+                type="audio/mpeg" 
+                length="27269833" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019f6/3221f6fb3a78a2bdd529ce1a6913e1dccf5fac817f845d2ace6d29871e928cf7" 
+                type="audio/mpeg" 
+                length="81808585" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939728aaf5ce965642019f6/4bd3fab7725a1072df59165c306d17f56bffea2f83d60e747a65828c754304e4" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627102</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/aggression-11032627102</link>
+            <title>Aggression</title>
+            <description>Hvorfor bliver vi mennesker aggressive? Kan man regulere aggression i hjernen? Og hvorfor har det v&amp;#xE6;ret udfordrende at skelne mellem aggression og vold i fortiden? Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i f&amp;#xE6;nomenet aggression. 
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k 
+Producer: Sarah Randeris 
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 03 Mar 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939736aaf5ce9656420258e/58464ae28dc9002c719ae1b307b8495ffaaad24908ceafe7efc521ebe7ff580f" 
+                type="audio/x-m4a" 
+                length="27689469" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939736aaf5ce9656420258e/678badd0684b8c8932e05c73e6e67324bc1de6cb90247fb6b164e437ce37a610" 
+                type="audio/x-m4a" 
+                length="81798587" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939736aaf5ce9656420258e/2c5f46b80712659a6c791d9ae8f437bcb1843cacc142fb769bc84647406b4bd5" 
+                type="audio/x-m4a" 
+                length="108852929" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939736aaf5ce9656420258e/5c6b41d89e42d0f50a5da4bb2aa82341bdabc3da2261dba582b181e708703cb3" 
+                type="audio/mpeg" 
+                length="27054789" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939736aaf5ce9656420258e/c5b6b76d868fa976cf7c931fd5fdf57d7b34e0c8514e89ff1eef764d186de93c" 
+                type="audio/mpeg" 
+                length="81163461" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939736aaf5ce9656420258e/6a798b8b19feacd7fbdc3d9fec8a06def8a55e74d16d3b13de0bb0a0ec742b78" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627092</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/personlighed-11032627092</link>
+            <title>Personlighed</title>
+            <description>Er din personlighed fast eller foranderlig? Og hvorfor har vi historisk set haft behov for at placere mennesker i kasser? Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i f&amp;#xE6;nomenet personlighed. 
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k.
+Producer: Sarah Randeris.
+Redakt&amp;#xF8;r: Silke Fensman.</description>
+            <pubDate>Tue, 24 Feb 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289b73064306f2b684d/2c8589f740f67bb5b56d3bc78d7db18ffa093165a2fcfee45e185ba9052b755c" 
+                type="audio/x-m4a" 
+                length="27451411" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289b73064306f2b684d/100c66c558e10ac25b3615a54f94e6470d509f362fbf6101f44ca84c6a6441b2" 
+                type="audio/x-m4a" 
+                length="81095323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289b73064306f2b684d/6f5ff2f611fa5b7b3d2f2f1829d089542df6dfdd0935939d212800c856b99177" 
+                type="audio/x-m4a" 
+                length="107916603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289b73064306f2b684d/df7051bf2d92f26be187a428699d07dd9ec87a8e7c5ffb485892bcdbb94b2f4d" 
+                type="audio/mpeg" 
+                length="26822282" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289b73064306f2b684d/d1df8c38816961d3d156cb0cd8b8164d3241716d883ef3c6900749e600fd5ca6" 
+                type="audio/mpeg" 
+                length="80465930" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289b73064306f2b684d/2918943209ea0a2160338221b2918ce36ea7a9953f2d70b96d02d20560be2871" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627082</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/utroskab-11032627082</link>
+            <title>Utroskab</title>
+            <description>Er mennesket monogamt fra naturens side, eller har vi en drift mod utroskab? Og hvorn&amp;#xE5;r har utroskab historisk set f&amp;#xE5;et mennesker til at g&amp;#xE5; fra hinanden? 
+Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i f&amp;#xE6;nomenet utroskab. 
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k
+Producer: Sarah Randeris
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 17 Feb 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939727aaf5ce96564201928/e37201c469ad3b7ebe0fbb83cf87ffbdcd77416a7dca7497e40c0912ca26db55" 
+                type="audio/x-m4a" 
+                length="27430427" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939727aaf5ce96564201928/005d81873e4652a74836184cb396ecdefc988e0117523e0b82a5b47a8db9b4ab" 
+                type="audio/x-m4a" 
+                length="81033283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939727aaf5ce96564201928/2ca564fa3ae54a0d3bf058f5a5107ccdf805dbf3876ffc8b954ca2b653f0acaf" 
+                type="audio/x-m4a" 
+                length="107834179" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939727aaf5ce96564201928/eaa9ebd06040632c397ba09b08fcb44f9a54f5d24ed88dea993c8f2984e730f5" 
+                type="audio/mpeg" 
+                length="26801720" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939727aaf5ce96564201928/feb3aff3f02ac099c7afc3dbafca995117e9d674b0c091153f12e1c20fdc291f" 
+                type="audio/mpeg" 
+                length="80404280" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939727aaf5ce96564201928/7e746e7e445ddb5c65c3f76b08bc503467622aa54b35199b550c5a1002ee6779" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627072</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/foelelser-11032627072</link>
+            <title>F&amp;#xF8;lelser</title>
+            <description>Bestemmer vi selv over vores f&amp;#xF8;lelser, eller g&amp;#xF8;r naturen? Og hvordan kan f&amp;#xF8;lelser give os adgang til at forst&amp;#xE5; historien p&amp;#xE5; en ny m&amp;#xE5;de?
+Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i f&amp;#xE6;nomenet f&amp;#xF8;lelser. De vil blive klogere p&amp;#xE5;, om f&amp;#xF8;lelser er naturlige mekanismer, eller om de er kulturelt og historisk betingede.
+
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k
+Producer: Sarah Randeris
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 10 Feb 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289af5ce965642019da/667da3d950845e1845a0480676b00c8ba41169c44459095b24dd2837ce2de5c2" 
+                type="audio/x-m4a" 
+                length="26851732" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289af5ce965642019da/ea9fb1d1f55ba5ecfa807e06caefba1416a6229cf51a173efd843e7bea0fbd3d" 
+                type="audio/x-m4a" 
+                length="79323819" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289af5ce965642019da/ac4bdb1fa9250a45bed2013705a1f0a6046ba111db8bb656c90317267adef2ad" 
+                type="audio/x-m4a" 
+                length="105559328" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289af5ce965642019da/5bbcf271ed91730fa3c48e5fa59062c7771adccf6449f56b981611586ffeb1ff" 
+                type="audio/mpeg" 
+                length="26236298" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289af5ce965642019da/ec1bf1089071565906c0f8587bed9b2a191f4ebe4da71c42cabe308311e12789" 
+                type="audio/mpeg" 
+                length="78707978" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397289af5ce965642019da/b43a33984f69da4798f4617568f066969780625a029eddb6a09ae34ad9b9acb2" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627062</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/beruselse-11032627062</link>
+            <title>Beruselse</title>
+            <description>Hvorfor vil mennesker v&amp;#xE6;re fulde? Og hvordan har menneskets jagt efter &amp;#xF8;l &amp;#xE6;ndret historien? Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i f&amp;#xE6;nomenet beruselse. De vil forst&amp;#xE5;, hvordan beruselse har givet mennesket evolution&amp;#xE6;re fordele, og hvordan &amp;#xF8;l har v&amp;#xE6;ret med til at forme civilisationer.
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k
+Producer: Sarah Randeris
+Klipper: Martha Winther 
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 03 Feb 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288af5ce965642019cf/f417b91a5908799fb59474d2e6660d954b3a7dec7fe9c446dec013e52f4101af" 
+                type="audio/x-m4a" 
+                length="27795329" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288af5ce965642019cf/5d95cdae69b32bd5899ed30b7d51c339543f47c08822776ff1127ebaaf014551" 
+                type="audio/x-m4a" 
+                length="82111283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288af5ce965642019cf/58937ace718042d66dc7da74e1230a2f572256d20391136fc745b0cc16f407f1" 
+                type="audio/x-m4a" 
+                length="109268845" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288af5ce965642019cf/0756e438c1caf0295c281a61f7d1a72e38b1fa24334109febe47bc8411ab7dc5" 
+                type="audio/mpeg" 
+                length="27158282" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288af5ce965642019cf/c413440e6593c2a9d476caa064191199278804a639821192ae1a54fec17c6504" 
+                type="audio/mpeg" 
+                length="81473930" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288af5ce965642019cf/e8cf766b6e59dcb53578081fdf961cdb5069dab085869d48090272e45cb0ab5e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627052</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/ensomhed-11032627052</link>
+            <title>Ensomhed</title>
+            <description>Hvorfor oplever vi ensomhed? Og har mennesket altid v&amp;#xE6;ret ensomt? Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i f&amp;#xE6;nomenet ensomhed. De vil forst&amp;#xE5;, hvordan ensomhed har v&amp;#xE6;ret n&amp;#xF8;dvendig for menneskets overlevelse, og hvorn&amp;#xE5;r ensomheden begyndte at snige sig ind i vores samfund. 
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k
+Producer: Sarah Randeris
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 27 Jan 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288b73064306f2b681b/cd3e8045c752cff899788471bdce0a85abb0543a0c12f78cdd317683ac5c39f5" 
+                type="audio/x-m4a" 
+                length="27881603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288b73064306f2b681b/c5f909d50d5a2aba9f0a49cc1953734571d2830bdcb3486cac32cd2c7424838e" 
+                type="audio/x-m4a" 
+                length="82366175" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288b73064306f2b681b/3621b2179c9a92367492597ee4c26ebb59f8ca6bcf285d33a1005683d90907e4" 
+                type="audio/x-m4a" 
+                length="109607867" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288b73064306f2b681b/b00f2db8181e2cacc6ae4aea073d9e8fa227bb9c024db137519b7b4d4536aeba" 
+                type="audio/mpeg" 
+                length="27242377" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288b73064306f2b681b/b18360cf067be340ba74dfe53850fc0c9ecc5f55aa389311eb6d44109ea2d628" 
+                type="audio/mpeg" 
+                length="81726217" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397288b73064306f2b681b/e062df3855d754a2ca33993581b4cfcc6162ba8fc1e52f64bbea65b16819d909" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627042</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/boern-11032627042</link>
+            <title>B&amp;#xF8;rn</title>
+            <description>Er det en biologisk drift at f&amp;#xE5; b&amp;#xF8;rn? Og hvorfor har vi egentlig historisk set f&amp;#xE5;et b&amp;#xF8;rn? Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i f&amp;#xE6;nomenet b&amp;#xF8;rn. De vil forst&amp;#xE5;, om der findes et moder- og faderinstinkt, og hvordan b&amp;#xF8;rn gik fra at have en praktisk funktion til at blive et k&amp;#xE6;rligheds- og selvrealiseringsprojekt.
+V&amp;#xE6;rter: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k
+Producer: Sarah Randeris
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 20 Jan 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:46</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939729baf5ce96564201b2b/47c4afe71bc117d8bc435da66a8564dfc7ef03dbbd7eb7c53091ce16c869c230" 
+                type="audio/x-m4a" 
+                length="26907276" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939729baf5ce96564201b2b/e1465fa95e7a6135c737d68c526d3f3dddd4fae574412c676a60bd96a76b3b71" 
+                type="audio/x-m4a" 
+                length="79487955" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939729baf5ce96564201b2b/6cd6e481a5eaf6e52eca5787419d813571255d7e5152d212fa6c6a69f9309e49" 
+                type="audio/x-m4a" 
+                length="105777640" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939729baf5ce96564201b2b/473e7f6fa3edf8a420e8f43bee940bb1180169d916fda36c082a157fdd4d9346" 
+                type="audio/mpeg" 
+                length="26290440" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939729baf5ce96564201b2b/b80036077b13b56cd91a469faf226220a5bc3e848c6b53b1ec0c8d9b3f431d16" 
+                type="audio/mpeg" 
+                length="78870408" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6939729baf5ce96564201b2b/7ba94366279b9c8ffd1d963cc7bb6ce0a14249fab8fdf421038e3a23d70bbb8c" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032627032</guid>
+            <link>https://www.dr.dk/lyd/p1/verdens-navle/verdens-navle-2026/droemme-11032627032</link>
+            <title>Dr&amp;#xF8;mme</title>
+            <description>Hvorfor dr&amp;#xF8;mmer vi, og hvad kan dr&amp;#xF8;mme fort&amp;#xE6;lle os om det at v&amp;#xE6;re menneske? Det unders&amp;#xF8;ger neurobiolog og videnskabsjournalist Lone Frank og historiker Peter &amp;#xD8;rb&amp;#xE6;k, n&amp;#xE5;r de sammen g&amp;#xE5;r p&amp;#xE5; opdagelse i f&amp;#xE6;nomenet dr&amp;#xF8;mme. De vil forst&amp;#xE5;, hvad der sker i menneskehjernen, n&amp;#xE5;r vi dr&amp;#xF8;mmer, og hvordan vi gennem tiden har fortolket dr&amp;#xF8;mme.
+V&amp;#xE6;rt: Lone Frank og Peter &amp;#xD8;rb&amp;#xE6;k
+Producer: Sarah Randeris
+Redakt&amp;#xF8;r: Silke Fensman</description>
+            <pubDate>Tue, 13 Jan 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397287b73064306f2b680d/c87267e24155660300167e2f80ee20f941b03a27a40ccf61c73b00cbb24dd1e9" 
+                type="audio/x-m4a" 
+                length="26959351" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397287b73064306f2b680d/f3baa60be16c0075f0dfd65435a06190df56f5cad52f1be0733c75837e092601" 
+                type="audio/x-m4a" 
+                length="79641699" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397287b73064306f2b680d/22ee5bb542317bc56ab29836a3969c3177e2f322924ec92c5fccf985e764fb1a" 
+                type="audio/x-m4a" 
+                length="105982159" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397287b73064306f2b680d/dbd7648fae2cac08348904ed0afe936579412957423a677f9e0e8991f780836b" 
+                type="audio/mpeg" 
+                length="26341514" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397287b73064306f2b680d/a7fe68007d395a5189c1e854e26d74251bd1e946bc8336fd5d03b5c6efac7672" 
+                type="audio/mpeg" 
+                length="79023626" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397287b73064306f2b680d/5c090d342054bc897d2c918353eff2d89605faa9d2288eed30a46de2a7f62300" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

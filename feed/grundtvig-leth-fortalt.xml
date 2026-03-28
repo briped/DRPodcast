@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/grundtvig-leth-fortalt.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Grundtvig Leth fortalt (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt-5336147488000</link>
+        <description>I Grundtvig Leth Fortalt s&amp;#xE6;tter Kristian Leth sp&amp;#xF8;rgsm&amp;#xE5;lstegn ved de hellige k&amp;#xF8;er, som vi danskere fort&amp;#xE6;ller om os selv og hinanden. Kan det virkelig passe at vi danskere er mere frie, tolerante, oplyste og rationelle end resten af verden, og hvad vil det overhovedet sige at v&amp;#xE6;re dansk? For bedre at kunne forst&amp;#xE5; nutidens Danmark, dykker Kristian sammen med historiker Hans Erik Havsteen ned i Danmarks st&amp;#xF8;rste profet, N.F.S. Grundtvig, hvis tankegods og id&amp;#xE9;er mere end nogen anden har formet, hvad vi i dag forst&amp;#xE5;r ved at v&amp;#xE6;re dansk. Hans Erik har linet nogle af landets st&amp;#xF8;rste grundtvigeksperter op, der vil g&amp;#xF8;re os klogere p&amp;#xE5; den gamle profet og det land, vi er rundet af.
+Produceret for DR af Munck Studios K&amp;#xF8;benhavn.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.08 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/grundtvig-leth-fortalt.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/grundtvig-leth-fortalt.jpg</url>
+            <title>Grundtvig Leth fortalt (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt-5336147488000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/grundtvig-leth-fortalt.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Kultur</category>
+        <itunes:category text="Kultur" />
+        <item>
+            <guid isPermaLink="false">16122492801</guid>
+            <link>https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/den-stoerste-profet-16122492801</link>
+            <title>Den st&amp;#xF8;rste profet</title>
+            <description>Vi danskere har et uh&amp;#xF8;rt forhold til vores kristne tro og kirke. Vi g&amp;#xE5;r kun i kirke, n&amp;#xE5;r der er en anledning, men alligevel er st&amp;#xF8;rstedelen af os betalende medlemmer af folkekirken. Hvordan h&amp;#xE6;nger dette overhovedet sammen? For at forst&amp;#xE5;, hvordan vi endte her, m&amp;#xE5; vi f&amp;#xF8;rst forst&amp;#xE5; Grundtvig, der om nogen har formet den danske kristendom og folkekirke - og, n&amp;#xE5; ja, s&amp;#xE5; skrev han 1.600 salmer. 
+Medvirkende: Anders Holm, lektor i kirkehistorie ved det teologiske fakultet K&amp;#xF8;benhavn samt Kathrine Lille&amp;#xF8;r, sognepr&amp;#xE6;st ved Sankt Pauls Kirke i K&amp;#xF8;benhavn.
+V&amp;#xE6;rt: Kristian Leth og Hans Erik Havsteen.
+Klipper: Ole Fugl H&amp;#xF8;rkilde.
+Producer: Mathias Nicolai Pedersen.
+Redakt&amp;#xF8;r: Rune Born Schwartz.
+DR Redakt&amp;#xF8;r: Esben Rud Ammundsen.
+Produceret for DR af Munck Studios K&amp;#xF8;benhavn.</description>
+            <pubDate>Wed, 29 May 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/594d88aef1d6fec1e35626e901c8460a7151d2383f34236e3fa2f32a9e7cb8ff" 
+                type="audio/x-m4a" 
+                length="20829888" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/d6dc1a55c690a92bff821954d03b4c95d7414f46a81f942aaf82e9985db625d1" 
+                type="audio/x-m4a" 
+                length="61534003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/a126ff1821405a5db58ebac878faec07fe39dce693798016faa4ccc91dfe3040" 
+                type="audio/x-m4a" 
+                length="81885836" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/be68cdee40ce3c21579b4470acdb9eaeed9be8e80a884dbadd23d8d17517a1b8" 
+                type="audio/mpeg" 
+                length="20352445" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/593bbffec7f51d0219bd6e2ccae125836afa9dbb0a6cb9c658c450c4a219b9c3" 
+                type="audio/mpeg" 
+                length="61056445" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a2f/ae31f34742166ad62d01135e654832cbdffd3d8c4a284bfcafd654ce21aa5807" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492802</guid>
+            <link>https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/mystikeren-der-opfandt-danskheden-16122492802</link>
+            <title>Mystikeren der opfandt danskheden</title>
+            <description>Den danske folkesj&amp;#xE6;l er noget s&amp;#xE6;rligt, der adskiller os fra resten af omverdenen. S&amp;#xE5;dan t&amp;#xE6;nker vi, men er det hele bare en myte, som Grundtvig har fundet p&amp;#xE5;? For Grundtvig var myterne om de nordiske guder et tegn p&amp;#xE5; noget unikt dansk. Men er dette overhovedet rigtigt, og hvem ville danskerne v&amp;#xE6;re, hvis ikke det var for Grundtvig?
+Medvirkende: Sune Auken, lektor i dansk litteratur ved K&amp;#xF8;benhavns Universitet samt Sophie B&amp;#xF8;nding, ph.d. i religionsvidenskab og postdoc ved Stockholms Universitet.
+V&amp;#xE6;rt: Kristian Leth og Hans Erik Havsteen.
+Klipper: Ole Fugl H&amp;#xF8;rkilde.
+Producer: Mathias Nicolai Pedersen.
+Redakt&amp;#xF8;r: Rune Born Schwartz.
+DR Redakt&amp;#xF8;r: Esben Rud Ammundsen.
+Produceret for DR af Munck Studios K&amp;#xF8;benhavn.</description>
+            <pubDate>Wed, 29 May 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:43:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/b706ee7d2ffb08d5ed3c21353f9715847d82c1d00d685f95ee791c75c28caa79" 
+                type="audio/x-m4a" 
+                length="21431205" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/b9f6e960deb75da027190fe9e0e0b7ce608c58164e56cfcb4d3ecefaca4ed71d" 
+                type="audio/x-m4a" 
+                length="63310631" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/d5313bc559a66ab299502d7c169839de7ba50ae631d982fa5d569af945734ac5" 
+                type="audio/x-m4a" 
+                length="84250085" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/a055d8f4f28751da483d2ffdc38a8683d0f31ec5deff2cfdb294a028a5634e08" 
+                type="audio/mpeg" 
+                length="20939963" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/4a8aeed2ce0cf70d1f59da7a0d9f7ec3a32afff5d39fb48c0d9cd367cb13844d" 
+                type="audio/mpeg" 
+                length="62819003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a37/b5b928bf6f5fac63c3abc8dc30b5931b2954e9578deffd5badfbe54132587381" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492803</guid>
+            <link>https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/den-bedste-frihed-vi-kan-faa-16122492803</link>
+            <title>Den bedste frihed, vi kan f&amp;#xE5;</title>
+            <description>Danmark er et frit land med et enormt frisind og ytringsfriheden er noget n&amp;#xE6;r det helligste. Samtidig insisterer vi danskere p&amp;#xE5;, at man skal passe ind, og man kan i hvert fald ikke melde sig ud af f&amp;#xE6;llesskabet. Id&amp;#xE9;en om frihed varierer voldsomt rundt om i verden, s&amp;#xE5; for at forst&amp;#xE5; det danske frihedsbegreb, m&amp;#xE5; vi f&amp;#xF8;rst forst&amp;#xE5;, hvordan Grundtvig forstod frihed for over 150 &amp;#xE5;r siden. 
+Medvirkende: Ingrid Ank, leder af Grundtvig Akademiet samt Ove Korsgaard, professor i p&amp;#xE6;dagogik. 
+V&amp;#xE6;rt: Kristian Leth og Hans Erik Havsteen.
+Klipper: Ole Fugl H&amp;#xF8;rkilde.
+Producer: Mathias Nicolai Pedersen.
+Redakt&amp;#xF8;r: Rune Born Schwartz.
+DR Redakt&amp;#xF8;r: Esben Rud Ammundsen.
+Produceret for DR af Munck Studios K&amp;#xF8;benhavn.</description>
+            <pubDate>Wed, 29 May 2024 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/557f99e1891dd1f1ba7141ba52cda38e6375a8d86c447f4fa20df65b9d271310" 
+                type="audio/x-m4a" 
+                length="20027068" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/e68d9f204b5b73ea2bf527dd36f3a75d4cc5bcd0b5c99a2e366045b4e18d2622" 
+                type="audio/x-m4a" 
+                length="59162395" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/780b90115a3deaa72970374b820598340c420925e7e47c86dfb424ff8a47502b" 
+                type="audio/x-m4a" 
+                length="78729952" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/94e1b307359b5b64be9b258c04909ab7c50561be7bb163335af88a4161d8737c" 
+                type="audio/mpeg" 
+                length="19567929" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/f68bfc42f5dedcd24537e01dea429ea93d724c615f3fcae0bba4e99d3c19c62f" 
+                type="audio/mpeg" 
+                length="58702905" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3a/bce3161433b644ec85c36e05d8ae12747d025a723bf61017f8ef416be0739a2d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492804</guid>
+            <link>https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/i-skolen-skal-man-laere-at-elske-livet-16122492804</link>
+            <title>I skolen skal man l&amp;#xE6;re at elske livet</title>
+            <description>Grundtvig mente ikke selv at b&amp;#xF8;rn burde g&amp;#xE5; i skole. Alligevel bliver Grundtvig n&amp;#xE6;vnt i fl&amp;#xE6;ng p&amp;#xE5; alle fronter, n&amp;#xE5;r det g&amp;#xE6;lder vores skolesystem - han bliver bandet af for rundkredsp&amp;#xE6;dagogikken og lovprist for sit fokus p&amp;#xE5; barnets leg og l&amp;#xE6;ring. Og s&amp;#xE5; er der Grundtvigs id&amp;#xE9; om h&amp;#xF8;jskolen. En uh&amp;#xF8;rt fri skoleform, som aldrig vil blive opfundet igen, hvis den ikke allerede eksisterede.  
+Medvirkende: Thorstein Balle, seniorresearcher ved Grundtvig Centret samt Jonas M&amp;#xF8;ller, tidligere h&amp;#xF8;jskolel&amp;#xE6;rer og underviser i h&amp;#xF8;jskolep&amp;#xE6;dagogik. 
+V&amp;#xE6;rt: Kristian Leth og Hans Erik Havsteen.
+Klipper: Ole Fugl H&amp;#xF8;rkilde.
+Producer: Mathias Nicolai Pedersen.
+Redakt&amp;#xF8;r: Rune Born Schwartz.
+DR Redakt&amp;#xF8;r: Esben Rud Ammundsen.
+Produceret for DR af Munck Studios K&amp;#xF8;benhavn.</description>
+            <pubDate>Wed, 29 May 2024 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:47:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/a4cf0af8b00818cce60555924308c45017efb78d8187665b2e3756a1b977a8a3" 
+                type="audio/x-m4a" 
+                length="23524355" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/2a22deac3e19c21ac7f296067117a10d15947c202c8a0e2d63126d9667bb814e" 
+                type="audio/x-m4a" 
+                length="69493895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/125b73a519ae8c2260848bef1b8f31787c6167b262f2792794093918b1af3081" 
+                type="audio/x-m4a" 
+                length="92478504" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/6d8eb68a04154f6e7727e00c1f254efc2c53d823360e2f9a98f837af89453422" 
+                type="audio/mpeg" 
+                length="22985153" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/3ad89f9a8f4377c79b0cd37dfd9fc686881bd52b11d4d2c9f9d87ba1f0d54a2d" 
+                type="audio/mpeg" 
+                length="68954561" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a3d/761c938fc5e962481abba52a4abb0b26b453e6d2d13c119be9e7cfb885024d7f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122492805</guid>
+            <link>https://www.dr.dk/lyd/p1/grundtvig-leth-fortalt/grundtvig-leth-fortalt-1/grundtvigs-verdensarv-16122492805</link>
+            <title>Grundtvigs verdensarv</title>
+            <description>Dette sidste program efterlader Kristian m&amp;#xE5;ll&amp;#xF8;s med flere plottwists, end han selv havde set komme. Vi har f&amp;#xE5;et understreget gang p&amp;#xE5; gang i denne serie, at vi lever i slipstr&amp;#xF8;mmen af Grundtvigs tanker. Profetens ord er blevet grebet og videreudviklet p&amp;#xE5; af hans mange, mange disciple - ogs&amp;#xE5; uden for landets gr&amp;#xE6;nser og hele vejen ind i Det Hvide Hus.     
+Medvirkende: Ingrid Ank, leder af Grundtvig Akademiet samt Anders Holm, lektor i kirkehistorie ved det teologiske fakultet K&amp;#xF8;benhavn. 
+Der er blevet brugt klip fra Larry King Live, CNN samt Barack Obamas tale ved statsmiddag for de fem nordiske lande, 2016.
+V&amp;#xE6;rt: Kristian Leth og Hans Erik Havsteen.
+Klipper: Ole Fugl H&amp;#xF8;rkilde.
+Producer: Mathias Nicolai Pedersen.
+Redakt&amp;#xF8;r: Rune Born Schwartz.
+DR Redakt&amp;#xF8;r: Esben Rud Ammundsen.
+Produceret for DR af Munck Studios K&amp;#xF8;benhavn.</description>
+            <pubDate>Wed, 29 May 2024 05.04.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:44:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/8a14d7b32592bba35938aa3b5c95b7bd8ffc3f7aae57d5e141fa9798cdd9e934" 
+                type="audio/x-m4a" 
+                length="21885192" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/366b336ff5a7b52067718a29ea40fe04798cee5aac582b1124f0202f2ee5bec6" 
+                type="audio/x-m4a" 
+                length="64651711" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/7a08684b4c77efe1c6b24fe1b4cbd69e335c410494ba14c0221e46c49c8862eb" 
+                type="audio/x-m4a" 
+                length="86034728" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/20533d7825c909aca5f51ff06e3393ab39d83c2501dd6f31419b3982d0d112d7" 
+                type="audio/mpeg" 
+                length="21383485" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/bbdb5fbde9035cdb5694078b25f12aad9912ebb14311386312ab6951be467da0" 
+                type="audio/mpeg" 
+                length="64149565" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6654314cbe7905fb09c29a40/965336a154f5145c0b6ead76369a3425cca7259736c54ae3fc9ea30617e441b7" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

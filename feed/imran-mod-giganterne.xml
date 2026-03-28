@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/imran-mod-giganterne.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Imran mod giganterne (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/imran-mod-giganterne-6640238011710</link>
+        <description>Som en af de f&amp;#xF8;rste gjorde l&amp;#xE6;gen Imran Rashid opm&amp;#xE6;rksom p&amp;#xE5; faren ved det enorme forbrug af sociale medier. For det modtog han DR&amp;#x27;s formidlingspris, Rosenkj&amp;#xE6;rprisen. F&amp;#xF8;lgerne af stort sk&amp;#xE6;rmforbrug for mange unge er f&amp;#xF8;lelsen af mindrev&amp;#xE6;rd og isolation. Det er f&amp;#xF8;lelser, som Imran kendte til fra opv&amp;#xE6;ksten som andengenerationsindvandrer i en tid, hvor det blev normalt at tale om indvandring i utilsl&amp;#xF8;rede vendinger. Imran er en m&amp;#xF8;nsterbryder, som f&amp;#xE5;r en betydningsfuld stemme og virker for det f&amp;#xE6;lles bedste. Men hans historie er ogs&amp;#xE5; fort&amp;#xE6;llingen om f&amp;#xF8;lgerne af den h&amp;#xE5;rde debat, som har domineret Danmark gennem de sidste 30 &amp;#xE5;r.
+Tilrettel&amp;#xE6;ggelse: Christoffer Emil Bruun
+Redakt&amp;#xF8;r: Hanne Barslund
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.12 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/imran-mod-giganterne.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/imran-mod-giganterne.jpg</url>
+            <title>Imran mod giganterne (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/imran-mod-giganterne-6640238011710</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/imran-mod-giganterne.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Kultur</category>
+        <itunes:category text="Kultur" />
+        <category>Videnskab og tech</category>
+        <itunes:category text="Videnskab og tech" />
+        <item>
+            <guid isPermaLink="false">11162531001</guid>
+            <link>https://www.dr.dk/lyd/p1/imran-mod-giganterne/imran-mod-giganterne-1/1-5-kampen-mod-big-tech-11162531001</link>
+            <title>1:5 - Kampen mod big tech</title>
+            <description>Som en af de f&amp;#xF8;rste gjorde l&amp;#xE6;gen Imran Rashid opm&amp;#xE6;rksom p&amp;#xE5; den fare som det enorme forbrug af sociale medier udg&amp;#xF8;r. Han er en vigtig stemme i debatten om vores tid. Han m&amp;#xF8;des med politikere, har lavet borgerforslag og holder foredrag. I aften taler han i en kirke p&amp;#xE5; Amager.
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Christoffer Emil Bruun
+Musik: Trentem&amp;#xF8;ller</description>
+            <pubDate>Tue, 24 Jun 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:33</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574864cf94f951d70cd/9e5c71222f293b848007e8ae1f872491680b271f54d0ebae49310dbfd4f50a41" 
+                type="audio/x-m4a" 
+                length="13541671" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574864cf94f951d70cd/083324fdf796dc9c55cee9557a0edb4d6c9ad6991b790604f26fbff2c0278713" 
+                type="audio/x-m4a" 
+                length="40003075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574864cf94f951d70cd/998267aadbc0801ea1150d57265f23cef2bcc0ad870a0451560512360fbb0e2d" 
+                type="audio/x-m4a" 
+                length="53233623" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574864cf94f951d70cd/40e3e83ffe4a79851457ca97f9802b9e0cbfcfaad74d12b6d01656fb6a5d8233" 
+                type="audio/mpeg" 
+                length="13231168" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574864cf94f951d70cd/d825349a4a02495445967bad2d2e8d39bc42711318fc29773eb98b8e8422370c" 
+                type="audio/mpeg" 
+                length="39692608" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574864cf94f951d70cd/0e6cf0041d3d1d3452b2f58161b4f8270eda1902c5ab28ee8756d90a21433e5e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162531002</guid>
+            <link>https://www.dr.dk/lyd/p1/imran-mod-giganterne/imran-mod-giganterne-1/2-5-spark-naeve-og-hoej-mental-tilstand-11162531002</link>
+            <title>2:5 - Spark, n&amp;#xE6;ve og h&amp;#xF8;j mental tilstand</title>
+            <description>Da Imran og hans br&amp;#xF8;dre var unge flyttede familien fra N&amp;#xF8;rrebro og begyndte til Taekwondo. Kampsporten blev en m&amp;#xE5;de at l&amp;#xE6;re disciplin og klubben blev et afg&amp;#xF8;rende socialt f&amp;#xE6;llesskab. Imran bes&amp;#xF8;ger sin storebror, som i dag har sin egen taekwondo-klub.
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Christoffer Emil Bruun
+Musik: Trentem&amp;#xF8;ller.</description>
+            <pubDate>Tue, 24 Jun 2025 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665be3167d8352b0f21/f51f9c354638bc221d61579974fef6ea10872fed3e05b5a2b22ad3d75815a084" 
+                type="audio/x-m4a" 
+                length="13633160" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665be3167d8352b0f21/6640a2e5fd0614451b3b0dfaf470170afe2d68118ebbe4be22935d06a4f67145" 
+                type="audio/x-m4a" 
+                length="40273499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665be3167d8352b0f21/ad33e52a97be687e1ef07e72d3758d1394abd1d971232ccd8dff40f86c12cd87" 
+                type="audio/x-m4a" 
+                length="53593556" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665be3167d8352b0f21/086db4f85e2627af82b4a2a7dd789f1f02639bc24e13ce07e7e57581ced53e71" 
+                type="audio/mpeg" 
+                length="13320448" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665be3167d8352b0f21/733a3fe70be28986e9c694e0ae4161857f7e04a95cd03de86c05d36f22682138" 
+                type="audio/mpeg" 
+                length="39960448" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665be3167d8352b0f21/cff4255b3126bc01a57d62153dae205498ede630d2354d70266d20ea5107e406" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162531003</guid>
+            <link>https://www.dr.dk/lyd/p1/imran-mod-giganterne/imran-mod-giganterne-1/3-5-arven-fra-sialkot-11162531003</link>
+            <title>3:5 - Arven fra Sialkot</title>
+            <description>F&amp;#xF8;rst rejste faren fra Pakistan til Europa for at tjene penge. Siden kom resten af familien til og Imran blev f&amp;#xF8;dt, som den sidste af fire s&amp;#xF8;skende. Deres kamp handlede om at skabe et godt liv for deres b&amp;#xF8;rn i Danmark. I dag ligger de p&amp;#xE5; Vestre Kirkeg&amp;#xE5;rd i K&amp;#xF8;benhavn og Imran bes&amp;#xF8;ger gravstedet med sin s&amp;#xF8;ster Rushy.
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Christoffer Emil Bruun.
+Musik: Trentem&amp;#xF8;ller.</description>
+            <pubDate>Tue, 24 Jun 2025 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:43</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574be3167d8352b0818/d579129de81b9338189840ab13f44dab31412e37eadcf6d55d06ddb4271fc474" 
+                type="audio/x-m4a" 
+                length="13126127" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574be3167d8352b0818/b0ccb82cbf0d2640c91f4b91e93a2ab0098317e428bd61f659c474895d84e8a5" 
+                type="audio/x-m4a" 
+                length="38775507" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574be3167d8352b0818/d2a3178d91428b6bed97fa28aaf6ffcbd1242fa29da5361e436017657d6f7f51" 
+                type="audio/x-m4a" 
+                length="51600263" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574be3167d8352b0818/19d5ef8ead4d2264c6cacb8ac25ba5f015475060ca14e095670fba5050b8b946" 
+                type="audio/mpeg" 
+                length="12825088" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574be3167d8352b0818/437319b3c7d18d6fef143fdf5225a6916128c77d6ffa19c2085133a5dc3d13f2" 
+                type="audio/mpeg" 
+                length="38474368" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574be3167d8352b0818/358f753619011b5abba6c508cfd637db6b23047fd069c41338c32f3ebdd95b7e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162531004</guid>
+            <link>https://www.dr.dk/lyd/p1/imran-mod-giganterne/imran-mod-giganterne-1/4-5-du-maa-ikke-komme-ind-11162531004</link>
+            <title>4:5 - Du m&amp;#xE5; ikke komme ind!</title>
+            <description>Som studerende bad Imran et ungdomsprogram i DR om at unders&amp;#xF8;ge, hvorfor han ikke kunne komme ind p&amp;#xE5; diskoteker, n&amp;#xE5;r hans etnisk danske venner kunne. Hverdagsracismen pr&amp;#xE6;gede hans opv&amp;#xE6;kst indtil han p&amp;#xE5; et tidspunkt frigjorde sig fra den. Sammen med sin nev&amp;#xF8;, Adam, genser Imran det gamle indslag.
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Christoffer Emil Bruun.
+Musik: Trentem&amp;#xF8;ller.</description>
+            <pubDate>Tue, 24 Jun 2025 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574b84a30825c6cdef6/e2e361779ac3a464d24c51a03992a85d4b5e0a53a8c87e1d44789612c3bb54c5" 
+                type="audio/x-m4a" 
+                length="12370677" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574b84a30825c6cdef6/adf25fcc55e2a70f10a7a99edd81dbfe65a22cbd981303b81f4f474abe4e3b6b" 
+                type="audio/x-m4a" 
+                length="36543799" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574b84a30825c6cdef6/a4e65920457c9d36667767786887feadfd1e50acc4c2f743621d2a21c648b65d" 
+                type="audio/x-m4a" 
+                length="48630337" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574b84a30825c6cdef6/de3a398986ae0719b8a1c8374a72021f549b3d7ee89311b4ef4f988e2480e6e7" 
+                type="audio/mpeg" 
+                length="12086845" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574b84a30825c6cdef6/b5465c9156c5024ab7d8f3a0a8cada41da3ec5f3199894f9eaf9b885abbeeb7d" 
+                type="audio/mpeg" 
+                length="36259645" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498574b84a30825c6cdef6/6c58eb5d2e2a3dabbf5f5c6e0953b4850490120596cad45a2d23230d2f459e7a" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11162531005</guid>
+            <link>https://www.dr.dk/lyd/p1/imran-mod-giganterne/imran-mod-giganterne-1/5-5-en-god-start-i-livet-11162531005</link>
+            <title>5:5 - En god start i livet</title>
+            <description>Han har k&amp;#xE6;mpet sig frem og k&amp;#xE6;mpet imod de blikke, han blev m&amp;#xF8;dt med, som s&amp;#xF8;n af pakistanske indvandrere. Han har gjort os alle sammen opm&amp;#xE6;rksom p&amp;#xE5; at forbruget af sk&amp;#xE6;rm og sociale medier udg&amp;#xF8;r et k&amp;#xE6;mpe problem. Nu vil han k&amp;#xE6;mpe for at alle verdens b&amp;#xF8;rn f&amp;#xE5;r en god start i livet.
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Christoffer Emil Bruun.
+Musik: Trentem&amp;#xF8;ller.</description>
+            <pubDate>Tue, 24 Jun 2025 05.04.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665864cf94f951d77e5/a3f196c631a1d97ababfe1da32dd2d02b74327ad4e72d16ab6b9e3cfd6c829e2" 
+                type="audio/x-m4a" 
+                length="13206985" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665864cf94f951d77e5/4b2c3a1f0cf6df70d5dc29f865d60770f506bfe6153c88ab6234f075ca745db3" 
+                type="audio/x-m4a" 
+                length="39014391" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665864cf94f951d77e5/620fd43f60f4a8c49f02c16d00559edba4719c478f2dd4574dc50ed67169c8ec" 
+                type="audio/x-m4a" 
+                length="51917977" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665864cf94f951d77e5/757092fd46a85b2655cc50f30e6f545719d3c56df74a4bf04b0eee18bc24fe22" 
+                type="audio/mpeg" 
+                length="12904003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665864cf94f951d77e5/dcb3c606dd6132974a2ad92fc03ed489bddfc3626f9b4eb890bd9fa64c265d6e" 
+                type="audio/mpeg" 
+                length="38711107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68498665864cf94f951d77e5/dac00ee92a99369541c2facbbcb136b7b0755612fd5c0721ec8a86abfb69cd20" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

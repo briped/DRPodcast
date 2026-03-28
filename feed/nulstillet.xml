@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/nulstillet.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Nulstillet (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/nulstillet-5948918508000</link>
+        <description>Hvad sker det med os mennesker, n&amp;#xE5;r vi pludselig rammes af voldsom sygdom, ulykker og modgang? Hvorfor er is&amp;#xE6;r m&amp;#xE6;nd s&amp;#xE5; d&amp;#xE5;rlige til at klare sig igennem kriser alene og finde tilbage til en ny hverdag og virkelighed? 
+Med udgangspunkt i radiov&amp;#xE6;rt Jesper Deins hjernebl&amp;#xF8;dning, afs&amp;#xF8;ger han sammen med Kristian Leth,  hvad der sker, n&amp;#xE5;r livet forandrer sig p&amp;#xE5; et splitsekund. I serien m&amp;#xF8;der vi, udover Jespers venner, kolleger og familie, l&amp;#xE6;ger, psykologer og andre nulstillede, der fort&amp;#xE6;ller om, hvordan de finder vej videre i livet.  
+Tilrettel&amp;#xE6;ggelse: Jesper Dein og Kristian Leth.
+Lyddesign, musik og klip: Kristian Leth.
+Redakt&amp;#xF8;r: Hanne Barslund.
+Programansvarlig: Mette-Line Thorup.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.12 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/nulstillet.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/nulstillet.jpg</url>
+            <title>Nulstillet (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/nulstillet-5948918508000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/nulstillet.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Livsstil</category>
+        <itunes:category text="Livsstil" />
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Sundhed</category>
+        <itunes:category text="Sundhed" />
+        <item>
+            <guid isPermaLink="false">11032430001</guid>
+            <link>https://www.dr.dk/lyd/p1/nulstillet/nulstillet-1/blodig-alvor-1-3-11032430001</link>
+            <title>Blodig alvor 1:3</title>
+            <description>Hvad skete der egentlig, da Jesper blev nulstillet af en livstruende hjernebl&amp;#xF8;dning p&amp;#xE5; en helt almindelig for&amp;#xE5;rsdag? 
+Tilrettel&amp;#xE6;ggelse: Jesper Dein og Kristian Leth.
+Lyddesign, musik og klip: Kristian Leth.
+Redakt&amp;#xF8;r: Hanne Barslund.
+Programansvarlig: Mette-Line Thorup.</description>
+            <pubDate>Mon, 10 Mar 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c1181b/a71738cf3b45e2c65e849a3b2fa2c9bac50385819cfe4e741554e3d8d126efcd" 
+                type="audio/x-m4a" 
+                length="14774273" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c1181b/9b3cd1141a77da3976ebbb58c331ee4aa17946c4b5c0dd95d854ce35a9fbd89c" 
+                type="audio/x-m4a" 
+                length="43644515" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c1181b/2b310a6bfc9e77d31c397038b1b492c3dde26a175a2d6f5f7c32f7823d8e42f0" 
+                type="audio/x-m4a" 
+                length="58079677" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c1181b/1df86f59a62bbaae2164177b38e492222e10a1e55fbe5e46bb933a6bbf1e45fd" 
+                type="audio/mpeg" 
+                length="14435381" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c1181b/1196ff9ff9f0efe6ada4de0a96463e878174ba534c68e3cd4fde9c439882e6fb" 
+                type="audio/mpeg" 
+                length="43305269" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c1181b/0be33a387c733bdbf8529c22334b38d7975475b1ec894b84b6f228cef2894050" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032430002</guid>
+            <link>https://www.dr.dk/lyd/p1/nulstillet/nulstillet-1/stemmesvigt-og-sondekost-2-3-11032430002</link>
+            <title>Stemmesvigt og sondekost 2:3</title>
+            <description>Om at miste sit vigtigste arbejdsredskab og kampen for at vende tilbage til hverdagen.
+Tilrettel&amp;#xE6;ggelse: Jesper Dein og Kristian Leth.
+Lyddesign, musik og klip: Kristian Leth.
+Redakt&amp;#xF8;r: Hanne Barslund.
+Programansvarlig: Mette-Line Thorup.</description>
+            <pubDate>Mon, 10 Mar 2025 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70f7551d40428287d10/9c4d8911d1f97cf5d37bd484fabafbd25d46527245231cf29a1d2541337bc749" 
+                type="audio/x-m4a" 
+                length="14767287" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70f7551d40428287d10/675ce8e57e9eadef8ba3af091cf6cb8f6ca01bdfa54f4c452981ce67896ca3d1" 
+                type="audio/x-m4a" 
+                length="43623899" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70f7551d40428287d10/6aae8ce2fc6c1381b3324ca745336abe14c2a4253d50577863fc0a9dceff7f5d" 
+                type="audio/x-m4a" 
+                length="58052247" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70f7551d40428287d10/f4657226a06939e67a343805a03a27bc9d86be7d0544159fd45c951e768b51bc" 
+                type="audio/mpeg" 
+                length="14428644" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70f7551d40428287d10/33cffdfc511c152b47ecf4b05a4d69ca2671de84390ef7f8b31e66b52f90f702" 
+                type="audio/mpeg" 
+                length="43285092" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70f7551d40428287d10/ac69afb7e0f010bebe52b2b0a69d95fb2530c62aeceb467fdb8557861af9412c" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032430003</guid>
+            <link>https://www.dr.dk/lyd/p1/nulstillet/nulstillet-1/den-elendige-mand-3-3-11032430003</link>
+            <title>Den elendige mand 3:3</title>
+            <description>Om hvorfor is&amp;#xE6;r m&amp;#xE6;nd er d&amp;#xE5;rlige til at takle kriser og sygdom. Vi m&amp;#xF8;der blandt andre fodboldspiller Jonathan Richter, der blev ramt af lynet og mistede sit ben, og forfatter Knud Romer, der blev n&amp;#xE6;sten blind efter en &amp;#xF8;jensygdom.  
+Tilrettel&amp;#xE6;ggelse: Jesper Dein og Kristian Leth.
+Lyddesign, musik og klip: Kristian Leth.
+Redakt&amp;#xF8;r: Hanne Barslund.
+Programansvarlig: Mette-Line Thorup.</description>
+            <pubDate>Mon, 10 Mar 2025 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c11813/34faf456f24b5157a67b5c3e5326c0beee492a1aad8791255e3cd0a60da281ee" 
+                type="audio/x-m4a" 
+                length="14767100" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c11813/9ee2d7ddd0f75e638a39f141b50929c585f9333b254edf8f85069a27cd5bce51" 
+                type="audio/x-m4a" 
+                length="43623431" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c11813/e246d84714bfb5092aef4e4c0064dd580eb7967ea67e1b6a01b858888c2e5f2f" 
+                type="audio/x-m4a" 
+                length="58051524" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c11813/995d04b25031bdc8eaad67f1470e8423a8308c3f13f80c343d53d2cffc6327be" 
+                type="audio/mpeg" 
+                length="14428476" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c11813/ade86b41d42f1eb49b0e73e5dbc81de68d740d943cc930fb6ef494cba9e07363" 
+                type="audio/mpeg" 
+                length="43284540" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c1c70fa83d0dd946c11813/55504050e0067fcc008e7cc067e7347edb8c310bbd6660f9285d4c9e7d544891" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

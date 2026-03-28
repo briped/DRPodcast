@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/sorte-tal.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Sorte tal (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/sorte-tal-1791900416000</link>
+        <description>DR&amp;#x27;s podcast om de vigtigste danske virksomheder. Hver uge g&amp;#xE5;r Sorte tal bagom opk&amp;#xF8;b, &amp;#xF8;konomiske sv&amp;#xE6;rdslag, roterende svingd&amp;#xF8;re og de store danske virksomheders jagt p&amp;#xE5; sorte tal. Sammen med fast g&amp;#xE6;st erhvervsjournalist og r&amp;#xE5;dgiver Sune Aagaard, kommer v&amp;#xE6;rt Ulrik Rosenkvist t&amp;#xE6;t p&amp;#xE5; toppen af dansk business - og hvad deres op- og nedture betyder for Danmark.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.37.08 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/sorte-tal.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/sorte-tal.jpg</url>
+            <title>Sorte tal (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal-1791900416000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/sorte-tal.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Nyheder</category>
+        <itunes:category text="Nyheder" />
+        <item>
+            <guid isPermaLink="false">11802605012</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/grisebassernes-fremtid-oersteds-bryllupsplaner-og-rip-arvesoelv-11802605012</link>
+            <title>Grisebassernes fremtid, &amp;#xD8;rsteds bryllupsplaner og RIP arves&amp;#xF8;lv</title>
+            <description>Grisen er rykket helt op p&amp;#xE5; den politiske dagsorden. Hvad kan det f&amp;#xE5; af betydning for den danske svineproduktion - og derved ogs&amp;#xE5; Danish Crown? Skal vi producere f&amp;#xE6;rre grise herhjemme? Vi gennemg&amp;#xE5;r en r&amp;#xE6;kke grafer, der viser udviklingen - og stiller sp&amp;#xF8;rgsm&amp;#xE5;let: Hvordan ser fremtiden ud for grisen?
+Derefter ringer bryllupsklokkerne - eller? De fleste havde forventet, at norske Equinor ville f&amp;#xE5; en plads i &amp;#xD8;rsted bestyrelse. Men det bliver ikke i denne omgang. Man havde ellers talt om et t&amp;#xE6;ttere samarbejde mellem de to selskaber. Er bryllupsplanerne lagt p&amp;#xE5; hylden? 
+Til slut tager vi et smut tilbage i tiden. GN Store Nord har solgt deres h&amp;#xF8;reapparat-forretning, som virksomheden ellers var kendt for. Vi kigger i historieb&amp;#xF8;gerne efter andre virksomheder, der har &amp;#xE6;ndret DNA eller solgt ud af arves&amp;#xF8;lvet. Hvordan er det g&amp;#xE5;et dem? 
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Jacob Pedersen, aktieanalysechef hos AL Sydbank og Anders Ravn S&amp;#xF8;rensen, lektor i virksomhedshistorie ved CBS.</description>
+            <pubDate>Mon, 23 Mar 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d04ab1506d5ae8001f6/47b2952f684f998a6f004c581c33b4d46e1a7ca18a44a2c2b49164c87f3edd63" 
+                type="audio/x-m4a" 
+                length="27019261" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d04ab1506d5ae8001f6/644a54a286ae07c190dfdec0fecebec44c29c7f5f60834c38553edb63ab4523e" 
+                type="audio/x-m4a" 
+                length="79818663" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d04ab1506d5ae8001f6/56da367e56f9032aebb772fe2c7837a3ad04ca0b5aaf0e99c6e17546c20a84ce" 
+                type="audio/x-m4a" 
+                length="106217709" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d04ab1506d5ae8001f6/f0c7b5243d0421341e97c5d66bd9f62bb7dac861ef3526801bd7b285d2b60a3b" 
+                type="audio/mpeg" 
+                length="26399865" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d04ab1506d5ae8001f6/6d1742e171f892a0cac1efb0a87396027e81a62a9fd9defcca6bd1c7dd730783" 
+                type="audio/mpeg" 
+                length="79198713" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d04ab1506d5ae8001f6/991fb6dd22a1602d0524c54f9ccf445d217db398b9af32c9388b04b476773c46" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605011</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/gal-eller-genial-legoklods-og-saxo-banks-utraditionelle-foerstemand-11802605011</link>
+            <title>Gal eller genial Legoklods? Og Saxo Banks utraditionelle f&amp;#xF8;rstemand</title>
+            <description>RETTELSE: I programmet interviewer vi den nu afg&amp;#xE5;ede direkt&amp;#xF8;r for Saxo Bank Kim Fournais. I interviewet sp&amp;#xF8;rger vi ham ind til bogen &amp;#x22;Whistlebloweren fra Saxo Bank&amp;#x22;, som Kim Fournais kalder for latterlig, fordrejet og manipuleret. Her burde vi have kontaktet forfatteren bag bogen for en kommentar p&amp;#xE5; Kim Fournais fremstilling af bogen, og have medtaget dette i programmet. Det beklager vi, at vi ikke fik gjort. Forfatteren bag bogen Michael Teschl skriver f&amp;#xF8;lgende til os:
+&amp;#x22;Whistlebloweren fra Saxo Bank, udgivet p&amp;#xE5; Gyldendal, har v&amp;#xE6;ret &amp;#xE5;r undervejs og har som kritisk journalistisk v&amp;#xE6;rk selvf&amp;#xF8;lgelig gennemg&amp;#xE5;et omfattende fakta- og juratjek for netop at sikre, at indholdet er korrekt og uanf&amp;#xE6;gteligt. Bogens indhold er p&amp;#xE5; ingen m&amp;#xE5;de hverken &amp;#x22;fordrejet&amp;#x22; eller &amp;#x22;manipuleret&amp;#x22; som p&amp;#xE5;st&amp;#xE5;et af Kim Fournais. De af bogens forhold, der relaterer til Kim Fournais, er Kim Fournais selvf&amp;#xF8;lgelig blevet beh&amp;#xF8;rigt forelagt, og Kim Fournais er selv hovedkilde i bogen.&amp;#x22;
+_______
+
+Lego har igen leveret et rekordregnskab. Og derfor har vi haft ringet til direkt&amp;#xF8;ren. Dels for at h&amp;#xF8;re om regnskabet - men s&amp;#xE5; sandelig ogs&amp;#xE5; for at h&amp;#xF8;re om Legos spritnye digitale klods. 
+Skal Lego virkelig v&amp;#xE6;re digitalt? Hvad er der i vejen med den helt klassiske klods?
+Vi har den fam&amp;#xF8;se nye klods i studiet - og anmelder den: Er den gal eller genial? 
+Vi f&amp;#xE5;r ogs&amp;#xE5; bes&amp;#xF8;g af Kim Fournais fra Saxo Bank. Han er tr&amp;#xE5;dt ud af rollen som direkt&amp;#xF8;r - nu er han bestyrelsesformand. S&amp;#xE5; vi tager en snak om Saxo-rejsen, om det at dele vandene, g&amp;#xE5; til gr&amp;#xE6;nsen og bev&amp;#xE6;ge sig ud af sin comfort-zone. 
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz. 
+Fast g&amp;#xE6;st: Sune Aagaard. 
+Medvirkende: Niels B. Christiansen, direkt&amp;#xF8;r for Lego og Kim Fournais, bestyrelsesformand for Saxo Bank.</description>
+            <pubDate>Mon, 16 Mar 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d034f22de874edd419b/aa0ba490e1de2ce32764cc6f27f5358096b25bf7cb7b087c73ebfa73428a3280" 
+                type="audio/x-m4a" 
+                length="27016260" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d034f22de874edd419b/06b3eac7f53f3cd146700433c2d71bc8fc8784287d2edf2f53fbb8647777e9b7" 
+                type="audio/x-m4a" 
+                length="79809823" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d034f22de874edd419b/e3a28c177d882704af141a86334ef4613d203302843d8d050d6dd55f7815e750" 
+                type="audio/x-m4a" 
+                length="106205980" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d034f22de874edd419b/596171c66e0b4b8bbc60b418c49296a2c3ea972eff0a45e8d8bea4b99140c81d" 
+                type="audio/mpeg" 
+                length="26397003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d034f22de874edd419b/51def6068d617399735f1916686a9b19bf64d79571c48539dab8f1490da6a522" 
+                type="audio/mpeg" 
+                length="79190091" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d034f22de874edd419b/d4c78d057e98df10c33f79838e1e9ac3743bf4ac3baebedde94d9579fac06f83" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605010</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/formueskat-guld-og-biler-for-milliarder-11802605010</link>
+            <title>Formueskat, guld og biler for milliarder</title>
+            <description>Formueskatten er et varmt emne i valgkampen. Og erhvervslivet er ikke glade. Hvad er op og ned?
+Vi tager ogs&amp;#xE5; et kig p&amp;#xE5; krigen i Mellem&amp;#xF8;sten. Hvad har den af &amp;#xF8;konomisk betydning? Vi tager blandt andet et kig p&amp;#xE5; guld som f&amp;#xE6;nomen. Og derfor ringer vi til guld-aficionado Rane Willerslev. Til sidst for vi bes&amp;#xF8;g af en bils&amp;#xE6;lger, der s&amp;#xE6;lger biler for milliarder: Direkt&amp;#xF8;ren for Semler Gruppen. Vi taler om rekord-regnskab, den danske bilpark, el- og delebiler. 
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard,
+Medvirkende: Rane Willerslev, direkt&amp;#xF8;r p&amp;#xE5; Nationalmuseet og Ulrik Drejsig, direkt&amp;#xF8;r hos Semler Gruppen.</description>
+            <pubDate>Mon, 09 Mar 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02f813fbba907cb12b/9c10d0383e3bb0ea53d1d46811beffef0412c1003c3252e815ba2eb61b304442" 
+                type="audio/x-m4a" 
+                length="26984280" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02f813fbba907cb12b/8dc934d787ee58f36a68d92b49a20d71c2772e0f59ee3dfcb70d77f105653218" 
+                type="audio/x-m4a" 
+                length="79713351" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02f813fbba907cb12b/4657ef228bf5e81bc41aaf4f848804a56872772e462d9f6a771f6c3a708f4de7" 
+                type="audio/x-m4a" 
+                length="106077557" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02f813fbba907cb12b/77c545925b0c555a076a8798f3e3a33eb2f9920235764d568f89b2cdd343631e" 
+                type="audio/mpeg" 
+                length="26365113" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02f813fbba907cb12b/64cf10d2b811a046adab43f392133a3306e591b8e7d27d75fbefac7323bd1ba5" 
+                type="audio/mpeg" 
+                length="79094457" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02f813fbba907cb12b/bbae2e38c1de7ffaa9a6cbc666b1a0a866891e70e9b9bfe5520b38f482bb2581" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605009</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/novo-aktien-en-viral-abe-og-netcompanys-nye-aftale-11802605009</link>
+            <title>Novo-aktien, en viral abe og Netcompanys nye aftale</title>
+            <description>Vi starter med at tage til en japansk zoo. Sammen med resten af internettet. For den japanske abe Punch er g&amp;#xE5;et viralt - og det samme er Ikea. Hvad betyder det for virksomheder, n&amp;#xE5;r de g&amp;#xE5;r viralt? Hvordan arbejder man med det? Og er der penge at tjene?
+Vi skal ogs&amp;#xE5; forbi Novo Nordisk. Investortilliden har igen lidt et kn&amp;#xE6;k. Hvor vil Per Hansen nu placere dem p&amp;#xE5; tillidsbarometeret? Og kan markedet ikke godt tage fejl?
+Til sidst ringer vi til Andr&amp;#xE9; Rogaczewski fra Netcompany. Han har landet en k&amp;#xE6;mpe aftale med Heathrow lufthavn. Hvad g&amp;#xE5;r den ud p&amp;#xE5;? F&amp;#xE5;r han credit nok for det? Og hvor stor en UK-fjer i hatten er det?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Per Hansen, investerings&amp;#xF8;konom hos Nordnet og Andr&amp;#xE9; Rogaczewski, CEO for Netcompany.</description>
+            <pubDate>Mon, 02 Mar 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02ab1506d5ae8001d4/08b92241ed3f5578081713c63a2c6ba9ad6b6a238ec4d7c5844caf9400512c57" 
+                type="audio/x-m4a" 
+                length="27017382" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02ab1506d5ae8001d4/e614f476de953a8f844385bd71dbb91d403e69fcb711361f3987631fb2619da9" 
+                type="audio/x-m4a" 
+                length="79810911" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02ab1506d5ae8001d4/66a9c4629b0d84ad24f643c45a60e549fff2325298ce43fcbf0b1aabca54cb61" 
+                type="audio/x-m4a" 
+                length="106207337" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02ab1506d5ae8001d4/dcd632ba6b7f80ce64c24d38b9a9fa858acb1e174b7cea45680ff85c9fc4007f" 
+                type="audio/mpeg" 
+                length="26397379" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02ab1506d5ae8001d4/59b974f28f4d33bb59763868b106e15691b88ae5fd22456ace702df579b7cc03" 
+                type="audio/mpeg" 
+                length="79191235" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d02ab1506d5ae8001d4/ead5ec69c41cb9048a52c40ee47ff1b631eb2089fb876d7782939f4894d47da3" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605008</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/lyt-efter-tre-ting-i-trumps-tale-kaare-dybvad-vs-bnp-11802605008</link>
+            <title>Lyt efter tre ting i Trumps tale + Kaare Dybvad vs. BNP</title>
+            <description>Trump skal snart holde den &amp;#xE5;rlige State of the Union tale. En tale, der potentielt kan f&amp;#xE5; konsekvenser for virksomheder og markeder - afh&amp;#xE6;ngig af, hvad han siger. Hvad lytter investoren is&amp;#xE6;r efter? Vi f&amp;#xE5;r ogs&amp;#xE5; bes&amp;#xF8;g af besk&amp;#xE6;ftigelsesminister Kaare Dybvad Bek. Han vil d&amp;#xE6;mme op for udenlandsk arbejdskraft - og det er til trods for, at virksomhederne &amp;#xF8;nsker mere af det. Men ministeren er klar til at g&amp;#xE5; p&amp;#xE5; kompromis med v&amp;#xE6;kst og BNP for at bevare sammenh&amp;#xE6;ngskraften. Kan vi tillade os at overh&amp;#xF8;re virksomhedernes &amp;#xF8;nsker i en tid, hvor alle er p&amp;#xE5; dupperne?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Kasper Lorenzen, investeringsdirekt&amp;#xF8;r i PFA og Kaare Dybvad Bek, besk&amp;#xE6;ftigelsesminister fra Socialdemokratiet.</description>
+            <pubDate>Mon, 23 Feb 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d014f22de874edd4184/c54182a3a61222792db3c16537e9d3e6cf03843fabc06b8b2550cd38ec3eb7d3" 
+                type="audio/x-m4a" 
+                length="27017617" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d014f22de874edd4184/a2df9fd108b5ca35ca17fad88ff472319024c81674f3b3b03a168243c79f0eb1" 
+                type="audio/x-m4a" 
+                length="79812963" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d014f22de874edd4184/4d00446d77b435dee8faa5c39b4ddb88372ee24ae91be4c7acbf44fd738eca4c" 
+                type="audio/x-m4a" 
+                length="106210108" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d014f22de874edd4184/6976be3e32a2a437190c8999a9c6af4be8308e3d9a10c49bc1d2f2284d2103cf" 
+                type="audio/mpeg" 
+                length="26397967" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d014f22de874edd4184/0c588f65dfce56cd8512b41ec58574f0fa17ab85954fb83ada52477cabbac28a" 
+                type="audio/mpeg" 
+                length="79192975" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d014f22de874edd4184/5897eac7912f147621aaaf228a74c925643c89680b1562f922eb64e5beb57da2" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605007</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/kig-mod-japan-nu-ol-atleternes-loenseddel-og-novo-kopikamp-11802605007</link>
+            <title>Kig mod Japan nu, OL-atleternes l&amp;#xF8;nseddel og Novo-kopikamp</title>
+            <description>Investorer b&amp;#xF8;r kigge mod Japan lige nu. Der sker ting, der kan have stor betydning for markeder og den globale &amp;#xF8;konomi. 
+Vi skal ogs&amp;#xE5; til OL. For hvad koster et vinter-OL egentlig? Hvor mange sponsorpenge er der p&amp;#xE5; spil? Og hvilke atleters l&amp;#xF8;nseddel er i den helt dyre ende? Vi dykker ned i tallene bag De Olympiske Lege i sneen.
+Til sidst tager vi lige temperaturen p&amp;#xE5; kopikampen for Novo Nordisk.
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Josefine H&amp;#xF8;gh, v&amp;#xE6;rt hos DR og Josephine Cetti, chefstrateg hos Nordea.</description>
+            <pubDate>Mon, 16 Feb 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d01f813fbba907cb10f/20636641f94954d62950a0d695429f21e6c41d3ce6c2292a983a2f27222103bb" 
+                type="audio/x-m4a" 
+                length="27034620" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d01f813fbba907cb10f/7b499b59908c564eaa79cdeae2e09b9dd4ff4683964fc730d6cd92b5a0cf164a" 
+                type="audio/x-m4a" 
+                length="79864047" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d01f813fbba907cb10f/3ccaf838648527586b3e5862f8c47794555cfbf6e8da85e45245f72bc64e65eb" 
+                type="audio/x-m4a" 
+                length="106278196" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d01f813fbba907cb10f/ab3951c160e77d639a55f8b8bf4f5f9486d577318530e50e1c3a9b93554b8af5" 
+                type="audio/mpeg" 
+                length="26414858" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d01f813fbba907cb10f/78ca592f07ff67098f8b00bf6d33c9e1f72ac468091c01c34e763fb69de60614" 
+                type="audio/mpeg" 
+                length="79243658" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d01f813fbba907cb10f/3fbcec12bb86f3e24cebc2ce98340642b734d31a540864171a12ab2ed65a9ddf" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605006</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/kan-investorerne-have-tillid-til-novo-og-hvordan-ser-bankdirektoeren-paa-2026-11802605006</link>
+            <title>Kan investorerne have tillid til Novo? Og hvordan ser bankdirekt&amp;#xF8;ren p&amp;#xE5; 2026?</title>
+            <description>Av! Novo Nordisk fik endnu et hak i tuden fra investorerne, da selskabet pr&amp;#xE6;senterede regnskab. Men er det NU, det vender? Kan investorerne NU have tillid til selskabet? Og hvad skal der egentlig til for, at tilliden kan bev&amp;#xE6;ge sig i den rigtige retning? Vi placerer Novo-tilliden p&amp;#xE5; vores tillidsbarometer.
+Vi ringer ogs&amp;#xE5; til Jyske Banks direkt&amp;#xF8;r. Han har ogs&amp;#xE5; aflagt regnskab. Hvordan navigerede han banken igennem et &amp;#xE5;r med usikkerhed p&amp;#xE5; de finansielle markeder? Og hvordan ser han p&amp;#xE5; &amp;#xE5;ret, der kommer?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Per Hansen, investerings&amp;#xF8;konom hos Nordnet og Lars M&amp;#xF8;rch, ordf&amp;#xF8;rende direkt&amp;#xF8;r hos Jyske Bank.</description>
+            <pubDate>Mon, 09 Feb 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d00ab1506d5ae8001be/773d026a05de0ebfa1cd90a3824103f5b5d1e242f7b72295a838fcbcd8442733" 
+                type="audio/x-m4a" 
+                length="27045961" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d00ab1506d5ae8001be/eeda6ca55f050b235f6fbb192bf0e6eebc952d8aab4003c3eab0e71b1207a3b1" 
+                type="audio/x-m4a" 
+                length="79897587" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d00ab1506d5ae8001be/12b3eececffa33b2f389fdf459b1955e216250980c6e440cce612f51e969329b" 
+                type="audio/x-m4a" 
+                length="106322721" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d00ab1506d5ae8001be/17184c238a47ad6c066fa8401324e2ebf56ebeb0f4c054e2281bb8f067f88a7a" 
+                type="audio/mpeg" 
+                length="26425990" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d00ab1506d5ae8001be/e222b12314e95f2e95ff1eb6cc73aca52e5a93f4412a82d141451f2c9fa6e153" 
+                type="audio/mpeg" 
+                length="79277062" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5d00ab1506d5ae8001be/525a342e7f16c311b42834a6d68927c164b1e221dc73c0733d3ce50cd669c520" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605005</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/fremtidsby-paa-lerfoedder-trump-opsparing-og-groen-genfoedsel-11802605005</link>
+            <title>Fremtidsby p&amp;#xE5; lerf&amp;#xF8;dder, Trump-opsparing og gr&amp;#xF8;n genf&amp;#xF8;dsel</title>
+            <description>Vi starter med at vende Trumps nyeste p&amp;#xE5;fund: en b&amp;#xF8;rneopsparing. En god blanding af politik, penge og virksomheder. 
+Derefter tager vi til Saudi-Arabien, hvor fremtidsbyen Neom nok bliver v&amp;#xE6;sentligt nedskaleret. Hvor efterlader det danske DSV, der har en finger med i spillet? Derfra til Indien, som EU har indg&amp;#xE5;et en K&amp;#xC6;MPE frihandelsaftale med. Hvad f&amp;#xE5;r det af betydning?
+Og til slut lidt gode nyheder. Er vi vidner til en genf&amp;#xF8;dsel af den gr&amp;#xF8;nne omstilling?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Kunal Singla, stifter af COBO Consult og S&amp;#xF8;ren Linding, erhvervskommentator hos Finans.</description>
+            <pubDate>Mon, 02 Feb 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cffab1506d5ae8001ab/169476a0f52ae8654ed6550e905e48c22bd5471f0dc046e074d6b8d5eca25deb" 
+                type="audio/x-m4a" 
+                length="27047895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cffab1506d5ae8001ab/b9258bcc929878d41cfa6cbe409a328b8a95066a15adb8366716cf3c15de5d2e" 
+                type="audio/x-m4a" 
+                length="79903239" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cffab1506d5ae8001ab/afdd77120acec0e803521a9287ef7d3c348623692058fec51da4f2cd33661a2d" 
+                type="audio/x-m4a" 
+                length="106330395" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cffab1506d5ae8001ab/f29b5363e6f7beeb9bd535d4e084da4fadee1675005f7d1eac86d17139ef0fee" 
+                type="audio/mpeg" 
+                length="26427915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cffab1506d5ae8001ab/777e412060ccd486662521d95294073f4ccc9314485207eb13b2a9f9b5508a69" 
+                type="audio/mpeg" 
+                length="79282827" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cffab1506d5ae8001ab/3988eae5273ef16b548bed7de1a24bd4b2740c1f4faa153e2faa38233e59b20f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605004</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/recap-fra-davos-og-topdirektoermodstand-mod-trump-11802605004</link>
+            <title>Recap fra Davos og topdirekt&amp;#xF8;rmodstand mod Trump?&amp;#xA0;</title>
+            <description>Vi er tilbage i studiet - og Ulrik starter med at afl&amp;#xE6;gge rapport til Sune fra Davos. Om Trump, topdirekt&amp;#xF8;rer og vindm&amp;#xF8;ller. 
+Vi skal ogs&amp;#xE5; h&amp;#xF8;re de to sidste Davos-interviews med henholdsvis Pandora og Grundfos. Hvor Matt Damon spiller en rolle.
+Til sidst skyder vi regnskabss&amp;#xE6;sonen i gang med det f&amp;#xF8;rste C25 regnskab.
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Mads Twomey-Madsen, chef for b&amp;#xE6;redygtighed hos Pandora, Ulrik Gernow, COO hos Grundfos og &amp;#xF8;konomikorrespondent Casper Schr&amp;#xF8;der.</description>
+            <pubDate>Mon, 26 Jan 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cff4f22de874edd4162/fe54df2557dc84841500885c3f8ec246cf134b51daf6ee9db1a93aca6e4970fb" 
+                type="audio/x-m4a" 
+                length="27034843" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cff4f22de874edd4162/cc783ba83686c9bf08bd7d453bebe38030fe423c6b338e7d4406d69736a14973" 
+                type="audio/x-m4a" 
+                length="79864515" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cff4f22de874edd4162/5df8c65f1d92ad3cc8dd87bc90922d211eb82288d02c5cda939fcc91e3d47dbe" 
+                type="audio/x-m4a" 
+                length="106278847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cff4f22de874edd4162/c462dd3348bc638e613186c398422f74537c98eddf5d0e3449775fdbd0ff24a7" 
+                type="audio/mpeg" 
+                length="26415033" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cff4f22de874edd4162/915d23f08376d9d1a28e0d1bc7288b59975d3ba049a0a821a795e06758c40dd1" 
+                type="audio/mpeg" 
+                length="79244217" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cff4f22de874edd4162/1088f64e023f743271232be52c622354b968faa8ca077113b9c57a4d6c38a082" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605059</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/jagten-paa-magten-ai-er-en-10-er-paa-fremtidsskalaen-11802605059</link>
+            <title>Jagten p&amp;#xE5; Magten - AI er en 10&amp;#x27;er p&amp;#xE5; fremtidsskalaen</title>
+            <description>Danske Banks direkt&amp;#xF8;r Carsten Egeriis er ikke i tvivl. AI er en 10&amp;#x27;er p&amp;#xE5; fremtidsskalaen. Det kommer til at &amp;#xE6;ndre m&amp;#xE5;den at drive bank p&amp;#xE5; - og alt andet. Vi har sat direkt&amp;#xF8;ren i st&amp;#xE6;vne i Davos til en samtale om kunstig intelligens - fremtiden, den mangle europ&amp;#xE6;iske af slagsen, og hvad det f&amp;#xE5;r af konkret betydning for Carstens egen bank. 
+V&amp;#xE6;rter: Ulrik Rosenkvist og Casper Schr&amp;#xF8;der.
+Medvirkende: Carsten Egeriis, CEO hos Danske Bank.</description>
+            <pubDate>Sun, 25 Jan 2026 06.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:23:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c070dc6e80691ca67/43eac027d35d4c129595c6cc75632cf574f8f16a0ed2d6b2e9ccdace75be1ecf" 
+                type="audio/x-m4a" 
+                length="11756895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c070dc6e80691ca67/d4bc790eda5f275604397c3f77c867c6c0eae01320dc374b9c86221f1811df90" 
+                type="audio/x-m4a" 
+                length="34730555" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c070dc6e80691ca67/4f105f81963e746af1b03b9f2c4205edea38a1d20c2be39370aaa902fe9310d6" 
+                type="audio/x-m4a" 
+                length="46217139" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c070dc6e80691ca67/1fd434407fb7cd94ca0716c0c93509c255b56eba459b2881739d915fac2566dd" 
+                type="audio/mpeg" 
+                length="11487243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c070dc6e80691ca67/e40dbc069e3c7d1c8cb8b4b6d4f0fd7f4258e8c458ecb904e08f6b7e677e4ffa" 
+                type="audio/mpeg" 
+                length="34460811" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c070dc6e80691ca67/9b9c2066d98dcb1d2eeaac0e6bf1cdbf64e47b9ad44dc7839a585ab590aecb9f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605061</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/jagten-paa-magten-game-of-thrones-geopolitik-11802605061</link>
+            <title>Jagten p&amp;#xE5; Magten - Game of Thrones-geopolitik</title>
+            <description>Carlsberg-direkt&amp;#xF8;r Jacob Aarup-Andersen kalder dette &amp;#xE5;rs World Economic Forum det mest intense. Det st&amp;#xE5;r if&amp;#xF8;lge ham i geopolitikkens tegn. Men imens alle taler Gr&amp;#xF8;nland og Trump, s&amp;#xE5; minder Aarup-Andersen om, at det, vi oplever lige nu, bare er begyndelsen p&amp;#xE5; en verden, hvor geopolitik spiller en afg&amp;#xF8;rende rolle. Og derfor g&amp;#xF8;r man klogt i, at spejde andre steder hen i verden end bare til USA.
+V&amp;#xE6;rter: Ulrik Rosenkvist og Casper Schr&amp;#xF8;der.
+Medvirkende: Jacob Aarup-Andersen, direkt&amp;#xF8;r hos Carlsberg.</description>
+            <pubDate>Sat, 24 Jan 2026 06.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:21:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697214f13f6a785b01c7d1e2/c9683335b73a068e01523a5efcc30544ad9e39dd3eca25cd2a8b1806a9cab84c" 
+                type="audio/x-m4a" 
+                length="10376103" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697214f13f6a785b01c7d1e2/b476f74cd8ad09cfdd5783630b72f615f989192d77a7e837702cae577fe47765" 
+                type="audio/x-m4a" 
+                length="30651503" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697214f13f6a785b01c7d1e2/b6fbfad8c12f0fc35315e5425a46bd8af98dd56485bed807727eafad22a2fb58" 
+                type="audio/x-m4a" 
+                length="40788995" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697214f13f6a785b01c7d1e2/d8f19a975583455f0dab4d012ddcf11db080288d4a8a5eb49380acb09569983e" 
+                type="audio/mpeg" 
+                length="10138056" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697214f13f6a785b01c7d1e2/872e035f45885e152fcbff5bbedfc42221df80c803db8e53c5367c09cb94e0ee" 
+                type="audio/mpeg" 
+                length="30413256" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697214f13f6a785b01c7d1e2/3418241057537012a521bb87e6ed09fb59381cbe818adbdfcef17bfac7d5d959" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605060</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/jagten-paa-magten-laeren-fra-davos-11802605060</link>
+            <title>Jagten p&amp;#xE5; Magten - L&amp;#xE6;ren fra Davos</title>
+            <description>Pr&amp;#xE6;sidenter, meningsdannere og topdirekt&amp;#xF8;rer har nu forladt Davos - s&amp;#xE5; vi g&amp;#xF8;r status. Hvor er magten p&amp;#xE5; vej hen? Hvad tager vi med fra topm&amp;#xF8;det? Vi ringer til Davos-rotten for at h&amp;#xF8;re, om skaml&amp;#xF8;sheden kastede noget stort af sig. Og s&amp;#xE5; f&amp;#xE5;r vi ogs&amp;#xE5; fat p&amp;#xE5; direkt&amp;#xF8;ren for Velux, der giver os sit wow-, uha- og aha-oplevelse.
+V&amp;#xE6;rter: Ulrik Rosenkvist og Casper Schr&amp;#xF8;der.
+Medvirkende: Christopher Azrouni, Davos-rotte og Lars Petterson, direkt&amp;#xF8;r for Velux.</description>
+            <pubDate>Fri, 23 Jan 2026 12.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd63070dc6e80691ca0a/f894982c2f7a1740bb3e4f0d8badf27b8589060f5d772ef735e314440a8369e4" 
+                type="audio/x-m4a" 
+                length="10242157" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd63070dc6e80691ca0a/7cf08c4d905402c06e4fdd204349983d54c6d7db38cab18437dc3d39c88d8424" 
+                type="audio/x-m4a" 
+                length="30255763" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd63070dc6e80691ca0a/ca80317bdc1eec734729a0fb8ac4931833ab011bb209bb6a4c1c22af08fd4c9a" 
+                type="audio/x-m4a" 
+                length="40262489" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd63070dc6e80691ca0a/3f9736aca28c0f9e326cb8398e07a3bca50041c195d55ea1e2d69a8bb6ec2ad0" 
+                type="audio/mpeg" 
+                length="10007118" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd63070dc6e80691ca0a/327c4db12a6e9cebba0c97fc2d2931b4809efaf187f6c74906c059721f1dea3c" 
+                type="audio/mpeg" 
+                length="30020430" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd63070dc6e80691ca0a/81bbc082705ec5528f052dac7b42001832b6e94b0a37119279671073743ad1df" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605058</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/jagten-paa-magten-trumps-trappe-11802605058</link>
+            <title>Jagten p&amp;#xE5; Magten - Trumps trappe</title>
+            <description>Hvordan fik Ulrik sneget et sp&amp;#xF8;rgsm&amp;#xE5;l ind til pr&amp;#xE6;sident Trump? 
+P&amp;#xE5; vej hjem fra Davos g&amp;#xF8;r vi status og fort&amp;#xE6;ller historier. For puha en dag. Vi havde kaldt det store Trump-dag. Og det blev det s&amp;#xE5; sandelig ogs&amp;#xE5;. 
+Vi vender Trumps tale. Dagens persongalleri. Og fort&amp;#xE6;ller selvf&amp;#xF8;lgelig hele historien, om hvordan Ulrik form&amp;#xE5;ede at st&amp;#xE5; det rigtige sted p&amp;#xE5; det helt rigtige tidspunkt. 
+V&amp;#xE6;rter: Ulrik Rosenkvist og Casper Schr&amp;#xF8;der.</description>
+            <pubDate>Wed, 21 Jan 2026 17.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c9010522d97b90257/df41caaa3088e328154f0307a915806885928db81e485e9e736f3ad775105229" 
+                type="audio/x-m4a" 
+                length="13687481" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c9010522d97b90257/a9fb544b2c2b6fa76be0950c754a09dafd144490220cf0784796ad96151301b6" 
+                type="audio/x-m4a" 
+                length="40433987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c9010522d97b90257/34bfbf07483d91218f5f5953fee80760ab4f775c578b0f69d94ef773e0353c71" 
+                type="audio/x-m4a" 
+                length="53806897" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c9010522d97b90257/e65b87fd95473b0e04d7a818227018f2f49ca3778ba7cb2b452fe538bb570feb" 
+                type="audio/mpeg" 
+                length="13373645" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c9010522d97b90257/6b96e95b1dc6bc4cd1021256128f98244822f92a2fd44d8d36c015c695e6b824" 
+                type="audio/mpeg" 
+                length="40120013" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd6c9010522d97b90257/5b35d3ca9c6bc884b78ae2ae2cb81af74bdb2021245728c286862217ff1006c4" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605057</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/jagten-paa-magten-store-trumpdag-11802605057</link>
+            <title>Jagten p&amp;#xE5; Magten - Store Trumpdag</title>
+            <description>I dag st&amp;#xE5;r Davos i Trumps-tegn. S&amp;#xE5; vi er st&amp;#xE5;et tidligt op for at v&amp;#xE6;re klar. Men ogs&amp;#xE5; fordi, at vi har en morgenkaffeaftale med Henrik Andersen, der er direkt&amp;#xF8;r i Vestas - og har et stramt program. 
+Og vindm&amp;#xF8;ller og Trump - det er ikke et match made in heaven. S&amp;#xE5; hvordan har Vindm&amp;#xF8;lledirekt&amp;#xF8;ren det med, at det er Donald Trump, der svinger dagsorden-taktstokken?
+V&amp;#xE6;rter: Ulrik Rosenkvist og Casper Schr&amp;#xF8;der.
+Medvirkende: Henrik Andersen, direkt&amp;#xF8;r i Vestas.</description>
+            <pubDate>Wed, 21 Jan 2026 06.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd639010522d97b90205/9990decf294bab431015e6fd29615697ed3e8ee3ed0f3d3eb445deb43a3b0c89" 
+                type="audio/x-m4a" 
+                length="12213279" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd639010522d97b90205/5c1171a458567b15b7c5a70f90e2a90e842ee9dbbf7e770e418adc27f1c87368" 
+                type="audio/x-m4a" 
+                length="36078847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd639010522d97b90205/9f4c36cf5ee8dfd9602a9550c45b9410778d08241d8065dac68ea92787ad0a80" 
+                type="audio/x-m4a" 
+                length="48011455" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd639010522d97b90205/2e084ddb4b927ee82534848049673f9c1ca27727a04bda7845e30d4f305aad59" 
+                type="audio/mpeg" 
+                length="11933256" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd639010522d97b90205/0b0cfa082f7ffcb999316a646742d9204731946c939a714f17f35142282235d9" 
+                type="audio/mpeg" 
+                length="35798856" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6968dd639010522d97b90205/8491e31b659cd88a75a84a6cc58b7ad43b056146d1a3cd93e57046d22cbe8dd4" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605056</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/jagten-paa-magten-trumps-skygge-haenger-over-davos-11802605056</link>
+            <title>Jagten p&amp;#xE5; Magten - Trumps skygge h&amp;#xE6;nger over Davos</title>
+            <description>Verdenseliten er landet i Davos. Og det samme er vi. Under titlen &amp;#x27;Jagten p&amp;#xE5; Magten&amp;#x27; skal vi fors&amp;#xF8;ge at svare p&amp;#xE5; det helt store sp&amp;#xF8;rgsm&amp;#xE5;l: Hvor er jagten p&amp;#xE5; vej hen? I en tid med geopolitik, Trump og Gr&amp;#xF8;nland. Men inden vi bliver alt for store i slaget, s&amp;#xE5; skal Ulrik lige f&amp;#xE5; sit Davos-adgangskort til at virke, og vi skal have en Davos-guide fra en &amp;#xC6;GTE Davos-Rotte. 
+V&amp;#xE6;rter: Ulrik Rosenkvist og Casper Schr&amp;#xF8;der.
+Medvirkende: Christopher Arzrouni, Davos-rotte og Jon Johnsen, direkt&amp;#xF8;r for PKA.</description>
+            <pubDate>Tue, 20 Jan 2026 17.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:696a0893e9338ac3f9cb7373/921e45d218f51e57e43867a8148a6590b3f2d1526f5cd94b6e75904dbeb21df8" 
+                type="audio/x-m4a" 
+                length="12297853" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:696a0893e9338ac3f9cb7373/47af515266c48c3fa6bce88496e4c7be6cb8ea4d67c03c1e18974787ad9ef8fd" 
+                type="audio/x-m4a" 
+                length="36328615" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:696a0893e9338ac3f9cb7373/a20264e96b252754e1a3607d2fc2071d6731cc48343d4ce42358f25ac3eadd35" 
+                type="audio/x-m4a" 
+                length="48343741" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:696a0893e9338ac3f9cb7373/46002299a5435440b2fb1441118fd648f0a597645cc077258c41006bbcff9bf8" 
+                type="audio/mpeg" 
+                length="12015819" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:696a0893e9338ac3f9cb7373/c2ccc6de7b27ff727d558e6a1651737fd044cd3070514672864734bce6766974" 
+                type="audio/mpeg" 
+                length="36046539" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:696a0893e9338ac3f9cb7373/159f7f1d9bcb61839da5a0eaf8ae1ef4a07901b2d648501eec851a92cc4748b5" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605003</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/trump-taber-putin-stjaeler-og-geopolitik-styrer-11802605003</link>
+            <title>Trump taber, Putin stj&amp;#xE6;ler og geopolitik styrer</title>
+            <description>Dagens episode st&amp;#xE5;r i det internationale tegn. Sune har v&amp;#xE6;ret til m&amp;#xF8;de med en storinvestor, og har taget betragtninger om Gr&amp;#xF8;nland, geopolitik og investeringer med i studiet.
+Herefter smutter vi til Rusland. For pr&amp;#xE6;sident Putin har stj&amp;#xE5;let Rockwools fabrikker. Var det what?! eller ventet? Og f&amp;#xE5;r det betydning for andre danske virksomheder, der stadig er i landet?
+Fra Rusland tager vi turen til USA. &amp;#xD8;rsted havde hevet Trump-administrationen i retten. Her fik det danske selskab medhold - og kan nu starte deres vindprojekt op igen. Betyder det, at alt er godt p&amp;#xE5; den front?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Mikkel Emil Jensen, senioranalytiker hos AL Sydbank.</description>
+            <pubDate>Mon, 19 Jan 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfff813fbba907cb0f7/ab48a34f479a7732f8d83747aa97a2393da725ce564486846097cfbe091ed83b" 
+                type="audio/x-m4a" 
+                length="27040396" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfff813fbba907cb0f7/8ea9567449f6d957febd4bbf77f8d2544dc316a5c06445d6638e9618f020cd3c" 
+                type="audio/x-m4a" 
+                length="79881039" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfff813fbba907cb0f7/07658dbf4ee21d137caa4ecf39fe83c414b79c2ba00fccba25285a12ba7e32ff" 
+                type="audio/x-m4a" 
+                length="106301036" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfff813fbba907cb0f7/44b97257eb421ea4694f313cc3f2df9f00e6bbc88284c0e5a6b3ed5e4ad282ba" 
+                type="audio/mpeg" 
+                length="26420601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfff813fbba907cb0f7/00b13c65f964130119e1c8088a4bb8be84394327b5708b964b2992cc0f6ad761" 
+                type="audio/mpeg" 
+                length="79260921" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfff813fbba907cb0f7/7630ce31b3136b674826c578073717ff00834877b553d1e2265f6559f4b9e8c4" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605002</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/novo-til-kurs-500-og-oersteds-usa-udsigter-11802605002</link>
+            <title>Novo til kurs 500 og &amp;#xD8;rsteds USA-udsigter?</title>
+            <description>Vi har lange historier p&amp;#xE5; programmet i dag. 13 styks. For Sune er hjemme fra ferie - og derfor skal vi have udfyldt vores Tip en 13&amp;#x27;er for 2026. Flere opk&amp;#xF8;b til Salling? Vestas aktiekurs? AI-boble? Novos start p&amp;#xE5; 2026 og &amp;#xD8;rsted Trump-hovedpine.
+Husk at quiz med! 
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Jacob Pedersen, aktieanalysechef hos AL Sydbank og Oskar Barner Bernhardtsen, investeringsstrateg hos Saxo Bank.</description>
+            <pubDate>Mon, 12 Jan 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae80018a/280eade999ed3eaf1eacd2bbdf3ce9a9601e4e8fb76425acb3f662a6f0ba1d56" 
+                type="audio/x-m4a" 
+                length="27036192" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae80018a/872ffd552a6141936356be38d0f7945f5267830403585853fab43f70d897ff71" 
+                type="audio/x-m4a" 
+                length="79868691" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae80018a/1bf2088b817110b33f3a59a0b3fafe55038551ed3a18ecf6a125169afe07d2de" 
+                type="audio/x-m4a" 
+                length="106284412" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae80018a/a60dbea8c933bd31284c5ac71e93dae6d6a23c1de1e875ca0b75d514496f005c" 
+                type="audio/mpeg" 
+                length="26416377" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae80018a/90a959526a08bd7dd7688f2dad745b7ef8031eca78733deb80a95e45e813748c" 
+                type="audio/mpeg" 
+                length="79248249" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae80018a/b97eee0e0762dcfcf98b55e6460667d8b56ba4db330398343918b2e8c3db36b1" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802605001</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2026/et-kort-roadtrip-ind-i-2026-11802605001</link>
+            <title>Et kort roadtrip ind i 2026</title>
+            <description>I &amp;#xE5;ret f&amp;#xF8;rste udgave af Sorte tal skal vi p&amp;#xE5; roadtrip til nogle af de st&amp;#xF8;rste virksomheder herhjemme. I snevejret tager vi temperaturen p&amp;#xE5; &amp;#xE5;ret, der kommer. Imens der stadig er lidt feriestemning over landet, har Ulrik inviteret Per Hansen med p&amp;#xE5; tur. For lige at tjekke, at det hele st&amp;#xE5;r endnu, inden &amp;#xE5;ret s&amp;#xE5;dan &amp;#xE6;gte g&amp;#xE5;r i gang. Hvordan er udsigterne for dansk &amp;#xF8;konomi? Hvad med verdenshandlen? Kommer der endelig lidt medvind til &amp;#xD8;rsted? Og kan Novo se frem til et &amp;#x27;26, der er lidt bedre end &amp;#x27;25? Og der er hj&amp;#xE6;lp af hente fra uventet kant. For i en uforudsigelig verden m&amp;#xE5; man ty til alle midler for at skabe lidt klarhed. S&amp;#xE5; vi har ogs&amp;#xE5; f&amp;#xE5;et lagt kort for 2026 - hvad siger de?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Medvirkende: Per Hansen, investerings&amp;#xF8;konom hos Nordnet og Charline L&amp;#xF8;vetand, indehaver af Cosmic Healing.</description>
+            <pubDate>Mon, 05 Jan 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae800199/2dc065d58144008775fd7138aa960fcd6431e5915185f2411781973107deea23" 
+                type="audio/x-m4a" 
+                length="27027296" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae800199/6f3d2f8b4f301b0ac4c71dc4b5fd59c9abdf7a84efd52f88463872e4192f0532" 
+                type="audio/x-m4a" 
+                length="79842375" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae800199/8465b07c5fa840f77bd8f60081fde906d8f3e714ad3908dc22aa18820d4d2882" 
+                type="audio/x-m4a" 
+                length="106249296" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae800199/45bbb29f3518595a9918616948fa3a31c057842c9c9ef790e66d72aa6bee4d29" 
+                type="audio/mpeg" 
+                length="26407758" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae800199/b945ee874fd0c9dd373e50eb40f98b71816c86b3a622addfd99588302d4ec13b" 
+                type="audio/mpeg" 
+                length="79222350" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:692b5cfeab1506d5ae800199/4e01055e390cb324335ea0e75ec1ae4905b8df042618c19ff4f8eb730e718096" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505011</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/et-pengeportraet-med-bente-scavenius-og-birgitte-hjort-soerensen-11802505011</link>
+            <title>Et pengeportr&amp;#xE6;t - med Bente Scavenius og Birgitte Hjort S&amp;#xF8;rensen</title>
+            <description>Businessfolk er the bad guys, og penge er lig med ond magt. Eller? I &amp;#xE5;rets sidste udgave af Sorte tal skal vi ind i kunsten og kulturens verden - stedet, hvor vi spejler verden omkring os. Og hvordan portr&amp;#xE6;tteres business, &amp;#xF8;konomi, erhvervsfolk og penge s&amp;#xE5; egentlig her? P&amp;#xE5; en nuanceret og mangefacetteret m&amp;#xE5;de - eller er et jakkes&amp;#xE6;t konsekvent lig med et dumt r&amp;#xF8;vhul?
+Vi tager rejsen ind i pengeportr&amp;#xE6;ttet. Er det retvisende? Eller burde det justeres lidt?
+Og vi kommer vidt omkring; fra ren&amp;#xE6;ssancekunst i Firenze til Hollywood-film. Fra potentiel Netflix-banger om Novo Nordisk til Sunes k&amp;#xE6;rlighed til b&amp;#xF8;ger. Og fra dos and don&amp;#x27;ts ift. sovev&amp;#xE6;relse-kunst til Birgittes okkerfarvede tr&amp;#xF8;je. Og hvem ved: M&amp;#xE5;ske der er lidt inspiration at hente til nyt&amp;#xE5;rsdagene?
+Godt nyt&amp;#xE5;r. P&amp;#xE5; genh&amp;#xF8;r i 2026.
+Vi udkommer som vanligt med en ny omgang Sorte tal hver mandag. 
+KH. Sune og Ulrik.
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Kunsthistoriker Bente Scavenius og skuespiller Birgitte Hjort S&amp;#xF8;rensen.</description>
+            <pubDate>Mon, 29 Dec 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684d59df9b0d242d0fd98dcd/62c7fca819cfd424661a8f49e2e902111a73d0c78edaf36cd5c7cfc8eeea57b7" 
+                type="audio/x-m4a" 
+                length="28022551" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684d59df9b0d242d0fd98dcd/6017af06780e7f57409585e457c8df38348bb74595e423c02c65fb590a8ec660" 
+                type="audio/x-m4a" 
+                length="82782531" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684d59df9b0d242d0fd98dcd/9de303fd698e102d72c833006f52fa713cc87e397f86ded0fc61229fd86af91a" 
+                type="audio/x-m4a" 
+                length="110161867" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684d59df9b0d242d0fd98dcd/9faa28b4fd72cef1e18b4f6c2ad891e573e3627f1a0a543c89947fb817137a63" 
+                type="audio/mpeg" 
+                length="27380228" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684d59df9b0d242d0fd98dcd/732d076b2d75bbdd8cb015b8f5bafe8f26fdd07bf455a14f5aeb170eb2d3a89a" 
+                type="audio/mpeg" 
+                length="82139780" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684d59df9b0d242d0fd98dcd/b2825f6a9abcba40b7d2b1e665ae68a60157215807022cccb7817978b2a24a29" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505537</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/aaret-der-gik-2025-11802505537</link>
+            <title>&amp;#xC5;ret der gik 2025</title>
+            <description>Du er inviteret til julefrokost - for vi skal g&amp;#xF8;re status over 2025. Ulrik har jule-pyntet studiet op, p&amp;#xE5; bordet er sm&amp;#xF8;rrebr&amp;#xF8;det klar, og ind ad d&amp;#xF8;ren kommer Casper Schr&amp;#xF8;der og Jakob Ussing. De har taget gaver med, der hver is&amp;#xE6;r gemmer p&amp;#xE5; en historie fra 2025. 
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Medvirkende: &amp;#xF8;konomikorrespondent Casper Schr&amp;#xF8;der og erhvervskorrespondent Jakob Ussing.</description>
+            <pubDate>Mon, 22 Dec 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:21:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694179b8543efca95b122f12/eb1c48a25f33eae3d132524663ce5a7b0cf95b89ffeff6094f080ee28ea8f51f" 
+                type="audio/x-m4a" 
+                length="40116099" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694179b8543efca95b122f12/01e4eefab7ca837e6f5d32036f5f8995de99747238bd0ca489d56468096c1308" 
+                type="audio/x-m4a" 
+                length="118509271" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694179b8543efca95b122f12/7d1bfc3ba711d2293d1c0d3094b7d9336d719a1d8511b2286f05cf84784b945d" 
+                type="audio/x-m4a" 
+                length="157704907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694179b8543efca95b122f12/366ae46631160c76c464e857e820ea8462d33db288341e05f180ba00c8dfeaed" 
+                type="audio/mpeg" 
+                length="39196665" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694179b8543efca95b122f12/5224ff40ccf2126bcba4859388fb05fe3ca5c722a95b59070968398da4c9cab9" 
+                type="audio/mpeg" 
+                length="117589113" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694179b8543efca95b122f12/82448ddfe5e8bdabbf962a007f75df16e75d9baaf77bf05fe76b8b05ae92d7b3" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505511</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/netflix-opkoeb-nybrud-i-eu-og-nemlig-com-direktoer-aner-sorte-tal-i-horisonten-11802505511</link>
+            <title>Netflix-opk&amp;#xF8;b, nybrud i EU og nemlig.com-direkt&amp;#xF8;r aner sorte tal i horisonten</title>
+            <description>Det er de helt store, der k&amp;#xE6;mper, n&amp;#xE5;r der er opk&amp;#xF8;bsarml&amp;#xE6;gning mellem Netflix og Paramount. Kan vi udlede noget universelt af teksten? Vi ringer ogs&amp;#xE5; til Europaminister Marie Bjerre p&amp;#xE5; en knasende forbindelse. EU har vedtaget omnibus-regelforenklingspakken. If&amp;#xF8;lge Bjerre er det et nybrud. Er vi overbevist?
+Til sidst er Stefan Plenge, CEO hos nemlig.com med p&amp;#xE5; en forbindelse. Efter 15 &amp;#xE5;r med underskud er der sorte tal p&amp;#xE5; bundlinjen lige rundt om hj&amp;#xF8;rnet. Hvordan det? Og hvordan ser fremtiden ud for hjemmeleveringen?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Marie Bjerre, Europaminister fra Venstre og Stefan Plenge, direkt&amp;#xF8;r og stifter hos nemlig.com.</description>
+            <pubDate>Mon, 15 Dec 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053256108806e0a72760e/d4b1949d2589ef736c4e4a7a35d9330a93cc0d3614c0bc5055e8d4fd1a257621" 
+                type="audio/x-m4a" 
+                length="27039535" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053256108806e0a72760e/e2d5829cde8e17382ede67f5b8ce764c71a5e291ba8de6acfae44eb95094979c" 
+                type="audio/x-m4a" 
+                length="79878471" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053256108806e0a72760e/c4cd0c65147b33262a531532b2fa5a7a3942ed1c8cd00150f284afb1277ad057" 
+                type="audio/x-m4a" 
+                length="106297651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053256108806e0a72760e/2039ec8be427a6a8f2a11eb39a3f3dcbab647b78c8aa816dee699f3e0e906727" 
+                type="audio/mpeg" 
+                length="26419641" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053256108806e0a72760e/3f2ca3818655f9d1babe88ddf0d3680b7ccb60a26728c2f5a2c1d1e5d1c92cb3" 
+                type="audio/mpeg" 
+                length="79258041" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053256108806e0a72760e/765c757576bb0213d8db59cb634669ba93d70e3cbd32b9b0e441091266542770" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505501</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/nobelprisvinder-storroser-danmark-brand-i-hongkong-og-atomkraft-ja-tak-11802505501</link>
+            <title>Nobelprisvinder storroser Danmark. Brand i Hongkong. Og atomkraft, ja tak?</title>
+            <description>Vi har indf&amp;#xF8;rt en tradition i Sorte tal. Hvert &amp;#xE5;r skal vi have &amp;#xE5;rets nobelprisvinder i &amp;#xF8;konomi med i vores podcast. I &amp;#xE5;r: Philippe Aghion, der udover at have f&amp;#xE5;et tildelt prisen for sit arbejde med v&amp;#xE6;kst ogs&amp;#xE5; har en meget farverig familiehistorik. Han storroser Danmark - og kommer med en opsang til EU og politikerne. 
+Og n&amp;#xE5;r nu vi er ved dansk &amp;#xF8;konomi - s&amp;#xE5; g&amp;#xE5;r det ret godt, siger Stephanie Lose. Det vender vi.
+Vi taler ogs&amp;#xE5; om storbranden i Hongkong, hvor danske ISS nu er blevet indblandet gennem sit datterselskab. 
+Til slut runder vi debatten om kernekraft. Flere store erhvervsspillere er kommet p&amp;#xE5; banen i en alliance, der ser positivt p&amp;#xE5; netop det. Hvorfor det? Og hvor st&amp;#xE5;r debatten lige nu i erhvervslivet?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Philippe Aghion, nobelprisvinder i &amp;#xF8;konomi.</description>
+            <pubDate>Mon, 08 Dec 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361857a7579bdfa20c7/99696a7e5dc23665a0c3190d81201865e5b163c9e855f1232a1caa931bf67d9c" 
+                type="audio/x-m4a" 
+                length="27047045" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361857a7579bdfa20c7/6dc6b4d6e5b7aa129ee1ef0ad070eeed1ae152d56b4a3d99fba8369ceeab03fe" 
+                type="audio/x-m4a" 
+                length="79900743" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361857a7579bdfa20c7/0af8be0b200ecbe7577ad3d02e5d0ca81a6cec35718b5887cbb613dbb161ec3d" 
+                type="audio/x-m4a" 
+                length="106326985" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361857a7579bdfa20c7/8baebd6f415bf6ab3a7414eef745e514d5d1f751f07a7ba995d25c2207ab5302" 
+                type="audio/mpeg" 
+                length="26426960" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361857a7579bdfa20c7/79018c8679ee60f67f7401f8f5a3bcfc8a146b20401a7f313fcfe2b50524e811" 
+                type="audio/mpeg" 
+                length="79279952" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361857a7579bdfa20c7/5ebc801dc15cdb281d488c02f2a8fd1ea1335bc5c58c8723c11d8bf6a20fb8ac" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505491</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/drama-paa-aarhus-havn-samt-opkoebssucces-og-fiasko-11802505491</link>
+            <title>Drama p&amp;#xE5; Aarhus Havn samt opk&amp;#xF8;bssucces og fiasko</title>
+            <description>Hold nu op, vi har meget p&amp;#xE5; programmet i dag. F&amp;#xF8;rst tager vi en tur p&amp;#xE5; Aarhus Havn.  Her udspiller sig et drama, der involverer to af verdens st&amp;#xF8;rste rederier - heriblandt M&amp;#xE6;rsk. 
+Derefter sl&amp;#xE5;r vi et smut forbi Lundbeck, der ikke lykkedes med et milliardopk&amp;#xF8;b - og Terma, der modsat er lykkedes med at f&amp;#xE5; fingrene i et britisk dronefirma.
+Slutteligt f&amp;#xE5;r vi bes&amp;#xF8;g af Lars Gert Lose, der efter en lang karriere i diplomatiet nu varetager bankernes interesser som direkt&amp;#xF8;r i Finans Danmark. Det blev til en snak om et &amp;#xE5;r, hvor institutioner og regler er blevet rusket godt og grundigt - og hvilke muligheder og udfordringer giver det os alle sammen. Og selvf&amp;#xF8;lgelig s&amp;#xE6;rligt med et fokus p&amp;#xE5; den finansielle sektor. 
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Lars Gert Lose, direkt&amp;#xF8;r i Finans Danmark.</description>
+            <pubDate>Mon, 01 Dec 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361c62a039fdcf5540f/b79e34825fa1d33219ee762153c328d172a87559952aefda6044e8b0ffb7af76" 
+                type="audio/x-m4a" 
+                length="27042167" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361c62a039fdcf5540f/353468fed68376b2937ecd82346a379b35e1834e0dde28658b995783ad007016" 
+                type="audio/x-m4a" 
+                length="79886175" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361c62a039fdcf5540f/7fb06dfb2d0f260b95d4389a32b67f9ae28af87adbb4205c52e6bfe2f52fdf6b" 
+                type="audio/x-m4a" 
+                length="106307663" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361c62a039fdcf5540f/951e1d8f0d12a730968f554fbb7e7665d165201740759d9d7c62450c79770869" 
+                type="audio/mpeg" 
+                length="26422153" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361c62a039fdcf5540f/a8fd3c21db48083c1372f12063b4d1c5bd364502db643c82e66ccb3cbaf27f6d" 
+                type="audio/mpeg" 
+                length="79265545" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405361c62a039fdcf5540f/1d0aa55e11a52d68745c716b8f89023119a6d087149654ba285dbe67890ce469" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505481</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/bag-lukkede-doere-med-lars-loekke-ai-boble-og-direktoeren-for-danish-crown-11802505481</link>
+            <title>Bag lukkede d&amp;#xF8;re med Lars L&amp;#xF8;kke, AI-boble?, og direkt&amp;#xF8;ren for Danish Crown</title>
+            <description>Vi starter med at ringe til udenrigsminister Lars L&amp;#xF8;kke Rasmussen for at f&amp;#xE5; en status p&amp;#xE5; verdens&amp;#xF8;konomien og forholdet mellem USA og EU. Han skal m&amp;#xF8;des med USA&amp;#x27;s handelsminister Howard Lutnick - og kan man l&amp;#xE6;gge al palavaren p&amp;#xE5; hylden, n&amp;#xE5;r man m&amp;#xF8;des face to face? 
+Vi vender ogs&amp;#xE5; snakken om AI-boble eller ej - og potentielle konsekvenser. 
+Til sidst f&amp;#xE5;r vi bes&amp;#xF8;g af Danish Crowns direkt&amp;#xF8;r Niels Duedahl, der udover at give en status p&amp;#xE5; virksomheden fort&amp;#xE6;ller, hvorfor han altid skriver engelsk - og hvordan han ser p&amp;#xE5; dansk landbrug i fremtiden. 
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Lars L&amp;#xF8;kke Rasmussen, udenrigsminister fra Moderaterne og Niels Duedahl, CEO hos Danish Crown.</description>
+            <pubDate>Mon, 24 Nov 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053235f16b69830a639bf/1391af39f18490b7672604416adb3f82dffd26486efcd916bca0b7a89e6775f3" 
+                type="audio/x-m4a" 
+                length="27037788" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053235f16b69830a639bf/e65c2a5b767f36a5b4077cf4d4d1fb8338c94c04c1112e6c7cb7a8390bf79a73" 
+                type="audio/x-m4a" 
+                length="79873383" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053235f16b69830a639bf/65aadd55a5a9bb60185fac9270c9c5c687ab7d11c264e6a5949a36ea296ce22e" 
+                type="audio/x-m4a" 
+                length="106290640" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053235f16b69830a639bf/877ff7cb918025adbf66c4ceef620dc0d92f931789f248b179f18236d6ca27db" 
+                type="audio/mpeg" 
+                length="26418105" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053235f16b69830a639bf/6c74e81b11a3d0e4593b8bd4ea5455a14c038d23f9308cd72be945d3da5f0f64" 
+                type="audio/mpeg" 
+                length="79253433" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053235f16b69830a639bf/d94d780e1b535cb4495876c5012f610376a88e2a95b58e3eeb05b8f815cbd224" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505471</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/har-det-nye-novo-faaet-en-god-start-og-er-bogo-brandet-staerkt-nok-til-fremtiden-11802505471</link>
+            <title>Har det nye Novo f&amp;#xE5;et en god start? Og er B&amp;#x26;O-brandet st&amp;#xE6;rkt nok til fremtiden?</title>
+            <description>Vi starter med slik p&amp;#xE5; bordet. Vi ser nemlig Novo Nordisk generalforsamling live i studiet - og taler om den efterf&amp;#xF8;lgende. Vi vender blandt andet, hvorvidt at Novo Nordisk virkelig er kommet s&amp;#xE5; godt fra start med direkt&amp;#xF8;r Doustdar, som Lars Rebien S&amp;#xF8;rensen p&amp;#xE5;st&amp;#xE5;r.
+Vi fejrer ogs&amp;#xE5; en f&amp;#xF8;dselar. Bang og Olufsen fylder 100 &amp;#xE5;r. HURRA! Et designbrand, som de fleste har et forhold til. Men oms&amp;#xE6;tningen falder - og sp&amp;#xF8;rgsm&amp;#xE5;let er: Er brandet st&amp;#xE6;rkt nok til fremtiden? Til slut skal vi i byggemarkedet. Stark er kommet med regnskab. Og der er r&amp;#xF8;de tal p&amp;#xE5; bundlinjen. Men det er ikke noget, der g&amp;#xE5;r Starks direkt&amp;#xF8;r p&amp;#xE5;. Det er en del af strategien fra ejerne bag. Det skal vi have forklaret.
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Frederik Preisler, partner i Mensch og S&amp;#xF8;ren P. Olesen, CEO hos Stark Group.</description>
+            <pubDate>Mon, 17 Nov 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053215a2e0c80850f23ec/23f239cd55851e108cadd7236d71f163cb9dacfaff1782dcd18801bfeb47a861" 
+                type="audio/x-m4a" 
+                length="27040745" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053215a2e0c80850f23ec/981839e4dbdab9031c18326f242f5f2630cb0aef8206ce66313a686b65c3d4d1" 
+                type="audio/x-m4a" 
+                length="79882107" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053215a2e0c80850f23ec/1f6e72b97e48cacb8a37594f80c9033b2b89232c14b245c8c673f17e82e3923e" 
+                type="audio/x-m4a" 
+                length="106302121" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053215a2e0c80850f23ec/8df6e0af82c71ea27167fa174e9096250ef7cb327bc7ae9fd7bec846ce2a12a7" 
+                type="audio/mpeg" 
+                length="26421003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053215a2e0c80850f23ec/3bca0bb7c46d285fdcbf692998f8487e7cd0d42c2b2ba4a35d6cb5cda4e5e9fc" 
+                type="audio/mpeg" 
+                length="79262091" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053215a2e0c80850f23ec/bf06b6b5aa8e364c743b4aac10fb6be412444b6093c142c395add1fe40b37c2b" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505461</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/novo-mike-til-moede-hos-trump-retssalsdrama-og-et-endeligt-punktum-i-opkoebsfoeljeton-11802505461</link>
+            <title>Novo-Mike til m&amp;#xF8;de hos Trump, retssalsdrama og et endeligt punktum i opk&amp;#xF8;bsf&amp;#xF8;ljeton</title>
+            <description>Novo Nordisk topdirekt&amp;#xF8;r Mike Doustdar har lavet en aftale med Donald Trump om medicinpriserne i USA. Hvad betyder det for Novo? Det var samtidig en aftale, der kom kort efter Doustdars f&amp;#xF8;rste regnskabsafl&amp;#xE6;ggelse, samt at Novo ikke form&amp;#xE5;ede at f&amp;#xE5; fingrene i Metsera efter h&amp;#xE5;rd kamp med Pfizer. Ja - der har virkelig v&amp;#xE6;ret sagt og skrevet meget om Novo den seneste tid. S&amp;#xE5; Ulrik har t&amp;#xE6;nkt over sp&amp;#xF8;rgsm&amp;#xE5;lene: Er det et forandret Novo, vi ser under Mike? Og har Mike Doustdar &amp;#xE6;ndret mere p&amp;#xE5; Novo p&amp;#xE5; bare tre m&amp;#xE5;neder - end alle direkt&amp;#xF8;rer f&amp;#xF8;r ham? 
+Vi skal ogs&amp;#xE5; til USA&amp;#x27;s h&amp;#xF8;jesteret, som nu har p&amp;#xE5;begyndt den spr&amp;#xE6;ngfarlige sag omkring Donald Trumps toldsatser. Hvis de bliver kendt ulovlige - hva&amp;#x27; s&amp;#xE5;? 
+Til slut s&amp;#xE6;tter vi et punktum i Bavarian Nordics opk&amp;#xF8;bsf&amp;#xF8;ltejon. Bejlerne fik ikke ja tak fra nok af aktion&amp;#xE6;rerne. S&amp;#xE5; nu er det slut. Hvem vandt og hvem tabte? Eller st&amp;#xE5;r alle bare lidt forpjuskede tilbage efter det tumultariske forl&amp;#xF8;b?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Oskar Ehlert Barner Bernhardtsen, investeringsstrateg hos Saxo Bank.</description>
+            <pubDate>Mon, 10 Nov 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535ef526fd481f9a4837/ae76e4b2ccda4c25ca2c0cdb430da627f7e38a37c85c185ecd421b5c356a6450" 
+                type="audio/x-m4a" 
+                length="27027669" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535ef526fd481f9a4837/4d83b036cc631b171a908588e9a85d45be9e945119e4ec0bd858b6a053e19c4d" 
+                type="audio/x-m4a" 
+                length="79843431" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535ef526fd481f9a4837/5ed523243a21b5173575cb316cffb19f3ff6831cb0806c933584a00abff3c175" 
+                type="audio/x-m4a" 
+                length="106250837" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535ef526fd481f9a4837/531a78e0092dea021dabde8733309767eb31457d27964ba5c7ae5587b0f71477" 
+                type="audio/mpeg" 
+                length="26408140" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535ef526fd481f9a4837/69420af3756df485ad869036ba2f782f2137151ce944f509b4d867394578c778" 
+                type="audio/mpeg" 
+                length="79223500" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535ef526fd481f9a4837/01ba05b8353f105988de98f66482740c70bb0cf929490ea512080ae951306f55" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505451</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/trump-vs-xi-uhygge-for-novo-og-oersted-og-farvel-til-smaabankerne-11802505451</link>
+            <title>Trump vs. Xi, uhygge for Novo og &amp;#xD8;rsted, og farvel til sm&amp;#xE5;bankerne?</title>
+            <description>Donald Trump kaldte m&amp;#xF8;det med Xi Jinping for en 12&amp;#x27;er godt p&amp;#xE5; en skala fra 1 til 10. De har m&amp;#xF8;dtes for at diskutere handelskrig. Men var det ogs&amp;#xE5; en 12&amp;#x27;et for verdens&amp;#xF8;konomien? 
+Vi halloween-uhygger ogs&amp;#xE5; lidt. Nuvel, p&amp;#xE5; bagkant. Men Novo Nordisk og &amp;#xD8;rsted st&amp;#xE5;r i to uhyggelige situationer. Men m&amp;#xE5;ske kan de slappe helt af og l&amp;#xE6;ne sig tilbage med et par gode historier fra dansk erhvervsliv. Store velkendte virksomheder er tidligere vendt st&amp;#xE6;rkt tilbage fra uhyggelige situationer.
+Til sidst taler vi om bankfusionen mellem Sydbank, Arbejdernes Landsbank og Vestjysk Bank. Endnu en fusion, fristes man til at sige. Skal vi bare v&amp;#xE6;nne os til f&amp;#xE6;rre og f&amp;#xE6;rre store banker - eller har fusion-galore en naturlig ende p&amp;#xE5; et tidspunkt? Og er det nu?
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagard.
+Medvirkende: Josephine Cetti, chefstrateg hos Nordea og Lars Krull, seniorr&amp;#xE5;dgiver ved Aalborg Universitet.</description>
+            <pubDate>Mon, 03 Nov 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405320c62a039fdcf55280/b1c4c0a654410e18b901b8bf64f48f3086bfbba5a1e50bdbeb4bb3e4ba263007" 
+                type="audio/x-m4a" 
+                length="27040460" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405320c62a039fdcf55280/6ae6df65b6803761c2d3c8f53e7aee7f881fc39441b1d25a18c90ed9fdb7d8e3" 
+                type="audio/x-m4a" 
+                length="79881087" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405320c62a039fdcf55280/8dcceece41e2f4cfc55ab9b6757900e00bae4b11bae39d199efa90e02e03211b" 
+                type="audio/x-m4a" 
+                length="106301036" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405320c62a039fdcf55280/89c8c50bff912da707d5d6d3a9caf1aa375353fd139db75f37fc699536b36a28" 
+                type="audio/mpeg" 
+                length="26420618" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405320c62a039fdcf55280/09f6cec36bdb32367e1d54a989454582f6fc56f5f993573acaeefd3dfb122e32" 
+                type="audio/mpeg" 
+                length="79260938" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68405320c62a039fdcf55280/b0a942245bcd62a2de58d4ee1acfde0f731aa77f3b8245f47b1c1f5a513afed4" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505441</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/kaempe-novo-drama-og-andreas-mogensen-paa-linjen-11802505441</link>
+            <title>K&amp;#xE6;mpe Novo-drama og Andreas Mogensen p&amp;#xE5; linjen</title>
+            <description>Kaos. Kup. Magtfuldkommen. Forst&amp;#xE5; hele Novo-dramaet fra A til Z. Der er behov for nye &amp;#xF8;jne i bestyrelsen, og derfor m&amp;#xE5; Lars Rebien S&amp;#xF8;rensen nu tr&amp;#xE6;de til. Han er tidligere direkt&amp;#xF8;r i selskabet og nuv&amp;#xE6;rende formand for Novo Nordisk Fonden. Kasketforvirring? Magtfuldkommen? Og hvis Lars Rebien styrer det hele - hvem styrer s&amp;#xE5; ham?
+Og midt i kaosset har vi sendt praktikant Signe p&amp;#xE5; g&amp;#xE5;tur med #Club5000 for de afskedigede Novo-medarbejdere.
+Vi ringer ogs&amp;#xE5; til astronaut Andreas Mogensen i vores &amp;#x27;Rum-nyt&amp;#x27;. Regeringen vil poste 2,7 milliarder kroner i det danske rumomr&amp;#xE5;de. Kan vi forvente et dansk-rumindustri-eventyr lige rundt om hj&amp;#xF8;rnet?
+Og s&amp;#xE5; runder vi et NEJ. Europa-Parlamentet stemte med et sn&amp;#xE6;vert flertal nej til regelforenkling omkring b&amp;#xE6;redygtighedsrapportering. Noget som ellers er helt i top p&amp;#xE5; politikernes prioriteringsliste - ogs&amp;#xE5; hos Dansk Industri. Direkt&amp;#xF8;r Lars Sandahl er IKKE tilfreds.
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Astronaut Andreas Mogensen, Lars Sandahl S&amp;#xF8;rensen, direkt&amp;#xF8;r hos Dansk Industri og Romel Amineh, initiativtager til #Club5000.</description>
+            <pubDate>Mon, 27 Oct 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535d6108806e0a727760/4ef94e0eb9dc1bf5a61d315df95978a90b8789e306ba216cd6af5b2c8b936212" 
+                type="audio/x-m4a" 
+                length="27045961" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535d6108806e0a727760/3e382d7649aaddfa6db584b45d797f4613418a4f0a3fb39479261679112c7079" 
+                type="audio/x-m4a" 
+                length="79897539" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535d6108806e0a727760/fd7bce0662084f4c5c371ebff56287fd6cb9fb86d7f0b6ac2ae8c31114b4854f" 
+                type="audio/x-m4a" 
+                length="106322889" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535d6108806e0a727760/b2f4aeff47d9cc846579404e890f904c66ba6740be6743f5e30cb4aec7696dda" 
+                type="audio/mpeg" 
+                length="26425997" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535d6108806e0a727760/08f2e804d03d339175be283aa2eab7963369c2e92a92eb160ede8972bfbb70da" 
+                type="audio/mpeg" 
+                length="79277069" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840535d6108806e0a727760/3517e8b20210295eb015f39a2c6144229c48793b1f2b4b565a440ef4c3a2fadb" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505431</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/bavarian-bud-trumps-dome-milliarder-og-novos-kopi-kamp-11802505431</link>
+            <title>Bavarian-bud, Trumps dome-milliarder og Novos kopi-kamp</title>
+            <description>Der var alligevel lidt flere penge i tilbudsposen. F&amp;#xF8;rst var det 233 kroner, at kapitalfondene ville give for en Bavarian-aktie. Absolut bedste tilbud. Nu er det s&amp;#xE5; 250 kroner. Final offer! Er den nye pris et godt tilbud, som aktion&amp;#xE6;rerne skal takke ja til? Vi ringer til Lars Hytting og h&amp;#xF8;rer, om det er yea eller nay.
+Vi har ogs&amp;#xE5; premiere p&amp;#xE5; RUM-nyt. Vi ringer blandt andet til radarvirksomheden Weibels direkt&amp;#xF8;r for at h&amp;#xF8;re, hvor meget han har dr&amp;#xF8;mt om at f&amp;#xE5; en del af the Golden dome. 
+Til slut tager vi en status p&amp;#xE5; Novos kopikamp. Amerikanske apotekere kopierer stadig Wegovy i hobetal - og nu har en ny flanke ogs&amp;#xE5; &amp;#xE5;bnet sig: TikTok og Reddit.
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Lars Hytting, investeringsstrateg hos ArthaScope, Peter R&amp;#xF8;pke, direkt&amp;#xF8;r hos Weibel Scientific og Casper Schr&amp;#xF8;der, DR&amp;#x27;s &amp;#xF8;konomikorrespondent.</description>
+            <pubDate>Mon, 20 Oct 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053206108806e0a7275e6/acc85893ced2767de8808d0096ff735dcd55b0a10a80b19a49e5159f4aec3061" 
+                type="audio/x-m4a" 
+                length="27047720" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053206108806e0a7275e6/243bd288a58a628d3c9ff2b4a3f53cab5dbd64fc83ddc2c31831fd40eb7932fb" 
+                type="audio/x-m4a" 
+                length="79902687" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053206108806e0a7275e6/01702d8763bad3312e1f68744b2cfb5db7114573f3fb0985d461e09497f00530" 
+                type="audio/x-m4a" 
+                length="106329588" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053206108806e0a7275e6/ab201e4cb0325fd0f5603e4b8fdfa3b02ae6a9813710b8ccd6a953bd2d378154" 
+                type="audio/mpeg" 
+                length="26427705" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053206108806e0a7275e6/dcb3b3ca4eb23f88bdbcb5ea2daf7116559ff99e2f5acc39667a18b6b8d42f73" 
+                type="audio/mpeg" 
+                length="79282233" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684053206108806e0a7275e6/2dd0b704176fa5ae1aef0c04552d004a7b02464d48d9e707e5064274c5463863" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505421</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/novo-rap-swiftonomics-og-oersteds-genrejsning-11802505421</link>
+            <title>Novo-rap, Swiftonomics og &amp;#xD8;rsteds genrejsning?</title>
+            <description>Novo-fyringsrunden har f&amp;#xE5;et et musikalsk lag. Imens Mike Doustdar svinger sparekniven, s&amp;#xE5; har en anonym Youtube-bruger kreeret rapsange om en topdirekt&amp;#xF8;r ved navn, ja, Mike. Hvad siger det om situationen i Novo? Og hvor gode diss-tracks er det egentlig? P3&amp;#x27;s Pelle Peter uddeler stjerner og sammenligner med Kendrick og Drake. 
+Og vi bliver ved musikken. Vi g&amp;#xF8;r nemlig kort status p&amp;#xE5; Taylor Swift - og hendes &amp;#xF8;konomiske indflydelse - eller? Vi ringer til en der kan noget med tal og Taylor: Bjarne Corydon. 
+Til slut ringer vi til Mr. Vindm&amp;#xF8;lle - Jacob Pedersen. Straks efter &amp;#xD8;rsted kom i m&amp;#xE5;l med at skrabe de 60 milliarder sammen - s&amp;#xE5; skal der sk&amp;#xE6;res ned. I l&amp;#xF8;bet af de n&amp;#xE6;ste par &amp;#xE5;r skal der v&amp;#xE6;re 2.000 f&amp;#xE6;rre ansatte. Hvor s&amp;#xF8;ren skal de findes henne? Og ser fremtiden nu lys ud for &amp;#xD8;rsted? 
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Pelle Peter Jencel, radiov&amp;#xE6;rt OG bachelor i music management Rytmisk Musikkonservatorium, Bjarne Corydon, generaldirekt&amp;#xF8;r i DR og god til tal og Taylor samt Jacob &amp;#x22;Mr. Vindm&amp;#xF8;lle&amp;#x22; Pedersen, aktieanalysechef hos Sydbank.</description>
+            <pubDate>Mon, 13 Oct 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531f983d9448db5fb04c/445187625c6ec97f558721684093e6fe94046e695624bb0f8977fd1bc04e2116" 
+                type="audio/x-m4a" 
+                length="27044052" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531f983d9448db5fb04c/9cbd5f5cb2d41002acdb34038291f4e7f8f22945c3b1d53690dc288074f8288d" 
+                type="audio/x-m4a" 
+                length="79891947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531f983d9448db5fb04c/f1c9ea28823de0ea6f91cc62d5a5cd13ac441f9e10ccab0342a5721ea4c30238" 
+                type="audio/x-m4a" 
+                length="106315192" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531f983d9448db5fb04c/849d31bb859fd38fa2086979620f6ef203077a2aaf06f902a5207ba73d0bbd95" 
+                type="audio/mpeg" 
+                length="26424066" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531f983d9448db5fb04c/ec965a16c31902d689e97e9fe0b00b8609c4c53eb0781626c6ee26ce68716f2f" 
+                type="audio/mpeg" 
+                length="79271298" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531f983d9448db5fb04c/8081ca793d5e64aa375a9a02a72a07351e4c19978c9d4ebaf82892d61d0eca34" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505411</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/netcompany-vs-droner-pandoras-droemmetopskifte-11802505411</link>
+            <title>Netcompany vs. droner + Pandoras dr&amp;#xF8;mmetopskifte</title>
+            <description>Vi har bes&amp;#xF8;g af Andr&amp;#xE9; Rogaczewski, direkt&amp;#xF8;r hos Netcompany, der har lanceret et nyt produkt: VER&amp;#xC1;. Et system, der skal forbedre forsvar og resiliens - og som taler direkte ind i det nuv&amp;#xE6;rende trusselsbillede. Hvordan oplever Andr&amp;#xE9; situationen lige nu? Hvorfor er det behov for VER&amp;#xC1; - og hvor opportunt er det, at det lanceres netop nu?
+Vi skal ogs&amp;#xE5; forbi Alexander Laciks kommende farvel til Pandora. Det er fjerde CEO-skift i 2025 - og m&amp;#xE5;ske det mest smooth af slagsen so far. Arvtageren st&amp;#xE5;r nemlig klar i kulissen. Vi laver vores egen liste og rangerer de fire 2025-CEO-skift: Pandora, &amp;#xD8;rsted, Coloplast og Novo Nordisk.
+Derudover har vores praktikant Signe v&amp;#xE6;ret til konkurrence-topm&amp;#xF8;de hos Dansk Industri for at tale med topdirekt&amp;#xF8;rer, ligesom vi selvf&amp;#xF8;lgelig ogs&amp;#xE5; skal vende Genmabs k&amp;#xE6;mpe milliardopk&amp;#xF8;b. 
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Andr&amp;#xE9; Rogaczewski, direkt&amp;#xF8;r hos Netcompany.</description>
+            <pubDate>Mon, 06 Oct 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531ff526fd481f9a4692/454a649d3a113279189799cfb0048e21d6875c5f19b32e9ae4a0b5b37a56cefb" 
+                type="audio/x-m4a" 
+                length="27029753" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531ff526fd481f9a4692/526675a001658166169427da5209c32e545bdfa553613406cabb6bcbdc7a9193" 
+                type="audio/x-m4a" 
+                length="79849527" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531ff526fd481f9a4692/2cf52d68474eab1c3ff377171674c5e1470a5bc27cef37da6ae6af80336ed623" 
+                type="audio/x-m4a" 
+                length="106258957" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531ff526fd481f9a4692/e8416d3f6cbe06ab446ca48a52b91b8fdbe4822be7304a70ad09f89aa6dfa441" 
+                type="audio/mpeg" 
+                length="26410051" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531ff526fd481f9a4692/aa46e05d677b336e502737e9b6d51214cdbc7836235a7e26b4fb38b1b668c6b5" 
+                type="audio/mpeg" 
+                length="79229251" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531ff526fd481f9a4692/be1708da59ef87bd7f4bfcc19b82167201634148cb7744f52c6d62ba7337f2b7" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802505401</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2025/foerer-novo-slankeraeset-og-droner-vs-oersted-11802505401</link>
+            <title>F&amp;#xF8;rer Novo slanker&amp;#xE6;set? Og droner vs. &amp;#xD8;rsted</title>
+            <description>Er det Novo eller Eli Lily, der f&amp;#xF8;rer slanker&amp;#xE6;set lige nu? Vi spiller &amp;#x27;KAPL&amp;#xD8;BET - Hvem f&amp;#xF8;rer slanker&amp;#xE6;set?&amp;#x27; og tager en status p&amp;#xE5;, hvor de forskellige spillere st&amp;#xE5;r i forhold til hinanden.
+Vi skal ogs&amp;#xE5; forbi det, som alle taler om lige nu: Droner. F&amp;#xF8;rst vender vi dronerne over Danmark - men derefter tager vi turen til USA. Vi dykker nemlig ned i et af de b&amp;#xE6;rende argumenter fra Trump-administrationen mod &amp;#xD8;rsteds havvindm&amp;#xF8;llepark: National sikkerhed - hvor det tilsyneladende er undervandsdroner, der er obs-punktet. Er der noget om snakken; at fjendtlige undervandsdroner kan gemme sig bag vindm&amp;#xF8;ller?
+Derudover tager vi ogs&amp;#xE5; en smuttur forbi Disney, Arc&amp;#x27;teryx, Lego og selvf&amp;#xF8;lgelig Nationalbanken, hvor praktikant Signe har v&amp;#xE6;ret til pressem&amp;#xF8;de....
+V&amp;#xE6;rt: Ulrik Rosenkvist Schultz.
+Fast g&amp;#xE6;st: Sune Aagaard.
+Medvirkende: Per Hansen, investerings&amp;#xF8;konom hos Nordnet, Simon Pedersen, lektor ved Aalborg Universitet og Signe Staugaard, journalist hos Sorte tal.</description>
+            <pubDate>Mon, 29 Sept 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531fc9343f575380e760/fd2b98acb09779801effaece48aa427972d90a7938069d735a324ea83c37c6ab" 
+                type="audio/x-m4a" 
+                length="27032921" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531fc9343f575380e760/fd0a2807e2a24c8db288ed9fa7b9276b39469d622b7e390eaf5453c2104551c8" 
+                type="audio/x-m4a" 
+                length="79858839" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531fc9343f575380e760/314d7cfcd645d821c1bfc6c38b7cfb427f2ada84846647f934af9c6b5da10c0f" 
+                type="audio/x-m4a" 
+                length="106271245" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531fc9343f575380e760/580f1c30a254323072ec25cd7f2f3c092879de68e6c3103eff0d2b79f7c340a9" 
+                type="audio/mpeg" 
+                length="26413322" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531fc9343f575380e760/50b0a1e1d565d0237fee303d2967757487b9850e9318b8d4148ea90da83b19f9" 
+                type="audio/mpeg" 
+                length="79239050" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840531fc9343f575380e760/b6b54ed180a79f82081a538c061896384cb72514a285e4b9704a13b983073586" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802406259</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2024/gyldne-draaber-3-3-11802406259</link>
+            <title>Gyldne dr&amp;#xE5;ber 3:3</title>
+            <description>Hvorfor inviterer Novo Nordisk l&amp;#xE6;gerne p&amp;#xE5; gratis frokoster, middage, rejser, hotelophold, konferencer i udlandet og efteruddannelse i Danmark? Det unders&amp;#xF8;ger vi i seriens tredje afsnit, hvor vi ogs&amp;#xE5; ser n&amp;#xE6;rmere p&amp;#xE5; offentlige l&amp;#xE6;ger, der v&amp;#xE6;lger at arbejde for Novo Nordisk i fritiden. If&amp;#xF8;lge Novo Nordisks &amp;#xF8;verste chef, Lars Fruergaard J&amp;#xF8;rgensen, er t&amp;#xE6;tte relationer til l&amp;#xE6;gerne en konkurrenceforel for den danske medicinalkoncern.  Lyt her til episode 3 af 3 af podcastserien Gyldne dr&amp;#xE5;ber, der er en s&amp;#xE6;rudgave af Sorte tal.
+Kilder: Vi har bl.a. bragt oplysninger fra Novo Nordisks investorinformation, podcasten Ledelse Med Vilje fra Lederstof.dk, podcasten Topchefernes strategi fra B&amp;#xF8;rsen, artikelserien &amp;#x22;Novoland&amp;#x22; fra Berlingske Business, podcastserien &amp;#x22;Novoland&amp;#x22; fra Frihedsbrevet, artikler fra Medwatch, Frihedsbrevet, Berlingske, B&amp;#xF8;rsen, Jyllands-Posten samt Financial Times, Wall Street Journal og Reuters om Novo Nordisk. Derudover n&amp;#xE6;vner vi Sundhedsstyrelsens pr&amp;#xE6;paratanmeldelse om Wegovy.
+Tilrettel&amp;#xE6;ggelse og research: Ole Hall.
+Lyddesign: Jonas Johs Andersen.
+Dramaturgisk konsulent: Anne Pilegaard Petersen.
+Programansvarlige: Sofie Tholl og Michael Alsen.
+Har du oplysninger, du vil dele? Skriv til journalist Ole Hall p&amp;#xE5; oleh@dr.dk</description>
+            <pubDate>Thu, 19 Sept 2024 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:19</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9c02/e6a09d2148f49f76f2ce4e26516c4102a07596382f56f1e3aa452bc941a413c6" 
+                type="audio/x-m4a" 
+                length="19813836" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9c02/36a724e7d9455d89e5f844205ef1429716280431a4215c068bf186ade66ab94d" 
+                type="audio/x-m4a" 
+                length="58532359" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9c02/3cef204bcd796790583f34b7ee42dead173fa3d74b2c0e6d89b0b6710657e6d6" 
+                type="audio/x-m4a" 
+                length="77891612" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9c02/b7e58e36b534b6fd7856221a2f228fd2598d8d0334974de4a695eec778cc1046" 
+                type="audio/mpeg" 
+                length="19359625" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9c02/2d6aec22acf820d8dbb7275c84a270fab0fdcf99b6cb2a22f6711a08f18f1965" 
+                type="audio/mpeg" 
+                length="58077961" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9c02/31b21da23e092e21a2a9acd4b6cfa743c3445c8e792313c1943559b95a9ac1b9" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802406258</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2024/gyldne-draaber-2-3-11802406258</link>
+            <title>Gyldne dr&amp;#xE5;ber 2:3</title>
+            <description>Hvad har Hollywood-influencere, talkshows og TV-dokumentarer med Novo Nordisk at g&amp;#xF8;re? Den danske medicinalkoncern har betalt for det hele. Det sker for at pr&amp;#xE6;ge samtalen om overv&amp;#xE6;gt, og det viser sig, at topchefen i Novo Nordisk har spillet en n&amp;#xF8;glerolle i det, som eksperter betegner som en stor PR- og lobbykampagne. Lyt her til episode 2 af 3 af podcastserien Gyldne dr&amp;#xE5;ber, der er en s&amp;#xE6;rudgave af Sorte tal.
+Kilder: Vi har bl.a. bragt oplysninger fra Novo Nordisks investorinformation, podcasten Ledelse Med Vilje fra Lederstof.dk, podcasten Topchefernes strategi fra B&amp;#xF8;rsen, artikelserien &amp;#x22;Novoland&amp;#x22; fra Berlingske Business, podcastserien &amp;#x22;Novoland&amp;#x22; fra Frihedsbrevet, artikler fra Medwatch, Frihedsbrevet, Berlingske, B&amp;#xF8;rsen, Jyllands-Posten samt Financial Times, Wall Street Journal og Reuters om Novo Nordisk. Derudover n&amp;#xE6;vner vi Sundhedsstyrelsens pr&amp;#xE6;paratanmeldelse om Wegovy.
+Tilrettel&amp;#xE6;ggelse og research: Ole Hall.
+Lyddesign: Jonas Johs Andersen.
+Dramaturgisk konsulent: Anne Pilegaard Petersen.
+Programansvarlige: Sofie Tholl og Michael Alsen.
+Har du oplysninger, du vil dele? Skriv til journalist Ole Hall p&amp;#xE5; oleh@dr.dk</description>
+            <pubDate>Thu, 19 Sept 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ae266f037612ab755a/7e7b62129ac408231806ea4f51a8c552bb61c43d20d6771f161f67bee1ba5455" 
+                type="audio/x-m4a" 
+                length="23003948" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ae266f037612ab755a/e7f8a9f577c84e4ecd8e66bb67f75a5a88f91043977f740e47320ee2765b5d7d" 
+                type="audio/x-m4a" 
+                length="67956715" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ae266f037612ab755a/b6845eb2d38cf1a76581e7abcbe1c4c6c396eac696d79e69878c818a3b49a0cb" 
+                type="audio/x-m4a" 
+                length="90432880" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ae266f037612ab755a/c240297862b88fa24eff368d00dc332357b977b79fd034b7e921136c77d7d04a" 
+                type="audio/mpeg" 
+                length="22476742" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ae266f037612ab755a/9a53bf540d3e30523d65b8311d52f998d155fd1b75fc770875958d77f5b4e159" 
+                type="audio/mpeg" 
+                length="67429318" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ae266f037612ab755a/d04bd297e915c66e6db907fbcd9ec65afbe53eb3c5839b31dccb5a022cc9da69" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802406257</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2024/gyldne-draaber-1-3-11802406257</link>
+            <title>Gyldne dr&amp;#xE5;ber 1:3</title>
+            <description>Hvordan skabte Novo Nordisk en af de st&amp;#xF8;rste &amp;#xF8;konomiske succeser i dansk erhvervsliv nogensinde? Det unders&amp;#xF8;ger DR&amp;#x27;s erhvervsjournalist Ole Hall. Han kommer p&amp;#xE5; sporet af en sensationel medicinsk opfindelse og det, som eksperter kalder en omfattende og &amp;#xE5;relang PR- og lobbykampagne s&amp;#xF8;sat af Novo Nordisk. Lyt her til episode 1 af 3 af podcastserien Gyldne dr&amp;#xE5;ber, der er en s&amp;#xE6;rudgave af Sorte tal.
+Kilder: Vi har bl.a. bragt oplysninger fra Novo Nordisks investorinformation, podcasten Ledelse Med Vilje fra Lederstof.dk, podcasten Topchefernes strategi fra B&amp;#xF8;rsen, artikelserien &amp;#x22;Novoland&amp;#x22; fra Berlingske Business, podcastserien &amp;#x22;Novoland&amp;#x22; fra Frihedsbrevet, artikler fra Medwatch, Frihedsbrevet, Berlingske, B&amp;#xF8;rsen, Jyllands-Posten samt Financial Times, Wall Street Journal og Reuters om Novo Nordisk. Derudover n&amp;#xE6;vner vi Sundhedsstyrelsens pr&amp;#xE6;paratanmeldelse om Wegovy.
+Tilrettel&amp;#xE6;ggelse og research: Ole Hall.
+Lyddesign: Jonas Johs Andersen.
+Dramaturgisk konsulent: Anne Pilegaard Petersen.
+Programansvarlige: Sofie Tholl og Michael Alsen.
+Har du oplysninger, du vil dele? Skriv til journalist Ole Hall p&amp;#xE5; oleh@dr.dk</description>
+            <pubDate>Thu, 19 Sept 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9bfc/fe185b8986bc6c74462e81a581a2b66faa36d190556cdc3bddd4f9d4e1b92fad" 
+                type="audio/x-m4a" 
+                length="20664455" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9bfc/5e5157671dff30564389e3fe0097d97407fd2c3e0c1a0b6f04c22be009ad24df" 
+                type="audio/x-m4a" 
+                length="61045335" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9bfc/0cb6a65080b9d40df76d868561d24ab7741494bd16e4ff1b5802838a8c52ab4c" 
+                type="audio/x-m4a" 
+                length="81235695" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9bfc/dd15d9f4de0e679bf46955ce6bbb26e3b81e42670a90ff4c0951150cc0b8ebf4" 
+                type="audio/mpeg" 
+                length="20190602" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9bfc/f7ec21b21c0e942bce4aaccac49a33ad773060a8ce5e0a0847a31b3fd3e8c2bb" 
+                type="audio/mpeg" 
+                length="60570890" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661b3ad7937d2cab8ca9bfc/924ea92e2c721c9e7ed95ed2d9f2c2f2b03467af029c71407e67e46ce4e1c38c" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802405153</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2024/vejen-til-toppen-4-4-carlsbergs-udvalgte-11802405153</link>
+            <title>Vejen til toppen 4:4 - Carlsbergs udvalgte</title>
+            <description>Jacob Aarup-Andersen har pr&amp;#xF8;vet mere end de fleste. Som studerende blev han som en af de f&amp;#xE5; valgt blandt mere end 100.000 ans&amp;#xF8;gere til et job i Londons finansverden. Der kunne arbejdsugerne godt ramme 100 timer, og det kostede ham n&amp;#xE6;sten livet. Men det st&amp;#xF8;rste nederlag p&amp;#xE5; vejen mod jobbet som topdirekt&amp;#xF8;r ramte f&amp;#xF8;rst, da han vendte hjem til Danmark.
+Det her er en serie om den absolutte erhvervstop i Danmark - og hvordan lige netop de er havnet der. Vi dykker ned i deres historier med alt hvad de rummer af succeser og fortrydelser og giver et unikt indblik i, hvad det egentlig kr&amp;#xE6;ver at blive en af Danmarks st&amp;#xF8;rste topledere. F&amp;#xF8;rste fire afsnit skal handle om Carlsberg, &amp;#xD8;rsted, Stark og Netcompanys direkt&amp;#xF8;rer.</description>
+            <pubDate>Mon, 08 Apr 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95afd5c1c0160b347bb6f/b4d2add61f110551f7eadfc52fdbb9788775821015d8fbf89a0f39e301faf056" 
+                type="audio/x-m4a" 
+                length="13655355" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95afd5c1c0160b347bb6f/76a56b27fb175633b735e0e2f7608a7043684c6f9ec445298060be099b32ef5f" 
+                type="audio/x-m4a" 
+                length="40339091" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95afd5c1c0160b347bb6f/fc2fa187efdd447c9c10251935932eaff9e84999cabc981b0041df56a09f396e" 
+                type="audio/x-m4a" 
+                length="53680667" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95afd5c1c0160b347bb6f/e60385d2413faa13edf00669d1904f1dc3490f7019971326731cf8744bc45ffd" 
+                type="audio/mpeg" 
+                length="13342153" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95afd5c1c0160b347bb6f/ba69e18ffd72feae02ffd7ad6489b78756e59c4a17263c6e349746b78e59c3d4" 
+                type="audio/mpeg" 
+                length="40025545" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95afd5c1c0160b347bb6f/0a0580330c7405ccb23b9093327d614b688cc4ccdbf40298229e2cb51bad5aec" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802405152</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2024/vejen-til-toppen-3-4-fra-fiskeri-til-hjoernekontor-11802405152</link>
+            <title>Vejen til toppen 3:4 - Fra fiskeri til hj&amp;#xF8;rnekontor</title>
+            <description>Mads Nipper fra &amp;#xD8;rsted har aldrig haft en karriereplan. If&amp;#xF8;lge ham kommer de fleste ting i livet lidt tilf&amp;#xE6;ldigt. Alligevel er han landet p&amp;#xE5; erhvervslivets &amp;#xF8;verste hylde. Hvordan g&amp;#xF8;r man det, n&amp;#xE5;r man som barn troede, at man skulle v&amp;#xE6;re fisker - og n&amp;#xE5;r man stadig synes, at AC/DC giver langt mere til jobbet som topchef end at l&amp;#xE6;se en ledelsesh&amp;#xE5;ndbog?  
+Det her er en serie om den absolutte erhvervstop i Danmark - og hvordan lige netop de er havnet der. Vi dykker ned i deres historier med alt hvad de rummer af succeser og fortrydelser og giver et unikt indblik i, hvad det egentlig kr&amp;#xE6;ver at blive en af Danmarks st&amp;#xF8;rste topledere. F&amp;#xF8;rste fire afsnit skal handle om Carlsberg, &amp;#xD8;rsted, Stark og Netcompanys direkt&amp;#xF8;rer.</description>
+            <pubDate>Mon, 08 Apr 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:33</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a8ae3262b54396eba42/b3dec924b840130023cb9a353db18431babc32781294970324e0bfff17feffe8" 
+                type="audio/x-m4a" 
+                length="13051695" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a8ae3262b54396eba42/d81f62b8279bb2f49651e9352e304f1fdf6d53e033a9aa73f7bc4690659eb097" 
+                type="audio/x-m4a" 
+                length="38555643" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a8ae3262b54396eba42/590b5437691566eabb4a32843551cfab863def4a6beec30b64c1b9a6344fab8e" 
+                type="audio/x-m4a" 
+                length="51307515" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a8ae3262b54396eba42/b707a38e03e5fef744ad7b9b4eec57fe25e63174e15246acc2158feaf1c8adf0" 
+                type="audio/mpeg" 
+                length="12752332" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a8ae3262b54396eba42/c01885431f0d6d700c137c6e914e4a5aeeff8290dc9056dbfba932357a019ec9" 
+                type="audio/mpeg" 
+                length="38256076" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a8ae3262b54396eba42/f466bb940ff53ace690b86ae20579783f406da14c1d3b815b67c643b356ad656" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802405143</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2024/vejen-til-toppen-2-4-et-ualmindeligt-barn-11802405143</link>
+            <title>Vejen til toppen 2:4 - Et ualmindeligt barn</title>
+            <description>Britta Korre Stenholt er konkurrencemenneske med stort K og har hadet middelm&amp;#xE5;dighed, siden hun var et barn. Hun brugte sin karrieres st&amp;#xF8;rste nederlag - en stresssygemelding hos TDC - til at &amp;#xE5;bne d&amp;#xF8;ren ind til STARK Danmark. I dag er hun administrerende direkt&amp;#xF8;r hos virksomheden som er landets st&amp;#xF8;rste forhandler af byggematerialer.
+Det her er en serie om den absolutte erhvervstop i Danmark - og hvordan lige netop de er havnet der. Vi dykker ned i deres historier med alt hvad de rummer af succeser og fortrydelser og giver et unikt indblik i, hvad det egentlig kr&amp;#xE6;ver at blive en af Danmarks st&amp;#xF8;rste topledere. F&amp;#xF8;rste fire afsnit skal handle om Carlsberg, &amp;#xD8;rsted, Stark og Netcompanys direkt&amp;#xF8;rer.</description>
+            <pubDate>Mon, 01 Apr 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:48</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a32502df15133dcf05b/eb2eedcc128e21389604e05e5156e6ea1e90d878f6b61197479936468daf5e86" 
+                type="audio/x-m4a" 
+                length="12188139" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a32502df15133dcf05b/befc2a6f6c47bc79a006f28b313fe2876c1e6b33be588a5054d746fed3eb5905" 
+                type="audio/x-m4a" 
+                length="36004603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a32502df15133dcf05b/e888ba64827b2a71a8c307733d3df721b332075f29ed25ad02cbdc31bf6ae367" 
+                type="audio/x-m4a" 
+                length="47912767" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a32502df15133dcf05b/9913b896a47b3dbdf267d32a40c623ed0d35ee41ede262e3896efd0b00d9ac9c" 
+                type="audio/mpeg" 
+                length="11908678" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a32502df15133dcf05b/4bef336f1a40f2bfaa7a50feeace2fb953e728db01628842f4143ea64b1f85a4" 
+                type="audio/mpeg" 
+                length="35725126" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f95a32502df15133dcf05b/acb2c0d823bd2f70b52b063b53b2e286926031a2ee0be0eabe922f0ebccbc3e7" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802405142</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2024/vejen-til-toppen-1-4-milliardaeren-fra-ghettoen-11802405142</link>
+            <title>Vejen til toppen 1:4 - Milliard&amp;#xE6;ren fra ghettoen</title>
+            <description>Andr&amp;#xE9; Rogaczewskis liv er en iv&amp;#xE6;rks&amp;#xE6;tters dr&amp;#xF8;m. Han har skabt en virksomhed, som har givet ham penge nok til at kunne kalde sig milliard&amp;#xE6;r. Allerede som polsk indvandrerbarn i Aalborg &amp;#xD8;st vidste han, at han nok var dygtigere end de andre i klassen. Men som voksen har han l&amp;#xE6;rt p&amp;#xE5; den h&amp;#xE5;rde m&amp;#xE5;de, at hans ukuelige tro p&amp;#xE5; sig selv ogs&amp;#xE5; nogle gange kan skabe problemer.
+Det her er en serie om den absolutte erhvervstop i Danmark - og hvordan lige netop de er havnet der. Vi dykker ned i deres historier med alt hvad de rummer af succeser og fortrydelser og giver et unikt indblik i, hvad det egentlig kr&amp;#xE6;ver at blive en af Danmarks st&amp;#xF8;rste topledere. F&amp;#xF8;rste fire afsnit skal handle om Carlsberg, &amp;#xD8;rsted, Stark og Netcompanys direkt&amp;#xF8;rer.</description>
+            <pubDate>Mon, 01 Apr 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f959f65c1c0160b347b731/7cd5adbb49071371c9167c2d75b5461457cf4497e19eacb3ea40d00107910cf3" 
+                type="audio/x-m4a" 
+                length="14569242" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f959f65c1c0160b347b731/b60780c4050955b8d290912f0f6233e8777981632f8e88d0923f21fd78472477" 
+                type="audio/x-m4a" 
+                length="43038763" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f959f65c1c0160b347b731/721c9bf29d2f04cd1ead9242127eab668011599083ad5ecdcf22417389fd406c" 
+                type="audio/x-m4a" 
+                length="57273311" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f959f65c1c0160b347b731/ff9e85f86178587a30102b1a16d6a719fbd085ed87034ade26973f397dc636bc" 
+                type="audio/mpeg" 
+                length="14235145" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f959f65c1c0160b347b731/383f264de52a693a34038b817fc7feda74c8ead0f54cb77602e3ad449f40cb0c" 
+                type="audio/mpeg" 
+                length="42704521" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f959f65c1c0160b347b731/f746d0a7cc83a7cfa499d72c4b05bf6d0ffda31b3bb3623aa1dba42d6266f242" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802405011</guid>
+            <link>https://www.dr.dk/lyd/p1/sorte-tal/sorte-tal-2024/aaret-der-kommer-11802405011</link>
+            <title>&amp;#xC5;ret Der Kommer</title>
+            <description>Klima, Europa og Verdens&amp;#xF8;konomien er omdrejningspunktet for dagens program. 
+&amp;#x22;&amp;#xD8;konomernes dr&amp;#xF8;mmeverden med specialisering og handel er ved at krakelere&amp;#x22;, siger Jesper Berg. 
+&amp;#x22;USA&amp;#x27;s st&amp;#xF8;tteordninger presser virksomheder i EU, men vi har stadig en teknologisk forlomme i Europa&amp;#x22;, mener Tommy Ahlers. 
+&amp;#x22;Hvis man giver los mht. statsst&amp;#xF8;tte, s&amp;#xE5; bliver det dem med de dybeste lommer, der f&amp;#xE5;r konkurrencefordelen, og Tyskland har de dybeste lommer i Europa&amp;#x22;, vurderer Lykke Friis.
+G&amp;#xE6;ster: 
+Jesper Berg, uafh&amp;#xE6;ngig &amp;#xF8;konom.
+Tommy Ahlers, investor i gr&amp;#xF8;n teknologi.
+Lykke Friis, direkt&amp;#xF8;r T&amp;#xE6;nketanken Europa.
+V&amp;#xE6;rt: Mette Simonsen.</description>
+            <pubDate>Mon, 01 Jan 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:54:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584c53f6903c35cbe43ec84/b70b3b7397893ed9740923d3100f9e26447fca4bb784798049d0cca951997a35" 
+                type="audio/x-m4a" 
+                length="26715753" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584c53f6903c35cbe43ec84/c61869101e90188a2c8c3ebf8374edf8c570f899a10a926614e50d83385b62fa" 
+                type="audio/x-m4a" 
+                length="78919187" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584c53f6903c35cbe43ec84/65c2863b4f364115e7279519846f225b860777877fbee72a6625f44cbd5e3f57" 
+                type="audio/x-m4a" 
+                length="105021361" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584c53f6903c35cbe43ec84/1fa3064459d53c79c74c83f4d7219a25d93723251543a5396d489bb20bf4718b" 
+                type="audio/mpeg" 
+                length="26102469" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584c53f6903c35cbe43ec84/828a182be933b44a0eb307aa84a4de9ef5b962e67bf4b1ee3d195f8b85ad286b" 
+                type="audio/mpeg" 
+                length="78306501" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6584c53f6903c35cbe43ec84/bf9efdf5043b7641b522a8606c7a7a78e0f83f6f039c837d50f49b466fc70539" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

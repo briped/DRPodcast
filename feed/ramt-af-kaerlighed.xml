@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/ramt-af-kaerlighed.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Ramt af k&amp;#xE6;rlighed (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000</link>
+        <description>Maise Njor dykker ned i k&amp;#xE6;rlighedens v&amp;#xE6;sen og de mange former, den kan antage gennem livet. Hun unders&amp;#xF8;ger k&amp;#xE6;rligheden som drivkraft, b&amp;#xE5;de n&amp;#xE5;r den g&amp;#xF8;r os lykkelige og det modsatte.
+Sorg er hjeml&amp;#xF8;s k&amp;#xE6;rlighed. N&amp;#xE5;r man mister en, man elsker, s&amp;#xE5; er det som om k&amp;#xE6;rligheden mangler et sted at v&amp;#xE6;re.
+I en miniserie af Ramt af k&amp;#xE6;rlighed taler Maise med mennesker, der ved, hvordan det f&amp;#xF8;les - som enker eller for&amp;#xE6;ldre, der har mistet et barn.
+De taler ogs&amp;#xE5; om at finde rum til den k&amp;#xE6;rlighed, der er blevet hjeml&amp;#xF8;s. Om at f&amp;#xE5; tegn fra de d&amp;#xF8;de og om ting, mindesteder og ritualer, der kan hj&amp;#xE6;lpe, n&amp;#xE5;r man skal leve videre med sorgen til stede.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.08 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/ramt-af-kaerlighed.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/ramt-af-kaerlighed.jpg</url>
+            <title>Ramt af k&amp;#xE6;rlighed (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/ramt-af-kaerlighed.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>K&#230;rlighed og sex</category>
+        <itunes:category text="K&#230;rlighed og sex" />
+        <item>
+            <guid isPermaLink="false">11032626002</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2026/han-er-inde-i-os-11032626002</link>
+            <title>Han er inde i os!</title>
+            <description>Sophie og Bj&amp;#xF8;rn Bang Jakobsen mistede deres 5-&amp;#xE5;rige s&amp;#xF8;n Carl-Louie i en ulykke under det, der skulle have v&amp;#xE6;ret en eventyrlig rejse for familien. De er stadig ved at finde ud af, hvordan man er i verden, n&amp;#xE5;r man har mistet et barn. De l&amp;#xE6;rer af Carl-Louies s&amp;#xF8;skende, som er gode til at g&amp;#xE5; ind og ud af sorgen - til at v&amp;#xE6;re ramt af noget, der g&amp;#xF8;r ondt, og samtidig at turde m&amp;#xE6;rke efter, om der ogs&amp;#xE5; findes noget godt. 
+
+G&amp;#xE6;ster: Sophie og Bj&amp;#xF8;rn Bang Jakobsen. V&amp;#xE6;rt: Maise Njor
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen. Redakt&amp;#xF8;r: Carsten Nielsen
+Ramtaf@dr.dk</description>
+            <pubDate>Mon, 02 Feb 2026 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:54</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697769323f6a785b01f52b15/4567e5435bc62803eeeb03b1aaa0172f5258f61bac37d139508839ba2d8e0358" 
+                type="audio/x-m4a" 
+                length="27462601" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697769323f6a785b01f52b15/94ed6d216d68df55f6679bd88c792e2f0e644b34de1461ce2e8befb3a7bc8940" 
+                type="audio/x-m4a" 
+                length="81128227" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697769323f6a785b01f52b15/5fdb832cde56e417c776f7d10482d898cd2ce916ce61103d39edfc60cdd587e8" 
+                type="audio/x-m4a" 
+                length="107960681" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697769323f6a785b01f52b15/7e24978dae34242ae80ae72ec20f0a16a39118eff18414d25de96712fd78b717" 
+                type="audio/mpeg" 
+                length="26833027" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697769323f6a785b01f52b15/046d9d6a17beb5c0644e655d2ad7099cd29e99a7724740f0d6b964d1c96e3cd2" 
+                type="audio/mpeg" 
+                length="80498179" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:697769323f6a785b01f52b15/fe76059436dff320c690b10d6b5a6d5c9b51f7815f939be675cf390f5aabe531" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032626003</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2026/vi-taler-altid-om-lars-11032626003</link>
+            <title>Vi taler altid om Lars!</title>
+            <description>De var der i livet, hvor de gerne ville v&amp;#xE6;re, efter mere end 40 &amp;#xE5;r sammen. Men s&amp;#xE5; kom sygdommen og vendte op og ned p&amp;#xE5; tilv&amp;#xE6;relsen. Tine H&amp;#xF8;ghs mand, fodboldspilleren Lars H&amp;#xF8;gh, d&amp;#xF8;de i 2021 efter l&amp;#xE6;ngere tids kamp mod en kr&amp;#xE6;ftsygdom. For Tine f&amp;#xF8;ltes det ensomt og, som om han havde fundet en anden, fordi kampen mod kr&amp;#xE6;ften blev hans fokus. 
+Inden han d&amp;#xF8;de, var det vigtigt for Tine, at Lars selv gav nogle meget personlige gaver til b&amp;#xF8;rneb&amp;#xF8;rnene. Og de fort&amp;#xE6;ller ofte historier, om dengang farfar/morfar var fr&amp;#xE6;k og sagde fjollede ting. 
+G&amp;#xE6;st: Tine H&amp;#xF8;gh. V&amp;#xE6;rt: Maise Njor
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen. Redakt&amp;#xF8;r: Carsten Nielsen
+Ramtaf@dr.dk</description>
+            <pubDate>Mon, 02 Feb 2026 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f353d63a2a0c696d/55a7b0fa1a59091d17f59c6da5b443d795bbe3e285c88a18e75e06b066676385" 
+                type="audio/x-m4a" 
+                length="27695595" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f353d63a2a0c696d/1582f0101f354768e902a6960e45af23f8d9589bc9dea590e461ff53045df1e9" 
+                type="audio/x-m4a" 
+                length="81816623" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f353d63a2a0c696d/c323c4c8fac3f8e0e061fa4fff0354729485235f0bd84fe4e61f1fa7ba3c01e6" 
+                type="audio/x-m4a" 
+                length="108876771" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f353d63a2a0c696d/9b4a49c1605ed73a099026c11b1235eebfbd2db7cf13427145b18d00ac18627a" 
+                type="audio/mpeg" 
+                length="27060739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f353d63a2a0c696d/4fa50f7945c16c619bc5b0e07d59d1bb9332f5ad54f4dc688927538066712c89" 
+                type="audio/mpeg" 
+                length="81181315" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f353d63a2a0c696d/0261366577a75da35273be84f3759d4a50d564087c486da17d81a5bb31da49c8" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032626001</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2026/er-du-her-elsker-du-mig-11032626001</link>
+            <title>Er du her, elsker du mig?</title>
+            <description>Ane Riel var gift med trommeslager Alex Riel, der d&amp;#xF8;de i sommeren 2024. Men hun f&amp;#xF8;ler tit, at han stadig er hos hende, og at han taler til hende. For eksempel n&amp;#xE5;r hun sp&amp;#xF8;rger, om han elsker hende, og han s&amp;#xE5; viser sig i form af et billede p&amp;#xE5; telefonen. 
+En tr&amp;#xF8;st i sorgen er ogs&amp;#xE5; troen p&amp;#xE5;, at k&amp;#xE6;rligheden var meant to be, bestemt af sk&amp;#xE6;bnen, p&amp;#xE5; trods af stor aldersforskel. 
+G&amp;#xE6;st: Ane Riel, forfatter. V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen. Redakt&amp;#xF8;r: Carsten Nielsen
+Ramtaf@dr.dk</description>
+            <pubDate>Mon, 02 Feb 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f0657e4a1d688d33/43f8a3f63316be0e9401eadb3a96d1dcbdbbba55b1b9314635e1554612952c2b" 
+                type="audio/x-m4a" 
+                length="27699727" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f0657e4a1d688d33/3268a398d9cf4fe922d161067d48fa98fec7517039763df4059c2590b0f3d1ea" 
+                type="audio/x-m4a" 
+                length="81829007" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f0657e4a1d688d33/d4fd39967a38b87980ba0224457b86060fa589a94a4d81124a769414c29c5753" 
+                type="audio/x-m4a" 
+                length="108893227" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f0657e4a1d688d33/c3510cecc6da4739cb2e4f4a4a9e4d585195d0d7f1d6ec63d564503f968cd059" 
+                type="audio/mpeg" 
+                length="27064778" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f0657e4a1d688d33/507ee56df5251f5216bf8133fb798a44d9944b29a17d6600778c893498aa8428" 
+                type="audio/mpeg" 
+                length="81193418" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69776929f0657e4a1d688d33/2a974d054a293a293564024fb161d6f91b1fe1c5c390c37f463bb801fc5c4942" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526287</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/5-5-sexet-sommer-hvor-er-min-sexlyst-11032526287</link>
+            <title>5:5 - Sexet sommer: Hvor er min sexlyst?</title>
+            <description>N&amp;#xE5;r folk h&amp;#xF8;rer, at Annamaria Giraldi forsker i seksualitet, er der is&amp;#xE6;r to ting, de gerne vil vide mere om. Den ene er LYST - for hvor meget eller hvor lidt lyst er &amp;#x22;rigtigt&amp;#x22;?
+I sit arbejde hj&amp;#xE6;lper Giraldi bl.a. kvinder med nedsat sexlyst og m&amp;#xE6;nd, der ikke kan f&amp;#xE5; rejsning. Og i en samtale med Maise deler hun ud af erfaringer og gode r&amp;#xE5;d - for det er faktisk muligt selv at stimulere lysten. 
+G&amp;#xE6;st: Annamaria Giraldi, overl&amp;#xE6;ge, Sexologisk Klinik, Psykiatrisk Center, K&amp;#xF8;benhavn og professor i klinisk sexologi p&amp;#xE5; K&amp;#xF8;benhavns Universitet.
+V&amp;#xE6;rt: Maise Njor.
+Tilrettel&amp;#xE6;gger: Bettina T&amp;#xF8;ibner Ohlsen. 
+Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsens.
+Ramtaf@dr.dk</description>
+            <pubDate>Tue, 24 Jun 2025 05.04.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d5d/4d0c493488937de0fdc886e7eeaa9d1980e252fa564011ab3152535fd4e55ea5" 
+                type="audio/x-m4a" 
+                length="27835653" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d5d/705b281084f2909e867eb754194dac40602213534d85cbb8a90fcb1ed67a3165" 
+                type="audio/x-m4a" 
+                length="82230395" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d5d/0b4272467ff5800346cddbcf54d3044e193f97eac2b707b7d91f62b051238784" 
+                type="audio/x-m4a" 
+                length="109427525" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d5d/65922088ac732825032fd1e0cd0d1b4c1fa67c8a463d159567d5c999bfb03a38" 
+                type="audio/mpeg" 
+                length="27197429" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d5d/abf57e6d3468085eefd2456ef26ec9c7b29dd41fc7b03bb74025cac7c9ca8dfe" 
+                type="audio/mpeg" 
+                length="81591413" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d5d/12b37fcd054283fd99d4ff1fda347373f8925714f943448adc4e414a82879714" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526277</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/4-5-sexet-sommer-historisk-sex-11032526277</link>
+            <title>4:5 - Sexet sommer: Historisk sex</title>
+            <description>Seksualitet har gennem tiden v&amp;#xE6;ret forbundet med forbud, skyld og skam. Men der er ogs&amp;#xE5; &amp;#x22;lysthuller&amp;#x22; i historien, og dem dykker Maise ned i sammen med historiker Asser Amdisen. Han fort&amp;#xE6;ller, at magt, sex, lyst og k&amp;#xE6;rlighed altid har v&amp;#xE6;ret filtret ind i hinanden.
+Maise har l&amp;#xE6;st, at en gennemsnitspenis er 9,16 cm med &amp;#x22;hvilepuls&amp;#x22;. Men hvorfor er de s&amp;#xE5; meget sm&amp;#xE5; p&amp;#xE5; statuer?
+G&amp;#xE6;st: Asser Amdisen, historiker og forfatter.
+V&amp;#xE6;rt: Maise Njor.
+Tilrettel&amp;#xE6;gger: Bettina T&amp;#xF8;ibner Ohlsen. 
+Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Tue, 24 Jun 2025 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d56/250619411163993a5f922a077661fcbecb9cbf9f4ea77679520d5727362fd2e9" 
+                type="audio/x-m4a" 
+                length="27800533" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d56/4c233b6bd147eccb47faf8a79a81e4512cfa55ae0392d415a546f6ad878b68c5" 
+                type="audio/x-m4a" 
+                length="82126643" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d56/b66badf88fd9a0baad55163c39ecc24ece105bf70334f96121f575a68d4eded0" 
+                type="audio/x-m4a" 
+                length="109289373" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d56/2c706a6fde3b7c7143da31f2ea8e5dfa5eea41653515f8ddaaa9537e89d0c95f" 
+                type="audio/mpeg" 
+                length="27163256" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d56/4c460dde1f4a6926be4267e1836bed498b002ba439827811830dce7575cbb8b2" 
+                type="audio/mpeg" 
+                length="81488888" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682745337b626ea9bb0f6d56/8e3f8bae518834a46323ff510ce6243b20a5c0cfd2721d35152a858f485e122f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526267</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/3-5-sexet-sommer-vi-skal-tale-mere-om-nydelse-11032526267</link>
+            <title>3:5 - Sexet sommer: Vi skal tale mere om nydelse!</title>
+            <description>Clara synes vi skal tale mere &amp;#xE5;bent om sex, og hun kan godt selv finde p&amp;#xE5; at fort&amp;#xE6;lle det til sine veninder, hvis hun g&amp;#xE5;r rundt og er helt vildt liderlig. Men hun fort&amp;#xE6;ller ogs&amp;#xE5; Maise om dengang hendes egen sexlyst var helt v&amp;#xE6;k, og hvad hun gjorde for at finde frem til den igen. 
+G&amp;#xE6;st: Clara Filippa Damgaard Andersen, direkt&amp;#xF8;r i sexleget&amp;#xF8;jsfirmaet Peech.
+V&amp;#xE6;rt: Maise Njor.
+Tilrettel&amp;#xE6;gger: Bettina T&amp;#xF8;ibner Ohlsen. 
+Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Tue, 24 Jun 2025 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2c209757a3366559c/4e031d716885fa1b125ee0d928ee9eed128f126f8bdecc8053517504fc42535f" 
+                type="audio/x-m4a" 
+                length="27194825" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2c209757a3366559c/a9561d900ad77f7984603d07a91748ae2d0b5fe2055682816825d94a27dac6c9" 
+                type="audio/x-m4a" 
+                length="80337223" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2c209757a3366559c/79535dedaaf6907746951c42311db62fea8fd8943e9f90a8fa4ac7cfd7636e0e" 
+                type="audio/x-m4a" 
+                length="106908173" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2c209757a3366559c/af2b5f7c45c97140e9bc7eb3653439bf3ebc4636a2e2416fd70ce3415b0ecb30" 
+                type="audio/mpeg" 
+                length="26571344" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2c209757a3366559c/c31ecb213bb8c01b749da08451002f5e7eac2172a11a1f6af387a47279b5aadd" 
+                type="audio/mpeg" 
+                length="79713104" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2c209757a3366559c/fa5494d471421faa6da2acc04acd07e76e4f2f5be4c7291c3a73bfbb16d91bce" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526257</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/2-5-sexet-sommer-lad-os-fantasere-lidt-mere-11032526257</link>
+            <title>2:5 - Sexet sommer: Lad os fantasere lidt mere!</title>
+            <description>Erotisk litteratur er sv&amp;#xE6;r at skrive! Det ved Maise, for hun har pr&amp;#xF8;vet det selv, og det var f.eks. sv&amp;#xE6;rt at f&amp;#xE5; legemsdelene til at passe sammen. Hun taler med Lotte Garbers, som har skrevet erotiske b&amp;#xF8;ger i mange &amp;#xE5;r. Det handler ikke kun om penetration, men ogs&amp;#xE5; om duft, dans og andre indtryk.
+Maise vil gerne vide, hvad man kalder k&amp;#xF8;nsorganerne, n&amp;#xE5;r man skriver erotisk! 
+G&amp;#xE6;st: Lotte Garbers, forfatter.
+V&amp;#xE6;rt: Maise Njor.
+Tilrettel&amp;#xE6;gger: Bettina T&amp;#xF8;ibner Ohlsen. 
+Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Tue, 24 Jun 2025 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2715313ce9ecffad9/3fb18c90b477a698aae68800a2b763b2b97984ee9b559861092bf134cb1d4b32" 
+                type="audio/x-m4a" 
+                length="27717079" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2715313ce9ecffad9/c48e1d382ceade75bbaf5959e5999a7baa4a1372f9b56668c778df62739d4469" 
+                type="audio/x-m4a" 
+                length="81880043" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2715313ce9ecffad9/c103be176e392cda90990c48ca578494adf7323cb3a9b6dc375132f39e89651b" 
+                type="audio/x-m4a" 
+                length="108961339" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2715313ce9ecffad9/1db3b0f8676670fce29533240996af837906aae2cd20005ebf99c62d8ae6de9d" 
+                type="audio/mpeg" 
+                length="27081677" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2715313ce9ecffad9/f3f19542065d5013d0fe9c26481c436a5ad8fd130bf3034b8e026c71fa72c477" 
+                type="audio/mpeg" 
+                length="81244109" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684940d2715313ce9ecffad9/b6468899302bc4cd04798670e669b92e4d1f27958a3502e1fefc44f93082e779" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526247</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/1-5-sexet-sommer-danskernes-sexliv-11032526247</link>
+            <title>1:5 - Sexet sommer: Danskernes sexliv</title>
+            <description>Maise Njor vil bruge sommeren p&amp;#xE5; sex - p&amp;#xE5; samtaler om sex.
+Christian Graugaard er sexolog og har i mange &amp;#xE5;r holdt &amp;#xF8;je med danskernes liv i senge og samfund, og han g&amp;#xE5;r b&amp;#xE5;de videnskabeligt og kulturelt til v&amp;#xE6;rks. Derfor producerer han ikke kun tal og tabeller om seksualitet. Maise taler med ham om, hvordan danskernes sexliv er for tiden, og dykker ned i hans bog &amp;#x22;Lir - slang om sex&amp;#x22; - fordi sproget ogs&amp;#xE5; er en erogen zone. 
+G&amp;#xE6;st: Christian Graugaard, professor i sexologi, Aalborg Universitet. Initiativtager til Projekt Sexus. Forfatter.
+V&amp;#xE6;rt: Maise Njor.
+Tilrettel&amp;#xE6;gger: Bettina T&amp;#xF8;ibner Ohlsen. 
+Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Tue, 24 Jun 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68482a5050790136dd541b7a/2d89bf71fdc72ffa5e4b40856d05a4d2ab03426b2d7f2d9d9a3527311fb2d3cc" 
+                type="audio/x-m4a" 
+                length="27817825" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68482a5050790136dd541b7a/1d933016ccb89275a6f987f3f6a00f0b5f370cd62b500039e3fe72f2415fc9b3" 
+                type="audio/x-m4a" 
+                length="82177847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68482a5050790136dd541b7a/0d79663fd6f6126ee057037807888876d638adb9133a4ea6ebf988bd55540e8c" 
+                type="audio/x-m4a" 
+                length="109357377" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68482a5050790136dd541b7a/512efdbdb3c14a267aa92dbcdb78c6d1799ea397f7347b403d4ca44cbdf11617" 
+                type="audio/mpeg" 
+                length="27180173" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68482a5050790136dd541b7a/619db2d95af369488777cc9e4667ca3c80b318694a5ce45c2ac726052ca4a983" 
+                type="audio/mpeg" 
+                length="81539597" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68482a5050790136dd541b7a/cb3650371c5fd8ac5ea2a2441e9c920b117f9478aa01301e6af7d75845085bc1" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526241</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/kan-du-maerke-at-jeg-elsker-dig-11032526241</link>
+            <title>Kan du m&amp;#xE6;rke, at jeg elsker dig?</title>
+            <description>Det er ikke nok at sige til dem, man elsker, at man g&amp;#xF8;r det. De er ogs&amp;#xE5; n&amp;#xF8;dt til at kunne m&amp;#xE6;rke det. Og det kan v&amp;#xE6;re sv&amp;#xE6;rt, n&amp;#xE5;r mobilen ofte er imellem os - vores digitale liv truer k&amp;#xE6;rligheden. 
+Maise synes, at hendes telefon er som et d&amp;#xE5;rligt opdraget barn, der hele tiden plager - om opdateringer, nye koder osv. 
+G&amp;#xE6;st: Imran Rashid, l&amp;#xE6;ge, forfatter og debatt&amp;#xF8;r. Vinder af Rosenkj&amp;#xE6;rprisen 2025.
+V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Mon, 09 Jun 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:43</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305e78d318291c76eed1c9/8be739c5365bbbba365f347dc67c57ee8db6508175a47935c484715c02d4e737" 
+                type="audio/x-m4a" 
+                length="27870189" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305e78d318291c76eed1c9/d02b8e82c17fed5eda7f468a0a13b0e5c178e9a8f825a2baefbd6eebc2932e3d" 
+                type="audio/x-m4a" 
+                length="82332683" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305e78d318291c76eed1c9/aba51cafe6fa2129d78763214adf002fcf46874a36b814eaa4f0fcc4987da2af" 
+                type="audio/x-m4a" 
+                length="109563617" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305e78d318291c76eed1c9/5376b6b015fe1257c205600efb98929b22a28361528a017e8578173e26d97562" 
+                type="audio/mpeg" 
+                length="27231437" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305e78d318291c76eed1c9/eb025c6b2b87dcf45645ca54451dc5621de6f450e6689486cfd6c12c479ba240" 
+                type="audio/mpeg" 
+                length="81693389" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305e78d318291c76eed1c9/a2afffd81b1d56924acca80c63f1b7387945228b2464ce022b644eec82afc1db" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526167</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/vi-har-brug-for-at-grine-af-os-selv-11032526167</link>
+            <title>Vi har brug for at grine af os selv!</title>
+            <description>For Maise er det lig med k&amp;#xE6;rlighed, n&amp;#xE5;r vennerne griner af hende - s&amp;#xE5; f&amp;#xF8;ler hun sig set og elsket!
+Satiretegner Philip Ytournel elsker at tegne. Men hvor meget k&amp;#xE6;rligt drilleri er der, n&amp;#xE5;r han kaster sig over en person eller en tendens i tiden? Og er det blevet sv&amp;#xE6;rere med &amp;#xE5;rene?
+G&amp;#xE6;st: Philip Ytournel, satiretegner, Politiken
+V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Thu, 29 May 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680b84f9507e0f83c8cef6ff/a1b318407fab73e8f4203c286b21d288cad53816e0aac593753f9d4a61b1216e" 
+                type="audio/x-m4a" 
+                length="27769919" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680b84f9507e0f83c8cef6ff/b97d8bd2511346171da7758fee311d7ada54c36fdb210f0ebcd5a4c5d934a120" 
+                type="audio/x-m4a" 
+                length="82036391" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680b84f9507e0f83c8cef6ff/3e0d3cef09350a3fef4f71d7a7e495aa80bd57d4737226cbe8b152d7c10076e1" 
+                type="audio/x-m4a" 
+                length="109169303" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680b84f9507e0f83c8cef6ff/d74e72a256ebde05832807db36cb88642b46812ae48b794fe01f1e3dc0e3362e" 
+                type="audio/mpeg" 
+                length="27133323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680b84f9507e0f83c8cef6ff/2b0f4ce3b6782b95610300ab01b4e63fe36f8c2052745ef49e4409e5b988b932" 
+                type="audio/mpeg" 
+                length="81399051" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680b84f9507e0f83c8cef6ff/06814a9643eccfe62dc63ea370c25529285aa0e590182046b9decd6b5acd1046" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526117</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/bedste-ven-og-roomie-med-morfar-11032526117</link>
+            <title>Bedste ven og roomie med morfar</title>
+            <description>Kunne du bo sammen med dine bedstefor&amp;#xE6;ldre eller b&amp;#xF8;rneb&amp;#xF8;rn?
+Da Isabella Alberte Hedeager var 25 &amp;#xE5;r, flyttede hun ind hos sin morfar p&amp;#xE5; 91, og de boede sammen indtil han d&amp;#xF8;de som 99-&amp;#xE5;rig. De delte hverdag, havearbejde og havregryn, men de tog ogs&amp;#xE5; p&amp;#xE5; mange ferier sammen, for deres bucket list var lang!
+Maise kunne godt t&amp;#xE6;nke sig at bo sammen med sine b&amp;#xF8;rneb&amp;#xF8;rn. Men hvordan g&amp;#xF8;r man lige det? Og er hendes d&amp;#xF8;tre med p&amp;#xE5; ideen?
+G&amp;#xE6;st: Isabella Alberte Hedeager, journalist og influencer. V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Mon, 21 Apr 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e528928b2e4877edc3ba9a/22046015fe7e2ba4b134ab606cbb7f97f7cf267b0b1a856708afde3eb57179b7" 
+                type="audio/x-m4a" 
+                length="28124549" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e528928b2e4877edc3ba9a/d7fb5cf8e6bd60f49ed7cfd375695fd9706a8cae068d5703bb1f81ce028b30bc" 
+                type="audio/x-m4a" 
+                length="83083923" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e528928b2e4877edc3ba9a/edb2d5c641d4bd82bf6e263b8f9514be0df46329faf5f91dd03ee8dc77017d8c" 
+                type="audio/x-m4a" 
+                length="110563096" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e528928b2e4877edc3ba9a/6d87ae02d4c125a97ae92fa72b11c4edceb32f15bbc23063257464152b4b2202" 
+                type="audio/mpeg" 
+                length="27479873" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e528928b2e4877edc3ba9a/43a62383fe5147580e49f7bb6105f858d887b59ded4e5c5af05e58d4c4c14ab0" 
+                type="audio/mpeg" 
+                length="82438721" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e528928b2e4877edc3ba9a/8be8ed80b3decbb4eb7d49b0115d8d1848e0f9084d6e9d146b4753deb49ad14e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526107</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/hvis-vi-bare-saa-lidt-flere-film-fra-gobi-oerkenen-11032526107</link>
+            <title>Hvis vi bare s&amp;#xE5; lidt flere film fra Gobi-&amp;#xF8;rkenen ...</title>
+            <description>De tre film, der fylder mest i hjertekulen. En k&amp;#xE6;rlig sang, der kan f&amp;#xE5; hende til at lette fra jorden. Og et bud p&amp;#xE5; straffen til dem, der bruger deres mobiltelefon i biografen. Det er nogle af ingredienserne i samtalen med biografdirekt&amp;#xF8;r Line Bj&amp;#xF8;rn Daubjerg. 
+Maise vil gerne leve i en film af den amerikanske instrukt&amp;#xF8;r Wes Anderson - fordi der er s&amp;#xE5; dejlig orden.
+G&amp;#xE6;st: Line Bj&amp;#xF8;rn Daubjerg, direkt&amp;#xF8;r, &amp;#xD8;st for Paradis, Aarhus. V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Thu, 17 Apr 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e527b28b2e4877edc3b4e2/3ad6c5e3bd235111c048d02401c2164775e3c009f24e025c69e613c122da5ab4" 
+                type="audio/x-m4a" 
+                length="27940096" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e527b28b2e4877edc3b4e2/1fa4cc5aa0fb62457aedff31498946ea7fa37c6f75c9a6380d0e68e1713a24aa" 
+                type="audio/x-m4a" 
+                length="82538979" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e527b28b2e4877edc3b4e2/ed14a110ef916d08af759d918dcec1bdc0e2aa66693ea6874f17e1f414d8907a" 
+                type="audio/x-m4a" 
+                length="109838120" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e527b28b2e4877edc3b4e2/3d6dc2e4f2c6a2c407a05f44e1b43787f3d396c504b16bcda8cf3a0274f53daa" 
+                type="audio/mpeg" 
+                length="27299596" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e527b28b2e4877edc3b4e2/bcd4c8c5147933706118babc59aa17c86a2240200e8b21c53eee2ac1b5298f5a" 
+                type="audio/mpeg" 
+                length="81897868" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e527b28b2e4877edc3b4e2/a4716c1b080493b0dab34f28a917ddee2b1061556e2ee62f80e958f477cbaed3" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526097</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/syngende-kaerester-i-fem-aartier-11032526097</link>
+            <title>Syngende k&amp;#xE6;rester i fem &amp;#xE5;rtier</title>
+            <description>Duoen Lasse &amp;#x26; Mathilde sender en tak til digteren Tove Ditlevsen. For havde det ikke v&amp;#xE6;ret for hende, havde de m&amp;#xE5;ske aldrig fundet hinanden. Nu har de spillet sammen i 50 &amp;#xE5;r og v&amp;#xE6;ret k&amp;#xE6;rester n&amp;#xE6;sten lige s&amp;#xE5; l&amp;#xE6;nge!
+Samtalen med dem f&amp;#xE5;r Maise til at savne 1970&amp;#x27;ernes l&amp;#xF8;ssluppenhed - selv om der var meget brunt fl&amp;#xF8;jl og alt for lidt glimmer dengang!
+G&amp;#xE6;ster: Lasse &amp;#x26; Mathilde - Lasse Helner og Mathilde Bondo, sangere, musikere og komponister.
+V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Thu, 27 Feb 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:24</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f106c/7371d18d69bd2edfd77f1bbda5895281e4a44ffa8c3bcad5ff27fc5112dc4f22" 
+                type="audio/x-m4a" 
+                length="27715332" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f106c/a5c71df691b5a3c02624233573516319548e54831965aab4f2ad428ade027f8e" 
+                type="audio/x-m4a" 
+                length="81874991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f106c/c8a6eee7068ec7175548b5e806101fb2f33742c9116b33316c2ab4bfd2fd8241" 
+                type="audio/x-m4a" 
+                length="108954220" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f106c/25fbc65de8cf6566dbfbbe1fd5c709636a6bfb3b151dd5db5d97e67c21ce4c3a" 
+                type="audio/mpeg" 
+                length="27079937" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f106c/161f90dbd700a49a1a35676d8f255dda1891f3aa41078f1b3850c540c9c9ff96" 
+                type="audio/mpeg" 
+                length="81238913" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f106c/1b5e5096b939713ad16fa88c15f9ffb9458069e6c2a6003869841febd0896fbd" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526087</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/jeg-troede-jeg-var-ret-alene-om-det-11032526087</link>
+            <title>Jeg troede, jeg var ret alene om det!</title>
+            <description>F&amp;#xE5;r jeg nogensinde sex igen? Det er titlen p&amp;#xE5; standupper Sofie Hagens bog. Og hun er nok ikke den eneste, der stiller sig selv det sp&amp;#xF8;rgsm&amp;#xE5;l. Maise taler med hende om, hvad man S&amp;#xC5; skal g&amp;#xF8;re - og husker, at hun som ung troede, at man kunne veksle sex til k&amp;#xE6;rlighed!
+G&amp;#xE6;st: Sofie Hagen, standup komiker og forfatter. V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Thu, 20 Feb 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b03c/0eed22b57f99b40a3a23a45f22d8009bdcedd4f10e938f7225ec6f12277a89c9" 
+                type="audio/x-m4a" 
+                length="27589301" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b03c/c472b4d97fae31c79dedd2660a347d409bb00ca2d5d4f5c70f86a427b8cc05b0" 
+                type="audio/x-m4a" 
+                length="81502883" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b03c/b4d88980231d37ac58ea09a92828f7883bc1f452b82455e3502226b396150ebd" 
+                type="audio/x-m4a" 
+                length="108459381" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b03c/db3cad4cb69d58445ed71eda3e053495df23622d23a336f505e18f8e776914ec" 
+                type="audio/mpeg" 
+                length="26957057" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b03c/189d1f6ef02b419d2c3e7c3ab56c10821260e7d1397443a8766d2dc86096a597" 
+                type="audio/mpeg" 
+                length="80870273" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b03c/beee3dda154232b61214c17a473b8519ed362dea0c91cfd3b80b55e5df606577" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526077</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/kaerlighed-og-sex-paa-film-11032526077</link>
+            <title>K&amp;#xE6;rlighed og sex p&amp;#xE5; film</title>
+            <description>Hvorfor er k&amp;#xE6;rlighed og sex s&amp;#xE5; smukt p&amp;#xE5; film - og s&amp;#xE5; usk&amp;#xF8;nt i virkeligheden!?
+Skuespiller Camilla Bendix er uddannet intimkoordinator, og hun l&amp;#xE6;rer Maise, hvordan man ser forelsket ud p&amp;#xE5; film - og hvordan man m&amp;#xE5;ske kan bruge skuespiltricks i sit eget k&amp;#xE6;rlighedsliv.
+Maise mindes en scene fra en film med Robert Redford i en r&amp;#xE5;hvid sweater, som hun ofte har k&amp;#xF8;bt til m&amp;#xE6;nd. 
+G&amp;#xE6;st: Camilla Bendix, skuespiller og intimkoordinator. V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Thu, 13 Feb 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:46</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d3a03e4b24f33d2c7/7cfb7cdafb76ae6c1b0e9d7b812c7b89ea92a7513e178a13c1307c61645f9c38" 
+                type="audio/x-m4a" 
+                length="27889812" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d3a03e4b24f33d2c7/4eb2b5679cfa417313b790c97f233f786ad2b8629631a478c7b31d6cf44dc6c8" 
+                type="audio/x-m4a" 
+                length="82390367" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d3a03e4b24f33d2c7/dcd03cc98cbacd4f554ca2ee0d7c4fec72acacefe33c6a167d148a20cb48218c" 
+                type="audio/x-m4a" 
+                length="109640396" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d3a03e4b24f33d2c7/1e99c9e837e3081c9b1810e1631db6408b470acde2a729ee87dbc0cb1151d460" 
+                type="audio/mpeg" 
+                length="27250625" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d3a03e4b24f33d2c7/e5fa6920f6e94ea41a0c8e185ac395c789d9df5a51b4d3c2a1f62d89f8a6bab6" 
+                type="audio/mpeg" 
+                length="81750977" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d3a03e4b24f33d2c7/87d561d9479630b55f31d73be1fa37cf48f58e12bf43a91829c226c796a0dd7b" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526067</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/det-foerste-kys-var-en-kaempestor-forloesning-11032526067</link>
+            <title>Det f&amp;#xF8;rste kys var en k&amp;#xE6;mpestor forl&amp;#xF8;sning!</title>
+            <description>Bordtennisspiller Peter Rosenmeier har vundet medaljer ved samtlige Paralympiske Lege siden 2004. Men k&amp;#xE6;rligheden var han l&amp;#xE6;nge om at turde satse p&amp;#xE5;: &amp;#x22;Jeg var 22 &amp;#xE5;r, da jeg fik det f&amp;#xF8;rste kys af en kvinde, som ikke var min mor. Og det var et meget stort &amp;#xF8;jeblik. Den der lykkerus af at f&amp;#xE5; noget, som jeg egentlig havde opgivet!&amp;#x22;
+Maise kan godt genkende den f&amp;#xF8;lelse Peter havde, da han egentlig gerne ville i kontakt, men ikke turde!
+G&amp;#xE6;st: Peter Rosenmeier, bordtennisspiller, paraatlet. 
+V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Thu, 06 Feb 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850da92881d1b0b9b3a5/f93c985ade60934afdf3f7d234fe21abc73feec947688d72203c618fa98cd90e" 
+                type="audio/x-m4a" 
+                length="27595125" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850da92881d1b0b9b3a5/21f321e1f09291d9d9e7bd088930fbea68a02ab5b230acbe131bbe4c27b754bf" 
+                type="audio/x-m4a" 
+                length="81519863" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850da92881d1b0b9b3a5/9ba3b08d0835ed4e82c679db484d7f421c2e27037eaba79083842ed209a4a05a" 
+                type="audio/x-m4a" 
+                length="108481957" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850da92881d1b0b9b3a5/18dd8d7a372ba70e9c1c5e3d0d116127cfecccfe18fa5159e3efacfa163d286b" 
+                type="audio/mpeg" 
+                length="26962625" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850da92881d1b0b9b3a5/63d08808259899adc40a55411f5cc5f1989c1f8d665ea3b04471d029176b84dd" 
+                type="audio/mpeg" 
+                length="80886977" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850da92881d1b0b9b3a5/10904fad0070757fc0868a30d36274b626186987b64cde6a0f0073708b711b3b" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526057</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/hvordan-elsker-man-en-far-der-er-for-meget-11032526057</link>
+            <title>Hvordan elsker man en far, der er for meget?</title>
+            <description>&amp;#x22;Min far var en mand, der fyldte alt og var helt vildt dominerende, og jeg var vanvittigt flov over ham!&amp;#x22;, fort&amp;#xE6;ller Christian til Maise. 
+De to taler om, hvordan tackler man for&amp;#xE6;ldre, der er lidt i overkanten, pinlige og af og til sv&amp;#xE6;re at holde af?  Og hvor skal man lede for at finde k&amp;#xE6;rligheden fra en far, der har travlt med sit og ikke altid ser sit barns behov?
+Maise kan godt genkende det med at v&amp;#xE6;re i slipstr&amp;#xF8;mmen af en far, der har haft travlt med sit!
+G&amp;#xE6;st: Christian Mohr Boisen, forfatter og journalist. V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.
+Ramtaf@dr.dk</description>
+            <pubDate>Thu, 30 Jan 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b037/8dac3f637aad8de6a44233002d25a436efda286a815ffbe45d7fda7daf299fde" 
+                type="audio/x-m4a" 
+                length="27791975" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b037/35d93f159664e6238e006f1ba11c7f6be15f8c5e080f47ecf7074da98291c21c" 
+                type="audio/x-m4a" 
+                length="82101371" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b037/2a0ff3b24846ce5358abc45dbbf8b3881a596ebb55072c3bd2f10cf94a4aea6f" 
+                type="audio/x-m4a" 
+                length="109255715" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b037/f4aedd416e778a475735cb5d5297c07378ff51d068920c86edb56d545da71264" 
+                type="audio/mpeg" 
+                length="27155009" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b037/e43890189669dd0ac0f3ee736a2466f62c4a05c960b2939746f841e0eb14402b" 
+                type="audio/mpeg" 
+                length="81464129" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d8057bd5153c9b037/4445d3e411bfd0653c4234c7d7deeef56fb012e3491cff9aa97ec1b2c4edd822" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526047</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/av-mit-hjerte-11032526047</link>
+            <title>Av, mit hjerte!</title>
+            <description>Hvor lang tid tager k&amp;#xE6;restesorg, og hvordan f&amp;#xE5;r man den til at g&amp;#xE5; v&amp;#xE6;k? 
+Maise taler med Freja, som besluttede sig for at ops&amp;#xF8;ge eksperter, da hun blev forladt af sin k&amp;#xE6;reste. Fordi hun f&amp;#xF8;lte, at hendes hjerte helt fysisk var g&amp;#xE5;et i stykker:
+&amp;#x22;Alle sagde: Det g&amp;#xE5;r over, og du kommer til at blive endnu gladere og st&amp;#xE6;rkere, end du var f&amp;#xF8;r! Og jeg sagde, hold jeres fucking k&amp;#xE6;ft - det her, det slider mig ned, og jeg vil ikke &amp;#xF8;nske mig det for min v&amp;#xE6;rste fjende!&amp;#x22;
+De to kvinder finder ud af, at hjertesorg faktisk ikke &amp;#xE6;ndrer sig s&amp;#xE5; meget - det g&amp;#xF8;r forbandet ondt, uanset om man er 26 eller 56.
+G&amp;#xE6;st: Freja B&amp;#xF8;gh Lassen, journalist og forfatter. V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.</description>
+            <pubDate>Thu, 23 Jan 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:18</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1068/db731e92024e254916bd89aa2073086396b581e031c600371dae4148d6a74357" 
+                type="audio/x-m4a" 
+                length="27664829" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1068/3679c5dd1ce2f8870b1010951307a0b33097e9b4436e81f623ef1528b02dc590" 
+                type="audio/x-m4a" 
+                length="81725783" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1068/5b1fc64be0f93882da30a64f9361aecab64933cf20a202bdea2b313cf5b831d2" 
+                type="audio/x-m4a" 
+                length="108756121" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1068/4071462859ec4176604232090d305271d4672aae216425e4e908eae9f039881a" 
+                type="audio/mpeg" 
+                length="27030785" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1068/2887932d447849d2f5fd358c5d72fb52f75372cda115f6d4dce22c04dc4475f4" 
+                type="audio/mpeg" 
+                length="81091457" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1068/f76e1b47f8b0ed922ca03cfed17eec36c632802b2380b4c0e124d840d094de32" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526037</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/kaerlighedens-grimme-bagside-11032526037</link>
+            <title>K&amp;#xE6;rlighedens grimme bagside</title>
+            <description>Jalousi er en ubehagelig og pinlig f&amp;#xF8;lelse, som Maise skammer sig over. Christina Copty kender den b&amp;#xE5;de professionelt og privat: &amp;#x22;Jeg har v&amp;#xE6;ret sygeligt jaloux, da jeg var yngre!&amp;#x22;
+Maise mener egentlig ikke, at hun lider s&amp;#xE6;rlig meget af jalousi, men Christina udfordrer hende!
+G&amp;#xE6;st: Christina Copty, psykoterapeut.
+V&amp;#xE6;rt: Maise Njor.
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.</description>
+            <pubDate>Thu, 16 Jan 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:55:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1064/eaacef2cb9baa4ad0bade6563f415113db3c1eeb8e9ab671963b599542e0f8bd" 
+                type="audio/x-m4a" 
+                length="27408395" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1064/bdfdf866d1d7a20ffe3033f6d3d4b21936cc3485d2a7b8c88c58520341c93768" 
+                type="audio/x-m4a" 
+                length="80968375" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1064/3130f0d013812aeed2c1f8ea6d9a2aa759500020ccf83a7db8ee61a38b880d0f" 
+                type="audio/x-m4a" 
+                length="107748211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1064/fe46b4458669d6d803761cd883d40c0581ad7e5c9044a15aa9e51cd549a6f850" 
+                type="audio/mpeg" 
+                length="26780225" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1064/e678ba5cf8fe206ef287ebf1a020cbd13f6348fa4ccdf30aeef45172c5b8d684" 
+                type="audio/mpeg" 
+                length="80339777" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f1064/f2253fcdd7d9abde2ffe03a89175aebf6b2a1428ca19c48d6ae28b4067a1e5b0" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526027</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/kaerlighed-og-sex-i-vikingetiden-11032526027</link>
+            <title>K&amp;#xE6;rlighed og sex i vikingetiden</title>
+            <description>Ordet fisse blev ogs&amp;#xE5; brugt af vikingerne, kan ark&amp;#xE6;olog Jeanette Varberg fort&amp;#xE6;lle, n&amp;#xE5;r hun og Maise Njor dykker ned i vikingernes k&amp;#xE6;rligheds- og sexliv.  Vikingetiden rummer ogs&amp;#xE5; en historie, der kan matche Romeo og Julies - dengang hed de Hagbard og Signe. 
+Maise undrer sig over, hvor vikingerne gik hen for at elske i fred, n&amp;#xE5;r mange boede og sov sammen!
+G&amp;#xE6;st: Jeanette Varberg, ark&amp;#xE6;olog og forfatter. V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.</description>
+            <pubDate>Thu, 09 Jan 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f105c/91eb655a1a7bca57d0264c0e9397312e05bae376a3a826aab0505f0015963f4d" 
+                type="audio/x-m4a" 
+                length="27731552" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f105c/6ffc46881b85375eeea793688c56d9c6da8bf189e3412bedfcd56ec2d2c72d8a" 
+                type="audio/x-m4a" 
+                length="81922931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f105c/49ff0b5eab0bce9ec8f0375a05713898fba9a1edcb0bf0882934b6fc9cb1d6e6" 
+                type="audio/x-m4a" 
+                length="109018368" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f105c/25a5ba914cf51187c90adbaba88d537fe0d16242ba8d75d9d18bfa3aa4cf7998" 
+                type="audio/mpeg" 
+                length="27095594" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f105c/53413acb7dac36964172d16bf050f8757a302a16214acc740a30203e09325ea1" 
+                type="audio/mpeg" 
+                length="81286442" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850d6e05ffb3958f105c/a70cb87bb6b640aa0dda65f2bb91d9f5ee29c7929323651e9fedbafafef93895" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032526017</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2025/i-min-barndomsgade-falder-mine-skuldre-11032526017</link>
+            <title>I min barndomsgade falder mine skuldre!</title>
+            <description>Skoletiden er som en m&amp;#xF8;rk skygge for Allan Olsen, men alt andet fra hjemstavnen er vidunderlige minder: &amp;#x22;Det er jo det sted, hvor jeg har haft alle mine f&amp;#xF8;rste, vigtige dannende oplevelser - kys og sex og d&amp;#xE9;r, hvor jeg f&amp;#xF8;rst m&amp;#xF8;dte musik!&amp;#x22;
+Maise byder Allan p&amp;#xE5; en meget h&amp;#xE5;rd vingummi, som er et k&amp;#xE6;rligt minde om hendes barndom. 
+G&amp;#xE6;st: Allan Olsen, sanger og sangskriver. 
+V&amp;#xE6;rt: Maise Njor. Tilrettel&amp;#xE6;gger: Bettina Ohlsen.</description>
+            <pubDate>Thu, 02 Jan 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:42</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/712edc94cd8342548adea492817e1426a0d4d3b75d33fe55d6e140677836ae08" 
+                type="audio/x-m4a" 
+                length="27860595" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/2d265832c628b7feea75effa6305987dee7923feb35bc38667f65e413edb2f56" 
+                type="audio/x-m4a" 
+                length="82304195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/997a66c2718967c3a84a268544bb6a3a245fc3806634a96e174c688e6987ee79" 
+                type="audio/x-m4a" 
+                length="109525851" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/7188ea783aa73af3f4bbc41a000860d246b22e240d1476bfdaeb59a7c2e0a1f6" 
+                type="audio/mpeg" 
+                length="27222019" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/c06f2d9d657eba4f1a864b56146f4df51051c8276d1ca7bc7f637256646d3f5b" 
+                type="audio/mpeg" 
+                length="81665155" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765850c6e05ffb3958f1058/9c2d8935c5dc945863dc0cc0d942d8c6244c31a0278d9ec548a13a1d978a441d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428524</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/har-jeg-vaeret-en-god-mor-11032428524</link>
+            <title>Har jeg v&amp;#xE6;ret en god mor?</title>
+            <description>Det er med en vis b&amp;#xE6;ven, at Maise Njor inviterer sine tre voksne d&amp;#xF8;tre i studiet for at evaluere deres barndom og Maises indsats.
+For k&amp;#xE6;rligheden fra mor til d&amp;#xF8;tre er betingelsesl&amp;#xF8;s og urokkelig, men det g&amp;#xE6;lder ikke n&amp;#xF8;dvendigvis den anden vej.
+Nu er Maise ogs&amp;#xE5; blevet mormor, og s&amp;#xE5; kan hendes datter smage sin egen medicin!
+G&amp;#xE6;ster: Asta-Maja Njor Boisen, Betty-Marie Njor Boisen, Cornelia Njor Boisen. 
+V&amp;#xE6;rt: Maise Njor. 
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.</description>
+            <pubDate>Thu, 26 Dec 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/56a8a103160c777439a7c8cb85ca0120c25ae4415db652ed0a8f79c8465549f0" 
+                type="audio/x-m4a" 
+                length="27724240" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/795e5e52a4eda324c37b00b5612394418a6c2ab38f0502e351a3ae0fb95494ca" 
+                type="audio/x-m4a" 
+                length="81901175" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/24c6d99042226b32f6a0f6f8e9926f00d47b6f58946e0a97d662e13a9df607d6" 
+                type="audio/x-m4a" 
+                length="108989744" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/a971cd4167bf79824c1011afff92de4be59fc20bb0fcf8646e5a46216ab910ad" 
+                type="audio/mpeg" 
+                length="27088782" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/427ce389f5ebb6cd69ddab891e06879531cad77af6796769abcd2c1881920105" 
+                type="audio/mpeg" 
+                length="81265422" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623709936bcec98bf0327/8d05cba3caccf767f87b410699535785085bdef1fbec32b246e361171692264f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428514</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/gamle-mennesker-i-nye-parforhold-11032428514</link>
+            <title>Gamle mennesker i nye parforhold</title>
+            <description>Camilla Lindemann blev gift som 74-&amp;#xE5;rig: &amp;#x22;At m&amp;#xF8;de k&amp;#xE6;rligheden og blive stanghamrende forelsket i min alder - det siger jeg ja tak til!&amp;#x22; Men hvordan finder man k&amp;#xE6;rligheden i en moden alder, og f&amp;#xF8;les det ligesom, da man var ung? Det vil Maise Njor gerne vide. 
+G&amp;#xE6;st: Camilla Lindemann, journalist og forfatter.
+V&amp;#xE6;rt: Maise Njor.
+Tilrettel&amp;#xE6;gger: Bettina Ohlsen.</description>
+            <pubDate>Thu, 19 Dec 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/3135ef6bc7d8bfa11fdd8c98723ca6e8c975b3d00d5ba264c155a4b084da8951" 
+                type="audio/x-m4a" 
+                length="27884361" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/08e09cdb0e122a144b96fff4243e71689d1027f8ef2291901e453876bb783889" 
+                type="audio/x-m4a" 
+                length="82374323" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/a7f8b4db73cc79a40ce382ec6bb4d0bbc7374584fd37b6ecda9fe298b427315b" 
+                type="audio/x-m4a" 
+                length="109619273" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/8ac1e8a9971765e040e05f380100c5b53876668000e0f75b285fa4627cc8c400" 
+                type="audio/mpeg" 
+                length="27245254" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/4a388ae75f90705184162e377884d900dc2d4361d42e971568f9baf9cc1663c2" 
+                type="audio/mpeg" 
+                length="81734854" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623714a42ce2aa361f176/cbeb7d93035f6d60d356de3643065350352aff8fd7ec638005af99176961a7a2" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428504</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/gammel-kaerlighed-ruster-ikke-altid-11032428504</link>
+            <title>Gammel k&amp;#xE6;rlighed ruster ikke altid!</title>
+            <description>Peter Sommer blev k&amp;#xE6;reste med Marianne, da de gik i gymnasiet i Skanderborg. Gennem &amp;#xE5;rene har de v&amp;#xE6;ret sammen og fra hinanden flere gange, men nu har de endelig l&amp;#xE6;rt at elske hinanden p&amp;#xE5; en m&amp;#xE5;de, der varer ved: &amp;#x22;Vores evne til at komme tilbage fra konflikterne er noget af det, jeg er mest glad for!&amp;#x22; 
+Maise Njor vender ogs&amp;#xE5; nogle gange tilbage til sin f&amp;#xF8;rste k&amp;#xE6;reste.
+G&amp;#xE6;st: Peter Sommer, sanger og sangskriver. V&amp;#xE6;rt: Maise Njor. Tilrettel&amp;#xE6;gger: Bettina Ohlsen.</description>
+            <pubDate>Thu, 12 Dec 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/2e56c2b4493c55c8c02952f0566fa4f6ba1e861de25f4ba8d469f6c635b25c3d" 
+                type="audio/x-m4a" 
+                length="28087852" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/f0f3d6545ef4569e6d389c8a939b178dd94eb1f9bd08e3b97961b4b8d7e63101" 
+                type="audio/x-m4a" 
+                length="82975551" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/de0f683259d1b8a3ff5558918535ad1a062d2e5a7cf3bb75cbaa8635523eab5e" 
+                type="audio/x-m4a" 
+                length="110419196" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/7d23a024cc0d090e44a7d96359418d33d2da5d886db9bf0662461782c5ea51d4" 
+                type="audio/mpeg" 
+                length="27443969" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/d3309f76f5f5cb61006cf765203ab21c3af70d96e726c81e1481d070e22a276e" 
+                type="audio/mpeg" 
+                length="82331009" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462370e61fb353153c5fde/1e5d51020dee9ddf1096b023cc073b68309fa054fdc2696def9f9f7ffcbc9952" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428494</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/guld-loegn-og-kaerlighed-11032428494</link>
+            <title>Guld, l&amp;#xF8;gn og k&amp;#xE6;rlighed</title>
+            <description>Smykker er lig med k&amp;#xE6;rlighed - og en hel masse andet.
+Guldsmed Josephine Bergs&amp;#xF8;e fort&amp;#xE6;ller historier fra sin lange karriere, hvor guld og &amp;#xE6;delstene ogs&amp;#xE5; har vist sig at gemme p&amp;#xE5; historier om utroskab, ensomhed og hemmeligheder. 
+Og Maise Njor t&amp;#xE6;nker over, om det ville v&amp;#xE6;re okay med et hjemmelavet perlearmb&amp;#xE5;nd fra en k&amp;#xE6;reste? 
+G&amp;#xE6;st: Josephine Bergs&amp;#xF8;e, guldsmed, forfatter til bogen &amp;#x22;Boblerne i b&amp;#xE6;kken&amp;#x22;. V&amp;#xE6;rt: Maise Njor. Tilrettel&amp;#xE6;gger: Bettina Ohlsen.</description>
+            <pubDate>Thu, 05 Dec 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/b0d96bb415cef011545061af05f4df3a91d9c65b4a693115f0a6f23e58629f03" 
+                type="audio/x-m4a" 
+                length="28069005" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/704892fe637b7ac71e666a39ab88f5360787ab60ac33ee1d786d54e8a0f1428e" 
+                type="audio/x-m4a" 
+                length="82919919" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/1d24e2db3e383508f724109b6dfa36df1e50c1bdc84a35eef6c5f6f6bff09cb0" 
+                type="audio/x-m4a" 
+                length="110345276" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/93c8193d1cb4e98036503510a7c1d06852d1264240e1f07bc15c03a303d6cd64" 
+                type="audio/mpeg" 
+                length="27425729" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/b3d5858458e6a6e9c3d7878320775380f5462d5278228f640ef757cf920d9af7" 
+                type="audio/mpeg" 
+                length="82276289" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674623716565d571840d9335/01669eab4747580c93cf7a0e5c63c405cbebae40e7c6b8d432dc53ac5f6d29fa" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428484</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/10-ting-du-skal-vide-om-kaerlighed-11032428484</link>
+            <title>10 ting du skal vide om k&amp;#xE6;rlighed</title>
+            <description>Du m&amp;#xE5; ikke bagtale din k&amp;#xE6;reste! Det er et af Dr. Love&amp;#x27;s k&amp;#xE6;rlighedsbud. Og det lyder indlysende, men Maise Njors erfaring er, at kvinder ikke altid lever op til det r&amp;#xE5;d. 
+Dr. Love hedder ogs&amp;#xE5; Asger Neumann, og i mere end tyve &amp;#xE5;r har han besk&amp;#xE6;ftiget sig med parforholdet og giver her sine bedste r&amp;#xE5;d til et langt og godt k&amp;#xE6;rlighedsliv.
+G&amp;#xE6;st: Asger Neumann, psykolog, partner, HumanAct, ekstern lektor p&amp;#xE5; Psykologisk Institut ved Aarhus Universitet. V&amp;#xE6;rt: Maise Njor. Tilrettel&amp;#xE6;gger: Bettina Ohlsen.</description>
+            <pubDate>Thu, 28 Nov 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/5ee6d2f3d420ebd9eca11655333689ca0d229be025807e6688154e8daef80aea" 
+                type="audio/x-m4a" 
+                length="27948865" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/3954894384944765d85fc7b0531c2fe59e62548a52793add48e4d9a723e7177a" 
+                type="audio/x-m4a" 
+                length="82564851" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/6e84a706b539d36e09f8a2c3415fab5809c1786b183a7d4e7401ed31ec864ec5" 
+                type="audio/x-m4a" 
+                length="109872717" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/c9c96af84c3e1de6a6ca8515a657d46af19a8b36d06e9db0852ea8c87ad60052" 
+                type="audio/mpeg" 
+                length="27308236" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/b2538a8f6d668d1ead5758121608f092d4ff18e8ce0604660a803c42bf2d9f0c" 
+                type="audio/mpeg" 
+                length="81923788" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e69fff43ee13a098adab4/d6c3f65259bd58a3e443412b6fbbf4604691b02924ef409cdf5c9e2608f0b51e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428293</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/3-5-maise-soeger-mage-11032428293</link>
+            <title>3:5 - Maise s&amp;#xF8;ger mage</title>
+            <description>Maise vil ikke v&amp;#xE6;re hende den enlige dame, der snakker for meget med sin hund. Men strategien om at g&amp;#xE5; i byggemarkeder for at finde en mand har ikke virket. &amp;#x22;En biolog m&amp;#xE5; vide noget om tiltr&amp;#xE6;kning og parringsritualer hos menneskedyret. Og m&amp;#xE5;ske har han ogs&amp;#xE5; gode r&amp;#xE5;d om k&amp;#xE6;rlighed og kurtisering fra andre arter. For vi er vel bare biologiske v&amp;#xE6;sner, selv om vi pakker det ind i romantik?&amp;#x22;
+V&amp;#xE6;rt: Maise Njor: G&amp;#xE6;st: Anders Kofoed, evolutionsbiolog og forfatter, bl.a. til b&amp;#xF8;gerne &amp;#x22;Meningen med livet: Menneskedyret fra f&amp;#xF8;dsel til d&amp;#xF8;d&amp;#x22; og &amp;#x22;Den n&amp;#xF8;dvendige far&amp;#x22;.
+Tilrettel&amp;#xE6;ggelse: Maise Njor og Bettina Ohlsen. Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/d431757d81f2e4aae1793c31e8069193f6ae29c3176740d1bbeda23c7f0b87c0" 
+                type="audio/x-m4a" 
+                length="27928255" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/f1c6e16dedd0fe39f9929d80d8c6cfb77fd5ff87ee11388714f96c15aea6876e" 
+                type="audio/x-m4a" 
+                length="82503987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/843e9ea2bc76993591d3d181dc77c4c35c72628339f1fddaf90165848464342a" 
+                type="audio/x-m4a" 
+                length="109791763" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/a6b5ce47074d12c99cdec2268ee6368be6e6b6c48f9952a2804999c340de915e" 
+                type="audio/mpeg" 
+                length="27288076" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/4944572d6757a764849bb2f9000fb1c25d7818b88bec19181336fb5dda0d9240" 
+                type="audio/mpeg" 
+                length="81863308" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe1/0867f1be772ff256774b60920e574f7a7231f12f696414e5c49e38c9f557e79b" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428283</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/2-5-kaerlige-tumper-11032428283</link>
+            <title>2:5 - K&amp;#xE6;rlige tumper</title>
+            <description>Maise var den f&amp;#xF8;rste i sin familie, der blev skilt, og det ramte h&amp;#xE5;rdt:  &amp;#x22;Jeg troede ikke, man blev skilt, n&amp;#xE5;r man havde tre b&amp;#xF8;rn&amp;#x22;. I andre familier er det mere normalt end at blive sammen, og nogle kan n&amp;#xE5; at blive skilt flere gange. Rokker det ved vores forventninger til k&amp;#xE6;rlighed, at forestillingen om den eneste sj&amp;#xE6;ldent holder i virkeligheden? Og hvorfor er vi s&amp;#xE5;dan nogle tumper til parforhold?
+V&amp;#xE6;rt: Maise Njor. G&amp;#xE6;st: Katrine Fr&amp;#xF8;kj&amp;#xE6;r Baunvig, 4. generationsskilt. Forfatter til bogen &amp;#x22;Den eneste ene&amp;#x22;.
+Tilrettel&amp;#xE6;ggelse: Maise Njor og Bettina Ohlsen. Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:54</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/21d0c720e070e84ed24d865ac78f44afcc7ab16ab880bcbe22bf985effc8cd23" 
+                type="audio/x-m4a" 
+                length="27959484" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/818b4817e3e0ae648fc38ceb5ec45289a53f8461ecc80de641dbefe97595358d" 
+                type="audio/x-m4a" 
+                length="82596411" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/b01fb45d6157a53af5c939ca804406b8f085f52a0baa96951623822ba74c3331" 
+                type="audio/x-m4a" 
+                length="109914532" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/c6a66d5551d70bc6f57ff4739b6689d10873bd987b35eef2b1bd8ad282f1de8b" 
+                type="audio/mpeg" 
+                length="27318600" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/504d9c50afd51d2dbbaa3ae0184c10f77facf8e1f63d377656abe32a9f7f5fc9" 
+                type="audio/mpeg" 
+                length="81954888" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fda/26ab8f0d4d6d7f37967cff36b85043147532e35c5dd06018059f3d0df3143cf1" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428313</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/5-5-jeg-elsker-dig-min-ven-11032428313</link>
+            <title>5:5 - Jeg elsker dig, min ven!</title>
+            <description>Maises b&amp;#xF8;rn og andre unge elsker hinanden til h&amp;#xF8;jre og venstre. K&amp;#xE6;rlighedserkl&amp;#xE6;ringer er i hvert fald n&amp;#xE6;rmest standardhilsen for dem. Men kan man elske sine venner? Og skal man s&amp;#xE5; sige det til dem? Hassan Preisler og Maise er gamle venner, og de var engang lige ved at blive k&amp;#xE6;rester: &amp;#x22;Jeg er glad for, at vi aldrig blev det, for s&amp;#xE5; havde vi nok ikke v&amp;#xE6;ret venner i dag!&amp;#x22; 
+V&amp;#xE6;rt: Maise Njor. G&amp;#xE6;st: Hassan Preisler, Maises ven. Forfatter, dramatiker, radiov&amp;#xE6;rt og skuespiller.
+Tilrettel&amp;#xE6;ggelse: Maise Njor og Bettina Ohlsen. Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05.04.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/ccf7d87b1dcceff53de65a6caf3ac5d86b37cf6bbc4b5a45859ec937d1634e3d" 
+                type="audio/x-m4a" 
+                length="28010824" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/ca907a8dfe97bcdefbf2311d8402f3f34c3684476f832dd9538da87aa95fb68c" 
+                type="audio/x-m4a" 
+                length="82748007" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/0c9c529f56fba6dac3c764a799c43cd6b6f7feb3cffa6c5e4c234f51030817dc" 
+                type="audio/x-m4a" 
+                length="110116448" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/82b3b1cb75ca0da0611c50550fb0e35fbf5faff60b514b22a524807ff4508d49" 
+                type="audio/mpeg" 
+                length="27368907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/bc599dba8ba6ad180fda7600ba87deb85f632501253278c7d05f6bcc7b1f8660" 
+                type="audio/mpeg" 
+                length="82105803" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe9/0a028f5e8959f4e17b5560e8cd53cfcc904253377d9edfde49f512b296fb9451" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428303</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/4-5-hvordan-elsker-jeg-mig-selv-11032428303</link>
+            <title>4:5 - Hvordan elsker jeg mig selv!?</title>
+            <description>Maise er tr&amp;#xE6;t af ugeblads-mantraet om, at man skal elske sig selv, f&amp;#xF8;r man kan elske andre. &amp;#x22;Ingen dr&amp;#xF8;mmer vel om at finde en, der bare elsker sig selv p&amp;#xE5; alle punkter&amp;#x22;. P&amp;#xE5; den anden side vil hun gerne holde mere af sig selv, som hun nu engang er. Ogs&amp;#xE5; huden p&amp;#xE5; benene, der kan minde om kogt kylling. Men hvordan l&amp;#xE6;rer man det? Og er der alligevel noget om, at det s&amp;#xE5; bliver lettere at &amp;#xE5;bne sit hjerte p&amp;#xE5; klem for andre? 
+V&amp;#xE6;rt: Maise Njor. 
+G&amp;#xE6;st: Katinka Bjerregaard, sanger og sangskriver. Forfatter til bogen &amp;#x22;Klump - en k&amp;#xE6;rlighedshistorie&amp;#x22;. 
+Tilrettel&amp;#xE6;ggelse: Maise Njor og Bettina Ohlsen. 
+Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:56:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/a59a32e799854535f99c8e203516530f2908b1743dc7d5d634f98a811aab229e" 
+                type="audio/x-m4a" 
+                length="27978499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/a5ad1aa9f434624b0df1de51f9ce9f023072730d6685df26e60adb0da76a468a" 
+                type="audio/x-m4a" 
+                length="82652595" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/aaad9431ba31b789eb755ac37e290a34923a206d430fbd3ac9a4de9fc2eb0041" 
+                type="audio/x-m4a" 
+                length="109989499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/bf9d389c0ab5d99eaa1eb2c6ec50ee1b9d598b84673d51ee2f6c4294585ebb64" 
+                type="audio/mpeg" 
+                length="27337223" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/75e3e33217162ec4a9ce25d5eddfe74661cffab5c0cca609f50d61eaa6cef410" 
+                type="audio/mpeg" 
+                length="82010759" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cd7937d2cab8c96fe5/4d554a8ab5bb759b4ff224b080bc868f34a719ce5eaa7c858e7afca678dbb8f3" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032428273</guid>
+            <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-2024/1-5-kaerlighed-vendt-paa-hovedet-11032428273</link>
+            <title>1:5 - K&amp;#xE6;rlighed vendt p&amp;#xE5; hovedet</title>
+            <description>Maise har elsket sin far l&amp;#xE6;ngere end noget andet levende menneske. Men hun v&amp;#xE9;d, at det ikke varer ved, og at noget allerede er v&amp;#xE6;k. For s&amp;#xE5;dan er det med demens. &amp;#x22;Nogle gange lader jeg som om jeg har ondt i kn&amp;#xE6;et. S&amp;#xE5; sm&amp;#xF8;rer han det ind i Voltaren, og det f&amp;#xF8;les som den omsorg, jeg fik, da jeg var barn.&amp;#x22; Den f&amp;#xF8;lelse kender skuespiller Iben Hjejle, og de to taler om, hvordan man bevarer k&amp;#xE6;rligheden til den, der er ved at forsvinde.  
+V&amp;#xE6;rt: Maise Njor. G&amp;#xE6;st: Iben Hjejle, datter af en far, der havde demens. Skuespiller. 
+Tilrettel&amp;#xE6;ggelse: Maise Njor og Bettina Ohlsen. Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.</description>
+            <pubDate>Tue, 25 Jun 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:57:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/79be781004b5560ba1759a31f46ae2cb8451afc6f890a600390e8eff31ac922c" 
+                type="audio/x-m4a" 
+                length="28010523" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/d6a232f88e57221ef5637bf975ca4b20a7c0feb1222e31225bd354636680a2f3" 
+                type="audio/x-m4a" 
+                length="82747023" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/2a97af33d05718697497e231ea79ec567c1cee36dde200cbf37a93c378f66ab8" 
+                type="audio/x-m4a" 
+                length="110115075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/fb1440ac013a9d4a73cf4bcdb0d2f708f58bc5640aa37a01be3e4facb93871f2" 
+                type="audio/mpeg" 
+                length="27368522" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/7a4e54b88b542f50573195ea030dfcb80d2e9ffc8d861d7d504e498d5567193b" 
+                type="audio/mpeg" 
+                length="82104650" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666172cc7937d2cab8c96fd5/a90157816ea449a7eca184677fa29b27de9679bb8374795de3c251a117ede053" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/droemmen-om-elvis.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Dr&amp;#xF8;mmen om Elvis (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/droemmen-om-elvis-6102831169000</link>
+        <description>Hvis han stadig levede, ville popmusikkens f&amp;#xF8;rste megastjerne v&amp;#xE6;re fyldt 90 i &amp;#xE5;r. N&amp;#xE6;sten et halvt &amp;#xE5;rhundrede efter hans d&amp;#xF8;d tiltr&amp;#xE6;kker Elvis stadig helt unge fans, som fascineres af hans musik, hans monumentale storhed og hans dybe fald. 
+Da Elvis bryder frem i midten af 1950&amp;#x27;erne, opfattes han som farlig. Med sine s&amp;#xE6;rlige bev&amp;#xE6;gelser og store stemme f&amp;#xE5;r han publikum til at hvine og skrige. Han bliver hurtigt en superstjerne, og der n&amp;#xE6;res et stort h&amp;#xE5;b til, at den rebelske sanger ogs&amp;#xE5; kan blive en samlende figur i det amerikanske samfund. &amp;#xC9;n, der kan forene den sorte og hvide del af befolkningen og den unge og &amp;#xE6;ldre generation. Det er en k&amp;#xE6;mpe opgave, men Elvis dr&amp;#xF8;mmer stort. 
+&amp;#x22;Dr&amp;#xF8;mmen om Elvis&amp;#x22; er en serie, der fort&amp;#xE6;ller om Elvis&amp;#x27; liv og hans musik, og unders&amp;#xF8;ger hvorfor han stadig kan ramme et ungt menneske i dag? Som nu 13-&amp;#xE5;rige S&amp;#xF8;lve og Thor, der netop har meldt sig ind i den officielle Elvis-fanklub i Randers. 
+
+Tilrettel&amp;#xE6;gger: Sara R&amp;#xF8;jkj&amp;#xE6;r Knudsen. 
+Redakt&amp;#xF8;rer: Hanne Barslund og Carsten Nielsen.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.11 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/droemmen-om-elvis.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/droemmen-om-elvis.jpg</url>
+            <title>Dr&amp;#xF8;mmen om Elvis (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/droemmen-om-elvis-6102831169000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/droemmen-om-elvis.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Musik</category>
+        <itunes:category text="Musik" />
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Kultur</category>
+        <itunes:category text="Kultur" />
+        <item>
+            <guid isPermaLink="false">11032406501</guid>
+            <link>https://www.dr.dk/lyd/p1/droemmen-om-elvis/droemmen-om-elvis-1/1-3-haabet-11032406501</link>
+            <title>1:3 - H&amp;#xE5;bet</title>
+            <description>Under indspilninger i Sun Studio i 1954 fortolker Elvis det gamle blues nummer &amp;#x22;That&amp;#x27;s All Right.&amp;#x22; Elvis&amp;#x27; version skaber store overskrifter: Rock&amp;#x27;n&amp;#x27;roll musikken var f&amp;#xF8;dt!
+S&amp;#xF8;lve er til fan-dag i Elvis-klubben p&amp;#xE5; Memphis Mansion i Randers. Her m&amp;#xF8;der hun for f&amp;#xF8;rste gang Thor, og de deler det &amp;#xF8;jeblik, hvor de blev ramt af Elvis&amp;#x27; musik med hinanden. 
+Medvirkende: 
+S&amp;#xF8;lve, 13 &amp;#xE5;r og Elvis-fan 
+Thor Eising, 13 &amp;#xE5;r og Elvis-fan
+Henrik Knudsen, pr&amp;#xE6;sident for den officielle Elvis-fanklub p&amp;#xE5; Memphis Mansion 
+Bertel Nygaard, professor i historie ved Aarhus Universitet og forfatter til &amp;#x22;Elvis i Danmark - 65 &amp;#xE5;rs popul&amp;#xE6;rkultur&amp;#x22;</description>
+            <pubDate>Wed, 08 Jan 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:46</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259e7/ed34e6d5271fec9c4ded57d7aecaf379dc3650b8b5cadf78470b26ec695f69e4" 
+                type="audio/x-m4a" 
+                length="16099839" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259e7/5dc005139c83acbf061aca2441423c656d4dbdf5818c2d532727525ab2770fa5" 
+                type="audio/x-m4a" 
+                length="47560539" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259e7/c74a1e208ed3c136d1cadbdbd8e79a61029c88d267757bb510aa0e0a414cc24d" 
+                type="audio/x-m4a" 
+                length="63290787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259e7/450ff114de4f66e4f4a0fb371462425df7c8f51caf6cfae4b0ee37afb6b65942" 
+                type="audio/mpeg" 
+                length="15730609" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259e7/4a6a9ca3abbd5af5e6df0afd17e46bf5274d9b55081c8b18958b3f6f2cf22cfe" 
+                type="audio/mpeg" 
+                length="47190961" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259e7/75bd6454d8cbeacf6647f6e2a12ac9f56bb57ed7d4f96738f946d151410fb3bf" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032406502</guid>
+            <link>https://www.dr.dk/lyd/p1/droemmen-om-elvis/droemmen-om-elvis-1/2-3-stjernen-11032406502</link>
+            <title>2:3 - Stjernen</title>
+            <description>Elvis&amp;#x27; passion for at synge begyndte i kirken, men hvordan kom han selv til at r&amp;#xF8;re en masse mennesker med sin stemme? 
+Thor og S&amp;#xF8;lve tager p&amp;#xE5; en afstikker fra fandagen og m&amp;#xF8;des med sangerinde og sangunderviser Anne Hjort, der vil g&amp;#xF8;re dem klogere p&amp;#xE5;, hvorfor Elvis&amp;#x27; stemme var s&amp;#xE5; s&amp;#xE6;rlig og kan give kuldegysninger at lytte til.  
+
+Medvirkende: 
+Thor Eising, 13 &amp;#xE5;r og Elvis-fan
+S&amp;#xF8;lve, 13 &amp;#xE5;r og Elvis-fan 
+Henrik Knudsen, pr&amp;#xE6;sident for den officielle Elvis-fanklub p&amp;#xE5; Memphis Mansion 
+Anne Hjort, sangerinde og sangunderviser 
+Bertel Nygaard, professor i historie ved Aarhus Universitet og forfatter til &amp;#x22;Elvis i Danmark - 65 &amp;#xE5;rs popul&amp;#xE6;rkultur&amp;#x22;</description>
+            <pubDate>Wed, 08 Jan 2025 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:37:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259ef/7b93d2d47b7a24339cf43776a0a4b19064230103f85d091725616a36acddfb90" 
+                type="audio/x-m4a" 
+                length="18192897" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259ef/f5bc36dfd0e82c03baa62c9ea4436e1c86279708fe7b9e1057fb4df3873293c7" 
+                type="audio/x-m4a" 
+                length="53743835" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259ef/444c1679f74cc952d3cb05c259cffec649007694d816ac96c63b7cbf468d7ee2" 
+                type="audio/x-m4a" 
+                length="71519297" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259ef/a0ca0a769b460555f127f744c49352b6833b8875eac6f52afc8e9c0b4fa1c07b" 
+                type="audio/mpeg" 
+                length="17775800" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259ef/77d778d33d7f6a9e9b5ee2d086249fa2e1d24d34be02441466870fef4a2eda64" 
+                type="audio/mpeg" 
+                length="53326520" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259ef/cdd0478d674c6c86b6ddcd26f7c7eaa7bcc40a72a6203e43c84fffd8838970f0" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032406503</guid>
+            <link>https://www.dr.dk/lyd/p1/droemmen-om-elvis/droemmen-om-elvis-1/3-3-elvis-for-evigt-11032406503</link>
+            <title>3:3 - Elvis for evigt</title>
+            <description>Elvis d&amp;#xF8;r pludseligt som 42-&amp;#xE5;rig i 1977. Nyheden kommer som et chok og rammer lige midt i en verdensomsp&amp;#xE6;ndende &amp;#xF8;konomisk og social nedtur. 
+S&amp;#xF8;lve og Thor ser en af Elvis&amp;#x27; sidste optr&amp;#xE6;dener, hvor han n&amp;#xE6;sten ikke er til at genkende. De forholder sig til hans alt for tidlige d&amp;#xF8;d og dr&amp;#xF8;mmer om en dag at st&amp;#xE5; ved hans grav p&amp;#xE5; Graceland i Memphis. 
+
+Thor Eising, 13 &amp;#xE5;r og Elvis-fan
+S&amp;#xF8;lve, 13 &amp;#xE5;r og Elvis-fan 
+Henrik Knudsen, pr&amp;#xE6;sident for den officielle Elvis-fanklub p&amp;#xE5; Memphis Mansion 
+Bertel Nygaard, professor i historie ved Aarhus Universitet og forfatter til &amp;#x22;Elvis i Danmark - 65 &amp;#xE5;rs popul&amp;#xE6;rkultur&amp;#x22;</description>
+            <pubDate>Wed, 08 Jan 2025 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259f3/06dd5c143d1c100e1afafdb61956bea731e7e71de2247dd5ad064e83c00e0a62" 
+                type="audio/x-m4a" 
+                length="12648749" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259f3/e552d80a8afafe850137b8dac34800ba735e3685a052956c8bf9073f07e3c22f" 
+                type="audio/x-m4a" 
+                length="37365275" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259f3/f03258485d199eba547d9f3a36178961d7efe2a2a91313ddde58b37685027a8f" 
+                type="audio/x-m4a" 
+                length="49723551" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259f3/0301cee77a5d7ea38944727b07a421fb3e251d04e182711373a543de97cbfba7" 
+                type="audio/mpeg" 
+                length="12358715" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259f3/c62dee4cf80075f57d308511ab322756e6cf89dcbfe1d5a6e9480e758c6eb660" 
+                type="audio/mpeg" 
+                length="37075259" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756e538303d3c41845259f3/67148122ae104961dae69f4d01e65e3e0e49d7f8de59ebf755abbd157f614adf" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

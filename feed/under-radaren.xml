@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/under-radaren.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Under Radaren (recycled)</title>
+        <link>https://www.dr.dk/lyd/p3/under-radaren-4957795255000</link>
+        <description>P3&amp;#x27;s podcast &amp;#x27;Under Radaren&amp;#x27; unders&amp;#xF8;ger alt det, der sker i skyggerne, lige for n&amp;#xE6;sen p&amp;#xE5; dig - under radaren.
+ 
+Har du et tip, vi skal unders&amp;#xF8;ge?
+Skriv fortroligt til os p&amp;#xE5; P3tip@proton.me
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.39.56 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/under-radaren.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/under-radaren.jpg</url>
+            <title>Under Radaren (recycled)</title>
+            <link>https://www.dr.dk/lyd/p3/under-radaren-4957795255000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/under-radaren.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Krimi</category>
+        <itunes:category text="Krimi" />
+        <item>
+            <guid isPermaLink="false">16122393741</guid>
+            <link>https://www.dr.dk/lyd/p3/piller-fra-helvede/piller-fra-helvede/1-3-piller-fra-helvede-en-eksplosion-i-hjernen-16122393741</link>
+            <title>1:3 - Piller fra helvede: En eksplosion i hjernen</title>
+            <description>I Ribe sidder 5 drenge, og om lidt tager de en pille, der kommer til at &amp;#xE6;ndre deres liv. Pillen ser uskyldig ud - faktisk kan du lovligt hente den p&amp;#xE5; apoteket med den rigtige recept i h&amp;#xE5;nden. Men i de forkerte h&amp;#xE6;nder, er den d&amp;#xF8;dsensfarlig. 
+
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Sille Ugelvig.
+Producer og klip: Luna Lam.
+Tilrettel&amp;#xE6;gger, lyddesign og musik: Mikkel R&amp;#xF8;nnau.
+Redakt&amp;#xF8;r: Rune Sparre Geertsen.
+DR redakt&amp;#xF8;r: Morten Narvedsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/d48697e51da7775f8a874794cf93a88f01bd7f4a206c4e52d1036c946cfb38c7" 
+                type="audio/x-m4a" 
+                length="9940162" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/b973fc42faf55ce2ae743b12629035cf120d41b92dfd68281210e3464c06dea2" 
+                type="audio/x-m4a" 
+                length="29360449" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/17d48daef9e308fbd47799aa35030ff15ff7bf98618e32dacbb43e0cd271b246" 
+                type="audio/x-m4a" 
+                length="39071081" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/21a28ed371202b23f7b1b24d7f805fa1567fb79db171ecb918aba10df50a5f28" 
+                type="audio/mpeg" 
+                length="9711222" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/b3933c9a1eeaadc620e757da32a96fce5ce2fcbe105208c389df10b95360da1d" 
+                type="audio/mpeg" 
+                length="29132790" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1209/3a9424caa38aef1166a28e625baa6a373cdd9679ef2150ca1712554d4b6d0ef3" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393742</guid>
+            <link>https://www.dr.dk/lyd/p3/piller-fra-helvede/piller-fra-helvede/2-3-piller-fra-helvede-det-foerste-doedsfald-16122393742</link>
+            <title>2:3 - Piller fra helvede: Det f&amp;#xF8;rste d&amp;#xF8;dsfald</title>
+            <description>Drengene finder ud af, at pillerne kan kurere t&amp;#xF8;mmerm&amp;#xE6;nd og fjerne tankemylder. Men der g&amp;#xE5;r ikke l&amp;#xE6;nge, f&amp;#xF8;r pillerne overtager deres liv. Og pludselig d&amp;#xF8;r en af deres t&amp;#xE6;tte venner af en overdosis.
+
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Sille Ugelvig.
+Producer og klip: Luna Lam.
+Tilrettel&amp;#xE6;gger, lyddesign og musik: Mikkel R&amp;#xF8;nnau.
+Redakt&amp;#xF8;r: Rune Sparre Geertsen.
+DR redakt&amp;#xF8;r: Morten Narvedsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:56</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/19daed4b38607a1a12b9384a0ee637cfc30864ad8407fd5c1cf13c2c4cf71fa0" 
+                type="audio/x-m4a" 
+                length="12747117" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/495b04326251b6200551aaf5cb4d4b5e5a5f0aaf9151ea8e45ba3045069fd9fc" 
+                type="audio/x-m4a" 
+                length="37653233" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/63df3b9fc69a1bb9a6d415aa6d6713beee4feffd94c89598051ec9aca414d7ef" 
+                type="audio/x-m4a" 
+                length="50106705" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/28df15b763014a5b45709fb7642a929df15957d5e91375694bbb36ba871b0c8d" 
+                type="audio/mpeg" 
+                length="12453949" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/8c15f976aaca295eb79d4b5a595c029ad75f52630829da8d6f27f3992e27bb88" 
+                type="audio/mpeg" 
+                length="37360957" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f120e/db29f56c2150cd96b7e783fa4079b84ea86d1509a7bc0e7204b87bcd180d813e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393743</guid>
+            <link>https://www.dr.dk/lyd/p3/piller-fra-helvede/piller-fra-helvede/3-3-piller-fra-helvede-det-sidste-skub-16122393743</link>
+            <title>3:3 - Piller fra helvede: Det sidste skub</title>
+            <description>Nicolaj v&amp;#xE5;gner p&amp;#xE5; gaden i Spanien uden sko p&amp;#xE5; og har mistet b&amp;#xE5;de taske og pas. Og lige s&amp;#xE5; langsomt g&amp;#xE5;r det op for ham og de andre drenge, at det m&amp;#xE5; stoppe, hvis de ikke skal d&amp;#xF8;. 
+
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Sille Ugelvig.
+Producer og klip: Luna Lam.
+Tilrettel&amp;#xE6;gger, lyddesign og musik: Mikkel R&amp;#xF8;nnau.
+Redakt&amp;#xF8;r: Rune Sparre Geertsen.
+DR redakt&amp;#xF8;r: Morten Narvedsen.
+Produceret for DR af MonoMono.</description>
+            <pubDate>Thu, 23 Nov 2023 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:19:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/cb9116905ffe60e91a2a0d31efd089dce4660bbf96e62d0c0df56d2055477e5c" 
+                type="audio/x-m4a" 
+                length="9793094" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/67486019c903c2238faebdb483ed8039548cc3b46d5b44a945d42e2aab306441" 
+                type="audio/x-m4a" 
+                length="28926465" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/c56f7cac7f83a89c7900830c88bf17898483b7ff55df3616586e6e7b43a9083a" 
+                type="audio/x-m4a" 
+                length="38493682" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/15451b59cee3d6ab7b14ca57b0a949a0f754d89b5961e7a3d4092d106b1aea59" 
+                type="audio/mpeg" 
+                length="9567611" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/40ee7b390a541ad7776cc74608e61f857bc4504bb708071f8a7eff97355c80d2" 
+                type="audio/mpeg" 
+                length="28701947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655cbd3499071798f81f1212/3c75bc0eb8d3776665d34118dd2e632c8317f09f64b5dbda4c08324c1bd1f3c9" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496711</guid>
+            <link>https://www.dr.dk/lyd/p3/et-farligt-match/et-farligt-match/1-3-et-farligt-match-fuck-han-er-flot-13332496711</link>
+            <title>1:3 - Et farligt match: Fuck, han er flot!</title>
+            <description>Radiov&amp;#xE6;rten Josefine Maria Konstantin Madsen - ogs&amp;#xE5; kendt som JoJo - sidder og swiper p&amp;#xE5; Tinder, da hun f&amp;#xE5;r et match. Manden ser b&amp;#xE5;de sp&amp;#xE6;ndende og flot ud, og hun har flere f&amp;#xE6;lles venner med ham p&amp;#xE5; Facebook.
+Han ligner det perfekte match.
+Men if&amp;#xF8;lge JoJo skal manden vise sig at have en skyggeside, der ligger meget langt fra den person, hun nu begynder at skrive med p&amp;#xE5; Tinder, og som hun inden l&amp;#xE6;nge beslutter sig for at tage p&amp;#xE5; date med.
+ 
+V&amp;#xE6;rt: Sille Ugelvig.
+Tilrettel&amp;#xE6;ggelse: Morten Narvedsen og Sille Ugelvig.
+Klip: Morten Narvedsen.
+Tema-musik og lyddesign: Malte Bothe Winther.
+Redakt&amp;#xF8;r: Emil Eusebius Olhoff-Jakobsen 
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.</description>
+            <pubDate>Tue, 25 Jun 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/136262063ecb10df1a349f1e35be69a817cf82378430abfe57a138cc9bf56516" 
+                type="audio/x-m4a" 
+                length="12155313" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/20025f407303132ea199ac8b6e94ade803bad57af58d7e20b1aa0dd2e34b8a10" 
+                type="audio/x-m4a" 
+                length="35907579" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/e655ba52ac329f58840af88076c390320ea92b469ac7641a75623b7b27dbf8d7" 
+                type="audio/x-m4a" 
+                length="47783661" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/c536a9404d86372f8702a94f085ad7ee3caeb7f516f9ef30631f0f2208d3f475" 
+                type="audio/mpeg" 
+                length="11876410" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/0779ba8fb5717d89db82e95c07558e398deb459ef61d0d6f8eb5f8bc5c855fa3" 
+                type="audio/mpeg" 
+                length="35628346" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98090/0d54d3bad5d5360e93158a9262e25ace8b69959c9193781d2438d19f8a08ced3" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496712</guid>
+            <link>https://www.dr.dk/lyd/p3/et-farligt-match/et-farligt-match/2-3-et-farligt-match-overarmene-13332496712</link>
+            <title>2:3 - Et farligt match: Overarmene</title>
+            <description>OBS: Denne episode indeholder beskrivelser af et seksuelt overgreb. 
+JoJo er sp&amp;#xE6;ndt. Hun er p&amp;#xE5; vej i en taxa hen til den mand, hun har skrevet med i m&amp;#xE5;nedsvis, og som hun er begyndt at blive &amp;#xE6;gte interesseret i.
+Ham her kunne det blive til noget med, t&amp;#xE6;nker hun.
+Men da JoJo tr&amp;#xE6;der ud af taxaen og ind i mandens lejlighed, &amp;#xE6;ndrer alt sig.
+ 
+V&amp;#xE6;rt: Sille Ugelvig.
+Tilrettel&amp;#xE6;ggelse: Morten Narvedsen og Sille Ugelvig.
+Klip: Morten Narvedsen.
+Tema-musik og lyddesign: Malte Bothe Winther.
+Redakt&amp;#xF8;r: Emil Eusebius Olhoff-Jakobsen.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.</description>
+            <pubDate>Tue, 25 Jun 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/6a68cb46711afad6ba37739a7154f50510ff13656885f5330c33c9629e8769a0" 
+                type="audio/x-m4a" 
+                length="15444660" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/6632050683d323d1f32294db690c35d7eceff164971f0d8f513f7889e715b2b8" 
+                type="audio/x-m4a" 
+                length="45625015" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/3b1fd3cfd69a06a5e115002553e1ce7449a9cea10d71a5569fa86943082a944e" 
+                type="audio/x-m4a" 
+                length="60715100" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/55a76281d1fde3b5cfad49b47224b710185719287dacc2d1eef89ce9e0783e7a" 
+                type="audio/mpeg" 
+                length="15090487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/1c27280f0c58fbf25bfd5454362159ce69b94a7b2677e1c1fff1d29fc1194020" 
+                type="audio/mpeg" 
+                length="45270583" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666176147937d2cab8c98095/0ef52229d4ed65bfd655c38d00c994438f9c2b187da04a5a9541926995aa6ad0" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496713</guid>
+            <link>https://www.dr.dk/lyd/p3/et-farligt-match/et-farligt-match/3-3-et-farligt-match-tvivlen-13332496713</link>
+            <title>3:3 - Et farligt match: Tvivlen</title>
+            <description>En uge efter episoden i mandens lejlighed, tikker der en besked ind p&amp;#xE5; JoJos telefon.
+En besked, der skal tvinge hende til at tage stilling til et sp&amp;#xF8;rgsm&amp;#xE5;l, hun p&amp;#xE5; ingen m&amp;#xE5;de kan overskue: om hun skal melde ham til politiet eller ej.
+
+V&amp;#xE6;rt: Sille Ugelvig.
+Tilrettel&amp;#xE6;ggelse: Morten Narvedsen og Sille Ugelvig.
+Klip: Morten Narvedsen.
+Tema-musik og lyddesign: Malte Bothe Winther.
+Redakt&amp;#xF8;r: Emil Eusebius Olhoff-Jakobsen.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.</description>
+            <pubDate>Tue, 25 Jun 2024 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:58</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/fb86991bee78c5649e21214cfcdc0b27af2f1165c1c3acbd883983d247f94a2c" 
+                type="audio/x-m4a" 
+                length="20132904" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/4eb136789a6d64382dd69cfd8028c36c4dc82eb976e272ec930dda2d8d682815" 
+                type="audio/x-m4a" 
+                length="59475191" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/95ada60aa7579dfa7a024f067f3498d028035dfe6f9a416fd69f1abe070a9a52" 
+                type="audio/x-m4a" 
+                length="79146136" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/4b570ae673251954045702a5ee2b3ca5bcb86d43f868a7a03abc97e628991d7b" 
+                type="audio/mpeg" 
+                length="19671223" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/6999f0f19ece1968fb653ea68aa11660cad42bb77acd3f1ecbbe6184e441eea7" 
+                type="audio/mpeg" 
+                length="59012791" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66617614266f037612aa563c/a030fcfda890282e43feba422f50b2ab4c2fd68ee4682a4c4f066dacdbc4167d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496701</guid>
+            <link>https://www.dr.dk/lyd/p3/seriestalker/seriestalker/1-6-seriestalker-forelskelsen-13332496701</link>
+            <title>1:6 - Seriestalker: Forelskelsen</title>
+            <description>Randi og Jonas indleder et forhold, og de bliver stormende forelskede i hinanden. Men Jonas gemmer p&amp;#xE5; en m&amp;#xF8;rk hemmelighed. Noget Randi f&amp;#xF8;rst opdager, da det er alt for sent.
+Jonas er et opdigtet navn. Redaktionen kender hans rigtige identitet.
+ 
+V&amp;#xE6;rt: Emil Eusebius Olhoff-Jakobsen.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen, Sille Ugelvig og Iben Antonsen.
+Lyddesign: Jonas Johs Andersen.
+Tema-musik: Malte Bothe Winther.
+Produktionsleder: Line Enggaard Fejer.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch.</description>
+            <pubDate>Tue, 14 Jan 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7fe563e3ef03f2d84f/47ab7747a27eca3b65a051359d9d8cc04f3dcf0d3c7d518e432db67b091ee73a" 
+                type="audio/x-m4a" 
+                length="13851879" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7fe563e3ef03f2d84f/0885a2e986e59c4725efc3c92c42f6894c517eed7b716d87ad4865aec96f4d74" 
+                type="audio/x-m4a" 
+                length="40919495" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7fe563e3ef03f2d84f/13bf29bbb6a832231a545fad3e146cb0f8bc76ef19bf038b90773cb6c14d793c" 
+                type="audio/x-m4a" 
+                length="54453303" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7fe563e3ef03f2d84f/f41f90cbf88be7d07837918833e59264d0fc4b03233ee1d7f3c9fe1f3aa876c4" 
+                type="audio/mpeg" 
+                length="13534134" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7fe563e3ef03f2d84f/ec3903fcf803c1da893dd4544e25205b7461fa922de214ad4daec159fc94e07c" 
+                type="audio/mpeg" 
+                length="40601526" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7fe563e3ef03f2d84f/fcf267dd71994f63159239266ea018986d4b4976979339bef4f51ac28d28cf35" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496702</guid>
+            <link>https://www.dr.dk/lyd/p3/seriestalker/seriestalker/2-6-seriestalker-to-ansigter-13332496702</link>
+            <title>2:6 - Seriestalker: To ansigter</title>
+            <description>I samme &amp;#xF8;jeblik Randi og Jonas flytter sammen, oplever Randi en helt anden og ondskabsfuld side af Jonas, der g&amp;#xF8;r hende bange. Det viser sig, at hun ikke er den eneste kvinde, der har f&amp;#xF8;lt sig fanget i et forhold med Jonas.
+
+V&amp;#xE6;rt: Emil Eusebius Olhoff-Jakobsen.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen, Sille Ugelvig og Iben Antonsen.
+Lyddesign: Jonas Johs Andersen.
+Tema-musik: Malte Bothe Winther.
+Produktionsleder: Line Enggaard Fejer.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch.</description>
+            <pubDate>Tue, 14 Jan 2025 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7d9a708d50ccdef91f/07ddb34f3d128da473649d191896669ee2cf7b719f041f0ce3e81cd4b333f2ab" 
+                type="audio/x-m4a" 
+                length="11844768" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7d9a708d50ccdef91f/05634a835c4d26cd83b69b3221e04d1ba22247341380508ccb522abfbc964de7" 
+                type="audio/x-m4a" 
+                length="34990131" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7d9a708d50ccdef91f/36f6a3d0a1b9b8f96c010d99eb3b38e2dcfe8bb0fcded9c68e5615d607cb6d7c" 
+                type="audio/x-m4a" 
+                length="46562716" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7d9a708d50ccdef91f/c6123c7b35fa3ca47f74165d8fbaeb2889b6111227ca0e1c5c1b7829b9edc467" 
+                type="audio/mpeg" 
+                length="11573044" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7d9a708d50ccdef91f/01a64c879167fb07ad48ef1ebe1e65a062f9dbbf26b76c1d8e635ef246545c2a" 
+                type="audio/mpeg" 
+                length="34718260" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7d9a708d50ccdef91f/48e01b60e68bc1404eb716227a0cd768d9e16f196ed2efa06db16de3893f69f0" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496703</guid>
+            <link>https://www.dr.dk/lyd/p3/seriestalker/seriestalker/3-6-seriestalker-noeglen-13332496703</link>
+            <title>3:6 - Seriestalker: N&amp;#xF8;glen</title>
+            <description>Selv om Randi nu bor alene, har Jonas aldrig v&amp;#xE6;ret mere til stede i hendes liv. Hun oplever, at han banker p&amp;#xE5; hendes d&amp;#xF8;r, kalder ind gennem brevspr&amp;#xE6;kken og bombarderer hende med opkald og beskeder. Randi m&amp;#xE5; l&amp;#xE6;gge en plan for at f&amp;#xE5; Jonas ud af sit liv, og det kr&amp;#xE6;ver en s&amp;#xE6;rlig n&amp;#xF8;gle.
+
+V&amp;#xE6;rt: Emil Eusebius Olhoff-Jakobsen.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen, Sille Ugelvig og Iben Antonsen.
+Lyddesign: Jonas Johs Andersen.
+Tema-musik: Malte Bothe Winther.
+Produktionsleder: Line Enggaard Fejer.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch.</description>
+            <pubDate>Tue, 14 Jan 2025 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:15</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7f9a708d50ccdef92f/101b63a483b79f2890b503c24660782314039cc929e6c31b7a31c7966c643d55" 
+                type="audio/x-m4a" 
+                length="13881909" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7f9a708d50ccdef92f/131d6d2f5c19ba843b447b023332f51d7bee2512b94f45dc1561f4141926a2d3" 
+                type="audio/x-m4a" 
+                length="41008307" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7f9a708d50ccdef92f/305ad226ff3cc4157287b20bbb5f20bdb7ab945275aae82f5cef124cd4862b0f" 
+                type="audio/x-m4a" 
+                length="54571325" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7f9a708d50ccdef92f/cb336998b3e522eb1b47370d74bbf22c82686fdd99d384bd6652a1ece42ba4ca" 
+                type="audio/mpeg" 
+                length="13563516" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7f9a708d50ccdef92f/15fecd517760be96b28681fa8efbd6ddfd743261834a3d1858f19fba61eec614" 
+                type="audio/mpeg" 
+                length="40689660" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7f9a708d50ccdef92f/218f29f236bb870881c0b1fe6b1bdd4c1a4d3e4e576f4deb4f5e20ec2a2077c6" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496704</guid>
+            <link>https://www.dr.dk/lyd/p3/seriestalker/seriestalker/4-6-seriestalker-vendepunktet-13332496704</link>
+            <title>4:6 - Seriestalker: Vendepunktet</title>
+            <description>Indtil nu har Randi fors&amp;#xF8;gt at h&amp;#xE5;ndtere sine problemer selv. Men under en g&amp;#xE5;tur med en veninde bryder Randi sammen, og snart melder hun Jonas til politiet. Men det f&amp;#xE5;r dog p&amp;#xE5; ingen m&amp;#xE5;de Jonas til at stoppe. Og s&amp;#xE5; modtager Randi en besked med et vedh&amp;#xE6;ftet billede, der stiller Randi i sit livs dilemma.
+
+V&amp;#xE6;rt: Emil Eusebius Olhoff-Jakobsen.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen, Sille Ugelvig og Iben Antonsen.
+Lyddesign: Jonas Johs Andersen. 
+Tema-musik: Malte Bothe Winther.
+Produktionsleder: Line Enggaard Fejer.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch.</description>
+            <pubDate>Tue, 14 Jan 2025 05.03.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:47</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7eeb44e1856483b688/69a04b54c31a81a7b6565731f65b2af00cd73ade180ea04a1e89ac00d472e4d9" 
+                type="audio/x-m4a" 
+                length="16111776" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7eeb44e1856483b688/c0d12171df0a5c9c758170a7caa8b40c782a4373a8ea862d9a5150cfbf6bd9fa" 
+                type="audio/x-m4a" 
+                length="47595675" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7eeb44e1856483b688/313f22642dac2048e87ca71b60681d6aa284c246583caa4baf930ca95310743c" 
+                type="audio/x-m4a" 
+                length="63337420" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7eeb44e1856483b688/a59bb78bbb8e994b33fca87a621ae5eb3fa77185c1a26f23b1a0bbdeb9771e36" 
+                type="audio/mpeg" 
+                length="15742336" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7eeb44e1856483b688/53df9cf9ac3dec9e964db6ec132cc2ae57b608d4af5a7750fe31fb891c63f499" 
+                type="audio/mpeg" 
+                length="47226112" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7eeb44e1856483b688/1bcc4d94926b350f112dbe496ed4898ce73930f3aed318bffaad3d62f8286d8d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496705</guid>
+            <link>https://www.dr.dk/lyd/p3/seriestalker/seriestalker/5-6-seriestalker-paa-flugt-13332496705</link>
+            <title>5:6 - Seriestalker: P&amp;#xE5; flugt</title>
+            <description>Selv om Jonas ligger i hospitalssengen, stopper han ikke med at kontakte Randi.
+Tv&amp;#xE6;rtimod. Jonas&amp;#x27; stalking g&amp;#xF8;r nu Randi s&amp;#xE5; bange, at hun tager en afg&amp;#xF8;rende beslutning om at flygte ud af Danmark i h&amp;#xE5;bet om, at Jonas vil give slip p&amp;#xE5; hende.
+Men kort f&amp;#xF8;r Randi skal rejse tilbage til Danmark, er der pludselig lyd fra Jonas igen.
+Hvad kommer Randi hjem til?
+
+V&amp;#xE6;rt: Emil Eusebius Olhoff-Jakobsen.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen, Sille Ugelvig og Iben Antonsen.
+Lyddesign: Jonas Johs Andersen.  
+Tema-musik: Malte Bothe Winther.
+Produktionsleder: Line Enggaard Fejer.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch.</description>
+            <pubDate>Tue, 14 Jan 2025 05.04.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7ee563e3ef03f2d849/3745860f0a1f5c3f3156fb6e05a873fa8af869eebc38b252ac1759d5db14ba72" 
+                type="audio/x-m4a" 
+                length="12626179" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7ee563e3ef03f2d849/fc04c13fcaf2fbbf979329959f48b416a7e4f3c8d3804d7746afc54654423929" 
+                type="audio/x-m4a" 
+                length="37298699" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7ee563e3ef03f2d849/d4560a803bcd3e0fa6b7afeac3be00776f8e1e22cd8d68d60cf0818482a0e0bc" 
+                type="audio/x-m4a" 
+                length="49634959" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7ee563e3ef03f2d849/25bfaaf47ae2dbf89ea30501caac83a54b97e09785662a8be4c3541818919a88" 
+                type="audio/mpeg" 
+                length="12336632" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7ee563e3ef03f2d849/0acd139fb737c26331c1ca1fa02c2aba39be08e7faeefa3c2e2c4582ec316d96" 
+                type="audio/mpeg" 
+                length="37009016" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7ee563e3ef03f2d849/70e37e92b27c0a13de2b11dc40eafcb9cfbcd2749765149e6f582330dbe56287" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332496706</guid>
+            <link>https://www.dr.dk/lyd/p3/seriestalker/seriestalker/6-6-seriestalker-kampen-for-fred-13332496706</link>
+            <title>6:6 - Seriestalker: Kampen for fred</title>
+            <description>Randi vender tilbage til Danmark. Nu st&amp;#xE5;r Randi overfor sit livs st&amp;#xF8;rste kamp. En kamp for at f&amp;#xE5; kontrollen over sit eget liv tilbage. Men kan det lade sig g&amp;#xF8;re?
+
+V&amp;#xE6;rt: Emil Eusebius Olhoff-Jakobsen.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen, Sille Ugelvig og Iben Antonsen.
+Lyddesign: Jonas Johs Andersen.
+Tema-musik: Malte Bothe Winther.
+Produktionsleder: Line Enggaard Fejer.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch.</description>
+            <pubDate>Tue, 14 Jan 2025 05.05.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:21:58</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7e9a708d50ccdef927/1874e6280a00ac74aa22f50d285bfd7ebd2bcdd0d3c739d1fb471f6e01fab4ac" 
+                type="audio/x-m4a" 
+                length="10793421" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7e9a708d50ccdef927/16c74e2c7fadc213b5f785c39ce1f6f6eb26877f5e403e02d2cc8074cfe7a0af" 
+                type="audio/x-m4a" 
+                length="31884231" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7e9a708d50ccdef927/9347f6efb10ba6191a2b0360775f3e5edf540476b6c124c802f5db1792c87b6b" 
+                type="audio/x-m4a" 
+                length="42429665" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7e9a708d50ccdef927/1284d91c4693ea38bcec67bbae0ada3248e5d221d23cf26591eb49cf1cb4d07c" 
+                type="audio/mpeg" 
+                length="10545655" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7e9a708d50ccdef927/0f4c0ea2834fd66c61fc561bb3e01d4d9fab24a32d5e1fcb7144843930616109" 
+                type="audio/mpeg" 
+                length="31636087" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67600f7e9a708d50ccdef927/10579ce5739835116241b168cd8a2cbcf3c9bc034668d0881871ed661323f372" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596701</guid>
+            <link>https://www.dr.dk/lyd/p3/roskilde-tragedien/roskilde-tragedien-4/1-4-roskilde-tragedien-hullet-13332596701</link>
+            <title>1:4 - Roskilde-tragedien: Hullet</title>
+            <description>Tor er 20 &amp;#xE5;r. Han er k&amp;#xE6;mpe Pearl Jam-fan og skal st&amp;#xE5; helt oppe forrest, n&amp;#xE5;r de spiller k&amp;#xE6;mpehittet &amp;#x22;Alive&amp;#x22;. Men der er noget i luften den aften p&amp;#xE5; Orange Scene. Koncerten er mere intens, end han nogensinde har oplevet f&amp;#xF8;r. Og pludselig g&amp;#xE5;r det galt. Han v&amp;#xE6;lter. Sammen med 40-50 andre. Og s&amp;#xE5; starter en kamp om liv og d&amp;#xF8;d.
+OBS! Der kan forekomme voldsomme beskrivelser.
+
+V&amp;#xE6;rt: Bo Norstr&amp;#xF6;m Weile.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen og Bo Norstr&amp;#xF6;m Weile.
+Lyddesign: Malte Winther Bothe.
+Produktionsleder: Maja Rathmann M&amp;#xF8;lbak.
+Redakt&amp;#xF8;rer: Emil Eusebius Olhoff-Jakobsen og Jakob Rasmussen.
+Redaktionsleder: Anders Stegger.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch og Mads Bj&amp;#xF8;rn Lundsgaard.</description>
+            <pubDate>Tue, 24 Jun 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3927b65b9c231546cbe/5f6f1f7f68202b468cbcdbf263014ecfa7e1ccb11aedcb2a1a5de564b5bac09a" 
+                type="audio/x-m4a" 
+                length="12156349" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3927b65b9c231546cbe/08224fe49d4d168662d25c3379adab26110e307b1cb4eb5ca2887999fa014d97" 
+                type="audio/x-m4a" 
+                length="35910663" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3927b65b9c231546cbe/b3db4f616b50bf89a1ef9e365a9bd204ea65129552071af61de0bc4f3083c9fe" 
+                type="audio/x-m4a" 
+                length="47787829" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3927b65b9c231546cbe/8a9f5c033a361cadf4d7b2e1d84552c0fd53c2bc08e460ed29c88c5151fa92e2" 
+                type="audio/mpeg" 
+                length="11877561" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3927b65b9c231546cbe/f24365056c35c16c51142855f3bc879e258fca84a76765815959335b0d40e192" 
+                type="audio/mpeg" 
+                length="35631801" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3927b65b9c231546cbe/0835d113424b1ef00d12b814bf32e61716bec080ee29d57895673b02e0379332" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596702</guid>
+            <link>https://www.dr.dk/lyd/p3/roskilde-tragedien/roskilde-tragedien-4/2-4-roskilde-tragedien-frontbuen-13332596702</link>
+            <title>2:4 - Roskilde-tragedien: Frontbuen</title>
+            <description>De frivillige sikkerhedsvagter i orange veste, der st&amp;#xE5;r i frontbuen mellem scenen og publikum, kan se det kraftige metalhegn give sig. Presset fra de 55.000 publikummer foran Orange Scene er enormt. Pludselig opdager vagterne et hul i publikum. Der er noget helt galt. De kan se panikken brede sig i publikum og sl&amp;#xE5;r alarm. Men ingen h&amp;#xF8;rer deres n&amp;#xF8;dr&amp;#xE5;b. Og herfra tikker livsvigtige sekunder.
+OBS! Der kan forekomme voldsomme beskrivelser.
+
+V&amp;#xE6;rt: Bo Norstr&amp;#xF6;m Weile.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen og Bo Norstr&amp;#xF6;m Weile.
+Lyddesign: Malte Winther Bothe.
+Produktionsleder: Maja Rathmann M&amp;#xF8;lbak.
+Redakt&amp;#xF8;rer: Emil Eusebius Olhoff-Jakobsen og Jakob Rasmussen.
+Redaktionsleder: Anders Stegger.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch og Mads Bj&amp;#xF8;rn Lundsgaard.</description>
+            <pubDate>Tue, 24 Jun 2025 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:28</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3b09b0d242d0fc387e4/2f1d07feb4ec81224c51bf44e1d916dac51c31b3ff14912689fa6b6ae2293fe7" 
+                type="audio/x-m4a" 
+                length="14974255" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3b09b0d242d0fc387e4/e6f0163ef1b8a2bad4d714d644eae32083ad9c9c633fe6a3a3111dfcecf57937" 
+                type="audio/x-m4a" 
+                length="44235383" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3b09b0d242d0fc387e4/c5de61ddddc658674c01dfbef6d07ba87cc5dc59379f505e11ceb87d76028be9" 
+                type="audio/x-m4a" 
+                length="58865983" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3b09b0d242d0fc387e4/579417bc93244691ca6ab87906466281e9b348d52b739c1510e8a188f7c58999" 
+                type="audio/mpeg" 
+                length="14630837" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3b09b0d242d0fc387e4/9482f2df2da318c747d906e0592141a689cc93b95aad1ad3f114da902d307e96" 
+                type="audio/mpeg" 
+                length="43891637" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3b09b0d242d0fc387e4/e9e13d8494229700d953c351d6d9b8c4c989949e628abec6d976a8f7952d4626" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596703</guid>
+            <link>https://www.dr.dk/lyd/p3/roskilde-tragedien/roskilde-tragedien-4/3-4-roskilde-tragedien-kampen-om-sandheden-13332596703</link>
+            <title>3:4 - Roskilde-tragedien: Kampen om sandheden</title>
+            <description>Det er ikke mere end en time siden, de frivillige vagter ydede f&amp;#xF8;rstehj&amp;#xE6;lp for at redde de livl&amp;#xF8;se publikummer, der blev b&amp;#xE5;ret ind i frontbuen. De er dybt rystede og udmattede. Men nu f&amp;#xE5;r de at vide, at festivalen forts&amp;#xE6;tter, og at de ikke m&amp;#xE5; sige noget til pressen, om det der er sket. Uden at h&amp;#xF8;re, hvordan vagterne, der jo stod midt i kaosset, oplevede det, g&amp;#xE5;r ledelsen af festivalen i medierne med deres - if&amp;#xF8;lge vagterne - sminkede version af historien.
+
+V&amp;#xE6;rt: Bo Norstr&amp;#xF6;m Weile.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen og Bo Norstr&amp;#xF6;m Weile.
+Lyddesign: Malte Winther Bothe.
+Produktionsleder: Maja Rathmann M&amp;#xF8;lbak.
+Redakt&amp;#xF8;rer: Emil Eusebius Olhoff-Jakobsen og Jakob Rasmussen.
+Redaktionsleder: Anders Stegger.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch og Mads Bj&amp;#xF8;rn Lundsgaard.</description>
+            <pubDate>Tue, 24 Jun 2025 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad39291259fc7e5efd8b0/666f59c202163e5ba828c90424ada55897666e453570395c1f966021c9b11edc" 
+                type="audio/x-m4a" 
+                length="14826336" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad39291259fc7e5efd8b0/db61e79a86f8b7e03680c98df7596bfe33297f7ffcbe76f5a1d29e3aaf96ca77" 
+                type="audio/x-m4a" 
+                length="43798283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad39291259fc7e5efd8b0/88888a6d8aaee33d0f078ff2df72d4a7f7550a0dee68ed6eea43df9249023121" 
+                type="audio/x-m4a" 
+                length="58284292" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad39291259fc7e5efd8b0/a6aa89fec2f03289d8c413e8fb353857905962fc8ff9cea45849e9609f3e4934" 
+                type="audio/mpeg" 
+                length="14486267" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad39291259fc7e5efd8b0/b2859d06ad8dd8f0f9f3fdb50d868eaa5ddc4465d052d8ad131f8b69d126af5b" 
+                type="audio/mpeg" 
+                length="43457915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad39291259fc7e5efd8b0/f0db5f029fdc59f50a66055d111189235fd87a7276853c9ac5245b354fa95e1b" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596704</guid>
+            <link>https://www.dr.dk/lyd/p3/roskilde-tragedien/roskilde-tragedien-4/4-4-roskilde-tragedien-alive-13332596704</link>
+            <title>4:4 - Roskilde-tragedien: Alive</title>
+            <description>Som en m&amp;#xF8;rk skygge over Roskilde Festival og alle, der var der i &amp;#xE5;r 2000, h&amp;#xE6;nger der en frygtelig f&amp;#xF8;lelse af skyld. Hvorfor skulle ni unge, raske m&amp;#xE6;nd d&amp;#xF8;? Det er den f&amp;#xF8;lelse af skam, skyld og d&amp;#xE5;rlig samvittighed, der har sat sig i alle de involverede: Fordi ingen rent strafferetligt kunne drages til ansvar for ulykken. Og jo t&amp;#xE6;ttere p&amp;#xE5; epicentret af ulykken; jo mere fylder den skyld.
+
+V&amp;#xE6;rt: Bo Norstr&amp;#xF6;m Weile.
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen og Bo Norstr&amp;#xF6;m Weile.
+Lyddesign: Malte Winther Bothe.
+Produktionsleder: Maja Rathmann M&amp;#xF8;lbak.
+Redakt&amp;#xF8;rer: Emil Eusebius Olhoff-Jakobsen og Jakob Rasmussen.
+Redaktionsleder: Anders Stegger.
+Programansvarlig: Isabella Hindkj&amp;#xE6;r.
+Redaktion: Victoria Breitenbauch og Mads Bj&amp;#xF8;rn Lundsgaard.</description>
+            <pubDate>Tue, 24 Jun 2025 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3889b0d242d0fc3865e/2b699ae5de005edf7fd314c6c4e695c770430000bcd31c7be99179c60cf6055f" 
+                type="audio/x-m4a" 
+                length="13920848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3889b0d242d0fc3865e/eb2c2956a343562d567c1f903941482d6b64c3cd190edec1fac69bf9be54b912" 
+                type="audio/x-m4a" 
+                length="41123315" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3889b0d242d0fc3865e/70bdb407e1b26dcfbf7f739ce6d6571e24aab4286bf95b5e04444f582cf3346e" 
+                type="audio/x-m4a" 
+                length="54724572" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3889b0d242d0fc3865e/86c720e43398a6613d689c1f42fc843258aa2b00e50c03f8fa964e9ae06d0c0f" 
+                type="audio/mpeg" 
+                length="13601528" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3889b0d242d0fc3865e/8d93e402f97fbaeb6c24c90ca05a4fa1feece47eefedd2e4ad51b7369408999f" 
+                type="audio/mpeg" 
+                length="40803704" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ad3889b0d242d0fc3865e/8a554596f5a0021a14216993ba5a581c996a09afd5c5097ac18d761cdddfd8dc" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596721</guid>
+            <link>https://www.dr.dk/lyd/p3/de-usynlige-lister/de-usynlige-lister-5/1-3-de-usynlige-lister-thomas-13332596721</link>
+            <title>1:3 - De usynlige lister: Thomas</title>
+            <description>Thomas er i l&amp;#xE6;re som t&amp;#xF8;mrer. Men hans dr&amp;#xF8;m om at l&amp;#xE6;re at bygge sit eget hus, bliver forvandlet til et mareridt, da Thomas&amp;#x27; mester overskrider hans gr&amp;#xE6;nse. Thomas vil ud af sin kontrakt, men fordi han selv skal bevise, hvad han er udsat for, griber han til modige midler.</description>
+            <pubDate>Wed, 22 Oct 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:23:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8fff0df10db2ff71b0c61/8f8da200444ae1a84c57e35984561ff310443280fe07b281227032a78cb8ba3b" 
+                type="audio/x-m4a" 
+                length="11581156" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8fff0df10db2ff71b0c61/a9f78b9aea4b29925e6afe74ceb31c38d770a97a938edf56f3fb3ceb053cb8e2" 
+                type="audio/x-m4a" 
+                length="34211483" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8fff0df10db2ff71b0c61/de3f00562936ed4c3e8e37f55e138a135eb330b381454dfb53ffd4661df876ab" 
+                type="audio/x-m4a" 
+                length="45526580" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8fff0df10db2ff71b0c61/0a4f38cac8e847bd819a6befa792673fc2a7773bbf7c561238d34698e535ea26" 
+                type="audio/mpeg" 
+                length="11315574" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8fff0df10db2ff71b0c61/efea4ecb58df59c3db60153a6dbd7a4182cfb2f0f7341395dcd86b6d89f48b8f" 
+                type="audio/mpeg" 
+                length="33945846" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8fff0df10db2ff71b0c61/803b9f9e172d4f22adb911addd2b8b0df1f07eb3e3c61c039a78a9f114cc80f5" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596722</guid>
+            <link>https://www.dr.dk/lyd/p3/de-usynlige-lister/de-usynlige-lister-5/2-3-de-usynlige-lister-sofie-13332596722</link>
+            <title>2:3 - De usynlige lister: Sofie</title>
+            <description>Sofie er bare 17 &amp;#xE5;r, da hun flytter hjemmefra for at starte som t&amp;#xF8;mrerl&amp;#xE6;rling. Men i l&amp;#xF8;bet af den f&amp;#xF8;rste uge, bliver hun kaldt &amp;#x22;s&amp;#xE6;k&amp;#x22;, &amp;#x22;k&amp;#xE6;lling&amp;#x22; og &amp;#x22;kost&amp;#x22;. Og det er bare begyndelsen. Men da Sofie tager kampen op for at komme ud af kontrakten, viser det sig at v&amp;#xE6;re en lang og slidsom proces.</description>
+            <pubDate>Wed, 22 Oct 2025 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffef4f0602d2fe44ba4b/50744c26c46f355f51866f940dabd076840e4ba6090a33a4f9a21d12bc79a90a" 
+                type="audio/x-m4a" 
+                length="14023207" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffef4f0602d2fe44ba4b/ccbacebde478b7b323ff3930865e5ce736b3c81dcda3c16d30dad77ba4edda01" 
+                type="audio/x-m4a" 
+                length="41425791" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffef4f0602d2fe44ba4b/23de364ddb730e24d7b5d716f1af384a3419455338e99ed161e0ae5951404e64" 
+                type="audio/x-m4a" 
+                length="55126987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffef4f0602d2fe44ba4b/4f50dc82299a7c60677d66df2c6c43090b35d8798c049b00fd93ddb62f187bab" 
+                type="audio/mpeg" 
+                length="13701556" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffef4f0602d2fe44ba4b/7c2ce03d251f10163721b452ac11b46c7f9a86f4cd2da2f8fbb2dfb8b92eb65f" 
+                type="audio/mpeg" 
+                length="41103796" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffef4f0602d2fe44ba4b/91a0d67b29800e578251c3cbd488c742f9dabbd8d6b3d1753d8ef8ec4f99d659" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596723</guid>
+            <link>https://www.dr.dk/lyd/p3/de-usynlige-lister/de-usynlige-lister-5/3-3-de-usynlige-lister-kasper-13332596723</link>
+            <title>3:3 - De usynlige lister: Kasper</title>
+            <description>Kasper starter som murerl&amp;#xE6;rling med en enkel dr&amp;#xF8;m: at bygge noget, der best&amp;#xE5;r. Men i dag sidder han tilbage med en sv&amp;#xE6;r depression og PTSD efter fire &amp;#xE5;r med psykiske og fysiske overfald i sin l&amp;#xE6;retid. Mens hans arbejdsskadesag stadig k&amp;#xF8;rer, unders&amp;#xF8;ger Under Radaren, hvorfor en virksomhed med s&amp;#xE5; alvorlige anklager fortsat kan have l&amp;#xE6;rlinge?</description>
+            <pubDate>Wed, 22 Oct 2025 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffefc50975c46a26750b/977e3d6b879dc0b5c15506752bd6393d6451eade06dc3a551738cccc23423281" 
+                type="audio/x-m4a" 
+                length="12345351" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffefc50975c46a26750b/4d3aa3dee48b356e0754e4d27728e943484d66f587727ba55630fa195e841bbf" 
+                type="audio/x-m4a" 
+                length="36468979" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffefc50975c46a26750b/8b1cec1d1947a9b0aaed5e80798f356697f94342e5167aa7ba80a1a32a66e325" 
+                type="audio/x-m4a" 
+                length="48530807" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffefc50975c46a26750b/26d93e0e5f5101787142160c6c8d289773e8986b1735fa032bb769ad687f307d" 
+                type="audio/mpeg" 
+                length="12062269" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffefc50975c46a26750b/8dd59c589d556c7d8d793c85555d5c3872a3498622d4a2009c292c7c541a07c0" 
+                type="audio/mpeg" 
+                length="36185917" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e8ffefc50975c46a26750b/3c5a332b59ab014d021493085f1ed16d171a16aa256bd9ae95ff2341ef127d8e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

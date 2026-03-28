@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/vidnesbyrd-sexisme-i-musikbranchen.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Vidnesbyrd - Sexisme i musikbranchen (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen-5201941906000</link>
+        <description>I et musikstudie st&amp;#xE5;r en kvindelig musiker midt i indspilningen af en ny sang. Pludselig stopper produceren musikken og siger til kvinden, at hun skal vise sine bryster. Ellers kan de ikke forts&amp;#xE6;tte.
+I denne podcastserie st&amp;#xE5;r en r&amp;#xE6;kke prominente og yngre kvindelige musikere frem og fort&amp;#xE6;ller om den sexisme, som de mener gennemsyrer musikbranchen.
+Igennem en r&amp;#xE6;kke konkrete vidnesbyrd fort&amp;#xE6;ller kvinderne, hvordan sexisme har p&amp;#xE5;virket deres liv og karriere i en af de mest prestigefyldte, kunstneriske brancher.
+
+Tilrettel&amp;#xE6;ggelse: Jakob Rasmussen.
+Research: Line Ritz, Sandra Haugaard og Ole Tornbjerg.
+Musik og lyddesign: Malte Winter Bothe.
+Redaktion: Signe Mandsdotter, Merle Baer&amp;#xE9;, Sarah Breilev Vinther og Fadumo Mahamed Abdalla.
+Redakt&amp;#xF8;r: Troels Kingo og Jens Vithner.
+
+Har du en historie vi skal unders&amp;#xF8;ge? Skriv til drundersoeger@proton.me
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.08 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/vidnesbyrd-sexisme-i-musikbranchen.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/vidnesbyrd-sexisme-i-musikbranchen.jpg</url>
+            <title>Vidnesbyrd - Sexisme i musikbranchen (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen-5201941906000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/vidnesbyrd-sexisme-i-musikbranchen.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Krimi</category>
+        <itunes:category text="Krimi" />
+        <category>Kultur</category>
+        <itunes:category text="Kultur" />
+        <item>
+            <guid isPermaLink="false">11802452002</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen/vidnesbyrd-sexisme-i-musikbranchen-1/1-4-en-uheldig-begyndelse-11802452002</link>
+            <title>1:4 - En uheldig begyndelse</title>
+            <description>En r&amp;#xE6;kke kvindelige musikere st&amp;#xE5;r nu frem og fort&amp;#xE6;ller om deres oplevelser med sexisme i musikbranchen. Men flere af dem er bange for, at deres konkrete vidnesbyrd om sexisme i musikbranchen, vil ende med at f&amp;#xE5; konsekvenser for deres fremtidige karriere.</description>
+            <pubDate>Mon, 10 Jun 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:23:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/06fdb6a99368994d9d016cc763e1f9641c099237e74e5ab73603e4bb5e4ea0f2" 
+                type="audio/x-m4a" 
+                length="11380663" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/7b71f16322385aaf02c1f791d76fcb07c065ec1e2ee3f0523a5b11aa80e7d234" 
+                type="audio/x-m4a" 
+                length="33619087" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/f29fcdac5e9246e8087df397272c441148c714b8b66401d28f364fe8cbd05757" 
+                type="audio/x-m4a" 
+                length="44738331" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/4b54a999a824dfb733f71729b093dfc38e1301bfe8ab347f8b36dc60379c6e05" 
+                type="audio/mpeg" 
+                length="11119752" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/4afbce14e92cd274a2c75df4796ec75abe47006aa7fa7206736203f3efa89766" 
+                type="audio/mpeg" 
+                length="33358344" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66558350562f0a2982bc3d9b/8f971aea1612ac9730b75a7a439d5c4f41ec4d4e967f2380eaeee6fe55ce308f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802452003</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen/vidnesbyrd-sexisme-i-musikbranchen-1/2-4-gammel-nok-til-at-vaere-min-far-11802452003</link>
+            <title>2:4 - Gammel nok til at v&amp;#xE6;re min far</title>
+            <description>En r&amp;#xE6;kke kvinder deler deres fort&amp;#xE6;llinger om den samme mandlige artist. Et forhold til en 16-&amp;#xE5;rig kollega, u&amp;#xF8;nskede h&amp;#xE6;nder p&amp;#xE5; brysterne og seksualiserede beskeder har nu f&amp;#xE5;et dem til at tr&amp;#xE6;de frem med deres historier.</description>
+            <pubDate>Mon, 17 Jun 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:42:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/d02f63d89a0929c596fb7fdb4b6a808c9457f07c48443893c97546745f691cd5" 
+                type="audio/x-m4a" 
+                length="20659763" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/ef4620ef62c4ab84dff4440e62d53ebe458fb3d86c3f312efad3c65c8e8978ef" 
+                type="audio/x-m4a" 
+                length="61031295" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/01a0fb9fcf39b76047608610f8a1f1effe46f588f96a7c6fd5430023ec7e8110" 
+                type="audio/x-m4a" 
+                length="81217203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/13240b259809a2505aba28beeec14062d51db881c9c966c09a426e7f88979938" 
+                type="audio/mpeg" 
+                length="20186151" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/05ce0dde02bdf8d20f2a94fd15dad9f925868e9c4b76b51c1012b6a99a060631" 
+                type="audio/mpeg" 
+                length="60557607" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834fbe7905fb09c8e2b6/06dab91de6fbfe169be37bffac9d39472b96c45f884390cbe96c94f8161eae2a" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802452004</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen/vidnesbyrd-sexisme-i-musikbranchen-1/3-4-sexisme-paa-toppen-11802452004</link>
+            <title>3:4 - Sexisme p&amp;#xE5; Toppen</title>
+            <description>En laksko glider ind under kjolen p&amp;#xE5; en sangerinde kort f&amp;#xF8;r hun g&amp;#xE5;r ind p&amp;#xE5; scenen. &amp;#x22;Det er s&amp;#xE5; jeg kan se op&amp;#x22; siger et mandligt bandmedlem. Og hun er ikke den eneste deltager, der har oplevet et sexistisk milj&amp;#xF8; p&amp;#xE5; TV2 musikprogram Toppen af Poppen.</description>
+            <pubDate>Mon, 24 Jun 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:52</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/22870f49127be829727d9f736c093f17af31962bb4d9da2ed7547d03d11881f5" 
+                type="audio/x-m4a" 
+                length="17627140" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/d1c981ac1b2c30a887ed417c4e0dfd94e365b89b2f5f29e1a419a78cf5669d5b" 
+                type="audio/x-m4a" 
+                length="52072471" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/6833e1018c40cea922863d94c74091eb93553ce0d7dc75747606af5cfd08516f" 
+                type="audio/x-m4a" 
+                length="69295116" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/53809b74ed6fa45987a517d957e456be0a8b542e4d040447ff93a7b33dc00db1" 
+                type="audio/mpeg" 
+                length="17223044" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/98336b6e8ac347df5fa8b182c258b1bec65d236fb3aa626c0e5c40709039414b" 
+                type="audio/mpeg" 
+                length="51668228" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f385dfedb00eae2a5/39a569d81ab21ffb4a95f9104f5d3152eb4f650a79ce6c4d119e25e9687429b4" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802452005</guid>
+            <link>https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen/vidnesbyrd-sexisme-i-musikbranchen-1/4-4-det-feminine-element-11802452005</link>
+            <title>4:4 - Det feminine element</title>
+            <description>P&amp;#xE5; forsiden af et stort musikmagasin, sidder en kvindelig musiker n&amp;#xF8;gen. Men hvad har det egentlig med musikken at g&amp;#xF8;re, sp&amp;#xF8;rger hun sig selv i dag? Det er godt at v&amp;#xE6;re fuckable, hvis du vil til tops i dansk musik konkluderer hun efter to &amp;#xE5;rtier i branchen. Det vil hun og andre gerne g&amp;#xF8;re op med i dag.</description>
+            <pubDate>Mon, 01 Jul 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:10</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/c6405db532857f04e33f2e4714cd567a8d919f5b6e3a082cd1e9b6222e09cec1" 
+                type="audio/x-m4a" 
+                length="13354952" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/71caab5f4f1149da49724a233e20a6aae4b2fee19269267bda9efc9e3b3c22d6" 
+                type="audio/x-m4a" 
+                length="39451483" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/527dd2ccd0380f19e9e81acf82cd14aec6f2803c9bf012522573af9a45c8347a" 
+                type="audio/x-m4a" 
+                length="52499812" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/448ac12bbb8ed1eaa8d1a912fbcf17d5667eaf267ee3bfe8a156fac8e1b7b8e4" 
+                type="audio/mpeg" 
+                length="13048778" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/c071d44c18162080945837f67c151d2a829bedca65f731f477a166185fd19b64" 
+                type="audio/mpeg" 
+                length="39145418" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6655834f562f0a2982bc3d96/87fcfffd731ddb3b15040db0a53c329b69bbab20f486b325e0294970f3e4d434" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

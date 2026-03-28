@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/soester-elsker-elsker-ikke.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>S&amp;#xF8;ster - elsker, elsker ikke (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke-4675122971000</link>
+        <description>Den prisbel&amp;#xF8;nnede forfatter Merete Pryds Helle har altid f&amp;#xF8;lt, at hun stod i skyggen af sin ber&amp;#xF8;mte stores&amp;#xF8;ster - at det var s&amp;#xF8;steren Jannie, der fik al opm&amp;#xE6;rksomheden. Den f&amp;#xF8;lelse har siddet dybt i Merete siden barndommen, men hun har brug for at udfordre den. Derfor g&amp;#xF8;r hun nu det, hun er bedst til: Hun skriver. Skriver om deres liv sammen. Og hun ops&amp;#xF8;ger mennesker, der enten kendte dem begge eller har psykologisk indsigt:
+&amp;#x22;Man skal jo elske sine s&amp;#xF8;skende. Men jeg elskede ikke min s&amp;#xF8;ster!&amp;#x22;
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.39.52 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/soester-elsker-elsker-ikke.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/soester-elsker-elsker-ikke.jpg</url>
+            <title>S&amp;#xF8;ster - elsker, elsker ikke (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke-4675122971000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/soester-elsker-elsker-ikke.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Tro og eksistens</category>
+        <itunes:category text="Tro og eksistens" />
+        <item>
+            <guid isPermaLink="false">11032306101</guid>
+            <link>https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke/soester-elsker-elsker-ikke-1/1-4-stjernen-og-stoevbunken-11032306101</link>
+            <title>1:4 - Stjernen og st&amp;#xF8;vbunken</title>
+            <description>&amp;#x22;Det havde v&amp;#xE6;re nemmere, hvis det var mig, der var d&amp;#xF8;d!&amp;#x22; 
+13 &amp;#xE5;r efter s&amp;#xF8;sterens d&amp;#xF8;d f&amp;#xF8;ler Merete stadig, at hun er st&amp;#xF8;vbunken, og s&amp;#xF8;steren er stjernen. Men er der andre vinkler p&amp;#xE5; historien, og hvordan kan hun komme fri af f&amp;#xF8;lelsen af at v&amp;#xE6;re forkert?
+Medvirkende: Merete Pryds Helle, forfatter. Marie Steenberger, coach.
+Tilrettel&amp;#xE6;ggelse: Diana Bach. Bettina Ohlsen. Merete Pryds Helle. 
+Klip og lyddesign: Sara R&amp;#xF8;jkj&amp;#xE6;r Knudsen.
+Indtaling: Carsten Nielsen 
+Redakt&amp;#xF8;r: Hanne Barslund.</description>
+            <pubDate>Tue, 20 Jun 2023 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/9c9224284507cad0ae709c96b365a722676e67b97fcc75a606c0bfd56580f796" 
+                type="audio/x-m4a" 
+                length="13447657" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/5f85efe9a3f9e70b76369e7ab23a811b7c41880a6af2f2a80ace93dd50420c1e" 
+                type="audio/mpeg" 
+                length="13137883" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/898c0544e21ddd34168578363930ad4c5a73a3b160d104873c24099d7a9e9ad9" 
+                type="audio/x-m4a" 
+                length="39722389" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/c0f5f4878e00b1b9a372e20f4a08a151aa270975f5ab84aaa3e0cb8e79fa3d37" 
+                type="audio/mpeg" 
+                length="39413467" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/92cb684b38d15b0d9b0e30f650984e33de5c7b6e6274db9040d694f1a530e9f6" 
+                type="audio/x-m4a" 
+                length="52860238" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec372f049931670d3c65/cb32bc1e982deb984718ac101f356f5feec5c9fbe17a1ed139ab314a0942bb80" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032306102</guid>
+            <link>https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke/soester-elsker-elsker-ikke-1/2-4-altid-nummer-to-11032306102</link>
+            <title>2:4 - Altid nummer to</title>
+            <description>&amp;#x22;Du er en typisk lilles&amp;#xF8;ster!&amp;#x22;
+S&amp;#xE5;dan har folk altid sagt til Merete. Men hvor meget betyder det, hvilket nummer man er i s&amp;#xF8;skendeflokken? Og hvad sker der, n&amp;#xE5;r relationerne &amp;#xE6;ndres i l&amp;#xF8;bet af livet, ved sygdom eller d&amp;#xF8;d?
+Medvirkende: Merete Pryds Helle, forfatter. Margrethe Brun Hansen, b&amp;#xF8;rnepsykolog og forfatter. 
+Tilrettel&amp;#xE6;ggelse: Diana Bach. Bettina Ohlsen. Merete Pryds Helle. 
+Klip og lyddesign: Sara R&amp;#xF8;jkj&amp;#xE6;r Knudsen.
+Indtaling: Carsten Nielsen 
+Redakt&amp;#xF8;r: Hanne Barslund.</description>
+            <pubDate>Tue, 20 Jun 2023 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/18dd2c667d4c14de9999d21446c14b36a3ba318c57430d456d8a458da6cf17c1" 
+                type="audio/x-m4a" 
+                length="12964078" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/04b535c08b15dcbb1c06b3561b0403b390338709d8205749b08a4ac83d0185ba" 
+                type="audio/mpeg" 
+                length="12665371" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/eb121e37a7d8ee8d46c8145ed7bc492ec4d353d0e914450b7133a8ef6fb93d1d" 
+                type="audio/x-m4a" 
+                length="38293549" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/7896968cc22b91bee98c4e7195bc2a37b02b4c06faa8db973d498ec107d9cb80" 
+                type="audio/mpeg" 
+                length="37995931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/71212d059dc9506d5cfc2b0c7a0cf3c1a5cdb9e2f6e0b4de3c11c9ee8ac22009" 
+                type="audio/x-m4a" 
+                length="50958782" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c6c/84a0d50b83ba0e164c50d223dba915e95b9917cc3f57aa37324338d31f6ddd5f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032306103</guid>
+            <link>https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke/soester-elsker-elsker-ikke-1/3-4-ikke-saa-klog-som-din-soester-11032306103</link>
+            <title>3:4 - Ikke s&amp;#xE5; klog som din s&amp;#xF8;ster</title>
+            <description>&amp;#x22;Den sved!&amp;#x22; 
+I gymnasiet g&amp;#xE5;r det op for Merete, at hun aldrig kan blive lige s&amp;#xE5; dygtig som sin s&amp;#xF8;ster. Hun v&amp;#xE6;lger en anden vej. Nu vender hun tilbage til l&amp;#xE6;reren, der sagde: Hvorfor er du ikke lige s&amp;#xE5; begavet som din s&amp;#xF8;ster?
+Medvirkende: Merete Pryds Helle, forfatter. Jytte Hilden, tidl. kemil&amp;#xE6;rer og tidl. kulturminister. 
+Tilrettel&amp;#xE6;ggelse: Diana Bach. Bettina Ohlsen. Merete Pryds Helle. 
+Klip og lyddesign: Sara R&amp;#xF8;jkj&amp;#xE6;r Knudsen.
+Indtaling: Carsten Nielsen 
+Redakt&amp;#xF8;r: Hanne Barslund.</description>
+            <pubDate>Tue, 27 Jun 2023 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/217d1e56a1f4510500e629727dd0861efd41e171ff8ae8ec553fc4dceb6371dd" 
+                type="audio/x-m4a" 
+                length="13441635" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/34c6dc4ce1c0042470b0409d0240b8669b340268e13158fa4202bf1274990a15" 
+                type="audio/mpeg" 
+                length="13132123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/9a2e7167e39bf73d58ab939556b1dbf72f6fdcd716cd114b7afaa9edc7644c96" 
+                type="audio/x-m4a" 
+                length="39704809" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/64d21a3a88827d79f914fc3d90561e05b010d1a2770ba0feccff5c2b09ec86bd" 
+                type="audio/mpeg" 
+                length="39396187" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/cdb9b867d1106d7b6f94f7e806c82892e3198985c87fd4f92f383274cc4ccd43" 
+                type="audio/x-m4a" 
+                length="52836831" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c71/a7d9424a46f5efdf28cfd2904078d18491719936fee2b8fde0fc0bb376281705" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032306104</guid>
+            <link>https://www.dr.dk/lyd/p1/soester-elsker-elsker-ikke/soester-elsker-elsker-ikke-1/4-4-en-ny-storesoester-11032306104</link>
+            <title>4:4 - En ny stores&amp;#xF8;ster</title>
+            <description>&amp;#x22;T&amp;#xE6;nk at hun kunne t&amp;#xE6;nke s&amp;#xE5; omsorgsfuldt om mig!&amp;#x22; 
+Stores&amp;#xF8;ster Jannie gjorde aldrig noget for at hj&amp;#xE6;lpe hende. S&amp;#xE5;dan husker Merete det selv. Men en samtale med en f&amp;#xE6;lles veninde giver nye indsigter. 
+Medvirkende: Merete Pryds Helle, forfatter. Regina Kanta, veninde. Marie Steenberger, coach. 
+Tilrettel&amp;#xE6;ggelse: Diana Bach. Bettina Ohlsen. Merete Pryds Helle. 
+Klip og lyddesign: Sara R&amp;#xF8;jkj&amp;#xE6;r Knudsen.
+Indtaling: Carsten Nielsen 
+Redakt&amp;#xF8;r: Hanne Barslund.</description>
+            <pubDate>Tue, 04 Jul 2023 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:58</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/e6a746fda3c69a84ed50ca2fe118a522f4fc1354eb0a93f7efba0ce1f7b10359" 
+                type="audio/x-m4a" 
+                length="13250481" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/64c94ca6738a0dca4e714a0a4e5ca3f51eae2b5f6f5727e210cadc455d6e8efc" 
+                type="audio/mpeg" 
+                length="12945307" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/5895dd6cbfd4af24a1a41172cbbb8077e893ba48735325429b03b36695709108" 
+                type="audio/x-m4a" 
+                length="39140293" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/0804056d18774cb226b520edd1d77799a90dc8dbaf90a9eeb681afe3f7306271" 
+                type="audio/mpeg" 
+                length="38835739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/53e5004b9b4f911d383fd36281e4f54978e4d37911758c017cbebe1f5db7f325" 
+                type="audio/x-m4a" 
+                length="52085638" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6481ec382f049931670d3c76/eaefd96e2152b30b10ca1725a7bdc287b430834b8eee73796bd3bb261d15e8f6" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

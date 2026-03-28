@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/kup.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>KUP (recycled)</title>
+        <link>https://www.dr.dk/lyd/p3/kup-6221067875000</link>
+        <description>F&amp;#xE5; historierne bag virkelighedens mest vanvittige kup, n&amp;#xE5;r vi trin for trin gennemg&amp;#xE5;r, hvordan det lykkedes forbryderne at snyde systemet.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.12 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/kup.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/kup.jpg</url>
+            <title>KUP (recycled)</title>
+            <link>https://www.dr.dk/lyd/p3/kup-6221067875000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/kup.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Krimi</category>
+        <itunes:category text="Krimi" />
+        <item>
+            <guid isPermaLink="false">13332596401</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-walkie-talkie-kuppet/kup-walkie-talkie-kuppet-1/1-4-walkie-talkie-kuppet-13332596401</link>
+            <title>1:4 Walkie-talkie-kuppet</title>
+            <description>I 1971 bryder en gruppe kriminelle ind i Lloyds Bank i London ved hj&amp;#xE6;lp af en vanvittigt, udspekuleret plan.
+
+Id&amp;#xE9; og v&amp;#xE6;rt: Liva Manghezi.
+Manus: Morten Narvedsen og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+One Last Job; Tom Pettifor &amp;#x26; Nick Sommerlad, 2019 (bog).
+Crime and Corruption at The Yard; David I. Woodland, 2015 (bog).
+Britain&amp;#x27;s Biggest Bank Job; Channel 5, 2016 (TV).
+Historys Greatest Heists: The Baker Street Bank Burglary, 2023 (TV).</description>
+            <pubDate>Mon, 22 Sept 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:45</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791dd369f02e5ed243a2/2d4b312bf99e8064c3465268b5efacc509b1fc239b543012d6b7890b6dfcacba" 
+                type="audio/x-m4a" 
+                length="14620241" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791dd369f02e5ed243a2/9e2dc5651aab072a8642386349190cdd06c9a80e28da17489abee80cfdf20dd7" 
+                type="audio/x-m4a" 
+                length="43189435" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791dd369f02e5ed243a2/1786987ffae254e0fc6e4d172aa27a318f62716ecead52c236968ba6967ced15" 
+                type="audio/x-m4a" 
+                length="57474057" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791dd369f02e5ed243a2/62b4d5392bdca5c3a37a8701b9df95a59fdfd7087ac65a48cd91161e6eb59f82" 
+                type="audio/mpeg" 
+                length="14284848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791dd369f02e5ed243a2/16c068b8877a106a3becbbce9fbdcf9385fda217dfbab479c92e2a6bdf32a932" 
+                type="audio/mpeg" 
+                length="42853680" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791dd369f02e5ed243a2/d6877e9ab46e1dca094f71665095ec716f309da176f51a69d87291c2678fca57" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596402</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-walkie-talkie-kuppet/kup-walkie-talkie-kuppet-1/2-4-walkie-talkie-kuppet-13332596402</link>
+            <title>2:4 Walkie-talkie-kuppet</title>
+            <description>Forbryderne tager hul p&amp;#xE5; den beskidte del af kuppet og m&amp;#xE5; undervejs tage en farlig og risikabel chance.
+  
+Id&amp;#xE9; og v&amp;#xE6;rt: Liva Manghezi.
+Manus: Morten Narvedsen og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+One Last Job; Tom Pettifor &amp;#x26; Nick Sommerlad, 2019 (bog).
+Crime and Corruption at The Yard; David I. Woodland, 2015 (bog).
+Britain&amp;#x27;s Biggest Bank Job; Channel 5, 2016 (TV).
+Historys Greatest Heists: The Baker Street Bank Burglary, 2023 (TV).</description>
+            <pubDate>Mon, 22 Sept 2025 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:48</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791fd369f02e5ed243bb/5999bdf3647bed3983062eed334fc6d556eca048776f4bf5f8b2d59dad1ffdd1" 
+                type="audio/x-m4a" 
+                length="13662167" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791fd369f02e5ed243bb/d17c85e8f68890c9e25e43a3237c111abaa953d3b47055dbdace692d7522999a" 
+                type="audio/x-m4a" 
+                length="40359155" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791fd369f02e5ed243bb/604a77edbc84aa87b0a1418f784904d16dd2fa15494257a27763b3f870927b68" 
+                type="audio/x-m4a" 
+                length="53707627" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791fd369f02e5ed243bb/b9e9b53fc7b36b2704597721519597e403ce29598034629f0fc2d5c90a67db8a" 
+                type="audio/mpeg" 
+                length="13348848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791fd369f02e5ed243bb/7d9fe6b0996a04c84f742ccc93219b5be5e785d1c2442c33a5f6755074675fe9" 
+                type="audio/mpeg" 
+                length="40045680" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca791fd369f02e5ed243bb/b91c404378c7330c519ac97d72478633f93c188cb9db014a289f6ea4913c76ac" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596403</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-walkie-talkie-kuppet/kup-walkie-talkie-kuppet-1/3-4-walkie-talkie-kuppet-13332596403</link>
+            <title>3:4 Walkie-talkie-kuppet</title>
+            <description>Endelig er de mange millioner inden for r&amp;#xE6;kkevidde, men forbryderne er ikke s&amp;#xE5; usynlige som de tror...
+
+Id&amp;#xE9; og v&amp;#xE6;rt: Liva Manghezi.
+Manus: Morten Narvedsen og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+One Last Job; Tom Pettifor &amp;#x26; Nick Sommerlad, 2019 (bog).
+Crime and Corruption at The Yard; David I. Woodland, 2015 (bog).
+Britain&amp;#x27;s Biggest Bank Job; Channel 5, 2016 (TV).
+Historys Greatest Heists: The Baker Street Bank Burglary, 2023 (TV).</description>
+            <pubDate>Mon, 22 Sept 2025 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7922a71b87622325004d/46e7893bf67fc6eebe3973516364a641ad453645c189a14a4efebabd7cc9fb5c" 
+                type="audio/x-m4a" 
+                length="17788707" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7922a71b87622325004d/e08ccaa6c246de9be98a59629da09cfc9d7df13a51c0c6702fb9543d0921ea9a" 
+                type="audio/x-m4a" 
+                length="52549783" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7922a71b87622325004d/7ca4393506c89c91dcac7847cac3442ea54a3d75d64ae1aa7468a944e6b5f18d" 
+                type="audio/x-m4a" 
+                length="69930347" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7922a71b87622325004d/a053ef27b4787a55814118c858365a6f82c2e0fdd93c19add99e3b21d05dd7ae" 
+                type="audio/mpeg" 
+                length="17380848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7922a71b87622325004d/88de83974c1404a0a56094b1a79b3b322a265eea16e9d27e3136ad32472c9b37" 
+                type="audio/mpeg" 
+                length="52141680" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7922a71b87622325004d/1127b96f7caf6c9bd227e25da84db151e1e626a124682cc335f9fcd0d646ea37" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596404</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-walkie-talkie-kuppet/kup-walkie-talkie-kuppet-1/4-4-walkie-talkie-kuppet-13332596404</link>
+            <title>4:4 Walkie-talkie-kuppet</title>
+            <description>Efterforskningen bliver hemmeligstemplet og m&amp;#xF8;rklagt - og det udl&amp;#xF8;ser en lavine af konspirationsteorier og rygter.
+
+Id&amp;#xE9; og v&amp;#xE6;rt: Liva Manghezi. 
+Medvirkende: Paul Lashmar.
+Manus: Morten Narvedsen og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+One Last Job; Tom Pettifor &amp;#x26; Nick Sommerlad, 2019 (bog).
+Crime and Corruption at The Yard; David I. Woodland, 2015 (bog).
+Britain&amp;#x27;s Biggest Bank Job; Channel 5, 2016 (TV).
+Historys Greatest Heists: The Baker Street Bank Burglary, 2023 (TV).</description>
+            <pubDate>Mon, 22 Sept 2025 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7921d369f02e5ed243e9/90f430e11111481d5acdb1ccb49458571b94a6013b27ad69a8b3602efb2aaff4" 
+                type="audio/x-m4a" 
+                length="14571136" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7921d369f02e5ed243e9/7d0d03478cff0752140ab813e6c19ca3772d90a2fb1f286fe680a9dddaa572a1" 
+                type="audio/x-m4a" 
+                length="43044475" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7921d369f02e5ed243e9/c71834a5f8e8fc63d2b52549539a67393792784005c740e482cec768af58b373" 
+                type="audio/x-m4a" 
+                length="57281020" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7921d369f02e5ed243e9/a302fbaa16976f0108f74db2689fde98192f48a482e5c50b6e654031b061df7b" 
+                type="audio/mpeg" 
+                length="14236848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7921d369f02e5ed243e9/7707c89bf985cd1aef41b372146efcf1304d4c53b8bed87a752f3d8256008c4a" 
+                type="audio/mpeg" 
+                length="42709680" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68ca7921d369f02e5ed243e9/98483ad035cefca6af758057eb0aea96102556db7bc7dd66ae6a20d4eb518ba5" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596421</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-klatretyven-i-paris/kup-klatretyven-i-paris-2/1-4-klatretyven-i-paris-13332596421</link>
+            <title>1:4 Klatretyven i Paris</title>
+            <description>I 2010 sender et genialt kunstkup chokb&amp;#xF8;lger gennem Paris. Fem mesterv&amp;#xE6;rker forsvinder - n&amp;#xE6;sten sporl&amp;#xF8;st.
+
+Id&amp;#xE9; og v&amp;#xE6;rt: Liva Manghezi.
+Manus: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+Vjeran Tomic - En spiderman i Paris; Jamie Roberts, 2023 (Dokumentar).
+The French Burglar Who Pulled Off His Generation&amp;#x27;s Biggest Art Heist; Jake Halpern, 2019 (Feature).
+
+Foto: Benoit Tessier/Ritzau Scanpix &amp;#x26; Jacques Brinon/AP/Ritzau Scanpix.</description>
+            <pubDate>Mon, 10 Nov 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce250bd528a4a78e1a/d8cdccbd98361171e3925e87c822184b04fc9e335a612d34e49a4e2f8c0031e9" 
+                type="audio/x-m4a" 
+                length="18050707" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce250bd528a4a78e1a/b6e8c1b7f6e90250592cf9cbbf4198c5b4bf17aac68834c6e835a1ca4932586c" 
+                type="audio/x-m4a" 
+                length="53323811" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce250bd528a4a78e1a/b5f30f2f90b2430da39d902430ca987836a015dbf6fad0ff9aa45583c443a583" 
+                type="audio/x-m4a" 
+                length="70960363" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce250bd528a4a78e1a/126952744e26a235a59ab7b8afe3e1f8510c734e070d50d385d870c23bb0f8cf" 
+                type="audio/mpeg" 
+                length="17636978" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce250bd528a4a78e1a/4e793a435eb52ab84c09d2e48a89a1471a702cd4387b5f686e5a6e9f855fbb4e" 
+                type="audio/mpeg" 
+                length="52910066" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce250bd528a4a78e1a/3b2c9c5f54d6d8c22da467f49edc4e951259138c862acaee8084bfaf609db6da" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596422</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-klatretyven-i-paris/kup-klatretyven-i-paris-2/2-4-klatretyven-i-paris-13332596422</link>
+            <title>2:4 Klatretyven i Paris</title>
+            <description>Politiet fors&amp;#xF8;ger desperat at opklare, hvem der st&amp;#xE5;r bag - men det skal vise sig, at de allerede kender ham ret godt.
+
+Id&amp;#xE9; og v&amp;#xE6;rt: Liva Manghezi.
+Manus: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+Vjeran Tomic - En spiderman i Paris; Jamie Roberts, 2023 (Dokumentar).
+The French Burglar Who Pulled Off His Generation&amp;#x27;s Biggest Art Heist; Jake Halpern, 2019 (Feature).
+
+Foto: Benoit Tessier/Ritzau Scanpix &amp;#x26; Jacques Brinon/AP/Ritzau Scanpix.</description>
+            <pubDate>Mon, 10 Nov 2025 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6ef/003e9ab34135be467568e21e08778c865bda1c768e220db50072eca6cc93be60" 
+                type="audio/x-m4a" 
+                length="14507569" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6ef/65f8de03a1b6b4f1f5033888ede1b8f6a1ab21e0eb96254a0c5bc789d6dce468" 
+                type="audio/x-m4a" 
+                length="42856651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6ef/1a1b22c58697e44a437805f0e9682893ecb14f9c1c995fb2c5c3e8a2c3fa7888" 
+                type="audio/x-m4a" 
+                length="57031193" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6ef/51597a722de74c017119d40628732cd8da1cc8a856300f64f67ec4c4855e41d7" 
+                type="audio/mpeg" 
+                length="14174832" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6ef/a11a82f26f1aa258d496d7e62eaa2d9037f8b567602f90a7a0e3ca1fca947eb9" 
+                type="audio/mpeg" 
+                length="42523632" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6ef/a5bf36d1664643d8042ff2560315d471e692256a15dd48486c7443b4d7f6ae3c" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596423</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-klatretyven-i-paris/kup-klatretyven-i-paris-2/3-4-klatretyven-i-paris-13332596423</link>
+            <title>3:4 Klatretyven i Paris</title>
+            <description>T&amp;#xE5;lmodigheden slipper op hos klatretyven, og et &amp;#xF8;jebliks uopm&amp;#xE6;rksomhed giver politiet den f&amp;#xF8;rste fordel.
+
+Id&amp;#xE9; og v&amp;#xE6;rt: Liva Manghezi.
+Manus: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+Vjeran Tomic - En spiderman i Paris; Jamie Roberts, 2023 (Dokumentar).
+The French Burglar Who Pulled Off His Generation&amp;#x27;s Biggest Art Heist; Jake Halpern, 2019 (Feature).
+
+Foto: Benoit Tessier/Ritzau Scanpix &amp;#x26; Jacques Brinon/AP/Ritzau Scanpix.</description>
+            <pubDate>Mon, 10 Nov 2025 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6e8/4751a1c347b01ce0237f307d83342ab1c6a1ee34129b10c6537905f6cc48d5e6" 
+                type="audio/x-m4a" 
+                length="19257832" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6e8/51ee7548038e00812a2a77b0900c595b388db2600d46a1eeb199b36311be1ed3" 
+                type="audio/x-m4a" 
+                length="56889887" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6e8/3cb7803c88084a91c49367beca62ad67e71c69d53f715994b94b43b1a44c669a" 
+                type="audio/x-m4a" 
+                length="75705908" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6e8/457bba5e170e7611c3157fda870fe20f8d42b91009a228553658c54eb608f223" 
+                type="audio/mpeg" 
+                length="18816243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6e8/275b4942fffd4666476340dfe3c5d63fada9d1a0480d2a0258a7ffd07c63ebc8" 
+                type="audio/mpeg" 
+                length="56447859" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce91066218a4d9c6e8/13fa8988ff297370e23aee07178071e0bd83e2eee61a44916540c48ea16f0b95" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596424</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-klatretyven-i-paris/kup-klatretyven-i-paris-2/4-4-klatretyven-i-paris-13332596424</link>
+            <title>4:4 Klatretyven i Paris</title>
+            <description>Nettet strammes om kuppets bagm&amp;#xE6;nd - men de fem mesterv&amp;#xE6;rker er stadig som sunket i jorden.
+
+Id&amp;#xE9; og v&amp;#xE6;rt: Liva Manghezi.
+Manus: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+Vjeran Tomic - En spiderman i Paris; Jamie Roberts, 2023 (Dokumentar).
+The French Burglar Who Pulled Off His Generation&amp;#x27;s Biggest Art Heist; Jake Halpern, 2019 (Feature).  
+
+Foto: Benoit Tessier/Ritzau Scanpix &amp;#x26; Jacques Brinon/AP/Ritzau Scanpix.</description>
+            <pubDate>Mon, 10 Nov 2025 05.03.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:46:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce5f699d2ab1c2b442/600e5f0cfef0e77895bb36b6547698bb4f668611e7056bb9969ccdbf6c6fe94e" 
+                type="audio/x-m4a" 
+                length="23053415" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce5f699d2ab1c2b442/9aa83a4b1fd5cec66efe7399633c0e96a156ed53f66c7279101b6a3db3a1e646" 
+                type="audio/x-m4a" 
+                length="68102743" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce5f699d2ab1c2b442/5ac35196a689f62b5764174974348db31feb990f95263f39a28273631bc84d3a" 
+                type="audio/x-m4a" 
+                length="90627363" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce5f699d2ab1c2b442/0882b19b06c5a1b6106eb53a45d2fe58ba8176866d80b49f0130edc75220c3f0" 
+                type="audio/mpeg" 
+                length="22524911" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce5f699d2ab1c2b442/e762a6b48f6a9d6643356784f4e01f318ec9dc1279a8b5c48e0022e186599050" 
+                type="audio/mpeg" 
+                length="67573871" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690469ce5f699d2ab1c2b442/a0d135972cc0dc77222c1e376fb2be197e3c3c737af4cade84bf3bd8ec2000d2" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596441</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-faldskaermskuppet/kup-faldskaermskuppet-3/1-4-faldskaermskuppet-13332596441</link>
+            <title>1:4 Faldsk&amp;#xE6;rmskuppet</title>
+            <description>Dagen f&amp;#xF8;r Thanksgiving boarder en mand et rutefly fra Portland mod Seattle. Da flyet letter r&amp;#xE6;kker han stewardessen en seddel, som forvandler flyveturen til et mareridt.
+ 
+Ide og V&amp;#xE6;rt: Liva Manghezi.
+Manuskript: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen og Malte Winther Bothe.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+Gray, Geoffrey. Skyjack: The Hunt for D. B. Cooper. 2011.
+Himmelsbach, Ralph P. Norjak: The Investigation of D.B. Cooper. 1986.
+FBI Records: The Vault - D. B. Cooper: https://vault.fbi.gov/D-B-Cooper%20
+The Mystery of D.B. Cooper. HBO, 2020.
+D.B. Cooper: Where Are You?! Netflix, 2022.</description>
+            <pubDate>Mon, 15 Dec 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:21:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d0/eccb4e50b93d2883b978ac0f0c334dce506050449d4399644caee74556cf46c3" 
+                type="audio/x-m4a" 
+                length="10398833" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d0/a6a0393a04265bbffdc81e1ea3a8fe082903398ac75731a88c8600789d97643a" 
+                type="audio/x-m4a" 
+                length="30718631" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d0/a7678f4e6625f52dd698e5d51f56cd09de9e545625aeabd28725326a3c84800a" 
+                type="audio/x-m4a" 
+                length="40878489" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d0/1f72394dc47790cc5e93e582bfb80887a4f980593ccae60ca32fa1f47aca384b" 
+                type="audio/mpeg" 
+                length="10160307" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d0/96e5a1b95dfdf7f7bcf210dd6480979800c3570516db2ccced7c95215718592a" 
+                type="audio/mpeg" 
+                length="30480051" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d0/3aa7b497963ce266f48af910f19e3bd897f49014aa63bb1ac88a2da227f64d13" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596442</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-faldskaermskuppet/kup-faldskaermskuppet-3/2-4-faldskaermskuppet-13332596442</link>
+            <title>2:4 Faldsk&amp;#xE6;rmskuppet</title>
+            <description>Bes&amp;#xE6;tningen k&amp;#xE6;mper for, at mandens krav bliver opfyldt, inden de n&amp;#xE5;r Seattle - og det med et stort smil p&amp;#xE5; l&amp;#xE6;ben, s&amp;#xE5; passagererne ikke opdager, at de lige nu er taget som gidsler.
+ 
+Ide og V&amp;#xE6;rt: Liva Manghezi.
+Manuskript: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen og Malte Winther Bothe.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste:
+Gray, Geoffrey. Skyjack: The Hunt for D. B. Cooper. 2011.
+Himmelsbach, Ralph P. Norjak: The Investigation of D.B. Cooper. 1986.
+FBI Records: The Vault - D. B. Cooper: https://vault.fbi.gov/D-B-Cooper%20
+The Mystery of D.B. Cooper. HBO, 2020.
+D.B. Cooper: Where Are You?! Netflix, 2022.</description>
+            <pubDate>Mon, 15 Dec 2025 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d7/817e7ed9eb1dca6f9591b071103f3ca3606ff1f8344f2984095800196d304e37" 
+                type="audio/x-m4a" 
+                length="13030909" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d7/c8634ea17f0c3edd3ba97c5ebf4aeca4b9372875490aadb980736531fcf9f2f5" 
+                type="audio/x-m4a" 
+                length="38494299" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d7/14593e6fd876dd668bf87162d82ae63e5051a66b8688e0104ab16ff8c0671745" 
+                type="audio/x-m4a" 
+                length="51226029" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d7/bbbf4874ac907eb329c16b464a7163f2dbea4f1efc60aeec35133919dd842444" 
+                type="audio/mpeg" 
+                length="12731954" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d7/b03cc1fd07b76bac2f1878b5cf23f1271d8074150c5b366202d2e4e7f25b8b6b" 
+                type="audio/mpeg" 
+                length="38194994" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80b73064306f2c06d7/6fd7e2cdda66ac1e309857794c15e73dde958203ce445cbb552da30e7402d29d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596443</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-faldskaermskuppet/kup-faldskaermskuppet-3/3-4-faldskaermskuppet-13332596443</link>
+            <title>3:4 Faldsk&amp;#xE6;rmskuppet</title>
+            <description>Afg&amp;#xF8;relsens time er kommet. Vil flykapreren acceptere l&amp;#xF8;sepengene og lade gidslerne g&amp;#xE5;? Og hvordan vil han slippe v&amp;#xE6;k?
+ 
+Ide og V&amp;#xE6;rt: Liva Manghezi.
+Manuskript: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen og Malte Winther Bothe.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste: 
+Gray, Geoffrey. Skyjack: The Hunt for D. B. Cooper. 2011.
+Himmelsbach, Ralph P. Norjak: The Investigation of D.B. Cooper. 1986.
+FBI Records: The Vault - D. B. Cooper: https://vault.fbi.gov/D-B-Cooper%20
+The Mystery of D.B. Cooper. HBO, 2020.
+D.B. Cooper: Where Are You?! Netflix, 2022.</description>
+            <pubDate>Mon, 15 Dec 2025 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80af5ce9656420af6a/fb31afb2c99853805c5c5e7eb3d294abd2bf96d926ce440a0f62bcec567720a7" 
+                type="audio/x-m4a" 
+                length="13854625" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80af5ce9656420af6a/6142e3ccd8f1ad06720b6c3f1f00dbe8a4265efa5820b26ec37135bbaaccfabc" 
+                type="audio/x-m4a" 
+                length="40927787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80af5ce9656420af6a/6973021a918f3760860772754f17806737bc1f94bf09e63cf11f2f56a99d6673" 
+                type="audio/x-m4a" 
+                length="54464409" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80af5ce9656420af6a/1b838d55566100814406802da3dec1837df90b609ce28de8b049feffa517db02" 
+                type="audio/mpeg" 
+                length="13536819" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80af5ce9656420af6a/7e23f9617292f2f1a375eb00cb18e905f232dae6e5627721a5a94b4524b7795d" 
+                type="audio/mpeg" 
+                length="40609587" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d80af5ce9656420af6a/6c740625b45284798db81934764c2b155ac6ab157978699356afe198929a7a87" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332596444</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-faldskaermskuppet/kup-faldskaermskuppet-3/4-4-faldskaermskuppet-13332596444</link>
+            <title>4:4 Faldsk&amp;#xE6;rmskuppet</title>
+            <description>Cooper er v&amp;#xE6;k. En omfattende menneskejagt begynder, og antallet af mist&amp;#xE6;nkte vokser - men m&amp;#xE5;ske er der &amp;#xE9;t sted, som FBI mangler at lede?
+ 
+Ide og V&amp;#xE6;rt: Liva Manghezi.
+Manuskript: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen og Malte Winther Bothe.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kildeliste: 
+Gray, Geoffrey. Skyjack: The Hunt for D. B. Cooper. 2011.
+Himmelsbach, Ralph P. Norjak: The Investigation of D.B. Cooper. 1986.
+FBI Records: The Vault - D. B. Cooper: https://vault.fbi.gov/D-B-Cooper%20
+The Mystery of D.B. Cooper. HBO, 2020.
+D.B. Cooper: Where Are You?! Netflix, 2022.</description>
+            <pubDate>Mon, 15 Dec 2025 05.03.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:40:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d82b73064306f2c06f9/b972060df07e0a9af08cee7ac1146ec5b91fde8b0a3b9cb0469d358e972a4e89" 
+                type="audio/x-m4a" 
+                length="19984124" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d82b73064306f2c06f9/e07d2534f35c7c72d238eb7d33193d76f35c00fbf16f4b54cb53af36636ca91a" 
+                type="audio/x-m4a" 
+                length="59035507" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d82b73064306f2c06f9/6a7891a9466c134b50f551b1ad40fa4dffbe9ce4ea4fc1d6ad17d20c811ae4ab" 
+                type="audio/x-m4a" 
+                length="78561080" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d82b73064306f2c06f9/dbc2a7a459c623027d48417b8fe55b942061ec9a855cfaefc005c1ff17c7e3b8" 
+                type="audio/mpeg" 
+                length="19525872" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d82b73064306f2c06f9/aa2a3721945edc0392aaf8ebb82b4089c120dbd78945670863441256f49337eb" 
+                type="audio/mpeg" 
+                length="58576752" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69397d82b73064306f2c06f9/9c503067c29c52e2c4475078418b468da4d2c802bf6ab672813c55bbf9a4817d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332696411</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-hollywood-hacket/kup-hollywood-hacket-4/1-4-hollywood-hacket-13332696411</link>
+            <title>1:4 Hollywood hacket</title>
+            <description>Amy Pascal har lige taget plads ved sit skrivebord i filmbyen i Hollywood. Hun er studiechef for Sony Pictures og den her novemberdag i 2014 kommer hun aldrig til at glemme. For da hun t&amp;#xE6;nder for computeren, stirrer et blodigt skelet tilbage p&amp;#xE5; hende fra sk&amp;#xE6;rmen - og det bliver starten p&amp;#xE5; et sandt mareridt.
+Ide og V&amp;#xE6;rt: Liva Manghezi.
+Manuskript: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kilder:
+Vice. The Sony Hack (dokumentar). YouTube, 2015: https://www.youtube.com/watch?v=w0vWlx_Mgyo 
+Seal, Mark. &amp;#x22;An Exclusive Look at Sony&amp;#x27;s Hacking Saga.&amp;#x22; Vanity Fair, februar 2015: https://www.vanityfair.com/hollywood/2015/02/sony-hacking-seth-rogen-evan-goldberg 
+White, Geoff. The Lazarus Heist. BBC World Service, 2020. Podcast. 
+The Ringer. The Hollywood Hack. Spotify, 2024. Podcast. 
+United States Department of Justice. United States of America v. Park Jin Hyok (anklageskrift), 2018: https://int.nyt.com/data/documenthelper/274-park-jin-hyo-complaint/7b40e5ed5b185f141e1a/optimized/full.pdf#page=1</description>
+            <pubDate>Mon, 02 Mar 2026 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:19:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de1939/81c3a1d595041f54a433b1078047d2024b036a488c939760d867c5efbf9c6b97" 
+                type="audio/x-m4a" 
+                length="9593080" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de1939/f62506e9625da1995dfc9d406253f6f437e988f81735f79352211d96c45b4c38" 
+                type="audio/x-m4a" 
+                length="28338275" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de1939/3678eef2f66731f5057e217e155cf18be8c01ff7249339b46d605304885af11f" 
+                type="audio/x-m4a" 
+                length="37710896" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de1939/7e78dfe8511d2dbe58e84d3666fc136e91ac9b9cf944588f4425bbcb5b7530c9" 
+                type="audio/mpeg" 
+                length="9372919" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de1939/23efb2a84f0fec815e98510a02314517b4ea0601c11bf5913ceb2a248099961b" 
+                type="audio/mpeg" 
+                length="28117879" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de1939/df1bcf42aaabb4d8ec5345f2376da8c7b2e24b33d603365a5185114591c10522" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332696412</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-hollywood-hacket/kup-hollywood-hacket-4/2-4-hollywood-hacket-13332696412</link>
+            <title>2:4 Hollywood hacket</title>
+            <description>Det er slemt nok at fortrolige l&amp;#xF8;nningslister er blevet l&amp;#xE6;kket online, men det skal hurtigt vise sig, at hackerne har f&amp;#xE5;et fingre i langt mere pinlige dokumenter. Snart kan alle l&amp;#xE6;se med i ledelsens interne mails og pludselig skylder nogen b&amp;#xE5;de Obama og Angelina Jolie en undskyldning.
+Ide og V&amp;#xE6;rt: Liva Manghezi.
+Manuskript: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kilder:
+Vice. The Sony Hack (dokumentar). YouTube, 2015: https://www.youtube.com/watch?v=w0vWlx_Mgyo 
+Seal, Mark. &amp;#x22;An Exclusive Look at Sony&amp;#x27;s Hacking Saga.&amp;#x22; Vanity Fair, februar 2015: https://www.vanityfair.com/hollywood/2015/02/sony-hacking-seth-rogen-evan-goldberg 
+White, Geoff. The Lazarus Heist. BBC World Service, 2020. Podcast. 
+The Ringer. The Hollywood Hack. Spotify, 2024. Podcast. 
+United States Department of Justice. United States of America v. Park Jin Hyok (anklageskrift), 2018: https://int.nyt.com/data/documenthelper/274-park-jin-hyo-complaint/7b40e5ed5b185f141e1a/optimized/full.pdf#page=1</description>
+            <pubDate>Mon, 02 Mar 2026 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:22:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de194b/a41267439192788070f77c0309ebdaa6692b4ef5c1062a857b98216d9cf12c64" 
+                type="audio/x-m4a" 
+                length="11066775" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de194b/04520669dea15a57ca68614c511127e2609e07173a957f2d7b016807b002b322" 
+                type="audio/x-m4a" 
+                length="32691855" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de194b/34e40fa0cc5ff013ac1e4a91f3cf52bf3273b2cceb0108b48afbbda08951933b" 
+                type="audio/x-m4a" 
+                length="43504291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de194b/a3114334e955f97ec89fb591bdbc5856451904ef36271423892c6cf252aba4a9" 
+                type="audio/mpeg" 
+                length="10812919" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de194b/23adfdc85ffee812dc62995452284415b55e7d1201a486086942d1a029e7ba8f" 
+                type="audio/mpeg" 
+                length="32437879" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158edfb49317541de194b/a015209d7b4a22eb2057e6f25c77992e7951843022884b86b248113810c39c7d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332696413</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-hollywood-hacket/kup-hollywood-hacket-4/3-4-hollywood-hacket-13332696413</link>
+            <title>3:4 Hollywood hacket</title>
+            <description>Sony er helt i kn&amp;#xE6;. Selv Obama kritiserer Sonys h&amp;#xE5;ndtering af hacket. Det er sv&amp;#xE6;rt at se en lykkelig afslutning p&amp;#xE5; det her mareridt - men s&amp;#xE5; kommer der pludselig hj&amp;#xE6;lp fra uventet side...
+Ide og V&amp;#xE6;rt: Liva Manghezi.
+Manuskript: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Jakob Franck Jensen og Frederik B&amp;#xE6;kgaard Ludwigs.
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kilder:
+Vice. The Sony Hack (dokumentar). YouTube, 2015: https://www.youtube.com/watch?v=w0vWlx_Mgyo 
+Seal, Mark. &amp;#x22;An Exclusive Look at Sony&amp;#x27;s Hacking Saga.&amp;#x22; Vanity Fair, februar 2015: https://www.vanityfair.com/hollywood/2015/02/sony-hacking-seth-rogen-evan-goldberg 
+White, Geoff. The Lazarus Heist. BBC World Service, 2020. Podcast. 
+The Ringer. The Hollywood Hack. Spotify, 2024. Podcast. 
+United States Department of Justice. United States of America v. Park Jin Hyok (anklageskrift), 2018: https://int.nyt.com/data/documenthelper/274-park-jin-hyo-complaint/7b40e5ed5b185f141e1a/optimized/full.pdf#page=1</description>
+            <pubDate>Mon, 02 Mar 2026 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:13:27</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77d0/a0b10c28c730bcd94f39ee6423f93266a4c1ba5793178b5c0e144fd8c6cfbf9a" 
+                type="audio/x-m4a" 
+                length="6609928" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77d0/0bf43e7efb1b2494e3818278e457b692d04d199576d3a211f1b80a7c0c8e57a0" 
+                type="audio/x-m4a" 
+                length="19525455" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77d0/5b528f475a52eb5eb09a45dc3a89e10a00532959e1e70872a525ac54b5a7427f" 
+                type="audio/x-m4a" 
+                length="25983212" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77d0/8d8b29596df8a62d89d1ffaf022ea728c57c218372a20dcdb532201618d374ba" 
+                type="audio/mpeg" 
+                length="6458166" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77d0/6072cedd6a7340bfa95080d875d39d7eb40f60e0c82059fa179e81d974de595b" 
+                type="audio/mpeg" 
+                length="19373622" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77d0/c709e3f247fd2c3a50e330ada7da1e0a8b3c75c3d97b9a99a093b903694a7a19" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13332696414</guid>
+            <link>https://www.dr.dk/lyd/p3/kup-hollywood-hacket/kup-hollywood-hacket-4/4-4-hollywood-hacket-13332696414</link>
+            <title>4:4 Hollywood hacket</title>
+            <description>FBI har udpeget den store skurk bag Sony-hacket og s&amp;#xE5;gar afsl&amp;#xF8;ret identiteten p&amp;#xE5; en af hackerne. Men hvem er de egentlig og hvad er form&amp;#xE5;let med deres aktiviter, der tilsyneladende ikke begr&amp;#xE6;nser sig til angrebet p&amp;#xE5; Sony.
+Ide og V&amp;#xE6;rt: Liva Manghezi.
+G&amp;#xE6;st: Geoff White.
+Manuskript: Kirstine Leth Sch&amp;#xFC;tze og Thea Cappi Grunnet.
+Lyddesign: Frederik B&amp;#xE6;kgaard Ludwigs 
+Redakt&amp;#xF8;r: Morten Narvedsen.
+
+Kilder:
+Vice. The Sony Hack (dokumentar). YouTube, 2015: https://www.youtube.com/watch?v=w0vWlx_Mgyo 
+Seal, Mark. &amp;#x22;An Exclusive Look at Sony&amp;#x27;s Hacking Saga.&amp;#x22; Vanity Fair, februar 2015: https://www.vanityfair.com/hollywood/2015/02/sony-hacking-seth-rogen-evan-goldberg 
+White, Geoff. The Lazarus Heist. BBC World Service, 2020. Podcast. 
+The Ringer. The Hollywood Hack. Spotify, 2024. Podcast. 
+United States Department of Justice. United States of America v. Park Jin Hyok (anklageskrift), 2018: https://int.nyt.com/data/documenthelper/274-park-jin-hyo-complaint/7b40e5ed5b185f141e1a/optimized/full.pdf#page=1</description>
+            <pubDate>Mon, 02 Mar 2026 05.03.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77cf/4ac5bea8eb1bdd45ae013402b8f00410e702e38522d0f95653a3fc6fd7d96fec" 
+                type="audio/x-m4a" 
+                length="11824669" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77cf/01e70c06ce671a558679915485441303351e7c2747853ba502c09e4096023113" 
+                type="audio/x-m4a" 
+                length="34930755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77cf/4c52da01cf1c8a3e7b8da91bf856ec63107f51eafda21d3215f019e943a28f84" 
+                type="audio/x-m4a" 
+                length="46483857" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77cf/230ebf9da1312f1f25685586743e3831c55947747044a5a81ef0e6a853bbaf39" 
+                type="audio/mpeg" 
+                length="11553464" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77cf/fb65fc243882377af5e99922e7dcebdfc732fd6832be3a2d0e8720037dfc99c2" 
+                type="audio/mpeg" 
+                length="34659512" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69a158ed6d5a01bd871b77cf/de0db88b1b43e70f17860f62f4bf099d0330c2c393ff0d57fbe94ba7f4156566" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

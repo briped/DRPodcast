@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/i-doeden-for-tronen.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>I d&amp;#xF8;den for tronen (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen-6280091834000</link>
+        <description>I d&amp;#xF8;den for tronen er historien om Plantagenet-sl&amp;#xE6;gten - en familie splittet af magtbeg&amp;#xE6;r, forr&amp;#xE6;deri og blodige opg&amp;#xF8;r. Deres kamp om tronen formede Europa og lagde kimen til den moderne stat.
+Oversat til dansk og produceret for DR af Podster.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.12 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/i-doeden-for-tronen.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/i-doeden-for-tronen.jpg</url>
+            <title>I d&amp;#xF8;den for tronen (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen-6280091834000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/i-doeden-for-tronen.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Historie</category>
+        <itunes:category text="Historie" />
+        <item>
+            <guid isPermaLink="false">16122592410</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/1-12-en-dronning-paa-flugt-16122592410</link>
+            <title>1:12 - En dronning p&amp;#xE5; flugt</title>
+            <description>Eleonora af Aquitanien er p&amp;#xE5; flugt. Skilt fra kongen og jaget af m&amp;#xE6;nd, der vil tage hendes land. Men hun har en plan - og n&amp;#xE5;r hun frem i tide, kan hun vende alt og skabe et m&amp;#xE6;gtigt dynasti.</description>
+            <pubDate>Tue, 24 Jun 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:18:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd4e2205fef1e1d408/d72296f5bbdf449022ab89363bbafcb39c8cb4a55638c662c622d3564edc8f38" 
+                type="audio/x-m4a" 
+                length="9052637" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd4e2205fef1e1d408/d307926b0e7e78744ec61cdd7fa2e037ce1453a90e224d6833a211d54d8f621f" 
+                type="audio/x-m4a" 
+                length="26741767" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd4e2205fef1e1d408/760fd75262a3c194eb67e39c72bd5170cc7f1fd0b73c31d15acc1bcf27ae09ba" 
+                type="audio/x-m4a" 
+                length="35586305" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd4e2205fef1e1d408/b0b2f95c7dada32c4ce420fc87ff7fa18d3afbe8ff7657fb758f8578dda3a311" 
+                type="audio/mpeg" 
+                length="8844856" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd4e2205fef1e1d408/75afd03c5aec589043a683c4e3be3681df11de03322927e966897b3017c8b1ff" 
+                type="audio/mpeg" 
+                length="26533816" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd4e2205fef1e1d408/e1b5df6981614a3651c5656bf188845eac21eae995bbd81f173bad379f1bcc86" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592411</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/2-12-et-dynasti-tager-form-16122592411</link>
+            <title>2:12 - Et dynasti tager form</title>
+            <description>Henrik Plantagenet er ung og vil erobre Englands trone. Eleonora af Aquitanien ser hans potentiale og gifter sig med ham - ikke af k&amp;#xE6;rlighed, men som en strategisk alliance. Sammen &amp;#xE6;ndrer de Europa.</description>
+            <pubDate>Tue, 24 Jun 2025 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:12:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bdb55477aa4732b03f/6decf78a296f20f118ce3a934c2108526b2982ba599b093e13651fadb56844a1" 
+                type="audio/x-m4a" 
+                length="6367101" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bdb55477aa4732b03f/5faa98e10aac18136b2b4967e38375f7abc2d2d118d2322780cda0d12fbc5814" 
+                type="audio/x-m4a" 
+                length="18808199" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bdb55477aa4732b03f/a5b0e35c9a01be3f796cc017186886bf8f856c278f4ee36e956b084bb7e61c8e" 
+                type="audio/x-m4a" 
+                length="25028669" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bdb55477aa4732b03f/6b6eb58be0f6b313a167c13f55e1ec23c972b91aab1c41236648dd54884d6675" 
+                type="audio/mpeg" 
+                length="6220800" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bdb55477aa4732b03f/688e18d4bed8aab9b3943cca96c3fd45b34dbc777097fcd9cc2b84bc0b234d35" 
+                type="audio/mpeg" 
+                length="18661632" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bdb55477aa4732b03f/4b6e7cbe2f618253d22ab59fc0561df54b6abd6a69e7ee9066ffd6a13b756bc4" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592412</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/3-12-en-stormfuld-overfart-16122592412</link>
+            <title>3:12 - En stormfuld overfart</title>
+            <description>Henrik Plantagenet krydser Kanalen i en vinterstorm. Han vil kr&amp;#xE6;ve sin arv og Englands trone. Men kong Stefan n&amp;#xE6;gter at opgive magten. En kamp venter - og sp&amp;#xF8;rgsm&amp;#xE5;let er, hvad den vil koste.</description>
+            <pubDate>Tue, 24 Jun 2025 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:17:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc7c1ab310eabfee3a/d9b05584948cd05694b5c961a9fd18d1c08a58b6243aab728e4bd8c1121f78bb" 
+                type="audio/x-m4a" 
+                length="8823324" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc7c1ab310eabfee3a/0f6438d198dedff538bbc5effce3e94ac68256209544ed7d79f2934ca19a34aa" 
+                type="audio/x-m4a" 
+                length="26064243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc7c1ab310eabfee3a/07917da2adb5edb344a7de179daae82b111c4eae1aff432f04c61c7013ec5e6b" 
+                type="audio/x-m4a" 
+                length="34684708" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc7c1ab310eabfee3a/c9e7c660b7d545699b9def4f5cf266258d69afbdddd7e1779f679e70f1c02462" 
+                type="audio/mpeg" 
+                length="8620794" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc7c1ab310eabfee3a/a88a79d6cdcfc47ddbc3b14a0aad75a2b673ec126346dd6cbd938979719a9d40" 
+                type="audio/mpeg" 
+                length="25861626" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc7c1ab310eabfee3a/c458a591eead1f89e6c22a8b2b4d9cca61fe13e12094dab6533053d60f8678f1" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592413</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/4-12-faedre-og-soenner-16122592413</link>
+            <title>4:12 - F&amp;#xE6;dre og s&amp;#xF8;nner</title>
+            <description>Henrik truer magtbalancen i England, og kong Stefans s&amp;#xF8;n, Eustace, sl&amp;#xE5;r igen. Plantagenet-familien k&amp;#xE6;mper for at bevare grebet om tronen - og h&amp;#xE5;ber, at Gud vil sende dem et mirakel.</description>
+            <pubDate>Tue, 24 Jun 2025 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:14:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd7c1ab310eabfee4d/e22c1359040187a07894964b0e94a13f9ffcd63972295c64661118bcc34eeea3" 
+                type="audio/x-m4a" 
+                length="6907560" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd7c1ab310eabfee4d/5b3c7d75b37b076bd70aed7464e917231193199604aa5959b28f41bd89c00a89" 
+                type="audio/x-m4a" 
+                length="20404747" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd7c1ab310eabfee4d/56493f69c57500527aceb5a66304f9013692886cc6240bafa343c03abd522992" 
+                type="audio/x-m4a" 
+                length="27153320" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd7c1ab310eabfee4d/ff32531ecd3aee0f9648432bf8b1226be5625a4a7411a31f9f2ab04573d8fa01" 
+                type="audio/mpeg" 
+                length="6748782" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd7c1ab310eabfee4d/7484aaa6045ab3fbcd68e7aff6464a1a14aec51d271a2f88c97a6605cfa7dfe6" 
+                type="audio/mpeg" 
+                length="20245614" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bd7c1ab310eabfee4d/c5b0cbf5c353f6bbeef4b901257d20da627bea99640f067be9b082a2c2c77f1f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592414</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/5-12-cirkusdirektoeren-16122592414</link>
+            <title>5:12 - Cirkusdirekt&amp;#xF8;ren</title>
+            <description>Thomas Becket er kong Henriks nye allierede. Nu skal han overtale den franske konge - Eleonoras bitre eksmand - til at lade sin datter gifte sig med en Plantagenet-prins. Det kr&amp;#xE6;ver politisk snilde p&amp;#xE5; h&amp;#xF8;jt plan.</description>
+            <pubDate>Tue, 24 Jun 2025 05.04.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:14:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc5f16b6983066b90a/1585a1fa5a5e5852cde54e84f9f5d22fa8fe3262e03da1eca2e74e90c1b62b8e" 
+                type="audio/x-m4a" 
+                length="6932001" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc5f16b6983066b90a/acdd5ce81989dae9983f745173c42e1657795a72cc283aaa707bbc463a9dcfee" 
+                type="audio/x-m4a" 
+                length="20476939" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc5f16b6983066b90a/ca37a15525acc4b2f1617eee7cc892f4aeb2ce59983d9b5013a2cf20ba164b7c" 
+                type="audio/x-m4a" 
+                length="27249429" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc5f16b6983066b90a/0fe065d36bf28f55c0daa592c73a05fdb060f250dd083f397b6500cf3274742c" 
+                type="audio/mpeg" 
+                length="6772812" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc5f16b6983066b90a/55ed285116987ccb5a1212ccc963dd11e726230b4c1094b508f34ff42ff68e4a" 
+                type="audio/mpeg" 
+                length="20317644" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bc5f16b6983066b90a/5757db004fdd67d16f55625260d0dd120c7844d6484a3abc757197233a831122" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592415</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/6-12-nedsmeltningen-16122592415</link>
+            <title>6:12 - Nedsmeltningen</title>
+            <description>Thomas Becket er faldet i un&amp;#xE5;de. Engang kongens n&amp;#xE6;re allierede - nu anklaget og isoleret. Venskabet med Henrik er brudt, og konflikten truer med at splitte riget. Kan man overleve et brud med tronen?</description>
+            <pubDate>Tue, 24 Jun 2025 05.05.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:17:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be9b2303c8b550b10d/822d6b44d94b765e8bdde0df3475b5e35c2afab6423893b67545c2dd0738d303" 
+                type="audio/x-m4a" 
+                length="8561308" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be9b2303c8b550b10d/bc3b5400eb3ecffd5b34aae9f632fc5aeddbef95472e4caf01c826c4f61e6d10" 
+                type="audio/x-m4a" 
+                length="25290227" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be9b2303c8b550b10d/62ea100c4622341aa48d2f2e348435a420f43a44f3d12d3771a21c1039d9efad" 
+                type="audio/x-m4a" 
+                length="33654620" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be9b2303c8b550b10d/8c153d733a29ec02b1a141383522217ec1fb9f69fcc5ece9459b581bd257e400" 
+                type="audio/mpeg" 
+                length="8364864" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be9b2303c8b550b10d/a17603f26f712950817d5c4f9d845ba67a74060079c579d9a6842af39a594ac8" 
+                type="audio/mpeg" 
+                length="25093824" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be9b2303c8b550b10d/9ce123ac51c622234c0b6d7e0a6c9755af585a38e5a9df2c9122e935cbbe94ff" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592416</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/7-12-arvefoelgen-16122592416</link>
+            <title>7:12 - Arvef&amp;#xF8;lgen</title>
+            <description>Kong Henrik s&amp;#xF8;rger over sin mors d&amp;#xF8;d og st&amp;#xE5;r alene med sp&amp;#xF8;rgsm&amp;#xE5;let om arven. &amp;#xC6;gteskabet med Eleonora er i krise, men hun giver ikke op - for hans utroskab kan blive hendes vej til st&amp;#xF8;rre magt.</description>
+            <pubDate>Tue, 24 Jun 2025 05.06.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:17:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bb192a5d26a40c351b/af713ade88a4f786d8da954c1a74807e80567ecce23912c4bbf8b1ef77455c8e" 
+                type="audio/x-m4a" 
+                length="8839755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bb192a5d26a40c351b/e71990c93c24cb9f74ed5ac9fc391eda648cc3bd9bbedd7a26396d2f327010ab" 
+                type="audio/x-m4a" 
+                length="26112759" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bb192a5d26a40c351b/f06070e5f32961139c89e021434f8ddf3893a26ff0c834e4fcc415948511fa55" 
+                type="audio/x-m4a" 
+                length="34749243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bb192a5d26a40c351b/393ccc1ffd09bd92ed7228f93f618a625419b8951e48dd30eb76ebdf39614934" 
+                type="audio/mpeg" 
+                length="8636928" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bb192a5d26a40c351b/1a513a044f12e2b3a51dba7e4ab5bb4c53f649bd5861368dec3ff5b6d58753a9" 
+                type="audio/mpeg" 
+                length="25910016" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3bb192a5d26a40c351b/b8fbffbbf0d2bc3e658d9729a7db28457fb6559d5f762cb4adb5eaa8b6212804" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592417</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/8-12-mordet-16122592417</link>
+            <title>8:12 - Mordet</title>
+            <description>Thomas Becket vender tilbage og udfordrer igen kong Henrik. Engang n&amp;#xE6;re venner, nu d&amp;#xF8;dsfjender. Da Becket pr&amp;#xE6;diker imod kongen, frygter han, at han nu er g&amp;#xE5;et for langt.</description>
+            <pubDate>Tue, 24 Jun 2025 05.07.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:17:38</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be5f16b6983066b923/606233eba02243940700e8e64ed7327856f854557ec323c5b249b050d0782743" 
+                type="audio/x-m4a" 
+                length="8667895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be5f16b6983066b923/52364888b446bfad7c136e826b0b5efd6f7926d0c8d1b0c4913ffdb9da19b0f9" 
+                type="audio/x-m4a" 
+                length="25605015" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be5f16b6983066b923/f69a53fb2e99d10901d5d1e776697c09f7cd97175768d9fbea21184840e4c540" 
+                type="audio/x-m4a" 
+                length="34073515" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be5f16b6983066b923/58efe14550369e366d82278079c95b19563fb7f2dcbe98d5b3afe602db5a8997" 
+                type="audio/mpeg" 
+                length="8468897" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be5f16b6983066b923/34a029cbf130501d0fff72b9ba3ba724ea45e51cc61464bb34c1a4a2be90106d" 
+                type="audio/mpeg" 
+                length="25405985" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3be5f16b6983066b923/3e72b44eeb5f39f4b938f9d61e76d56d243a3418b3f6a65c8da5afee7493a781" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592418</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/9-12-erobringen-16122592418</link>
+            <title>9:12 - Erobringen</title>
+            <description>Efter mordet p&amp;#xE5; Becket er kong Henrik presset. Paven truer, og hans magt vakler. For at vende blikket v&amp;#xE6;k fra skandalen s&amp;#xF8;ger han nye muligheder - mod vest, mod Irland, hidtil uden for hans r&amp;#xE6;kkevidde.</description>
+            <pubDate>Tue, 24 Jun 2025 05.08.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba4e2205fef1e1d3e8/42c0f5036f64839005eba417a226dbb78440c73c3f43d8c1d532e0175e8e26a5" 
+                type="audio/x-m4a" 
+                length="7775320" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba4e2205fef1e1d3e8/eef5b2ee379083131b73aca12c3e513f61286d4fb39f37becb12d66968a72e90" 
+                type="audio/x-m4a" 
+                length="22968255" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba4e2205fef1e1d3e8/5a1b76a340289ced165fb233abe20472618f06f6890b130d6c4b070957526c7b" 
+                type="audio/x-m4a" 
+                length="30564656" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba4e2205fef1e1d3e8/815c7119c711d485269efd9e66a408437b9febba0f9b0b19d8b3918d1f71b728" 
+                type="audio/mpeg" 
+                length="7596867" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba4e2205fef1e1d3e8/d4846a1969974fb110d03c01f087d6305aa5c98b4ca4468df27bc04aac20b2b4" 
+                type="audio/mpeg" 
+                length="22789827" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba4e2205fef1e1d3e8/5a9956f2c3f77920ea5aa0e02191147b38e41836b5df930c48b653ec1fe7d9b7" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592419</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/10-12-kollisionskurs-16122592419</link>
+            <title>10:12 - Kollisionskurs</title>
+            <description>Henriks s&amp;#xF8;n, den unge prins Henrik, er 16 &amp;#xE5;r og ivrig efter at bevise sit v&amp;#xE6;rd. Trods titler har han ingen reel indflydelse. Frustrationen vokser - og snart starter han et opr&amp;#xF8;r, der ryster kongeriget.</description>
+            <pubDate>Tue, 24 Jun 2025 05.09.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:17:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba7c1ab310eabfee21/54b98d1a9227940fcac2d6f3ff166cfbdc4ad13136cb525749bd554205ddb145" 
+                type="audio/x-m4a" 
+                length="8839743" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba7c1ab310eabfee21/8ce0a356f2c8fb64fd566b9a0f67ec075f2f857e2f15ddf8f05be711dd05f154" 
+                type="audio/x-m4a" 
+                length="26112783" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba7c1ab310eabfee21/081f12c9a541a5ebe80664c9c7061ae4b43658d8c53176bc7b175103af497ee5" 
+                type="audio/x-m4a" 
+                length="34749219" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba7c1ab310eabfee21/69394aec53d82cc582c92b784174b40f5b95dabec640bcc42b6b587db5cbb118" 
+                type="audio/mpeg" 
+                length="8636931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba7c1ab310eabfee21/3ff1b3e6918ff866c4caa20099a9f10315b4a65bb6ce7e05f63e66629e4c3c91" 
+                type="audio/mpeg" 
+                length="25910019" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba7c1ab310eabfee21/69024bc430e94f9caa9b347e286928aeda6bcfda1afad3001f8dd65423962fc8" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592420</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/11-12-dronningens-traek-16122592420</link>
+            <title>11:12 - Dronningens tr&amp;#xE6;k</title>
+            <description>Plantagenet-familien er ved at bryde sammen. Kong Henrik trues ikke kun af Frankrig, men ogs&amp;#xE5; af sin hustru Eleonora og tre s&amp;#xF8;nner. Da Eleonora fors&amp;#xF8;ger at flygte, udl&amp;#xF8;ser det et dramatisk og sk&amp;#xE6;bnesvangert opg&amp;#xF8;r.</description>
+            <pubDate>Tue, 24 Jun 2025 05.10.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:15:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba5f16b6983066b8e9/570d73bf1b7d2b9d81096a312490899c2a80830416e74a9df5d74d2c202e8ebc" 
+                type="audio/x-m4a" 
+                length="7791739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba5f16b6983066b8e9/fa44f39fd811d558c3a81ae4d2b1461475ad9640c7b68f723cd03c1ecb8351b4" 
+                type="audio/x-m4a" 
+                length="23016735" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba5f16b6983066b8e9/75325766a01143763568cc21ea2a27a2a440e7a6e31e2a90d09d73ccd95bf41f" 
+                type="audio/x-m4a" 
+                length="30629135" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba5f16b6983066b8e9/903e2b6f72f49505b730f035f73ade59b345f5d08708ae3d692351a1cb42f7f1" 
+                type="audio/mpeg" 
+                length="7612819" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba5f16b6983066b8e9/56f032b52330705771e934f48265c81eededb67d6909613878e0ac43abdee74d" 
+                type="audio/mpeg" 
+                length="22837651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3ba5f16b6983066b8e9/acc930b5278cadb02b14e79519ebe713536c382acb020eb03fe834e32e1885f1" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122592421</guid>
+            <link>https://www.dr.dk/lyd/special-radio/i-doeden-for-tronen/i-doeden-for-tronen-1/12-12-en-krig-uden-kaerlighed-16122592421</link>
+            <title>12:12 - En krig uden k&amp;#xE6;rlighed</title>
+            <description>De tre &amp;#xE6;ldste Plantagenet-prinser g&amp;#xF8;r opr&amp;#xF8;r mod deres far. De s&amp;#xF8;ger st&amp;#xF8;tte hos hans rival, Ludvig 7. af Frankrig, og l&amp;#xE6;gger planer om at v&amp;#xE6;lte ham. Men kan denne us&amp;#xE6;dvanlige alliance virkelig true kong Henrik?</description>
+            <pubDate>Tue, 24 Jun 2025 05.11.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3c64e2205fef1e1d465/4b50ab6e2092ada338939ed61115127ef5f8f3ecc3fc17adb22aa36edd2ca156" 
+                type="audio/x-m4a" 
+                length="10297165" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3c64e2205fef1e1d465/3d8e1cf2a5f3a7740e843eac1baa211f7312e71bc3b5acb156e55f30357b62c8" 
+                type="audio/x-m4a" 
+                length="30418339" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3c64e2205fef1e1d465/fdc55b5f7a778109433e3cbcd35f9c9a941023bce91c33acc7b28c4e51b56f1a" 
+                type="audio/x-m4a" 
+                length="40478849" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3c64e2205fef1e1d465/757c2a22593b717ef91dff21ec3a28ba68487d8b0b44876d88a721d1971a45a9" 
+                type="audio/mpeg" 
+                length="10060816" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3c64e2205fef1e1d465/36a295bca3057f06be4ed8ffd85a70e60becb1e08a51e6742e57cb5f0d7ee8d9" 
+                type="audio/mpeg" 
+                length="30181648" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836b3c64e2205fef1e1d465/ed913b1620a791f3c787ee3460f5f26ba4ad3ecee18fa450bdab99f67ef704f0" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

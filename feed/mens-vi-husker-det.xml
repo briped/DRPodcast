@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/mens-vi-husker-det.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Mens vi husker det (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/mens-vi-husker-det-5820761332000</link>
+        <description>I efter&amp;#xE5;ret 2023 fik Svantes far konstateret Alzheimers. En sygdom, der betyder, at han langsomt, men sikkert, vil blive udvisket - for til sidst at v&amp;#xE6;re v&amp;#xE6;k. Derfor har Svante og hans far sammen det sidste lille &amp;#xE5;rs tid genbes&amp;#xF8;gt farens fortid for at indsamle og fort&amp;#xE6;lle brudstykker og erindringer derfra. For minder - har de l&amp;#xE6;rt - er ikke altid noget, som forbliver.
+ 
+&amp;#x27;Mens vi husker det&amp;#x27; er en fort&amp;#xE6;lling om en far og hans s&amp;#xF8;n. En far der var, og en far der er. Om at ops&amp;#xF8;ge fortiden, forst&amp;#xE6;rke nutiden og ikke v&amp;#xE6;re bange for fremtiden. Og allermest er det en fort&amp;#xE6;lling om at holde fast i det, man elsker.
+ 
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Svante Wettergren.
+Redakt&amp;#xF8;r og tilrettel&amp;#xE6;gger: Iben Maria Zeuthen.
+Klipper og tilrettel&amp;#xE6;gger : Ole Fugl H&amp;#xF8;rkilde.
+Konsulent: Hanne Barslund.
+DR-Redakt&amp;#xF8;r: K&amp;#xE5;re Vedding Poulsen.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.11 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/mens-vi-husker-det.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/mens-vi-husker-det.jpg</url>
+            <title>Mens vi husker det (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/mens-vi-husker-det-5820761332000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/mens-vi-husker-det.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Kultur</category>
+        <itunes:category text="Kultur" />
+        <item>
+            <guid isPermaLink="false">11032424001</guid>
+            <link>https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/to-ubesvarede-opkald-1-4-11032424001</link>
+            <title>To ubesvarede opkald (1:4)</title>
+            <description>En sommermorgen v&amp;#xE5;gner Svante til to ubesvarede opkald, og en ny tid begynder.</description>
+            <pubDate>Wed, 04 Sept 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/534ef3a29ac167e49f70490cb9b5ee5e587b3201adfe2b6fc55ea1b6925f51d5" 
+                type="audio/x-m4a" 
+                length="14293591" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/73dc9bbd88d9a9406ac1ce2e2d969c3057c15bd4aa6a353b4dd50ab012b8d6f7" 
+                type="audio/x-m4a" 
+                length="42224487" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/1cf9b4d2d72842a3c5b31ebe74c230587babf80c2e6c060bd0f367698635d158" 
+                type="audio/x-m4a" 
+                length="56190011" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/163eb215fef66623c3ee0e354615a8093dfb4b33b79f141a672990b5843b3739" 
+                type="audio/mpeg" 
+                length="13965576" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/da4571a78ed0e6aee678363aa3b2de853eac5e23ace212986e75a986d2c26b85" 
+                type="audio/mpeg" 
+                length="41896200" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/21705b889880eec944f94b6b26a84607f7196be27d16ebd1b6e82b136b90fd47" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032424002</guid>
+            <link>https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/en-soen-uden-en-far-2-4-11032424002</link>
+            <title>En s&amp;#xF8;n uden en far (2:4)</title>
+            <description>En s&amp;#xF8;n uden en far er som et hus uden tag. S&amp;#xE5;dan skriver Svantes far i sin dagbog. Derfor beslutter Svante og hans far sig for at unders&amp;#xF8;ge historien om Svantes fars egne forskellige, frav&amp;#xE6;rende f&amp;#xE6;dre.
+ 
+Medvirkende:
+Vibeke - Svantes fars s&amp;#xF8;ster.
+Grethe - Svantes fars mor.
+Kurt - Svantes fars papfar.
+Keld - Svantes fars biologiske far.</description>
+            <pubDate>Wed, 04 Sept 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:27</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/98c8a31961e89a1458746d4d19d63de98022d77ec308cd1d9c41a93c8dc5d0b8" 
+                type="audio/x-m4a" 
+                length="15453719" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/441753b87e282693f2b1e45cb9b04737170e2486ed54d8c1880d370b817e90bc" 
+                type="audio/x-m4a" 
+                length="45651847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/d99d34cba8ee7605c0138957786f38d07b00fee8c858b69067e26d97acd2d523" 
+                type="audio/x-m4a" 
+                length="60750843" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/ad40b95843710e22886dd63d7950aae7585c855cf09d6c1533c768430ca4b55f" 
+                type="audio/mpeg" 
+                length="15099322" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/eea1963785d2c64afa377d212ee4b28679d0ec7e4511db3ec105cfa5adf93540" 
+                type="audio/mpeg" 
+                length="45297082" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/1027ade0a4490509f1e2888344a068e794c5bde5dadca42bf1da0db7c7c4b9b9" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032424003</guid>
+            <link>https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/svantes-fars-viser-3-4-11032424003</link>
+            <title>Svantes fars viser (3:4)</title>
+            <description>Hvad er vigtigt at huske i fort&amp;#xE6;llingen om sit eget liv? Er det kun alt det gode og rare? Eller er det ogs&amp;#xE5; de ting, man m&amp;#xE5;ske kan have lyst til at fortr&amp;#xE6;nge? Det sp&amp;#xF8;rgsm&amp;#xE5;l rejses, da Svantes far finder et brev, han havde glemt alt om.
+ 
+Medvirkende:
+Lisbeth - Svantes fars tidligere k&amp;#xE6;reste og mor til Svantes br&amp;#xF8;dre.
+Jannie - Svantes mor.
+Sofus - Svantes yngste storebror.
+Andreas - Svantes &amp;#xE6;ldste storebror.
+Vibeke - Svantes fars s&amp;#xF8;ster.</description>
+            <pubDate>Wed, 04 Sept 2024 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/51b80238ed70772fadf51fcc9e86f6fad8c7c7184b96fac5ca9b3fe675e42d3b" 
+                type="audio/x-m4a" 
+                length="14432637" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/4c14273e2b57afd6dc95a108ce90056bfd5999df02d0a4cae8b8934a4806cd14" 
+                type="audio/x-m4a" 
+                length="42635287" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/ded7b34e5a58eb5846273a0070dc17be023144020f0cf82644f3b4882e0f32e0" 
+                type="audio/x-m4a" 
+                length="56736597" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/19bde54d54e634694c4663868144610ee9e8d8cf0f5e1569510b84374e4080af" 
+                type="audio/mpeg" 
+                length="14101686" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/7667f8dc0e8935afe6a723bc615fa7bbe6b22fc6fa6bd6fa2eb068fe2a04cd95" 
+                type="audio/mpeg" 
+                length="42304182" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/eb68ce574abcffb93a6634164650e8404abd7a9647bcec026e89ea51e5e2765f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032424004</guid>
+            <link>https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/husker-hjertet-far-4-4-11032424004</link>
+            <title>Husker hjertet, far? (4:4)</title>
+            <description>Hvad er k&amp;#xE6;rlighed? Har en n&amp;#xE6;r relation kun dybde, hvis man har en f&amp;#xE6;lles fortid? Betyder et kram fra ens far det samme som altid, selvom han ikke l&amp;#xE6;ngere husker ens navn? De store sp&amp;#xF8;rgsm&amp;#xE5;l f&amp;#xF8;lger med, n&amp;#xE5;r de m&amp;#xF8;rke tanker tr&amp;#xE6;nger sig p&amp;#xE5;. Men s&amp;#xE5; m&amp;#xF8;der Svante og hans far en vigtig fremmed. 
+ 
+Medvirkende:
+Pia - Svantes fars nuv&amp;#xE6;rende kone.
+Jannie - Svantes mor.
+Maria - Kvinde, der nu bor i Svante og Svantes fars gamle hjem.</description>
+            <pubDate>Wed, 04 Sept 2024 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/257a7951119e0e00a2eda346343d9c481f8226f62e338ce7cda788f2a188e910" 
+                type="audio/x-m4a" 
+                length="16814213" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/6ce9aa7d6f61caef357f61bd23491937fefdad942ff02094275139e546e7bc4d" 
+                type="audio/x-m4a" 
+                length="49671035" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/28a3b9ecae846f90496f0864891e8793965e6f23fb3ed38f0d801c8725c1790e" 
+                type="audio/x-m4a" 
+                length="66099429" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/8a3fccc56737f570fe8bc7847d033f894a2e75a5e230a6227b47b8d89aca9b46" 
+                type="audio/mpeg" 
+                length="16428736" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/5887dd25b4b5fb0b887202bd2e479b8ba658580f276ecf75ba06338ae06bb866" 
+                type="audio/mpeg" 
+                length="49285312" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/065c2d445ec58c2f20765dff0df2ea8b80a1388e26f08d3f3a95a6f8e2c6014e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

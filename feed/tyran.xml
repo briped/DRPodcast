@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/tyran.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Tyran (recycled)</title>
+        <link>https://www.dr.dk/lyd/p3/tyran-4747004850000</link>
+        <description>Tyran handler om alle de personer, der igennem tiden har gjort verden til et markant d&amp;#xE5;rligere sted.
+Den her P3-podcast viser dig verdenshistoriens mest morderiske, korrupte, l&amp;#xF8;gnagtige, krigshungrende, undertrykkende og magtliderlige typer.
+De befinder sig overalt, ofte i begivenhedernes- og magtens centrum.
+Emil Rothstein-Christensen og Nicholas Durup Thomsen fort&amp;#xE6;ller tyrannernes fuldst&amp;#xE6;ndigt vanvittige og actionm&amp;#xE6;ttede historier.
+B&amp;#xE5;de dem, du ikke kender, og dem, du g&amp;#xE5;r og tror, du kender.
+Og n&amp;#xE5;r vi f&amp;#xF8;rst kender fortidens folkemordere og undertrykkere, bliver det m&amp;#xE5;ske lidt lettere at gennemskue, hvordan vi skal forholde os til alle de dumme svin, der stadig tyranniserer store dele af verden.
+
+Nyt afsnit hver torsdag.
+
+Produceret for P3 af MonoMono.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.39.58 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/tyran.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/tyran.jpg</url>
+            <title>Tyran (recycled)</title>
+            <link>https://www.dr.dk/lyd/p3/tyran-4747004850000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/tyran.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Krimi</category>
+        <itunes:category text="Krimi" />
+        <category>Historie</category>
+        <itunes:category text="Historie" />
+        <item>
+            <guid isPermaLink="false">16122393601</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-saddam-hussein/saddam-hussein/1-6-saddam-hussein-16122393601</link>
+            <title>1:6 - Saddam Hussein</title>
+            <description>Saddam er en stakkels, fors&amp;#xF8;mt, meget vred og afstumpet lille dreng. Hele hans barndom er han blevet udsat for ydmygelse, t&amp;#xE6;sk og mobning. Men en dag kommer han til at blive Iraks m&amp;#xE6;gtigste mand, og s&amp;#xE5; bliver det HANS tur til at pine og plage.
+
+Manus &amp;#x26; research: Oskar Bundgaard.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Fort&amp;#xE6;ller &amp;#x26; redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blaydes, Lisa (2018): State of Repression
+Coughlin, Con (2002): Saddam
+Faust, Aaron M. (2015): The ba&amp;#x27;thification of Iraq
+Karsh, Efraim og Inari Rautsi (1991): Saddam Hussein
+Nielsen, Helle Lykke (2004): Saddam
+Nixon, John (2016): Debriefing the President</description>
+            <pubDate>Sun, 31 Dec 2023 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d79/4a7b80787821fc3cd58d55636010088ce7ac62f03524ddeca1d00de497348b57" 
+                type="audio/x-m4a" 
+                length="16966737" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d79/1dae0a6ed3a8fc415cd28f80276d80c61daf825aac5702ef71e0bfe620ff7f6d" 
+                type="audio/x-m4a" 
+                length="50118447" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d79/e7eee501ccc507eee506b9a92beb8a7e073a1959a66b84450d6149aa24d22352" 
+                type="audio/x-m4a" 
+                length="66694657" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d79/06702e879ce177b803beb4667af3fc7d78e8885efb4bcbba0a55568df88923f0" 
+                type="audio/mpeg" 
+                length="16576745" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d79/53b6140889934017c1621ba4cd3d0c55a731aeedcbf36f1f1b9dd3ee7f04347f" 
+                type="audio/mpeg" 
+                length="49729385" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d79/9719682ddd540595919c58c95c65931cb6efc857b86cf4c0bdc1da30e8ed3f07" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393602</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-saddam-hussein/saddam-hussein/2-6-saddam-hussein-16122393602</link>
+            <title>2:6 - Saddam Hussein</title>
+            <description>Saddam er kun lige blevet pr&amp;#xE6;sident, da problemerne begynder at hobe sig op. Kurderne vil have selvst&amp;#xE6;ndighed, shiamuslimerne vil have mere indflydelse, og s&amp;#xE5; er der problemer med naboerne i Iran. Saddam l&amp;#xF8;ser problemerne med brutal vold, kanoner og giftig gas.
+
+Manus &amp;#x26; research: Oskar Bundgaard.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Fort&amp;#xE6;ller &amp;#x26; redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blaydes, Lisa (2018): State of Repression
+Coughlin, Con (2002): Saddam
+Faust, Aaron M. (2015): The ba&amp;#x27;thification of Iraq
+Karsh, Efraim og Inari Rautsi (1991): Saddam Hussein
+Nielsen, Helle Lykke (2004): Saddam
+Nixon, John (2016): Debriefing the President</description>
+            <pubDate>Sun, 31 Dec 2023 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d7d/1c4c1219620f02bfa03f9e0476890cd3a40ae04bb24930d82f83a18471a2622a" 
+                type="audio/x-m4a" 
+                length="15070681" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d7d/4b47a2162b82525144a718793c29b9a6cec3bcd64b96b172f3f8af099a3ad251" 
+                type="audio/x-m4a" 
+                length="44517147" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d7d/4dd4f98ed7e17b090fbd90fb7de07f1607601159959b7c9097344ceef58787d8" 
+                type="audio/x-m4a" 
+                length="59240895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d7d/9993434f27e79d30bdf7cb2dcbbb6198a20aacb034ed3aac297e7c7b68d413c0" 
+                type="audio/mpeg" 
+                length="14724141" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d7d/4262fb8ca49f0d1908ebdc7297a307dd29c9c111e19f28f088ffc43919ea5da6" 
+                type="audio/mpeg" 
+                length="44171565" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d7d/2db3e862196389058d83a7b61baea74d7ebf16944a03c43934d62fcb0e1102f8" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393603</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-saddam-hussein/saddam-hussein/3-6-saddam-hussein-16122393603</link>
+            <title>3:6 - Saddam Hussein</title>
+            <description>Saddam mangler penge. Hans regime har gjort irakerne fattige og vrede. Han m&amp;#xE5; g&amp;#xF8;re noget, hvis han vil beholde magten.
+Heldigvis har Saddam fundet svaret p&amp;#xE5; alle sine problemer: En invasion af det lille naboland Kuwait. Hvad kan g&amp;#xE5; galt?
+
+Manus &amp;#x26; research: Oskar Bundgaard.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Fort&amp;#xE6;ller &amp;#x26; redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blaydes, Lisa (2018): State of Repression
+Coughlin, Con (2002): Saddam
+Faust, Aaron M. (2015): The ba&amp;#x27;thification of Iraq
+Karsh, Efraim og Inari Rautsi (1991): Saddam Hussein
+Nielsen, Helle Lykke (2004): Saddam
+Nixon, John (2016): Debriefing the President</description>
+            <pubDate>Sun, 31 Dec 2023 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d80/ebd0e7dec71908f38b63e197f65ab1b23960afa9f402f30ba1e7ce2ff210d681" 
+                type="audio/x-m4a" 
+                length="16008176" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d80/0a7670675b3fc2ce32ed3377e3f8f4bb81008fd70be8d772bc865fa421302eef" 
+                type="audio/x-m4a" 
+                length="47286531" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d80/02c022163c9210958b16e7cfbb666058bd87c609d2859a56257e5def97db0b05" 
+                type="audio/x-m4a" 
+                length="62926191" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d80/0a1484f9bb907469236843032da62e45a88613b9c533d17d9705641bd6f4cff8" 
+                type="audio/mpeg" 
+                length="15640170" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d80/ee97118605d9e8aac16e6989feccffb9c79b7250f9154e6ecfcf0884acfc5dcf" 
+                type="audio/mpeg" 
+                length="46919658" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d80/7a33816be39c232fe5638045cc1f51058a2b5823692795b68472bcf5430946b0" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393604</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-saddam-hussein/saddam-hussein/4-6-saddam-hussein-16122393604</link>
+            <title>4:6 - Saddam Hussein</title>
+            <description>Saddams familieliv er som en blodig s&amp;#xE6;beopera. Det er en bizar forsamling af psykopater, divaer og mordere. De forr&amp;#xE5;der hinanden, har aff&amp;#xE6;rer, h&amp;#xE6;vner sig, og hvis det skulle blive n&amp;#xF8;dvendigt, er de ogs&amp;#xE5; klar p&amp;#xE5; at sl&amp;#xE5; hinanden ihjel.
+
+Manus &amp;#x26; research: Oskar Bundgaard.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+I redaktionen: Thomas Luplau Pozar.
+Fort&amp;#xE6;ller &amp;#x26; redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blaydes, Lisa (2018): State of Repression
+Coughlin, Con (2002): Saddam
+Faust, Aaron M. (2015): The ba&amp;#x27;thification of Iraq
+Karsh, Efraim og Inari Rautsi (1991): Saddam Hussein
+Nielsen, Helle Lykke (2004): Saddam
+Nixon, John (2016): Debriefing the President</description>
+            <pubDate>Thu, 04 Jan 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d84/f392a619c46d7a4c7fb546bf28e8aec01a87a652b8e4ab62259c7d4d797453e7" 
+                type="audio/x-m4a" 
+                length="17119742" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d84/fe72e769448885c4d7a6493d213467d1d8ef56355b429282eb03e250d022a933" 
+                type="audio/x-m4a" 
+                length="50570915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d84/4cbb51c58409b82e90ef3198f3c1c17845d8136e97da16cbcde7be7ee3628447" 
+                type="audio/x-m4a" 
+                length="67296968" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d84/3a7b0322e98c5aa1d90762d2c376b7c17a83bfa74658371a188ecf47b18074fa" 
+                type="audio/mpeg" 
+                length="16726316" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d84/dcb0aff875f1fb24bcc643f1c75c0c9673005a78bd91b8ea76f7b0ceefa17b4f" 
+                type="audio/mpeg" 
+                length="50178092" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d84/c65b62b1131663bafeaa18be8050395c6bf7f1a09bed315cf3901d4647c1de4f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393605</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-saddam-hussein/saddam-hussein/5-6-saddam-hussein-16122393605</link>
+            <title>5:6 - Saddam Hussein</title>
+            <description>En gammel mand sidder i et hul i jorden. Hans t&amp;#xF8;j er beskidt, og hans h&amp;#xE5;r og sk&amp;#xE6;g er langt, vildt og filtret. Over ham er en gruppe amerikanske soldater ved at kyle en h&amp;#xE5;ndgranat ned til ham. Men f&amp;#xF8;r de kan n&amp;#xE5; at kaste den, kravler den gamle mand ud af hullet, og proklamerer: &amp;#x22;Mit navn er Saddam Hussein, Iraks pr&amp;#xE6;sident, og jeg er villig til at forhandle&amp;#x22;.
+
+Manus &amp;#x26; research: Oskar Bundgaard.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Fort&amp;#xE6;ller &amp;#x26; redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blaydes, Lisa (2018): State of Repression
+Coughlin, Con (2002): Saddam
+Faust, Aaron M. (2015): The ba&amp;#x27;thification of Iraq
+Karsh, Efraim og Inari Rautsi (1991): Saddam Hussein
+Nielsen, Helle Lykke (2004): Saddam
+Nixon, John (2016): Debriefing the President</description>
+            <pubDate>Thu, 11 Jan 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d87/4826669ad7f0d526db9e910a63b573052ec7f543e77354156026a177b530bead" 
+                type="audio/x-m4a" 
+                length="17307271" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d87/9fdfc398623f9719ca81eece0f64fdf21123dedd0650d415f4f68e67193a1ecb" 
+                type="audio/x-m4a" 
+                length="51124575" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d87/1c83a8be0bf22ff74d603fe6abab83624b0f03679a7fceb800b8bdb4b56efc3c" 
+                type="audio/x-m4a" 
+                length="68033729" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d87/c788bf4181345f3c854f197dcbac1e75fa9fe2f917d17809fff66f0532fea696" 
+                type="audio/mpeg" 
+                length="16909488" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d87/0e2731dd4bf53386f01b125bd9a0356b92d2a049b0b823a253fa6c35c64c4af4" 
+                type="audio/mpeg" 
+                length="50727600" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65857ad9163dfa22d54c3d87/4737afd7fce21c340d6983659cbe5aa5925d2391d2c38d793c2c27e26525c5c7" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122393606</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-saddam-hussein/saddam-hussein/6-6-saddam-hussein-noerdeafsnit-16122393606</link>
+            <title>6:6 - Saddam Hussein N&amp;#xF8;rdeafsnit</title>
+            <description>I denne her n&amp;#xF8;rdeepisode skal vi endnu t&amp;#xE6;ttere p&amp;#xE5; Saddams forhold til sin inderkreds. Oskar Bundgaard kommer i studiet og fort&amp;#xE6;ller om Saddam Husseins fork&amp;#xE6;rlighed for helikopterstyrtslikvideringer, hans alternative metode til at bek&amp;#xE6;mpe fedme p&amp;#xE5; i sin regering og et legendarisk Rambo-eventyr. Men vi skal ogs&amp;#xE5; h&amp;#xF8;re om &amp;#x22;Den gode Saddam Hussein&amp;#x22; - en feministisk Robin Hood-version af diktatoren - som man let kan komme til at glemme. 
+I studiet: Emil Rothstein-Christensen &amp;#x26; Oskar Bundgaard.
+Produceret for P3 af MonoMono.</description>
+            <pubDate>Thu, 22 Aug 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b327ed102348273c9f9b89/721e72f527c54e2fa4aca30915176aa20d9db76c4fe3bf2ff011481367cbfd6c" 
+                type="audio/x-m4a" 
+                length="14016232" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b327ed102348273c9f9b89/d2c75b0476b1393fa947e791f7d8d3ff2681ab094ff7acf8763579e155d50544" 
+                type="audio/x-m4a" 
+                length="41405139" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b327ed102348273c9f9b89/6d01bf3ead9d893204e83cec193b96255ed9a3e2ce50a13a068b7ce3dd2f0b1e" 
+                type="audio/x-m4a" 
+                length="55099484" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b327ed102348273c9f9b89/1a5f5e7613bc2160ddbc844d2397eb60a329f8d6bcf380128d4c4daf9fc52754" 
+                type="audio/mpeg" 
+                length="13694375" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b327ed102348273c9f9b89/150bbb29987ebac216e8a8feaac9674624787955765779b57a5b0c7183fa0566" 
+                type="audio/mpeg" 
+                length="41082791" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b327ed102348273c9f9b89/1213a8579775ba9836202271a64f278abed80b5294c0a8af7cd1b89b489d8bfe" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493601</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-idi-amin/idi-amin/1-7-idi-amin-16122493601</link>
+            <title>1:7 - Idi Amin</title>
+            <description>Afrikas Hitler. Slagteren fra Uganda. Idi Amin er blevet kaldt mange ting. Gennem utallige blodige og brutale kampe for det britiske milit&amp;#xE6;r, baner den unge Idi sin vej op igennem hele systemet - indtil han til sidst selv har al magten!
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Mikkel B&amp;#xF8;geskov Andersson.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen &amp;#x26; Mikkel B&amp;#xF8;geskov Andersson.
+I redaktionen: Liv Sofie Knapp.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Alicia C. Decker: Idi Amin&amp;#x27;s Shadow: Women, Gender, and Militarism in Uganda.
+Mark Leopold: Idi Amin - The story of Africa&amp;#x27;s icon of evil.
+Henry Kyemba: Afrikas Hitler - tyve &amp;#xE5;r med Idi Amin.
+Erich Wiedemann: Idi Amin - Ugandas diktator.
+Biskop Festo Kivengere: Jeg elsker Idi Amin.
+Witold Szablowski: How to feed a Dictator.</description>
+            <pubDate>Thu, 18 Jan 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:57</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157fe119b65cdeb57de1/6ff45f28a9098e875ae95c022704c921f670f3c5543078b89a15675ee05ddc96" 
+                type="audio/x-m4a" 
+                length="15210313" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157fe119b65cdeb57de1/a4b02db6fc53248d9555d903721b7c1ef8099aabdab097c6eb8bc5d7ecab61cb" 
+                type="audio/x-m4a" 
+                length="44930007" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157fe119b65cdeb57de1/5d5a7903e1326d400e3e30f6b3d4a0d53fa266ab5c7c2f5a0711ae01a17a1e95" 
+                type="audio/x-m4a" 
+                length="59790276" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157fe119b65cdeb57de1/e3274d26ee42d5dc3ee55d7f7d76ee607205edcc088cb3d16c2c81a9242fbfc7" 
+                type="audio/mpeg" 
+                length="14860648" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157fe119b65cdeb57de1/c2333c91bfde197921a0d4a1ccf2bb0a252ad6a9842ff538cb249657ba6a8c78" 
+                type="audio/mpeg" 
+                length="44581096" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157fe119b65cdeb57de1/9998218f94875f1e15e77b0ba5dac0361e2e65473d9d82bd296ec98ea3b51d5f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493602</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-idi-amin/idi-amin/2-7-idi-amin-16122493602</link>
+            <title>2:7 - Idi Amin</title>
+            <description>Idi Amin er i problemer. En uskyldig stamme er blevet massakreret, og alle pile peger p&amp;#xE5; ham. Det er d&amp;#xE5;rlig timing. Uganda har lige f&amp;#xE5;et sin selvst&amp;#xE6;ndighed, og Idi er udset til en toppost. Idis sk&amp;#xE6;bne afh&amp;#xE6;nger nu af &amp;#xE9;n mand: den nye pr&amp;#xE6;sident Obote.
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Mikkel B&amp;#xF8;geskov Andersson.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen &amp;#x26; Mikkel B&amp;#xF8;geskov Andersson.
+I redaktionen: Liv Sofie Knapp.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Alicia C. Decker: Idi Amin&amp;#x27;s Shadow: Women, Gender, and Militarism in Uganda.
+Mark Leopold: Idi Amin - The story of Africa&amp;#x27;s icon of evil.
+Henry Kyemba: Afrikas Hitler - tyve &amp;#xE5;r med Idi Amin.
+Erich Wiedemann: Idi Amin - Ugandas diktator.
+Biskop Festo Kivengere: Jeg elsker Idi Amin.
+Witold Szablowski: How to feed a Dictator.</description>
+            <pubDate>Thu, 25 Jan 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:43</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d4/6256c5567316925327b6aec17aab9ac4e9a9b8cc5ce690d7041448b93f8c4665" 
+                type="audio/x-m4a" 
+                length="16571654" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d4/092c72fcf5cfc6289c85de2b6432766bb2612ea62270c88b47ee3d0d14b6d59f" 
+                type="audio/x-m4a" 
+                length="48951787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d4/ca8fe9db9795bf7f50f6b50bfdd1121deb99c56cbe4a919b434e55c0e05c5e4f" 
+                type="audio/x-m4a" 
+                length="65142212" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d4/e0506ea7357e3ba9e3f162685a2eaa678dcbb5b41f2bf9f661a0fd91f1e1f8cd" 
+                type="audio/mpeg" 
+                length="16190832" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d4/913ffb17530d54ab1917da2030becdc7bff7dfa169746f388e32801fae743696" 
+                type="audio/mpeg" 
+                length="48571632" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d4/15163fa2cd9419798da6530fa7be17c52e7b7c02dc1f50f258976e8472e72f7d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493603</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-idi-amin/idi-amin/3-7-idi-amin-16122493603</link>
+            <title>3:7 - Idi Amin</title>
+            <description>Obote har gjort Amin ekstremt rig. Men efterh&amp;#xE5;nden er pengene ikke nok. Idi vil ogs&amp;#xE5; have magt, men for at f&amp;#xE5; det, m&amp;#xE5; hans gamle perleven ryddes af vejen.
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Mikkel B&amp;#xF8;geskov Andersson.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen &amp;#x26; Mikkel B&amp;#xF8;geskov Andersson.
+I redaktionen: Liv Sofie Knapp.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Alicia C. Decker: Idi Amin&amp;#x27;s Shadow: Women, Gender, and Militarism in Uganda.
+Mark Leopold: Idi Amin - The story of Africa&amp;#x27;s icon of evil.
+Henry Kyemba: Afrikas Hitler - tyve &amp;#xE5;r med Idi Amin.
+Erich Wiedemann: Idi Amin - Ugandas diktator.
+Biskop Festo Kivengere: Jeg elsker Idi Amin.
+Witold Szablowski: How to feed a Dictator.</description>
+            <pubDate>Thu, 01 Feb 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:16</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580e119b65cdeb57de9/57f536f1f8d996671b12c1e5febb2089d4cf1ac8e099a1349e86e1bf088d4bab" 
+                type="audio/x-m4a" 
+                length="13889224" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580e119b65cdeb57de9/f31c0548e35ccd59cf53300c158dee84e51ad934df8c4f666c77494ede85a2e4" 
+                type="audio/x-m4a" 
+                length="41027327" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580e119b65cdeb57de9/61cbfb06b0a531ec9367a0f4413bc4b12c18bdafa656e2465359f43e45f2df70" 
+                type="audio/x-m4a" 
+                length="54596912" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580e119b65cdeb57de9/f971e5c6dea970c08d91652c944f78b962424dedf989f0bb86ab2d9d88de3a47" 
+                type="audio/mpeg" 
+                length="13569836" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580e119b65cdeb57de9/a44447131cf4095cdc4c7a0ce9e289f243f347bcfef5b07ba0cf24016f719148" 
+                type="audio/mpeg" 
+                length="40708652" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580e119b65cdeb57de9/be759cebc98ea160eee7d6af6acf1b5f3812ca5b6f0d33f689269fa80db37d8c" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493604</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-idi-amin/idi-amin/4-7-idi-amin-16122493604</link>
+            <title>4:7 - Idi Amin</title>
+            <description>Et sted mellem 40 og 60 b&amp;#xF8;rn. Idi Amin er en familiefar med stort F. Og han er ogs&amp;#xE5; Ugandas nye landsfader. Alt skal se flot og skinnende ud p&amp;#xE5; facaden. H&amp;#xF8;r med, n&amp;#xE5;r han charmerer sig ind p&amp;#xE5; lokalbefolkningen, tryllebinder kvinderne og tager de udenlandske journalister med p&amp;#xE5; krokodillesafari.
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Mikkel B&amp;#xF8;geskov Andersson.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen &amp;#x26; Mikkel B&amp;#xF8;geskov Andersson.
+I redaktionen: Liv Sofie Knapp.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Alicia C. Decker: Idi Amin&amp;#x27;s Shadow: Women, Gender, and Militarism in Uganda.
+Mark Leopold: Idi Amin - The story of Africa&amp;#x27;s icon of evil.
+Henry Kyemba: Afrikas Hitler - tyve &amp;#xE5;r med Idi Amin.
+Erich Wiedemann: Idi Amin - Ugandas diktator.
+Biskop Festo Kivengere: Jeg elsker Idi Amin.
+Witold Szablowski: How to feed a Dictator.</description>
+            <pubDate>Thu, 08 Feb 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:21:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580b513af00f62c5603/92642b5a50af3bd347320d0970b014761a89ef73e8e04b76b3d59af9578c5e7f" 
+                type="audio/x-m4a" 
+                length="10353820" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580b513af00f62c5603/6b0e6ef34ca434a227068bd39a2a91132ec4bfc57c12fd739cd9c35a96bebc57" 
+                type="audio/x-m4a" 
+                length="30582883" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580b513af00f62c5603/a4991ce38ce4980279739dca8543307e012fb0b93296fb7fd25b2b02ac3dfc3c" 
+                type="audio/x-m4a" 
+                length="40697908" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580b513af00f62c5603/95fb89fc74bc40dd7d87830a344aec0139c80c25eb84e6a6868ab465206b3c02" 
+                type="audio/mpeg" 
+                length="10115378" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580b513af00f62c5603/eebf3614e973bd4a8ca8bcae4da51bd4e4733c10af1876cf2e53a0b9ab41229a" 
+                type="audio/mpeg" 
+                length="30345266" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a51580b513af00f62c5603/1ed1a1ba43b08081363fa2498c0df390e392c69d41682df2e42d0e69f54063ef" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493605</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-idi-amin/idi-amin/5-7-idi-amin-16122493605</link>
+            <title>5:7 - Idi Amin</title>
+            <description>Idi Amin har f&amp;#xE5;et reng&amp;#xF8;ringsvanvid. Der skal ryddes op i Uganda. Han ser fjender overalt. Og de kan kun fjernes p&amp;#xE5; den h&amp;#xE5;rde m&amp;#xE5;de. Det g&amp;#xE6;lder ikke mindst alle de asiater, der bor i landet. De skal v&amp;#xE6;k nu! - ellers bliver det v&amp;#xE6;rst for dem selv.
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Mikkel B&amp;#xF8;geskov Andersson.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen &amp;#x26; Mikkel B&amp;#xF8;geskov Andersson.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Alicia C. Decker: Idi Amin&amp;#x27;s Shadow: Women, Gender, and Militarism in Uganda.
+Mark Leopold: Idi Amin - The story of Africa&amp;#x27;s icon of evil.
+Henry Kyemba: Afrikas Hitler - tyve &amp;#xE5;r med Idi Amin.
+Erich Wiedemann: Idi Amin - Ugandas diktator.
+Biskop Festo Kivengere: Jeg elsker Idi Amin.
+Witold Szablowski: How to feed a Dictator.</description>
+            <pubDate>Thu, 15 Feb 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d1/2f5c97a2a3f0cbe6031c1dc6e90971a6e5cccad811d98ad2fdb430a3a65c745c" 
+                type="audio/x-m4a" 
+                length="14414534" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d1/09861e3a512d8ada7938da4bc1e61690cb8bd392cb6ca64c0f264ddd6bb8ca32" 
+                type="audio/x-m4a" 
+                length="42579031" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d1/ef6f5e587b1284825ae8be742c3480f812ca7da21febc7f3e9ad81d42a31d748" 
+                type="audio/x-m4a" 
+                length="56661787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d1/e55ed01a55f83fe90ac6c1385b12df4687212db2ebf3ac957baab0cb94eafbaf" 
+                type="audio/mpeg" 
+                length="14083054" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d1/c731717b31fca88ca7498e9d617d221e735d086411485fc0a659ce2099c582ed" 
+                type="audio/mpeg" 
+                length="42248302" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157f69095ef6b2dae1d1/77c56c6a4b6a51037333928fce29f5aba5c27021b755ee438ca18864f02b99d9" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493606</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-idi-amin/idi-amin/6-7-idi-amin-16122493606</link>
+            <title>6:7 - Idi Amin</title>
+            <description>Historierne om Idi Amins vanvidsregime er begyndt at sprede sig, og det f&amp;#xE5;r flere af Amins gamle venner til at vende ham ryggen. Han er desperat. I et fors&amp;#xF8;g p&amp;#xE5; at f&amp;#xE5; nye allierede, l&amp;#xE6;gger han sig ud med Israel. Men det skulle han aldrig have gjort. Det starter en dominoeffekt, og pludselig er det Idi Amin, der flygter for sit liv.
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Mikkel B&amp;#xF8;geskov Andersson.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen &amp;#x26; Mikkel B&amp;#xF8;geskov Andersson.
+DR-redakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Alicia C. Decker: Idi Amin&amp;#x27;s Shadow: Women, Gender, and Militarism in Uganda.
+Mark Leopold: Idi Amin - The story of Africa&amp;#x27;s icon of evil.
+Henry Kyemba: Afrikas Hitler - tyve &amp;#xE5;r med Idi Amin.
+Erich Wiedemann: Idi Amin - Ugandas diktator.
+Biskop Festo Kivengere: Jeg elsker Idi Amin.
+Witold Szablowski: How to feed a Dictator.</description>
+            <pubDate>Thu, 22 Feb 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157ee119b65cdeb57dd8/b2687bec6ac711cf3dc63c49aa6dbc72234bceb4ed33ebb687e96e4d336ca302" 
+                type="audio/x-m4a" 
+                length="16773963" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157ee119b65cdeb57dd8/8b820dfe6972f8e8f79b3a1f95738e0d6c84627aa73beb252e5d1ad53d8e6e0e" 
+                type="audio/x-m4a" 
+                length="49549195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157ee119b65cdeb57dd8/cce4be11f358232bf63080bf611fdfbe62165ab2b0a33c908bba7f2fd4a28c2f" 
+                type="audio/x-m4a" 
+                length="65937328" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157ee119b65cdeb57dd8/71899b8849a4a3257f30db8f9660a47e01f628676c551a323126b70bbaa042bd" 
+                type="audio/mpeg" 
+                length="16388401" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157ee119b65cdeb57dd8/d2640b1bb25d5557851e2728557cb3c68c9e078954d48fb46ca6bc90615751e4" 
+                type="audio/mpeg" 
+                length="49164337" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a5157ee119b65cdeb57dd8/ddca42b67985e2f9954cd6d30755923afd511dd6293e8e0a9411ad5e1051f64b" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493607</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-idi-amin/idi-amin/7-7-idi-amin-noerdeafsnit-16122493607</link>
+            <title>7:7 - Idi Amin N&amp;#xF8;rdeafsnit</title>
+            <description>Dirch Passer har engang optr&amp;#xE5;dt som Idi Amin. Holstebro Revyen 1976. Nicholas fort&amp;#xE6;ller om den - ofte ret primitive m&amp;#xE5;de - der er blevet gjort grin med Ugandas blodige diktator p&amp;#xE5;, og hvordan Idi Amin aktivt brugte vestens hyggeracistiske karikaturer til at lede opm&amp;#xE6;rksomheden v&amp;#xE6;k fra hans egentlige forbrydelser. Vi skal ogs&amp;#xE5; vende hollywood-udgaven af Idi Amin og h&amp;#xF8;re den fantastiske historie om hans private kok; en af de vigtigste kilder til Idi Amins privatliv. 
+I studiet: Emil Rothstein-Christensen &amp;#x26; Nicholas Durup Thomsen.
+Produceret for P3 af MonoMono.</description>
+            <pubDate>Thu, 22 Aug 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:22:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32849f850aab1a1b4d0b7/39ecff37b6622cc8ca2aff7b464c1113ff898ee59cfef572879bb320f26d0eb7" 
+                type="audio/x-m4a" 
+                length="10852645" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32849f850aab1a1b4d0b7/a79bb4e9cb88bdb98e9beb2b00770b72e1ae0fdc86237872574da6ba2741f66c" 
+                type="audio/x-m4a" 
+                length="32059203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32849f850aab1a1b4d0b7/b663a9aaf3e9376d692cbbe22ee13a1e66984dfb49d7308e56b7d8136eb9a28f" 
+                type="audio/x-m4a" 
+                length="42662457" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32849f850aab1a1b4d0b7/3d42820af98dd1d182966b29b917f64f5d9d9fe5e49a6008136e9e2e14b9b7af" 
+                type="audio/mpeg" 
+                length="10603633" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32849f850aab1a1b4d0b7/056fe6ec98a1339183084c4d06f389da5cef2d264c3c2245059fb1f933163d30" 
+                type="audio/mpeg" 
+                length="31810033" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32849f850aab1a1b4d0b7/b3e1ad4caee30f5c32a59ed67adb50ed978e154ffa8e09be5d5671047e0ad2b8" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493701</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-pol-pot/pol-pot/1-6-pol-pot-16122493701</link>
+            <title>1:6 - Pol Pot</title>
+            <description>Pol Pots Cambodja er muligvis det v&amp;#xE6;rste land, man nogensinde har kunnet leve i. Unaturlig d&amp;#xF8;d var mere normalt end naturligt liv. Og stort set alt undtagen arbejde i rismarkerne var forbudt. Selv det at have en mor og far bliver gjort ulovligt. Det er sm&amp;#xE5;borgerligt og ondt. Pol Pots id&amp;#xE9; om et egalit&amp;#xE6;rt utopia udvikler sig p&amp;#xE5; rekordtid til et verdenshistorisk mareridt.
+
+Manus: Oskar Bundgaard.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+I redaktionen: Signe Marie Bang.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+David P. Chandler (1992): Brother number one.
+David P. Chandler (1999): Voices from S-21.
+Henri Locard (2004): Pol Pots little red book.
+Ben Kiernan (2004): How Pol Pot came to power.
+Philip Short (2004): Pol Pot.</description>
+            <pubDate>Thu, 29 Feb 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:26</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c71084fe132ef2bf8/748342bc08bce4059d07ecc05dc4f4c7bcc5274fd67d1b7a1c57455052094fc5" 
+                type="audio/x-m4a" 
+                length="12500112" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c71084fe132ef2bf8/b93b340cb74a0e20389644b57c83b7e7472e1dae85b1bec93368bc72f604b048" 
+                type="audio/x-m4a" 
+                length="36923575" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c71084fe132ef2bf8/de8a84d2716781ab48e11835ddc848e824c3b8851d98cf309864d9e5dc0d1bd8" 
+                type="audio/x-m4a" 
+                length="49135736" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c71084fe132ef2bf8/755a0b4208ab79af1971e8ee3319131d426d513ce00501e482cf22f51aff695c" 
+                type="audio/mpeg" 
+                length="12212590" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c71084fe132ef2bf8/f4776fb0de15931825cfe8108386e470bc8af8d89dedf455ddab1b085e5a5efc" 
+                type="audio/mpeg" 
+                length="36636910" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c71084fe132ef2bf8/1b7305638b5a500734ff08209021eb313ebda1f0caf9c6e09fb07000fd9658b9" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493702</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-pol-pot/pol-pot/2-6-pol-pot-16122493702</link>
+            <title>2:6 - Pol Pot</title>
+            <description>Om dagen er Pol Pot en beundret gymnasiel&amp;#xE6;rer. Men om natten er han en frygtindgydende revolution&amp;#xE6;r. Pol Pot lever et dobbeltliv, og i al hemmelighed planl&amp;#xE6;gger han sin vej til magten - fra tavle til terror.
+
+Manus: Oskar Bundgaard.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+David P. Chandler (1992): Brother number one.
+David P. Chandler (1999): Voices from S-21.
+Henri Locard (2004): Pol Pots little red book.
+Ben Kiernan (2004): How Pol Pot came to power.
+Philip Short (2004): Pol Pot.</description>
+            <pubDate>Thu, 07 Mar 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:09</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d1464b43bcf619cd0/d5d97644d671e2aa1d48204a9c634a47d84c3d623cc84c2dd4c09d35be8a4593" 
+                type="audio/x-m4a" 
+                length="16292123" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d1464b43bcf619cd0/2a249ee0566292cb65223101166f4c172814587d67be05effa41c66cf66cfc95" 
+                type="audio/x-m4a" 
+                length="48125607" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d1464b43bcf619cd0/32e8c5d9cc1df80148070b7de707f616326fc3b6d3d4841d37e81a4eb355882e" 
+                type="audio/x-m4a" 
+                length="64042831" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d1464b43bcf619cd0/3029a199daa1f730d9ea386dc25f003a897bc0b7de806c9211a50360cad26070" 
+                type="audio/mpeg" 
+                length="15917611" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d1464b43bcf619cd0/219b29800c8c9cd97845d4d65a183c3704c678235190be5ce89031bcc4e7f0cb" 
+                type="audio/mpeg" 
+                length="47751979" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d1464b43bcf619cd0/f5ad837eb7699da17b1eabfaada4fbc369836d06c19594b9058dfe6b1e625e7b" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493703</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-pol-pot/pol-pot/3-6-pol-pot-16122493703</link>
+            <title>3:6 - Pol Pot</title>
+            <description>I en forladt og hemmelig baneg&amp;#xE5;rdsbygning i det menneskeforladte Phnom Phen orkestrerer Pol Pot et usynligt, men allestedsv&amp;#xE6;rende, jerngreb over sin befolkning. 
+En magt uden et ansigt, men med et navn, Angkar som skaber frygt og r&amp;#xE6;dsel i alle afkroge af landets gr&amp;#xE6;nser.
+
+Manus: Oskar Bundgaard.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+David P. Chandler (1992): Brother number one.
+David P. Chandler (1999): Voices from S-21.
+Henri Locard (2004): Pol Pots little red book.
+Ben Kiernan (2004): How Pol Pot came to power.
+Philip Short (2004): Pol Pot.</description>
+            <pubDate>Thu, 14 Mar 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d470c29368907cc8d/54466c3620c1f5db925ebd1bc90057edc9f60e2c8643fb2a795a74d907b91de5" 
+                type="audio/x-m4a" 
+                length="12941263" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d470c29368907cc8d/5ddf540ad27b8153202c6a1194302a143be62280401abd64e53a9a5bf7b162bf" 
+                type="audio/x-m4a" 
+                length="38225959" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d470c29368907cc8d/a950b49b33c996ba5a1e30c83daabbaf49b69c397a761385b190f76aa589c010" 
+                type="audio/x-m4a" 
+                length="50868931" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d470c29368907cc8d/f33212d2ad18923b90df09f60ba91ed3e25ba4671d32224537b65916250f0c67" 
+                type="audio/mpeg" 
+                length="12643437" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d470c29368907cc8d/da252e6655bf7ce59413bb892e8bb0450bfa8d689aa3e84ba98b41a583274c33" 
+                type="audio/mpeg" 
+                length="37929453" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849d470c29368907cc8d/59f07a941b3dcff0b8e2e15f3651996606a42bbee14fa7e23997bace88e4e830" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493704</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-pol-pot/pol-pot/4-6-pol-pot-16122493704</link>
+            <title>4:6 - Pol Pot</title>
+            <description>De R&amp;#xF8;de Khmerers Cambodia er en katastrofe. En fjerdeldel af befolkningen er enten blevet dr&amp;#xE6;bt eller d&amp;#xF8;de af sult. Den utopiske id&amp;#xE9; om et retf&amp;#xE6;rdigt samfund er g&amp;#xE5;et fra hinanden. Pol Pot reagerer i en t&amp;#xE5;ge af paranoia - og det s&amp;#xE6;tter gang i en k&amp;#xE6;de af vold, men giver ogs&amp;#xE5; et uventet comeback til en af hans gamle fjender.
+
+Manus: Oskar Bundgaard.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+David P. Chandler (1992): Brother number one.
+David P. Chandler (1999): Voices from S-21.
+Henri Locard (2004): Pol Pots little red book.
+Ben Kiernan (2004): How Pol Pot came to power.
+Philip Short (2004): Pol Pot.</description>
+            <pubDate>Thu, 21 Mar 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:34</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c607fd173e33b9e19/81eb586ed9ae973406796ebd2c690889f1340da1deb5cdeddf93e81fb5068466" 
+                type="audio/x-m4a" 
+                length="16984430" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c607fd173e33b9e19/a67575db0ea436514d2d9849083ef3a0c574bde49ba87861a7397c8eaddb3c94" 
+                type="audio/x-m4a" 
+                length="50170527" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c607fd173e33b9e19/54791c5bbb3b5e102fb04bf6784abab2f8c734710d2737cb79b76c985ae01fa8" 
+                type="audio/x-m4a" 
+                length="66764071" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c607fd173e33b9e19/5f043068e7cd56dbbc3f6442a279bd5b3f6056c706879e97d2c05ef5f407d15e" 
+                type="audio/mpeg" 
+                length="16594034" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c607fd173e33b9e19/75981d8d67230a984560ac9d5ba67b3eb609d4d9c290617d1dbec7bcae540a85" 
+                type="audio/mpeg" 
+                length="49781234" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849c607fd173e33b9e19/769e51a84bb6dc97115f0671973279d06e1339e5c98913f7535563f3f1684a0f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493705</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-pol-pot/pol-pot/5-6-pol-pot-16122493705</link>
+            <title>5:6 - Pol Pot</title>
+            <description>&amp;#xC5;ret er 1994. I hjertet af junglen hvor Pol Pot engang herskede, sidder han nu som en sv&amp;#xE6;kket gammel mand med iltmaske og l&amp;#xE6;ser i franske sladderblade. Han har intet tilbage - ud over paranoiaen. Og en enkelt fatal beslutning kommer til at presse Cambodjas tidligere Tyran ud over kanten.
+
+Manus: Oskar Bundgaard.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+David P. Chandler (1992): Brother number one.
+David P. Chandler (1999): Voices from S-21.
+Henri Locard (2004): Pol Pots little red book.
+Ben Kiernan (2004): How Pol Pot came to power.
+Philip Short (2004): Pol Pot.</description>
+            <pubDate>Thu, 28 Mar 2024 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:00</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849bf01cfe53a2fbdec4/19bb396aa3a9a415705e7fe51abf19c7b49192c73cc99232cd9911d881d4b4ee" 
+                type="audio/x-m4a" 
+                length="12777703" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849bf01cfe53a2fbdec4/210507da83cddd4597a92e67b443a3a44ebb8554b341253712f6a56545a2c71a" 
+                type="audio/x-m4a" 
+                length="37742991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849bf01cfe53a2fbdec4/64bd894581fb185a87d887601461f58e528b5e218f37a09532d42a1550fba91f" 
+                type="audio/x-m4a" 
+                length="50226243" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849bf01cfe53a2fbdec4/9d5edc93386858a55cac12818d1ac5efbfa0b6481512b5c965d5157268e7c9db" 
+                type="audio/mpeg" 
+                length="12483693" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849bf01cfe53a2fbdec4/c280fe66599797542812ccac56e2420f62b85dd67dc7bf12315f3f1d1859c7f4" 
+                type="audio/mpeg" 
+                length="37450221" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65dc849bf01cfe53a2fbdec4/18d78f13621288162c5faf73c054833dda1721ab5b02af52677f6b6b11f0fc37" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493706</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-pol-pot/pol-pot/6-6-pol-pot-noerdeafsnit-16122493706</link>
+            <title>6:6 - Pol Pot N&amp;#xF8;rdeafsnit</title>
+            <description>Pol Pot er nok den eneste der smiler, n&amp;#xE5;r man taler om hans tid som leder i Cambodja. Det er til geng&amp;#xE6;ld et ikonisk smil. Og Pol Pots tidligere kok genkender det egentlig ogs&amp;#xE5; kun hos &amp;#xE9;n anden person; en feteret fodboldstjerne! Hvem finder du af til slut i det her n&amp;#xF8;rdeafsnit, hvor Oskar fra Tyran-redaktionen forklarer os hele den vanvittige kontekst der omkranser Cambodja i de forf&amp;#xE6;rdelige &amp;#xE5;r under Pol Pot. Vietnamkrig, amerikanske imperialister, franske kolonister og syd&amp;#xF8;stasiatisk racisme i fuld galop.
+I studiet: Emil Rothstein-Christensen &amp;#x26; Oskar Bundgaard.
+Produceret for P3 af MonoMono.</description>
+            <pubDate>Thu, 22 Aug 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:22:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b328baf850aab1a1b4d2b9/ab31ef11bf438b5c4cc792b2844b5cc012d003d89873d95038c65fec339cd8e1" 
+                type="audio/x-m4a" 
+                length="11072003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b328baf850aab1a1b4d2b9/c1ce9de9c6fd42d7d619c1829d18d40cbea731632c0c93fa6623e772fb857cfa" 
+                type="audio/x-m4a" 
+                length="32707335" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b328baf850aab1a1b4d2b9/b8002fede6c3f812a4c56c611bd708bae51f57dadb873cefb350c0598e663c00" 
+                type="audio/x-m4a" 
+                length="43524915" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b328baf850aab1a1b4d2b9/a631a357a0ad6269231fb5558efcc440eaf491eaebe50b807b0d1db9d66c12d3" 
+                type="audio/mpeg" 
+                length="10817904" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b328baf850aab1a1b4d2b9/7bbafba48f82226fbe52fc201e15ab5d05cf3e2eb41762362517b83bb9b3129e" 
+                type="audio/mpeg" 
+                length="32452848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b328baf850aab1a1b4d2b9/d0156d7adcf6161e9e8594a25a77a9a4773f00e7b96e1a8ba431e8e180832b84" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493751</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-benito-mussolini/benito-mussolini/1-6-benito-mussolini-16122493751</link>
+            <title>1:6 - Benito Mussolini</title>
+            <description>Benito Mussolini opfinder facismen, fordi han er mega vred. Han synes, Italien er et udueligt land med en uduelig befolkning, der skal opdrages. Hans l&amp;#xF8;sning er at lave et nyt parti, og s&amp;#xE5; ellers t&amp;#xE6;ve lidt fornuft ind i alle dem, som er uenige med ham og hans nye venner. Nu skal der orden i sagerne. 
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blood And Power, John Foot - 2022.
+Fascismens Italien, Flemming Larsen - 2010.
+Mussolini og Fascismen, Margaret Mulvihill - 1993.
+Mussolini, R.J.B. Bosworth - 2003.
+Fascist Voices, Christopher Duggan - 2015.
+My autobiography, Benito Mussolini - 1994.
+Mussolini and Italy, Edward Townley - 2015.
+Benito Mussolini, David Downing - 2002.</description>
+            <pubDate>Thu, 04 Apr 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:03</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb95b0ae96a8e9cfaec/2ad112c6799717c38ac908050a90ea5ad53bc31ea5aa899260c397e7f35b8f36" 
+                type="audio/x-m4a" 
+                length="16244003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb95b0ae96a8e9cfaec/afed0cb41989a4b24a8203f76109773bf9332d6786f92eda5b1e3977cb13bd21" 
+                type="audio/x-m4a" 
+                length="47983183" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb95b0ae96a8e9cfaec/4e12585524afccf37dcff3712740fb480a3a16228f541547062d5a72bf02a520" 
+                type="audio/x-m4a" 
+                length="63853303" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb95b0ae96a8e9cfaec/ba930eaa25d7ff7b9d1526bc631ce27385bdbb2d705170ab92f5903ad97660b0" 
+                type="audio/mpeg" 
+                length="15870582" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb95b0ae96a8e9cfaec/9bf1193c5bb4ac008c9a6f02ac3833610a632cd03800a0cff85bf58e07f0c1a7" 
+                type="audio/mpeg" 
+                length="47610870" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb95b0ae96a8e9cfaec/268f03d5257529c5915d4e11f10d30ed17fc5b2aed0bde817274fa0df865815f" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493752</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-benito-mussolini/benito-mussolini/2-6-benito-mussolini-16122493752</link>
+            <title>2:6 - Benito Mussolini</title>
+            <description>Mussolini er begyndt at kalde sig selv for Il Duce - Lederen, og har besluttet sig for, at det nu er p&amp;#xE5; tide at tage magten i Italien &amp;#xE9;n gang for alle. Hovedstaden skal indtages. Og forst&amp;#xE6;dernes fascister begynder at marchere mod Rom
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blood And Power, John Foot - 2022.
+Fascismens Italien, Flemming Larsen - 2010.
+Mussolini og Fascismen, Margaret Mulvihill - 1993.
+Mussolini, R.J.B. Bosworth - 2003.
+Fascist Voices, Christopher Duggan - 2015.
+My autobiography, Benito Mussolini - 1994.
+Mussolini and Italy, Edward Townley - 2015.
+Benito Mussolini, David Downing - 2002.</description>
+            <pubDate>Thu, 11 Apr 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:23:48</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb7e3262b5439746afd/b866b2e4a75d8f35f88683bc306a6b93e1392f3ef3f097435edb51a401716d56" 
+                type="audio/x-m4a" 
+                length="11701236" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb7e3262b5439746afd/8311cf689e4f84a3096157a84176b4c9895a150c69b9a69d65151b6589e35634" 
+                type="audio/x-m4a" 
+                length="34563407" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb7e3262b5439746afd/eaf25f631bcb00292c4d260e64cddf6697c04d3b2b095fae7fedfac46c62d081" 
+                type="audio/x-m4a" 
+                length="45994947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb7e3262b5439746afd/88d859d079d7191bbe0a6d1a8d18e9c91a1f75a7f4c5e0f09fc79ab145acbf0e" 
+                type="audio/mpeg" 
+                length="11431920" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb7e3262b5439746afd/9f4da43ac1b2c8c4da51dc78d7a6137927a63562917aa86a85fdd940618f36d4" 
+                type="audio/mpeg" 
+                length="34294896" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb7e3262b5439746afd/4f9277d087bddf740e96533f255c875c7f0124d6c1b9b4ff67e182fb90451ec4" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493753</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-benito-mussolini/benito-mussolini/3-6-benito-mussolini-16122493753</link>
+            <title>3:6 - Benito Mussolini</title>
+            <description>Vi skal p&amp;#xE5; sightseeing i Mussolinis Rom, hvor fascismen gennemsyrer alt fra sporvogne til biograffilm. Alle skal tvinges til at forst&amp;#xE5;, hvor fantastisk Il Duces nye Italien er. Og s&amp;#xE5; er det ogs&amp;#xE5; p&amp;#xE5; tide at tage ud i verden for at skabe et italiensk imperium. 
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blood And Power, John Foot - 2022.
+Fascismens Italien, Flemming Larsen - 2010.
+Mussolini og Fascismen, Margaret Mulvihill - 1993.
+Mussolini, R.J.B. Bosworth - 2003.
+Fascist Voices, Christopher Duggan - 2015.
+My autobiography, Benito Mussolini - 1994.
+Mussolini and Italy, Edward Townley - 2015.</description>
+            <pubDate>Thu, 18 Apr 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:27</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb85c1c0160b34d5dcd/78af667102ab8cbfba71db4ede1699350187498af2edb422d4023f41a58a51e2" 
+                type="audio/x-m4a" 
+                length="12507592" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb85c1c0160b34d5dcd/9c0bfa38b8a6d567c6b957743840d674ea81f442f35a8f6b700007f938f5c582" 
+                type="audio/x-m4a" 
+                length="36948391" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb85c1c0160b34d5dcd/f7cb29b2d2459ad03c121a93d84b581d9ab2f06a2cd4952f2657a581d1308f28" 
+                type="audio/x-m4a" 
+                length="49168744" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb85c1c0160b34d5dcd/7753016435feee058507c8d3c0e70bbfa0ff8ef99cd464f31dd9bcb17a038d3f" 
+                type="audio/mpeg" 
+                length="12220665" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb85c1c0160b34d5dcd/10ea027693d42d63e0485d8625cf536a7bdc75b9dac8834b0bdb982e81a6ef4c" 
+                type="audio/mpeg" 
+                length="36661113" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb85c1c0160b34d5dcd/da03d2c1d9fc089777743db73dbd08d015a82ef829d9048251407f97585da713" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493754</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-benito-mussolini/benito-mussolini/4-6-benito-mussolini-16122493754</link>
+            <title>4:6 - Benito Mussolini</title>
+            <description>Benito Mussolini og Adolf Hitler er blevet rigtig gode venner. Faktisk kan det v&amp;#xE6;re sv&amp;#xE6;rt at adskille de to. Hitler har altid set op til fascismens fader, Il Duce. Men der opst&amp;#xE5;r snart en konkurrence om hvem af dem, der egentlig er den bedste og st&amp;#xE6;rkeste facist. Og d&amp;#xE9;r begynder Mussolini hurtigt at sakke bagud. 
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blood And Power, John Foot - 2022.
+Fascismens Italien, Flemming Larsen - 2010.
+Mussolini og Fascismen, Margaret Mulvihill - 1993.
+Mussolini, R.J.B. Bosworth - 2003.
+Fascist Voices, Christopher Duggan - 2015.
+My autobiography, Benito Mussolini - 1994.
+Mussolini and Italy, Edward Townley - 2015.</description>
+            <pubDate>Thu, 25 Apr 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:46</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb9d841d7e13d443cb0/5962ad2e7c9b5b625ccdad997252e804645ac7405ed337256bb64bb42c6c76d7" 
+                type="audio/x-m4a" 
+                length="16098291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb9d841d7e13d443cb0/f7c38222fb10912fa2e57aa7be9b10c82d5d301a1b413cebfdaf34831bc69637" 
+                type="audio/x-m4a" 
+                length="47555871" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb9d841d7e13d443cb0/82aa22e7b02226830edd92b2b8e79b4f4e315a13e076f04d4e5db0d7208d93b6" 
+                type="audio/x-m4a" 
+                length="63284655" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb9d841d7e13d443cb0/e84804ed02fb9f63f71bab000969bad5a733970a37dc65b489272466853bf86f" 
+                type="audio/mpeg" 
+                length="15729080" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb9d841d7e13d443cb0/7f76fc355bcd22a1954e6a60af3518c4657659c20d2725b9483bdfe9eb4f9a32" 
+                type="audio/mpeg" 
+                length="47186360" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb9d841d7e13d443cb0/dae16d7e92ffa064681b6222a320bf017167ecc29bdb35602aab83d1f392a0aa" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493755</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-benito-mussolini/benito-mussolini/5-6-benito-mussolini-16122493755</link>
+            <title>5:6 - Benito Mussolini</title>
+            <description>Mussolini er kommet med i alle Hitlers krige. Men det g&amp;#xE5;r ikke ret godt og han er efterh&amp;#xE5;nden ogs&amp;#xE5; blevet ret tr&amp;#xE6;t at at skulle g&amp;#xF8;re som Hitler siger hele tiden. Da krigslykken vender for tyskerne, m&amp;#xE5; Il Duce f&amp;#xE5; benene p&amp;#xE5; nakken. 
+
+Manus &amp;#x26; fort&amp;#xE6;ller: Nicholas Durup Thomsen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blood And Power, John Foot - 2022.
+Fascismens Italien, Flemming Larsen - 2010.
+Mussolini og Fascismen, Margaret Mulvihill - 1993.
+Mussolini, R.J.B. Bosworth - 2003.
+Fascist Voices, Christopher Duggan - 2015.
+My autobiography, Benito Mussolini - 1994.
+Mussolini and Italy, Edward Townley - 2015.</description>
+            <pubDate>Thu, 02 May 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:54</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb8267a61ab227896d0/95d9537cba5e7d029ba50471e7d5226749925158192a33abbeb3b56111ca2168" 
+                type="audio/x-m4a" 
+                length="19117051" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb8267a61ab227896d0/4936d2c22b1cec723f39c6c721c60bfb47a641b769d72539b81f02614863f53f" 
+                type="audio/x-m4a" 
+                length="56474039" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb8267a61ab227896d0/1fcdf4aef784b8aaba369b09ee0e7de68b34058e638681d7f8c4a86b1a01f696" 
+                type="audio/x-m4a" 
+                length="75152455" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb8267a61ab227896d0/fb22ca7bdfcbe2fb6f793a738d46a92f39296808b5b72c690bf09d49dee8edf5" 
+                type="audio/mpeg" 
+                length="18678778" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb8267a61ab227896d0/489ede1e0fb64077728b343c85dfd28643bf5a00acb926d3bca5bf764e76288d" 
+                type="audio/mpeg" 
+                length="56035450" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65faafb8267a61ab227896d0/560b0a895ee278e2a5673e5734d4edd576dc23918f7e5f5241626cc4679b7704" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493756</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-benito-mussolini/benito-mussolini/6-6-benito-mussolini-noerdeafsnit-16122493756</link>
+            <title>6:6 - Benito Mussolini N&amp;#xF8;rdeafsnit</title>
+            <description>Mussoloni havde aldrig overlevet en #Metoo-storm. Voldt&amp;#xE6;gter, grooming og alt for unge piger var en del af hverdagen for Italiens store leder i hans velmagtsdage. Nicholas guider os igennem Il Duces seksuelle eskapader og det fromme kernefamilie liv, han levede udadtil. Vi skal ogs&amp;#xE5; h&amp;#xF8;re historien om Anden Verdenskrigs vildeste bikarakter &amp;#x22;Scarface&amp;#x22; og s&amp;#xE5; kommer de ogs&amp;#xE5; brev fra Benito til slut i udsendelsen; et brev fra fascisternes fader til fremtiden. 
+I studiet: Emil Rothstein-Christensen &amp;#x26; Nicholas Durup Thomsen.
+Produceret for P3 af MonoMono.</description>
+            <pubDate>Thu, 22 Aug 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a1b102348273c9fa58f/f0f1c9d9297e6c895ad6b647bc1930affa3d6f46819f06aa50f867da902ce9b4" 
+                type="audio/x-m4a" 
+                length="14732167" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a1b102348273c9fa58f/74c2bbfaa0ad046a7e31cddfdf37276807fa112a7874e0d4a40356c246035960" 
+                type="audio/x-m4a" 
+                length="43520207" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a1b102348273c9fa58f/38b0d58e91118560245ee832097b9a59443ea188be61eb586c179c634419f03b" 
+                type="audio/x-m4a" 
+                length="57914151" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a1b102348273c9fa58f/e4961679691eb4611a6eac0bcd656cceca463230d89c67c4186946b879634004" 
+                type="audio/mpeg" 
+                length="14394292" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a1b102348273c9fa58f/8770f11156e8dda4746d56be143a976df9f2728c46d4c9a42b95915c00dae2e8" 
+                type="audio/mpeg" 
+                length="43182004" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a1b102348273c9fa58f/ada5d004e94ba75a4d58e53c2a312515391b82ecc226f740a9059ee9f3e2dd47" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493761</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-papa-doc/papa-doc/1-5-papa-doc-16122493761</link>
+            <title>1:5 - Papa Doc</title>
+            <description>Haiti har i over 150 &amp;#xE5;r v&amp;#xE6;ret i mere eller mindre konstant krise. Men der er et glimt af h&amp;#xE5;b den dag den gode l&amp;#xE6;ge Francois Duvalier bliver valgt som pr&amp;#xE6;sident i 1957. Et kort glimt. For der hviler en forbandelse over pr&amp;#xE6;sidentpaladset i Haiti og p&amp;#xE5; f&amp;#xE5; m&amp;#xE5;neder er den gode l&amp;#xE6;ge forvandlet til den onde doktor. Papa Doc, der kommer til at g&amp;#xF8;re livet i Haiti meget, meget v&amp;#xE6;rre end det var f&amp;#xF8;r.
+
+Manuskript: Oskar Bundgaard.
+Lydesign: Mikkel R&amp;#xF8;nnau.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Mikkel R&amp;#xF8;nnau.
+Redakt&amp;#xF8;rer: Tobias Ingemann &amp;#x26; Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Papa Doc: Haiti and its Dictator: Barnard Diederich &amp;#x26; Al Burt
+Papa Doc, Baby Doc: Haiti and the Duvaliers: James Ferguson
+Francois &amp;#x26; Jean-Claude Duvalier; Erin Condit
+Haiti: A Shattered Nation; Elizabeth Abbott
+Written in Blood: Robert Debs Heinl
+Third-World Folk Beliefs: Haiti Medical Anthropology: Bryant C. Freeman
+Dominican Republic &amp;#x26; Haiti country studies: Helen Chapin Metz (red)</description>
+            <pubDate>Thu, 09 May 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336596f358fdf526cbacf8/8522ed7e03bf247482239597e5c675d699cb0ceae1954015b3ea89a71e6893b4" 
+                type="audio/x-m4a" 
+                length="15288984" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336596f358fdf526cbacf8/15dada06a485f43ddd940e2bc72647b214491a9f147f8e11f7dd41d06303a940" 
+                type="audio/x-m4a" 
+                length="45165219" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336596f358fdf526cbacf8/b41fadb0820c2848a23a84ba4e85f7d8b6bbf78392b804e1988688b178e5df28" 
+                type="audio/x-m4a" 
+                length="60103328" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336596f358fdf526cbacf8/205c76b4f238926efb613d6c894afa7cf3dec43ecb35ebbf6d42b5e4574c6c3f" 
+                type="audio/mpeg" 
+                length="14938423" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336596f358fdf526cbacf8/7d48d1ae7c928dd65c4f2c8f0508f9445cf173c0c3ca61781d5f6e7ea7cbc760" 
+                type="audio/mpeg" 
+                length="44814391" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336596f358fdf526cbacf8/12dfa7e11c76feadeed0c89acb997e5554826d59b4654860a3158ef3404aeab9" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493762</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-papa-doc/papa-doc/2-5-papa-doc-16122493762</link>
+            <title>2:5 - Papa Doc</title>
+            <description>Tonton Macoute er navnet p&amp;#xE5; et b&amp;#xF8;rne&amp;#xE6;dende uhyre der kommer frem om natten i Haitianske eventyr. Men det er ogs&amp;#xE5; det befolkningen kalder Papa Docs nye private h&amp;#xE6;r. Uniformen er cowboyhat, solbriller og maskingev&amp;#xE6;r. Og at m&amp;#xF8;de dem er som at v&amp;#xE6;re med i et v&amp;#xE5;gent mareridt.
+
+Manuskript: Oskar Bundgaard.
+Lydesign: Mikkel R&amp;#xF8;nnau.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Mikkel R&amp;#xF8;nnau.
+Redakt&amp;#xF8;rer: Tobias Ingemann &amp;#x26; Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono
+
+Kilder:
+Papa Doc: Haiti and its Dictator: Barnard Diederich &amp;#x26; Al Burt
+Papa Doc, Baby Doc: Haiti and the Duvaliers: James Ferguson
+Francois &amp;#x26; Jean-Claude Duvalier; Erin Condit
+Haiti: A Shattered Nation; Elizabeth Abbott
+Written in Blood: Robert Debs Heinl
+Third-World Folk Beliefs: Haiti Medical Anthropology: Bryant C. Freeman
+Dominican Republic &amp;#x26; Haiti country studies: Helen Chapin Metz (red)</description>
+            <pubDate>Thu, 16 May 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:33:25</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbacfb/a18f7cc71cf7876540206645abaa545d3b2dcdddd5e98046e1eccbb1a27ef394" 
+                type="audio/x-m4a" 
+                length="16423845" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbacfb/621169fa05d50d87f941305a1fb025d77c0ad8b73f5afe70a917d3e10c12263e" 
+                type="audio/x-m4a" 
+                length="48517707" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbacfb/85446d2c213f62c0c67233bf2ce853dd5c2f90bd1413e389e347656544a91cca" 
+                type="audio/x-m4a" 
+                length="64564701" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbacfb/61fe5ef2894903cc15b04ca6764682970fd4fd1b35bd8f4f7ece4ed8cd7d5cc3" 
+                type="audio/mpeg" 
+                length="16047221" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbacfb/4de2f118825c83d813b7e4b1347f0aacd704b98a0c533ace09658f992a6e94b0" 
+                type="audio/mpeg" 
+                length="48140789" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbacfb/61f227874cdc5e8756b520a5ec57d4606b81ded6cfe5babe045427b74c31dba5" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493763</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-papa-doc/papa-doc/3-5-papa-doc-og-baby-doc-16122493763</link>
+            <title>3:5 - Papa Doc og Baby Doc</title>
+            <description>Papa Doc kan ikke sl&amp;#xE5;s ihjel! Det p&amp;#xE5;st&amp;#xE5;r han i hvert fald selv. Og i l&amp;#xF8;bet af 1960&amp;#x27;erne f&amp;#xE5;r han opbygget et image som en halvgudommelig voodoo-troldmand, der hersker over liv og d&amp;#xF8;d. I virkeligheden er han ved at blive en gammel svagelig mand med sukkersyge. Han er n&amp;#xF8;d til at udpege en efterf&amp;#xF8;lger til herskertronen og det hvide palads. Og desv&amp;#xE6;rre er der kun &amp;#xE9;n oplagt kandidat - hans uduelige teenages&amp;#xF8;n; Baby Doc.
+
+Manuskript: Oskar Bundgaard.
+Lydesign: Mikkel R&amp;#xF8;nnau.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Mikkel R&amp;#xF8;nnau.
+Redakt&amp;#xF8;rer: Tobias Ingemann &amp;#x26; Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Papa Doc: Haiti and its Dictator: Barnard Diederich &amp;#x26; Al Burt.
+Papa Doc, Baby Doc: Haiti and the Duvaliers: James Ferguson.
+Francois &amp;#x26; Jean-Claude Duvalier; Erin Condit.
+Haiti: A Shattered Nation; Elizabeth Abbott.
+Written in Blood: Robert Debs Heinl.
+Third-World Folk Beliefs: Haiti Medical Anthropology: Bryant C. Freeman.
+Dominican Republic &amp;#x26; Haiti country studies: Helen Chapin Metz (red).</description>
+            <pubDate>Thu, 23 May 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad02/894839dc82e71c05db712020aa7b0c3f676aab344c2ad24f80b4794a813411d0" 
+                type="audio/x-m4a" 
+                length="17011261" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad02/0b4c806d0c3bc2eed2f00e31359bfc2b5d94f4f09280a473c69b0c2179f6cbca" 
+                type="audio/x-m4a" 
+                length="50253023" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad02/3a672a39507c1ba74293177ebaa5a3834268ef68894b5a2b83a4fe30d9f63c15" 
+                type="audio/x-m4a" 
+                length="66873957" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad02/6ab616adcf3b796d18903542c8e4a7615a0a50ab29d008dbf492d87f4638f74f" 
+                type="audio/mpeg" 
+                length="16621104" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad02/8ee2fd43890fdd083231c81f0059b4d8f66084fe24de09d044383ccc29c46e36" 
+                type="audio/mpeg" 
+                length="49862448" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad02/1508aa312cd27dbcda41355b7f8d4cc62978970d809e4d5e2e7bc5115d316836" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493764</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-papa-doc/papa-doc/4-5-baby-doc-16122493764</link>
+            <title>4:5 - Baby Doc</title>
+            <description>Jean-Claude &amp;#x27;Baby Doc&amp;#x27; Duvalier han ikke hvad han skal stille op, da han overtager magten i Haiti. Men det ved hans mor heldigvis. Sammen form&amp;#xE5;r de at g&amp;#xF8;re Haiti til et endnu v&amp;#xE6;rre land at leve i end det var under Papa. Blandt andet beriger de sig selv ved at s&amp;#xE6;lge den fattige befolknings blod(!) og afd&amp;#xF8;de kroppe(!) til USA. Men der er en orkan p&amp;#xE5; vej - b&amp;#xE5;de konkret og i overf&amp;#xF8;rt betydning.
+
+Manuskript: Oskar Bundgaard.
+Lydesign: Mikkel R&amp;#xF8;nnau.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Mikkel R&amp;#xF8;nnau.
+Redakt&amp;#xF8;rer: Tobias Ingemann &amp;#x26; Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+Papa Doc: Haiti and its Dictator: Barnard Diederich &amp;#x26; Al Burt.
+Papa Doc, Baby Doc: Haiti and the Duvaliers: James Ferguson.
+Francois &amp;#x26; Jean-Claude Duvalier: Erin Condit.
+Haiti: A Shattered Nation: Elizabeth Abbott.
+Written in Blood: Robert Debs Heinl.
+Third-World Folk Beliefs: Haiti Medical Anthropology: Bryant C. Freeman.
+Dominican Republic &amp;#x26; Haiti country studies: Helen Chapin Metz (red).</description>
+            <pubDate>Thu, 30 May 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:39:19</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad05/14c809351495a9769312e9b08c079999ed7c1c8951661ce3eaeee121bc0c74cb" 
+                type="audio/x-m4a" 
+                length="19323035" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad05/80d802071037cfd63bf214d9ce6061a142fbc68fccc33050bc712d93157d60a2" 
+                type="audio/x-m4a" 
+                length="57082419" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad05/4c7ee9ed572de5d03d5a58e89c9a45b8728871037696ebfe16dc7727fea86f28" 
+                type="audio/x-m4a" 
+                length="75962147" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad05/8b90c688f396f9abdf0fe2ab3fbf430474f39f66f9d72bdd1100092b865fdb71" 
+                type="audio/mpeg" 
+                length="18879981" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad05/1e4ba0e528bd72dc622f0c3259bb0d44e58a87b0f6d3a65d4e7356a8d0d85e77" 
+                type="audio/mpeg" 
+                length="56639085" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66336597f358fdf526cbad05/caa8209f0cb182dae777875a17f185065c33ec73fe856d18b2dfb6bbbc2c434e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493766</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-papa-doc/papa-doc/5-5-papa-doc-noerdeafsnit-16122493766</link>
+            <title>5:5 - Papa Doc N&amp;#xF8;rdeafsnit</title>
+            <description>F&amp;#xE5; lande har gennemg&amp;#xE5;et s&amp;#xE5; mange lidelser som Haiti. Naturkatastofer, sygdom og s&amp;#xE5; selvf&amp;#xF8;lgelig Papa Doc og Baby Docs r&amp;#xE6;dselsregimer. Men det stopper ikke der! Vidste du fx, at en stor amerikansk tv kanal har fors&amp;#xF8;gt at invadere landet med hj&amp;#xE6;lp fra en fyr, der g&amp;#xE5;r under navnet &amp;#x27;Tigeren&amp;#x27;? H&amp;#xF8;r hele den historie, og l&amp;#xE6;r hvorfor Haiti er et slags &amp;#x27;omvendt Las Vegas&amp;#x27;, n&amp;#xE5;r Emil og Oskar n&amp;#xF8;rder Haitis historie igennem og f&amp;#xE5;r vendt nogle af de vanvittige fort&amp;#xE6;llering, der ikke kom med i serien. 
+I studiet: Emil Rothstein-Christensen &amp;#x26; Oskar Bundgaard.
+Produceret for P3 af MonoMono.</description>
+            <pubDate>Thu, 22 Aug 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:22:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a58102348273c9fa697/b6993b9376eb688819ad4cf39756ae9acbd0bc5aeaa78d415ab6146b1e1a4c75" 
+                type="audio/x-m4a" 
+                length="10903124" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a58102348273c9fa697/303a82ff8b4678217a68cd86cdf1472f4a45155dcae5d4742af8abe9066763ae" 
+                type="audio/x-m4a" 
+                length="32208327" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a58102348273c9fa697/e05b67958d06fca9c425991c35e4e71ac5c1cd12cbfaa34868d3d7aea9e16013" 
+                type="audio/x-m4a" 
+                length="42860868" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a58102348273c9fa697/8e567c76a071bcc6a0ed06351610854f977003fe5efd16940aa9a19e4ab27403" 
+                type="audio/mpeg" 
+                length="10652977" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a58102348273c9fa697/39da518723111779db1d3e3d554678485d32dac0c35c675e0f49d2d67a55d06f" 
+                type="audio/mpeg" 
+                length="31958065" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b32a58102348273c9fa697/6b70815a8d52556018ca52b82f8e18f7d4828a134a0401da45cf9d968e838293" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493771</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-suharto/suharto/1-5-suharto-16122493771</link>
+            <title>1:5 - Suharto</title>
+            <description>En flok kommunistiske feminister beg&amp;#xE5;r 6 bestialske og perverse mord p&amp;#xE5; en flok generaler i Indonesien en nat i 1965. Det er i hvert fald hvad der st&amp;#xE5;r i aviserne. Den indonesiske befolkning er selvf&amp;#xF8;lgelig forf&amp;#xE6;rdet og bange.
+Men frem tr&amp;#xE6;der s&amp;#xE5; en ny st&amp;#xE6;rk milit&amp;#xE6;rmand: Suharto! Og han skal nok g&amp;#xF8;re noget ved den kommunistiske og feministiske trussel. Men var det virkelig kommunistfeminister, der slog generalerne ihjel? Suharto er en af de f&amp;#xE5;, der kender sandheden.
+
+Manus: Emil Rothstein-Christensen, Liv Sofie Knapp.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Lyddesign: Anton F&amp;#xE6;rch.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Roosa, John: Pretext for Mass Murder.
+Vickers, Adrian: A history of modern Indonesia.
+Elson, Robert E.: Suharto - A Political Biography.
+Bevins, Vincent: The Jakarta Method.
+CIA - Research Study: Indonesia - 1965, The Coup that Backfired.</description>
+            <pubDate>Thu, 29 Aug 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:36</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e739d70fde8b61a291b/cc9488b05fa4d0d83b4c62ebafcdbd8adc99c768895983c5803d6b51a84a1e9b" 
+                type="audio/x-m4a" 
+                length="17496140" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e739d70fde8b61a291b/f7111a7d6cb6cc074ee27460cd41ef04a24ba4421b21ecbfc8685305336d68ac" 
+                type="audio/x-m4a" 
+                length="51685467" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e739d70fde8b61a291b/49ca245fd9c11748060378259d7e24c55307a5d927ece3310d821b4236fe605c" 
+                type="audio/x-m4a" 
+                length="68779972" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e739d70fde8b61a291b/f1e1e7ed21df7b871d4a488d472c0de7b855544cf9eeda931b625315570feed6" 
+                type="audio/mpeg" 
+                length="17094964" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e739d70fde8b61a291b/9b5aa1034fe83d29ba3a76a6f8a4fd586c1901696bbd52c2cdab3811900caff0" 
+                type="audio/mpeg" 
+                length="51284020" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e739d70fde8b61a291b/e762d7df4bf7ebee0529731844687335dc4eed51955d1ab4153b845b4b826eab" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493772</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-suharto/suharto/2-5-suharto-16122493772</link>
+            <title>2:5 - Suharto</title>
+            <description>Suhartos spreder l&amp;#xF8;gnehistorien om kommunisterne og feministerne og ser s&amp;#xE5; p&amp;#xE5;, mens et k&amp;#xE6;mpem&amp;#xE6;ssigt folkedrab udspiller sig i Indonesien. Og s&amp;#xE5; er der kun &amp;#xE9;n mand tilbage, mellem Suharto og den ultimative magt: Nemlig pr&amp;#xE6;sidenten. Men det vil amerikanerne gerne hj&amp;#xE6;lpe ham med at f&amp;#xE5; styr p&amp;#xE5;. 
+
+Manus: Emil Rothstein-Christensen, Liv Sofie Knapp &amp;#x26; Anton F&amp;#xE6;rch.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Lyddesign: Anton F&amp;#xE6;rch.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Friend, Theodore: Indonesian Destinies.
+Vickers, Adrian: A history of modern Indonesia.
+Elson, Robert E.: Suharto - A Political Biography.
+Bevins, Vincent: The Jakarta Method.
+CIA - Research Study: Indonesia - 1965, The Coup that Backfired.
+Oppenheimer, Joshua: The Act of Killing.</description>
+            <pubDate>Thu, 05 Sept 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe3/129d2ab3a67e3a7848f6c748a60d0fee04500647f1a2cdf24b5fe19909ad73e3" 
+                type="audio/x-m4a" 
+                length="15413383" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe3/3b4f070d4690ae6be815e18e7ef2541c35bc95ecf1b6e11432d6528269b1da02" 
+                type="audio/x-m4a" 
+                length="45532603" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe3/7a2f489401dc0b771431dcdc6fdf700f86627889a485fc734aadadf8a3ce9dab" 
+                type="audio/x-m4a" 
+                length="60592211" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe3/9b86177aa9ccddbad0502b48e72fe89f9e5fa7a4cf756c2c390f93f00689aae7" 
+                type="audio/mpeg" 
+                length="15059953" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe3/8111205d2fa4fbf8bbf6b7cfbbc5e38bbb3f731f69f3476232e3f3ab82cdc221" 
+                type="audio/mpeg" 
+                length="45178993" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe3/ae000d24da32862a2ad4d0078e0e33d59f3bb4897b6c7c3ca4488e510bd41690" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493773</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-suharto/suharto/3-5-suharto-16122493773</link>
+            <title>3:5 - Suharto</title>
+            <description>Frygten for kommunisterne er den benzin, der holder Suhartos diktator-maskine i gang. S&amp;#xE5; da der ikke er flere kommunister tilbage i Indonesien, m&amp;#xE5; han finde nogen, et andet sted. Og heldigvis, s&amp;#xE5; ligner nabolandet &amp;#xD8;sttimor et let bytte.
+
+Manus: Emil Rothstein-Christensen &amp;#x26; Anton F&amp;#xE6;rch.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Lyddesign: Anton F&amp;#xE6;rch.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Friend, Theodore: Indonesian Destinies.
+Vickers, Adrian: A history of modern Indonesia.
+Taylor, John G.: Indonesia&amp;#x27;s Forgotten War.
+Winters, Jeffery A.: Oligarchy.
+Elson, Robert E.: Suharto - A Political Biography.
+Pilger, John: Death of a Nation: The East Timor Conspiracy.</description>
+            <pubDate>Thu, 12 Sept 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe6/fb6860d6a72ad03ba0a68da6439214adbe68da276dc2fdef2dd7dbb95219e2b2" 
+                type="audio/x-m4a" 
+                length="15467505" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe6/5114f24db623334b356aeebed595a1aa7a62a6472383dbb7527892332d940052" 
+                type="audio/x-m4a" 
+                length="45692587" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe6/2be813fbdf7dfc483ffd19027098d5e1a98363c0af52a636d7475c9a1e958fd5" 
+                type="audio/x-m4a" 
+                length="60805005" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe6/3fddcad05f509587334d68c5ef7ca82a9163cc2414b3d3cdc97bf7d67c6d3082" 
+                type="audio/mpeg" 
+                length="15112938" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe6/d5d31999d09e50f8e43e426215b3cfda0652b52cf4557759888ab8e21464a355" 
+                type="audio/mpeg" 
+                length="45337962" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e74a56be59b02c7bfe6/ca5f9609e26897ec07a8b98dcae9ad7ce465769f4dec7d4cba515b5bd423f648" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493774</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-suharto/suharto/4-5-suharto-16122493774</link>
+            <title>4:5 - Suharto</title>
+            <description>Suharto kommer i problemer da &amp;#xF8;konomien i Indonesien begynder at skrante. Og de gamle venner i USA er heller ikke s&amp;#xE5; vilde med diktatoren l&amp;#xE6;ngere. Men Suharto er ikke &amp;#xE9;n, man bare s&amp;#xE5;dan lige skiller sig af med. M&amp;#xE5;ske aldrig. 
+
+Manus: Emil Rothstein-Christensen &amp;#x26; Anton F&amp;#xE6;rch.
+Fort&amp;#xE6;ller: Emil Rothstein-Christensen.
+Lyddesign: Anton F&amp;#xE6;rch.
+Soundtrack: Mikkel B&amp;#xF8;geskov Andersson &amp;#x26; Tobias Ingemann.
+Redakt&amp;#xF8;r: Emil Rothstein-Christensen.
+DRredakt&amp;#xF8;r: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Friend, Theodore: Indonesian Destinies.
+Vickers, Adrian: A history of modern Indonesia.
+Winters, Jeffery A.: Oligarchy.
+Elson, Robert E.: Suharto - A Political Biography.</description>
+            <pubDate>Thu, 19 Sept 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e73a56be59b02c7bfdc/94d66316122118719fcde167633c826a219530423524809d3015e2d201bbcae9" 
+                type="audio/x-m4a" 
+                length="13802237" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e73a56be59b02c7bfdc/2eb7627dd8995edad377a3adfeb10fda5af7608bb84291219002bf320c3f51a4" 
+                type="audio/x-m4a" 
+                length="40772987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e73a56be59b02c7bfdc/4234a62687cbe147581b4a53dfb00bf78f9ecd6d14e63fd58d05a6ed446888c3" 
+                type="audio/x-m4a" 
+                length="54258349" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e73a56be59b02c7bfdc/3ba1d8139a78559378d667802f066d8dcd2cfe2dbeda102ea6f3f4e76a5d09fb" 
+                type="audio/mpeg" 
+                length="13485741" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e73a56be59b02c7bfdc/99187261862067eb7b0bb5e045e29a11f324d6c6560de88ca1a8b010b7379b0d" 
+                type="audio/mpeg" 
+                length="40456365" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e73a56be59b02c7bfdc/32e066ad5d0456f5b192bc2394a75dd3ecc617674ab5e7787a5c36a801aae1f8" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493775</guid>
+            <link>https://www.dr.dk/lyd/p3/tyran-suharto/suharto/5-5-suharto-noerdeafsnit-16122493775</link>
+            <title>5:5 - Suharto N&amp;#xF8;rdeafsnit</title>
+            <description>I 1984 fik Suharto-regimet lavet en 4,5 time lang spillefilm om Suhartos heroiske vej til magten. Indtil hans fald i 1998 var filmen obligatorisk at se for alle skoleb&amp;#xF8;rn i Indonesien.
+Den er lang, den er d&amp;#xE5;rlig, den er blodig og den er fuld af l&amp;#xF8;gn; alligevel har Tyran-tilrettel&amp;#xE6;gger Anton F&amp;#xE6;rch k&amp;#xE6;mpet sig igennem den s&amp;#xE5; han kan snakke med Emil om den.
+Derudover n&amp;#xF8;rder de ned i en AI-Suharto, der er begyndt at florere p&amp;#xE5; nettet i 2024. Og s&amp;#xE5; skal vi ogs&amp;#xE5; h&amp;#xF8;re om en meget vigtig biperson, som kunne have stoppet Suhartos store show inden folkemordet begyndte.
+Produceret for P3 af MonoMono.</description>
+            <pubDate>Thu, 26 Sept 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e7412109a90cecf6a4c/587225a09ea9195520ca8446421b6e729e12b3ac1fcd66cac52005c48f76bbf2" 
+                type="audio/x-m4a" 
+                length="10233075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e7412109a90cecf6a4c/07d3761cc9165962520ee023569a7abdf56ab29d349993ac6d7267d2e8aca0ed" 
+                type="audio/x-m4a" 
+                length="30228919" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e7412109a90cecf6a4c/0cffb4e1472d8f0b3c811dee09389ac4e8d0f62b832c5bdf1d8c9d2833b7b56c" 
+                type="audio/x-m4a" 
+                length="40226651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e7412109a90cecf6a4c/7f9124dfc8ab87a905b25f66a44eec6a768bdcb86d46ce8c4f98867f359c3941" 
+                type="audio/mpeg" 
+                length="9998259" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e7412109a90cecf6a4c/a9513342464361d4f2ecea8a248d1be5c8f23ccc5222dd693b2ffb2f626fcd1e" 
+                type="audio/mpeg" 
+                length="29993907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c57e7412109a90cecf6a4c/6d34a6a2373fae237235e63d074d3ed76615d0814c768c93dd1eafb5e8eba1b5" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

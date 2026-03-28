@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/forfoert-af-fart.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Forf&amp;#xF8;rt af fart (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/forfoert-af-fart-6640563609564</link>
+        <description>Bliv forf&amp;#xF8;rt af fart n&amp;#xE5;r nogle af de st&amp;#xF8;rste danske racerk&amp;#xF8;rere dykker ned i episoder, som har v&amp;#xE6;ret med til at forme dem og deres karriere. Og h&amp;#xF8;r hidtil ufortalte historier fra motorsportens verden.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.13 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/forfoert-af-fart.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/forfoert-af-fart.jpg</url>
+            <title>Forf&amp;#xF8;rt af fart (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/forfoert-af-fart-6640563609564</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/forfoert-af-fart.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Sport</category>
+        <itunes:category text="Sport" />
+        <item>
+            <guid isPermaLink="false">13652560001</guid>
+            <link>https://www.dr.dk/lyd/special-radio/forfoert-af-fart/forfoert-af-fart-1/1-4-tom-kristensens-kamp-13652560001</link>
+            <title>1:4 - Tom Kristensens kamp</title>
+            <description>Racerk&amp;#xF8;rer, Tom Kristensen er i 2007 involveret i en voldsom ulykke, som han stadig har m&amp;#xE9;n efter i dag. Mod alle odds k&amp;#xF8;rer han to m&amp;#xE5;neder senere Le Mans. H&amp;#xF8;r om den kompromisl&amp;#xF8;se viljestyrke samt k&amp;#xE6;rlighed til sporten, som det kr&amp;#xE6;vede Tom at n&amp;#xE5; tilbage til verdens h&amp;#xE5;rdeste racerl&amp;#xF8;b. 
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Caroline Lotz.
+Lyddesigner: Jonas Johs Andersen. 
+Redakt&amp;#xF8;r: Lars Br&amp;#xF8;ndum Veller. 
+Foto: Axel Sch&amp;#xFC;tt/Jysk Fynske Medier/Ritzau Scanpix.
+Eibner-Pressefoto/Picture Alliance/Ritzau Scanpix.
+Stephane Mahe/Reuters/Ritzau Scanpix.
+Redaktion: Jacob Hammerholt. 
+Arkiv: Viaplay.</description>
+            <pubDate>Thu, 20 Nov 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb905584/7b33e7edc32c7956daffa6f40c2663d33f1ab0591f70a393584e1ce6e1f4d426" 
+                type="audio/x-m4a" 
+                length="17794097" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb905584/2cfe5eade47e4a2f5633462ec76c8e0c2a446e0627a3c0dc19baf922e1637f64" 
+                type="audio/x-m4a" 
+                length="52565755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb905584/93edd70e3ea4eb3741e1c6f3b7d570e2e449a3c7a1fc77fd33858ffb017db587" 
+                type="audio/x-m4a" 
+                length="69951249" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb905584/194cff9c4910582da08428c0d08bde7839c1ee3cb3a5cf85b092055313a5069e" 
+                type="audio/mpeg" 
+                length="17385944" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb905584/0326b558ab03e70a5252c5a610da0d9b799cf947c4809ab49bb9caa7215ba4ac" 
+                type="audio/mpeg" 
+                length="52157528" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb905584/51666d61f0e57841389816b4ff79ae0be2a7c9fb72751bab69d29cd81014cafa" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13652560002</guid>
+            <link>https://www.dr.dk/lyd/special-radio/forfoert-af-fart/forfoert-af-fart-1/2-4-jan-magnussens-braste-f1-droemme-13652560002</link>
+            <title>2:4 - Jan Magnussens braste F1 dr&amp;#xF8;mme</title>
+            <description>Racerk&amp;#xF8;rer, Jan Magnussen blev af eksperter omtalt som et af verdens st&amp;#xF8;rste talenter i motorsport, da han k&amp;#xF8;rte sit f&amp;#xF8;rste Formel 1 l&amp;#xF8;b. Men hvorfor fik han aldrig en glorv&amp;#xE6;rdig karriere i motorsportens kongeklasse? H&amp;#xF8;r Jan fort&amp;#xE6;lle hudl&amp;#xF8;st &amp;#xE6;rligt om sine forkerte beslutninger, som ender med at sende ham ud i en k&amp;#xE6;mpe nedtur, og om milj&amp;#xF8;et i Formel 1 som en fattigr&amp;#xF8;v fra Roskilde havde sv&amp;#xE6;rt ved at passe ind i. 
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Caroline Lotz. 
+Lyddesigner: Jonas Johs Andersen. 
+Redakt&amp;#xF8;r: Lars Br&amp;#xF8;ndum Veller. 
+Foto: Axel Sch&amp;#xFC;tt/Jysk Fynske Medier/Ritzau Scanpix.
+Eibner-Pressefoto/Picture Alliance/Ritzau Scanpix.
+Stephane Mahe/Reuters/Ritzau Scanpix.
+Redaktion: Jacob Hammerholt.</description>
+            <pubDate>Thu, 20 Nov 2025 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>01:05:11</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb90557b/a2e8b4aaca55de979102ca8c8754fb23dd174ea79d57a6865e043d0ea4985ec7" 
+                type="audio/x-m4a" 
+                length="32026121" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb90557b/abc115bc3b0b9cd7ba7308abf90c39063c17654be637186f3a600ab7295658bb" 
+                type="audio/x-m4a" 
+                length="94609907" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb90557b/61443e16c5fbf75d82d310ea348f2c899a588682c26289a8ea2556d1e2cc0fe1" 
+                type="audio/x-m4a" 
+                length="125901097" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb90557b/9fab59c05b2a619eebeb0d7eb4e4c0c49c8efc53a87e2975213ad0bf7c27eca5" 
+                type="audio/mpeg" 
+                length="31291736" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb90557b/b64446bcfa193cfdf956a2a055723305b7fe14418a1baf1aa65c36db88a654f5" 
+                type="audio/mpeg" 
+                length="93874904" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f5af2a6e71cb90557b/2f7afdacb043692ee7e2496991afa4660b6e7c5f104935a2ef3b1fe817e53a3d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13652560003</guid>
+            <link>https://www.dr.dk/lyd/special-radio/forfoert-af-fart/forfoert-af-fart-1/3-4-alba-verdens-hurtigste-pige-13652560003</link>
+            <title>3:4 - Alba - Verdens hurtigste pige</title>
+            <description>Da Alba Hurup Larsen er bare 14 &amp;#xE5;r s&amp;#xE6;tter hun sig i en racerbil og k&amp;#xE6;mper sig til at vinde titlen som verdens hurtigste pige. Hendes historie minder ikke om en normal teenagers, men er derimod historien om, hvordan netv&amp;#xE6;rk, held, benh&amp;#xE5;rdt arbejde, viljestyrke og hj&amp;#xE6;lp fra nogle af Danmarks st&amp;#xF8;rste atleter, kan f&amp;#xF8;re en hel almindelig dansk pige med fart i blodet til m&amp;#xE5;ske en dag at skrive verdenshistorie i formel 1.
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Caroline Lotz. 
+Lyddesigner: Jonas Johs Andersen. 
+Redakt&amp;#xF8;r: Lars Br&amp;#xF8;ndum Veller. 
+Foto: Axel Sch&amp;#xFC;tt/Jysk Fynske Medier/Ritzau Scanpix.
+Eibner-Pressefoto/Picture Alliance/Ritzau Scanpix.
+Stephane Mahe/Reuters/Ritzau Scanpix.
+Redaktion: Jacob Hammerholt.</description>
+            <pubDate>Thu, 20 Nov 2025 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:54</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6bf545a44d7f69afa/89bd418ff05d083b69e325d96ec688b5b64115de192a95868c0b9907d171c550" 
+                type="audio/x-m4a" 
+                length="17146803" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6bf545a44d7f69afa/20ee87b0666110fb01830f551d360f26f19af1919b8c172777d98a7ce002e35c" 
+                type="audio/x-m4a" 
+                length="50653451" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6bf545a44d7f69afa/f9b4c21cdbccc1f32c5714a76b38be65dcd8b7b3637b8f5cfbefa1c845a5aecb" 
+                type="audio/x-m4a" 
+                length="67406571" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6bf545a44d7f69afa/3e049b95e5e4ffddf7853924fa3e7b46007c177d220b85a785b8f490c42cab4b" 
+                type="audio/mpeg" 
+                length="16753304" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6bf545a44d7f69afa/ff74fa23a630cafd06a0ea6c91d2f283dedb5382f39f64237782798ac91df7cd" 
+                type="audio/mpeg" 
+                length="50259608" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6bf545a44d7f69afa/a2a2df4da1cd26f4fb089d218dd69dfda8ce857591da57d7f9fe93ee12504739" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">13652560004</guid>
+            <link>https://www.dr.dk/lyd/special-radio/forfoert-af-fart/forfoert-af-fart-1/4-4-dengang-formel-1-naesten-kom-til-koebenhavn-13652560004</link>
+            <title>4:4 - Dengang Formel 1 n&amp;#xE6;sten kom til K&amp;#xF8;benhavn</title>
+            <description>Vidste du godt, at Formel 1 var meget t&amp;#xE6;t p&amp;#xE5; at lande i K&amp;#xF8;benhavn? Et projekt til svimlende 575 millioner kroner, som kunne f&amp;#xE5; millioner af &amp;#xF8;jne rettet mod Danmark. Det her er historien om det spil, der foregik i kulissen, og historien om hvorfor det hele glippede lige f&amp;#xF8;r m&amp;#xE5;lstregen. 
+V&amp;#xE6;rt og tilrettel&amp;#xE6;gger: Caroline Lotz.
+Lyddesigner: Jonas Johs Andersen. 
+Redakt&amp;#xF8;r: Lars Br&amp;#xF8;ndum Veller. 
+Foto: Axel Sch&amp;#xFC;tt/Jysk Fynske Medier/Ritzau Scanpix.
+Eibner-Pressefoto/Picture Alliance/Ritzau Scanpix.
+Stephane Mahe/Reuters/Ritzau Scanpix.
+Redaktion: Jacob Hammerholt, Thomas Loft, Oliver Bilberg Ravn .
+Arkiv: Viaplay.</description>
+            <pubDate>Thu, 20 Nov 2025 05.03.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:38:02</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6af2a6e71cb90558d/cd544e0dd9d6003a6abbc431a06bc3b8844a369dafcec6724e8d3510f0b70410" 
+                type="audio/x-m4a" 
+                length="18689653" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6af2a6e71cb90558d/edb46e0e178a894550e8f67cd887e87a3dfb709980be68767fb2ae895c79a755" 
+                type="audio/x-m4a" 
+                length="55211383" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6af2a6e71cb90558d/3fad0c0e47b3919672fbc60754083a5c10b029fec333e249e34042aae3dcc31a" 
+                type="audio/x-m4a" 
+                length="73471849" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6af2a6e71cb90558d/bf4d100d2a46fea002a34acd22003ccc90f5f71e7f2c76b4acd5388786b9b9e0" 
+                type="audio/mpeg" 
+                length="18261177" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6af2a6e71cb90558d/0599f5377f8193aa1630861302c547f74cf95d40fe325b9bce042b721f92c824" 
+                type="audio/mpeg" 
+                length="54782649" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690b48f6af2a6e71cb90558d/f4cd3fd25bb1c9dddf80305bcaa6a1b69189e9da304203f4798f1a1cb57d2e39" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

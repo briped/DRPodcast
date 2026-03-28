@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/genstart-dox.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Genstart Dox (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/genstart-dox-5314646134000</link>
+        <description>Genstart udfolder nu de allerst&amp;#xF8;rste nyhedshistorier som minidokumentarer. Serierne bringer store afsl&amp;#xF8;ringer, kommer helt ind i kernen p&amp;#xE5; ellers lukkede milj&amp;#xF8;er og t&amp;#xE6;t p&amp;#xE5; de mennesker, det hele handler om.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.05 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/genstart-dox.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/genstart-dox.jpg</url>
+            <title>Genstart Dox (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/genstart-dox-5314646134000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/genstart-dox.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <item>
+            <guid isPermaLink="false">11802464002</guid>
+            <link>https://www.dr.dk/lyd/special-radio/en-livsfarlig-hemmelighed/en-livsfarlig-hemmelighed/1-3-en-livsfarlig-hemmelighed-11802464002</link>
+            <title>1:3 - En livsfarlig hemmelighed</title>
+            <description>Et ulovligt m&amp;#xF8;rklagt dokument er kommet DR&amp;#x27;s unders&amp;#xF8;gende journalister i h&amp;#xE6;nde: en rapport, der &amp;#xE5;bner endnu et kapitel i kr&amp;#xE6;ftskandalen. En skandale p&amp;#xE5; Aarhus Universitetshospital, der kan have kostet kr&amp;#xE6;ftpatienter livet p&amp;#xE5; grund af for lange ventetider til operationer. I f&amp;#xF8;rste episode m&amp;#xF8;der vi enken til kr&amp;#xE6;ftramte Carsten Loop, der f&amp;#xF8;rst fik en positiv melding fra l&amp;#xE6;gerne, s&amp;#xE5; trak ventetiden til hans operation ud, og et &amp;#xE5;r senere endte han p&amp;#xE5; hospice. *Serien er opdateret med kommentar fra Aarhus Universitetshospital.</description>
+            <pubDate>Sun, 18 Feb 2024 18.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:06</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546dc83e7e20241d1ff1/8b5a3a2f7571c02846d0c5a28792af8f96521c1541a8c00aac18a3a4f85dcce9" 
+                type="audio/x-m4a" 
+                length="14795629" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546dc83e7e20241d1ff1/f45585ca471c7707e9a621152bed881293e960575337bc4ffd8db0b915681795" 
+                type="audio/x-m4a" 
+                length="43704947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546dc83e7e20241d1ff1/6c01c39139095b53ecf64deb02295ee4ab3d2c3ccbb8eab0ea42495b37da8183" 
+                type="audio/x-m4a" 
+                length="58160017" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546dc83e7e20241d1ff1/67e0361b5e1d6a41d843b39131821769f8379105427e25bdc4bb7193fde8a0f3" 
+                type="audio/mpeg" 
+                length="14455376" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546dc83e7e20241d1ff1/9c8c345c50cf107580583dd26a3f275e25d864797b54cebb3a32c4633b6091e5" 
+                type="audio/mpeg" 
+                length="43365200" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546dc83e7e20241d1ff1/0154d5c7a654d1ec3b8c048b8b07ea376e65e78630c32ab8c32d6aa2aed6d15c" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802464003</guid>
+            <link>https://www.dr.dk/lyd/special-radio/en-livsfarlig-hemmelighed/en-livsfarlig-hemmelighed/2-3-en-livsfarlig-hemmelighed-11802464003</link>
+            <title>2:3 - En livsfarlig hemmelighed</title>
+            <description>Der stod hospitalsstuer i udlandet klar til at operere kr&amp;#xE6;ften ud af maven p&amp;#xE5; murermester Finn Nielsen. Men den besked fik han aldrig. I stedet fik han at vide, at han ville miste sin plads i k&amp;#xF8;en, hvis han i stedet for at acceptere den lange ventetid i Danmark ops&amp;#xF8;gte et tilbud i udlandet.
+I anden episode udfoldes endnu en ulovlighed i kr&amp;#xE6;ftskandalen, og s&amp;#xE5; &amp;#xE5;bner journalist Astrid Fischer den ulovligt tilbageholdte rapport, som det har taget hende m&amp;#xE5;neder at f&amp;#xE5; fat i.</description>
+            <pubDate>Sun, 18 Feb 2024 18.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546ef20d3d3dbbec23f7/7f79fc1ef1358a32f71441b703ca1724cd90372dfa8d0aad8ffc0edae837de33" 
+                type="audio/x-m4a" 
+                length="13942550" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546ef20d3d3dbbec23f7/a6115c348c276e5a58e42d392dd50207a0df5814db48469709681dcbeb7a6595" 
+                type="audio/x-m4a" 
+                length="41184803" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546ef20d3d3dbbec23f7/a1343bb631f5ca388af3eb28ad6f91a2fb6127896f5906423f1c0090d38f8006" 
+                type="audio/x-m4a" 
+                length="54806321" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546ef20d3d3dbbec23f7/1d7d0faff0c6fb60989dff21529d91795e4531b02b37e11c935cef9d92ed77e2" 
+                type="audio/mpeg" 
+                length="13621898" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546ef20d3d3dbbec23f7/c48bcadd3f1711b65e746af115ed69aeef5f0d0807339b359dddb93e4387ba4a" 
+                type="audio/mpeg" 
+                length="40864778" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546ef20d3d3dbbec23f7/483a42faf0f86d1d9bc8f821adbe7f3c2cdf8ddc2de611bd388e01f661bc14db" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802464004</guid>
+            <link>https://www.dr.dk/lyd/special-radio/en-livsfarlig-hemmelighed/en-livsfarlig-hemmelighed/3-3-en-livsfarlig-hemmelighed-11802464004</link>
+            <title>3:3 - En livsfarlig hemmelighed</title>
+            <description>Der var metoder til at komme foran i k&amp;#xF8;en til kr&amp;#xE6;ftoperationer p&amp;#xE5; Aarhus Universitetshospital. Dem benyttede Britt Schjellerup sig af. I dag er hun rask, men af og til t&amp;#xE6;nker hun p&amp;#xE5; Finn Nielsen, Carsten Loop og andre tarmkr&amp;#xE6;ftpatienter, der ventede for l&amp;#xE6;nge p&amp;#xE5; deres operation og aldrig blev raske. I tredje episode af &amp;#x27;En livsfarlig hemmelighed&amp;#x27; fors&amp;#xF8;ger vi at f&amp;#xE5; svar p&amp;#xE5;, hvorfor det gik s&amp;#xE5; galt, og om der egentligt er blevet placeret et ansvar.</description>
+            <pubDate>Sun, 18 Feb 2024 18.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:34:22</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546fc83e7e20241d1ffd/4681dcddfe720dd78533014c9d04c80bf3815af122864fee933b610e6afcd39f" 
+                type="audio/x-m4a" 
+                length="16888681" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546fc83e7e20241d1ffd/779c39e8e22f0de55050893cfa5489ab1acb782681c53491c6443fff26946c1a" 
+                type="audio/x-m4a" 
+                length="49888271" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546fc83e7e20241d1ffd/ddbb64a088e751514848ac991e00ef5e4d21eebf798510da488830e7361ad18d" 
+                type="audio/x-m4a" 
+                length="66388456" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546fc83e7e20241d1ffd/ebf27d79d2e8ee5f5710b949417b992d3261bb706d0a84104311707470cc56cb" 
+                type="audio/mpeg" 
+                length="16500556" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546fc83e7e20241d1ffd/2301dba2a3e06b15fd10e5e5ac9cc72552b49628713811ff4f387565ed471a73" 
+                type="audio/mpeg" 
+                length="49500748" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cb546fc83e7e20241d1ffd/08d33884e289be0be3d19adf14c194f1d1d5c74a9dc7b2c297860df48c3e2cc8" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802464101</guid>
+            <link>https://www.dr.dk/lyd/special-radio/et-giftigt-hensyn/et-giftigt-hensyn/1-3-et-giftigt-hensyn-11802464101</link>
+            <title>1:3 - Et giftigt hensyn</title>
+            <description>Under vandet p&amp;#xE5; Danmarks vestkyst lurer fortidens gifte fra kemifabrikken Cheminova.  Den er &amp;#xE9;n blandt flere store danske virksomheder, der st&amp;#xE5;r over for at f&amp;#xE5; fornyet deres milj&amp;#xF8;godkendelser til at udlede spildevand i havet. Men den tilladelse skal vise sig ikke at v&amp;#xE6;re helt nem at give, hvis Milj&amp;#xF8;ministeriet &amp;#xF8;nsker at overholde milj&amp;#xF8;lovgivningen. 
+I denne Genstart Dox kan vi afsl&amp;#xF8;re, at Milj&amp;#xF8;ministeriet - if&amp;#xF8;lge flere eksperter -  med &amp;#xE5;bne &amp;#xF8;jne har bl&amp;#xE5;stemplet ulovlig udledning af milj&amp;#xF8;farlige stoffer. Og tilmed fors&amp;#xF8;gt at skjule det. Altsammen i et fors&amp;#xF8;g p&amp;#xE5; at sikre, at virksomheder som Cheminova, kan forts&amp;#xE6;tte som hidtil. Genstart bes&amp;#xF8;ger Cheminovas hjemegn sammen med forfatter Kim Bl&amp;#xE6;sbjerg og udl&amp;#xE6;gger historien med unders&amp;#xF8;gende journalist Jesper Tynell.</description>
+            <pubDate>Sun, 05 May 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:58</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af0/07d9bb22cfe4f1a65e4149273d4e693aba55ffd2c048e5cf875d7464d9b5e62c" 
+                type="audio/x-m4a" 
+                length="14726740" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af0/ffec5de0f4da5dc7ebd1f2aab18b315007ab1d1fd25c65776b69280029a3ff57" 
+                type="audio/x-m4a" 
+                length="43504235" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af0/ea625762deca9dfe6333640039e46018d896a728bb0dad45c703ddf62ee2ada1" 
+                type="audio/x-m4a" 
+                length="57892888" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af0/f3e0662fdcaf68e0c84ab2e5aa4595f279f85a4bc67bc09b6b451f9dd0f6b2eb" 
+                type="audio/mpeg" 
+                length="14389132" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af0/717a12809d9fe9b3c044fefff518ce3f0bad50b94c113d3fc90906490f502590" 
+                type="audio/mpeg" 
+                length="43166476" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af0/5bfab7fd1ef28d9868f78555c6978ac0120f3d9a0ff26590c45117181a491146" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802464102</guid>
+            <link>https://www.dr.dk/lyd/special-radio/et-giftigt-hensyn/et-giftigt-hensyn/2-3-et-giftigt-hensyn-11802464102</link>
+            <title>2:3 - Et giftigt hensyn</title>
+            <description>Fiskeren Rav-Aage bliver kaldt Danmarks f&amp;#xF8;rste milj&amp;#xF8;aktivist og i &amp;#xE5;revis fors&amp;#xF8;gte han at advare mod Cheminovas forurening. Ingen lyttede f&amp;#xF8;r mange &amp;#xE5;r senere, selvom fiskeren fremviste d&amp;#xF8;de fisk og kom p&amp;#xE5; bes&amp;#xF8;g hos kemifabrikkens direkt&amp;#xF8;r. I dag har Rav-Aages s&amp;#xF8;n, Bjarne Hansen, overtaget kampen mod fortidens gifte begravet under sandet p&amp;#xE5; Harbo&amp;#xF8;re Tange. I anden episode bes&amp;#xF8;ger vi ham og deler afsl&amp;#xF8;ringen om Milj&amp;#xF8;ministeriet hensyn til den gamle kemifabrik med ham. Og s&amp;#xE5; forklarer journalist Jesper Tynell, hvordan Milj&amp;#xF8;ministeriet kom frem til den l&amp;#xF8;sning, som eksperter kalder for ulovlig.</description>
+            <pubDate>Sun, 05 May 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:20</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466cb76592fadf041aa6/692f727df3e56eeaf65d4360aa3e7f1fb319dae0b640a270f3944d928526f6cc" 
+                type="audio/x-m4a" 
+                length="14412689" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466cb76592fadf041aa6/5165606c9e4bbb5cf0467f43d9185e5af1f1564b9339ea1ed8a43b089947db67" 
+                type="audio/x-m4a" 
+                length="42576499" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466cb76592fadf041aa6/8e6406dfbfba561d06155e030b1ce706fe3bde0e62d41c925a0d3d32d87e6f39" 
+                type="audio/x-m4a" 
+                length="56658341" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466cb76592fadf041aa6/0b4c93e3645a068db42f5f09601a1ca095fe927db5779717f1f7ab7e4c4b87bd" 
+                type="audio/mpeg" 
+                length="14082128" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466cb76592fadf041aa6/167f7b6720bed99bccd2f0ad1dcc91b57f1c8a110e4bcbf866052332554dfbdf" 
+                type="audio/mpeg" 
+                length="42245456" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466cb76592fadf041aa6/f76cb2c12ca71d782a0c32980ab5aa7bb6fa9517dfcf2cdfce018e62e3e5dcf2" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802464103</guid>
+            <link>https://www.dr.dk/lyd/special-radio/et-giftigt-hensyn/et-giftigt-hensyn/3-3-et-giftigt-hensyn-11802464103</link>
+            <title>3:3 - Et giftigt hensyn</title>
+            <description>Ministeriet m&amp;#xE5; til at t&amp;#xE6;nke kreativt, lyder det fra Danmarks st&amp;#xF8;rste interesseorganisationer, der sender et brev til Milj&amp;#xF8;ministeriet. De er bekymrede for, at Danmark vil g&amp;#xE5; helt i st&amp;#xE5;, hvis ikke der snart bliver uddelt nye milj&amp;#xF8;tilladelser. Selvom det ser h&amp;#xE5;bl&amp;#xF8;st ud at tillade Cheminovas udledninger af spildevand, s&amp;#xE5; kommer ministeriet frem til en l&amp;#xF8;sning, der tilsyneladende g&amp;#xF8;r det muligt at udlede endnu mere. If&amp;#xF8;lge eksperter betyder det faktisk, at jo giftigere stoffet er - jo lettere bliver det at udlede.</description>
+            <pubDate>Sun, 05 May 2024 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af4/a340f941075f1d7e9227c38752f7a64895e38721a16ef835312d0b04a9788c3b" 
+                type="audio/x-m4a" 
+                length="14666865" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af4/e412624fa3a23bb58fe70d9eb4a7b15f16a1b31cc3042deb1725b8e9f06cddb4" 
+                type="audio/x-m4a" 
+                length="43327259" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af4/77c6ce758485745c8254ddaedb07de31629f2208d9a2b28eb422304e0df0d9f1" 
+                type="audio/x-m4a" 
+                length="57657325" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af4/2cb81cc7ddf41fc8a12ec6f99cb6eb6c7ddccad3e8b1e6f94ed2d0ef7f6bf94d" 
+                type="audio/mpeg" 
+                length="14330572" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af4/5495432221acff062276e246239570d50a8edf30edd00c5e3efa26c2bcc476b0" 
+                type="audio/mpeg" 
+                length="42990796" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6633466bf358fdf526cb1af4/7d4ff5033d4dd02adacd096b6a296babd659a7c0db4b4d44e33ec3cd46cc2956" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802450421</guid>
+            <link>https://www.dr.dk/lyd/special-radio/oproer-i-oregon/oproer-i-oregon/1-3-oproer-i-oregon-11802450421</link>
+            <title>1:3 - Opr&amp;#xF8;r i Oregon</title>
+            <description>Episode 1: &amp;#x22;Truth and untruth&amp;#x22;.
+De bliver kaldt antidemokratiske, paramilit&amp;#xE6;re militser. Grupperne, der var hovedarkitekter bag stormen p&amp;#xE5; kongressen 6. januar 2021, og som i skyggerne, siden har vokset sig st&amp;#xF8;rre og st&amp;#xE6;rkere over hele USA. Og nu med f&amp;#xE5; uger til pr&amp;#xE6;sidentvalget holder alle vejret i det, m&amp;#xE5;ske mere end nogensinde, splittede USA. Specielt i landets nordvestlige hj&amp;#xF8;rne ud mod Stillehavet, bliver der talt om en s&amp;#xE6;rlig opblomstring af yderligg&amp;#xE5;ende h&amp;#xF8;jreorienterede netv&amp;#xE6;rk. Genstart Dox har sendt reporter Mikkel R&amp;#xF8;nnau til det &amp;#xF8;stlige Oregon, i et fors&amp;#xF8;g p&amp;#xE5; at komme t&amp;#xE6;t p&amp;#xE5; de s&amp;#xE5;kaldte militser og for at finde ud af, hvem de er og hvad de k&amp;#xE6;mper for. Men det skal vise sig ikke at v&amp;#xE6;re en helt nem mission.</description>
+            <pubDate>Mon, 14 Oct 2024 03.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:50</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a34c508f7c5e433d06/ad422998783ccc36a638ccfdb8df56413904c394c16940f41065d4afad6fdbdd" 
+                type="audio/x-m4a" 
+                length="14172583" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a34c508f7c5e433d06/37ae4ec65a52d3e87b6ba7cd137790ed197e3b0f6ccd5cb6fb26cd0bd7a20d39" 
+                type="audio/x-m4a" 
+                length="41866983" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a34c508f7c5e433d06/ca77a34e03afc9ca3e9bbee3bf7c9ebbdc3414118ac051eaea1e3c05dfd0780f" 
+                type="audio/x-m4a" 
+                length="55714075" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a34c508f7c5e433d06/fe8bb4ce2d7a7f22af38e7635f5c72af7ec6a381a29aaa7eb1176d1561c125eb" 
+                type="audio/mpeg" 
+                length="13847421" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a34c508f7c5e433d06/a5cc8b6c79f32a2b8dc9b913495f589ae42ff6b35e360fbee12502db195bb8b8" 
+                type="audio/mpeg" 
+                length="41541501" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a34c508f7c5e433d06/95bdddd07d6501ce02159c1e517c31c962c759f689f77a5282275699372622db" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802450422</guid>
+            <link>https://www.dr.dk/lyd/special-radio/oproer-i-oregon/oproer-i-oregon/2-3-oproer-i-oregon-11802450422</link>
+            <title>2:3 -Opr&amp;#xF8;r i Oregon</title>
+            <description>Episode 2: &amp;#x22;Kernefamilien eller Kaos&amp;#x22;.
+LGBTQ+ rettigheder og stramninger i v&amp;#xE5;benlovgivningen er noget, der for alvor f&amp;#xE5;r sindene i kog i de h&amp;#xF8;jreradikale grupperinger i det &amp;#xF8;stlige Oregon. En f&amp;#xF8;lelse af at deres basale borgerrettigheder er under angreb, og at omr&amp;#xE5;dets skoler indoktrinerer et verdenssyn styret af Demokraterne og den dybe stat. I en lagerbygning i udkanten af byen Prineville har Mikkel R&amp;#xF8;nnau f&amp;#xE5;et lov at deltage i et m&amp;#xF8;de hos gruppen Central Oregon Patriots. Deres mission er at bek&amp;#xE6;mpe de nye progressive str&amp;#xF8;mninger, som Kamala Harris er personificeringen p&amp;#xE5;. En barnl&amp;#xF8;s kvinde hvis holdninger truer det allermest hellige, nemlig kernefamilien. M&amp;#xF8;det hos patrioterne virker som et gennembrud p&amp;#xE5; Mikkel R&amp;#xF8;nnaus mission, for mens han indvies i deres frygt for den nye verden, f&amp;#xE5;r han stukket en seddel i h&amp;#xE5;nden med et telefonnummer til et medlem fra omr&amp;#xE5;dets mest omstridte militsgruppe, Peoples Rights.</description>
+            <pubDate>Tue, 15 Oct 2024 03.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:42</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a39973a9c837f9ce0a/d33fa343e08560c805ff9ed08a8836425cf685e1e11ca4ff7bf1e23017a5ccfe" 
+                type="audio/x-m4a" 
+                length="14101295" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a39973a9c837f9ce0a/0fa8d5dffd3d3594dbf9bef7fcfc559a6d8651be7a584626ccf913daee0845f4" 
+                type="audio/x-m4a" 
+                length="41656443" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a39973a9c837f9ce0a/d2f1d593092024f7a1adf2a42c5e60d4c262404d1128819cb7dd7907e6ee361d" 
+                type="audio/x-m4a" 
+                length="55433927" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a39973a9c837f9ce0a/3ee7249fd4a768fca6e22c56d54bb4107aae824906854a1b30836b69eda958a7" 
+                type="audio/mpeg" 
+                length="13777806" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a39973a9c837f9ce0a/6ba358e49d8eba7666c98ae803930f300a6569a2acdb2603fa9e7519c013e921" 
+                type="audio/mpeg" 
+                length="41332494" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a39973a9c837f9ce0a/d3c1b9fe7ccd0e09f8e71d28e5778205284be26a0d5add9a597a498b8a1ab4bf" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802450423</guid>
+            <link>https://www.dr.dk/lyd/special-radio/oproer-i-oregon/oproer-i-oregon/3-3-oproer-i-oregon-11802450423</link>
+            <title>3:3 -Opr&amp;#xF8;r i Oregon</title>
+            <description>Episode 3: &amp;#x22;Kyllinger og d&amp;#xE6;moner&amp;#x22;.
+En lille post-it med et telefonnummer virker til at v&amp;#xE6;re den endelige &amp;#xE5;bning for Mikkel R&amp;#xF8;nnau til gruppen People&amp;#x27;s Rights Group, som medier beskriver som en antidemokratisk paramilit&amp;#xE6;r gruppe. Selv kalder de sig et netv&amp;#xE6;rk af ligesindede, der vil back to basics. Journalister er ikke ligefrem deres favorit kop te, og det skal ogs&amp;#xE5; vise sig at blive sv&amp;#xE6;rere end som s&amp;#xE5; at f&amp;#xE5; dem i tale. For netop som Mikkel tror d&amp;#xF8;ren til Oregons genrejste paramilits st&amp;#xE5;r &amp;#xE5;ben, bliver den sm&amp;#xE6;kket i p&amp;#xE5; ny. Ad omveje fors&amp;#xF8;ger han at komme ind til organisationens kerne. For han vil vide, hvorfor de er s&amp;#xE5; hemmelighedsfulde og hvad det er, de forbereder sig p&amp;#xE5;, hvis pr&amp;#xE6;sidentvalget falder ud til den forkerte side.</description>
+            <pubDate>Wed, 16 Oct 2024 03.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:54</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a44c508f7c5e433d13/dc3714baede95f95f9c5288cb15f78e6a5452f38d3fb002f48de998829e485cc" 
+                type="audio/x-m4a" 
+                length="14696908" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a44c508f7c5e433d13/819b3f2b01d65922b9c3662513eeaf4a30c7f17f390fa80cbc1fef2570e40368" 
+                type="audio/x-m4a" 
+                length="43415975" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a44c508f7c5e433d13/4f9eb65f49b47aeb60fe337c26b85eb43413f82e12a6bcc8dd713dced353f477" 
+                type="audio/x-m4a" 
+                length="57775480" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a44c508f7c5e433d13/f058c5fbda727eac2a90a16d509947c45a58503c3132ed357b5e594f57919ba2" 
+                type="audio/mpeg" 
+                length="14359948" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a44c508f7c5e433d13/b59ce5172682fc540456e9323be007c8d9a0cc3ff2f6518a67b49cae8a95f2ea" 
+                type="audio/mpeg" 
+                length="43078924" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658439a44c508f7c5e433d13/01ca1b5d46d5173231e873aed94637066b4d04080ef9db12ef5407ae1d5869bc" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564301</guid>
+            <link>https://www.dr.dk/lyd/special-radio/tyrannens-fald/tyranens-fald/1-3-tyrannens-fald-11802564301</link>
+            <title>1:3 - Tyrannens fald</title>
+            <description>Episode 1: &amp;#x22;I opr&amp;#xF8;rets ildspor&amp;#x22;.
+Den islamistiske opr&amp;#xF8;rsgruppe HTS s&amp;#xE6;tter diktatoren fra magten i Syrien p&amp;#xE5; blot 11 dage i en lynoffensiv. 
+I &amp;#xE5;revis har opr&amp;#xF8;rerne styret den nordvestlige Idlib-provins, hvor Puk Damsg&amp;#xE5;rds rejser begynder. Her m&amp;#xF8;der hun en dansker, der har fulgt udviklingen p&amp;#xE5; t&amp;#xE6;t hold.</description>
+            <pubDate>Sun, 23 Feb 2025 18.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:44</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf29d/a41e6c6afe576a510434ed0238ba979c8f880380b4772036c519bfc27359336e" 
+                type="audio/x-m4a" 
+                length="13629691" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf29d/fdc97b47b49584e40cae89abd872a569c3e59ac2e8b80d23f82771d55558db92" 
+                type="audio/x-m4a" 
+                length="40263131" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf29d/c48cb364d40f60e4e07a37da469d4769f7ecb5cb857721308b461c351b6e3e2c" 
+                type="audio/x-m4a" 
+                length="53579991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf29d/a75c4aef6076de6b8d17fe96d34659adee899b4a9804e524248e3ed79f097807" 
+                type="audio/mpeg" 
+                length="13317003" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf29d/d3fb6e911ad95309afc2998a3f8f4ce6bb6132740cd2e0db857e320d3c0d5207" 
+                type="audio/mpeg" 
+                length="39950091" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf29d/6dc8e31d47e8660ba2a031dac4746f9047534e9725d84bc731023c704d4c2f46" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564302</guid>
+            <link>https://www.dr.dk/lyd/special-radio/tyrannens-fald/tyranens-fald/2-3-tyrannens-fald-11802564302</link>
+            <title>2:3 - Tyrannens fald</title>
+            <description>Episode 2: &amp;#x22;Skriften p&amp;#xE5; v&amp;#xE6;ggen&amp;#x22;.
+Mens hun sender lydbeskeder til danske Daniel Rye, bev&amp;#xE6;ger Puk Damsg&amp;#xE5;rd sig ned ad trappen til en m&amp;#xF8;rk k&amp;#xE6;lder p&amp;#xE5; et b&amp;#xF8;rnehospital i Aleppo. Det var nemlig her, Daniel sad fanget.
+Diktatorens fald har &amp;#xE5;bnet sorte bokse for syrerne og verden, der nu s&amp;#xF8;ger svar. B&amp;#xE5;de om deres fortid og fremtid.</description>
+            <pubDate>Sun, 23 Feb 2025 18.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:08</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf295/c69a81f3d269331a7d0398f0f4c450368bd88f544bd10d8671dab8b2adadcbc8" 
+                type="audio/x-m4a" 
+                length="12354957" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf295/6307f7028f9594e2c13380d7aedd918847045290532313f49c723d17a5b613ce" 
+                type="audio/x-m4a" 
+                length="36497371" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf295/17e74a4dd4bf41f00c2728a844dcfb797170c2c193ec3641120f0fee395bcd9e" 
+                type="audio/x-m4a" 
+                length="48568681" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf295/a67db031af0745634c641cff6cafdbabf3486feb835b3dddf89cca068192749b" 
+                type="audio/mpeg" 
+                length="12071692" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf295/e31cb0f88c9f5cabd42ca31bc71919dd6eb73d434a99488041a9b17755a12a63" 
+                type="audio/mpeg" 
+                length="36214156" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf295/14b0db886bc4fac905fb57c1833463fd6dc55006cfd5a1b183873839b3efac12" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564303</guid>
+            <link>https://www.dr.dk/lyd/special-radio/tyrannens-fald/tyranens-fald/3-3-tyrannens-fald-11802564303</link>
+            <title>3:3 - Tyrannens fald</title>
+            <description>Episode 3: &amp;#x22;Diktatorens torturkammer&amp;#x22;.
+Udenfor den lokale politistation i Latakia st&amp;#xE5;r diktaturets tidligere ansatte i det berygtede sikkerhedsapparat i lange k&amp;#xF8;er. En forsoning er i gang, men de er nerv&amp;#xF8;se. Hvilket nyt Syrien tegner sig? Og kan syrerne stole p&amp;#xE5; deres nye overgangsregering, der st&amp;#xE5;r over for den massiv opgave at genrejse et land helt i kn&amp;#xE6; efter diktaturet og omtrent 14 &amp;#xE5;rs revolution og borgerkrig?</description>
+            <pubDate>Sun, 23 Feb 2025 18.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:40</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf28a/3c37f6c7439154765b03f019bfe2a69cdc3d1059e3e999e026fca8e171821034" 
+                type="audio/x-m4a" 
+                length="14576725" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf28a/82c3e35de5f8618386a78c8d72788a2cc4b2c5714cbb0bcabd24c8ed6c0bacb7" 
+                type="audio/x-m4a" 
+                length="43060951" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf28a/323eb9540d283a5fe0514342a1e157c28e8b4842cd1c80133f1c6284cf855466" 
+                type="audio/x-m4a" 
+                length="57303041" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf28a/9c1ea48111dfb521fd67409f4f2ff4374bf748fe7a4d31ff786ff39ae1faf7bf" 
+                type="audio/mpeg" 
+                length="14242440" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf28a/d41b3245e9b033b7df24cdcc5ec0a1381c8cebb4adf72c9e9547ed10afb43a08" 
+                type="audio/mpeg" 
+                length="42726408" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b45a6df064e1e888bcf28a/230848aaade23aa1c87a725d637656a51f273d38e26dbc8e0b26dfc5e84aad60" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564401</guid>
+            <link>https://www.dr.dk/lyd/special-radio/mord-i-gruppechatten/mord-i-gruppechatten/1-3-mord-i-gruppechatten-11802564401</link>
+            <title>1:3 - Mord i gruppechatten</title>
+            <description>Episode 1: &amp;#x22;Loyal til Familien&amp;#x22;.
+18 skud flyver fra pistolmundingen, da Mohammed Seif som teenager st&amp;#xE5;r vagt for banderne. Et drabsfors&amp;#xF8;g, der sender ham i f&amp;#xE6;ngsel og l&amp;#xE6;ngere ind i det kriminelle milj&amp;#xF8;, hvor han senere bliver lokalpr&amp;#xE6;sident for Loyal to Familia. Da hans kone bliver gravid v&amp;#xE6;lger han familien over banden, som han forlader med et knivstik som afsked.  Lige som han endelig har fundet fred i et r&amp;#xE6;kkehus, s&amp;#xE5; begynder krypterede beskeder at ulme. Beskeder, der hvirvler ham ind i efterforskningen af et blodigt dobbeltdrab ved Menu i Kalundborg.</description>
+            <pubDate>Sun, 18 May 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:27:13</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbf3/fe7687674e6e190739140de060e410139f4fa31d8ddfbd19985be99fe1250c3f" 
+                type="audio/x-m4a" 
+                length="13372057" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbf3/8710b6dace50ac94b7ac8acb3ef5436125a1b9825a14be4d0029b57ee578853f" 
+                type="audio/x-m4a" 
+                length="39502135" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbf3/acf5b4bf16db18a72504f5604d62ca07f55c7459228c5f01a981bb175ddaab0a" 
+                type="audio/x-m4a" 
+                length="52567081" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbf3/a012fac2cf41b921a4a210020c36c8d8f2bbf54a900ea34a16e7d7378305ee61" 
+                type="audio/mpeg" 
+                length="13065283" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbf3/cea4a97fe5b53273038c85dc184d9df25612a37f0424f636286c399c1917a57b" 
+                type="audio/mpeg" 
+                length="39194947" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbf3/4f8ea09a3c08ca6c3f2653de368570eccae1ebeda48de46d1e23125f72f8f504" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564402</guid>
+            <link>https://www.dr.dk/lyd/special-radio/mord-i-gruppechatten/mord-i-gruppechatten/2-3-mord-i-gruppechatten-11802564402</link>
+            <title>2:3 - Mord i gruppechatten</title>
+            <description>Episode 2: &amp;#x22;Mord p&amp;#xE5; Meny&amp;#x22;.
+En kidnapning starter en b&amp;#xF8;lge af blodh&amp;#xE6;vn, som konfrontere Mohammed Seif med den kriminelle fortid, som han ellers siger, han fors&amp;#xF8;ger at flygte fra. Krypterede telefoner planl&amp;#xE6;gger et h&amp;#xE6;vndrab, og en novemberdag bliver parkeringspladsen foran Meny i Kalundborg omdannet til et blodigt gerningssted. H&amp;#xE6;vndrab som Byretten id&amp;#xF8;mmer Mohammed Seif livstid for at have v&amp;#xE6;ret med til at planl&amp;#xE6;gge.</description>
+            <pubDate>Sun, 18 May 2025 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:16</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbe7/341a912d1c3e5e9d6895ea036bda76e8a9a10f38c840c6a53b8df5f56e62df7f" 
+                type="audio/x-m4a" 
+                length="12419397" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbe7/471b03b42e897555590e46d11523fd44beb036e0bc6235ff67739d429d16556f" 
+                type="audio/x-m4a" 
+                length="36687847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbe7/2a94bbc1051af2fee39198a46bc0454ba53b274c41fee415777a40f618820cd4" 
+                type="audio/x-m4a" 
+                length="48821977" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbe7/3ec95b8a5052992f38847268f296aa36755c12f2803b2320996b2581dc3aba4f" 
+                type="audio/mpeg" 
+                length="12134466" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbe7/f5a1cd94149b74273126ef25b4b3d94256e6d6f8bf6e47690a6fc0ed8c7874ce" 
+                type="audio/mpeg" 
+                length="36402498" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbe7/e8ed6bc231cb7643f38c056624457756e5016b462115e354601dc1941936e858" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564403</guid>
+            <link>https://www.dr.dk/lyd/special-radio/mord-i-gruppechatten/mord-i-gruppechatten/3-3-mord-i-gruppechatten-11802564403</link>
+            <title>3:3 - Mord i gruppechatten</title>
+            <description>Episode 3: &amp;#x22;Hvem er Batman?&amp;#x22;
+Bag det krypterede alias &amp;#x22;Batman&amp;#x22; har en person planlagt et brutalt mord. Politiet mener, at det er Mohammed Seif, og han sidder i tre &amp;#xE5;r varet&amp;#xE6;gtsf&amp;#xE6;ngslet, mens han kigger ind en livstidsdom i f&amp;#xE6;ngsel. Men da nye beviser kommer frem i Landsretten bliver der s&amp;#xE5;et tvivl om hans involvering i drabene. Men hvis ikke han st&amp;#xE5;r bag &amp;#x22;Batman&amp;#x22;-profilen, hvem g&amp;#xF8;r s&amp;#xE5;?</description>
+            <pubDate>Sun, 18 May 2025 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:36:41</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbda/847f9cb6967356d1baea36e1abba6769b8cdaa4c66ec7d825324b6c837176ec2" 
+                type="audio/x-m4a" 
+                length="18024332" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbda/945c60c267b486b694b6a21c1ea4823372ebb0b4cc328abbbcd2caa8e67a08ed" 
+                type="audio/x-m4a" 
+                length="53245895" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbda/f495452a2a012b811a6841de38fa78e0b5487c5897c907ca3ca1eb8fd04c4112" 
+                type="audio/x-m4a" 
+                length="70856688" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbda/269e736d010fdd59d57f39109b4c054d42d2fd355ffc48ed052236369de2540b" 
+                type="audio/mpeg" 
+                length="17611070" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbda/2cc756d26b2389e37bf82740c565ce96356b9b2741988aa6ae22ea731a7a324d" 
+                type="audio/mpeg" 
+                length="52832318" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821f2b1002e131c0a93fbda/9c13b09e9bfde0424245115fa3f09963d40d27d44855332389cd4311614b7587" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564501</guid>
+            <link>https://www.dr.dk/lyd/special-radio/stemplet-som-psykopat/stemplet-som-psykopat/1-3-stemplet-som-psykopat-11802564501</link>
+            <title>1:3 - Stemplet som psykopat</title>
+            <description>Episode 1: &amp;#x22;Er du psykopat?&amp;#x22; 
+Fra kvindef&amp;#xE6;ngslets lukkede afdeling skriver Lykke p&amp;#xE5; et digt om at v&amp;#xE6;re kvinde og samtidig b&amp;#xE6;re stemplet som &amp;#x22;psykopat&amp;#x22;. Hun er ligesom Stephie og Jessika d&amp;#xF8;mt for kriminalitet, som har givet dem f&amp;#xE6;ngselsstraf - men samvittigheden omkring deres handlinger er forskellig. S&amp;#xE5; hvordan klarer de sig, nu hvor de igen er l&amp;#xF8;sladt?</description>
+            <pubDate>Wed, 18 Jun 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:07</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818f6c01c3514d7918658/bcfaff3113cd5aa059b027c874719ea80ec1187588a5637b10f8f9ba517c19d4" 
+                type="audio/x-m4a" 
+                length="14799076" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818f6c01c3514d7918658/1337dc0dc8f6ce23414815fbcfdeaf355278ce3ef887eb85940690781f6bf5f0" 
+                type="audio/x-m4a" 
+                length="43717847" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818f6c01c3514d7918658/f28479465f5cf8e6aa1216af8d6d21e206812536180af754eadce4e9ae6bee25" 
+                type="audio/x-m4a" 
+                length="58177232" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818f6c01c3514d7918658/b7abdca126707080b215ee5b589f720da4e28049c3a061474b73c565ac8b8bc7" 
+                type="audio/mpeg" 
+                length="14459585" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818f6c01c3514d7918658/3671a6bbeb182f4d897d7f75f9a624b1ef00570783f8929828b77f412fb876aa" 
+                type="audio/mpeg" 
+                length="43377857" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818f6c01c3514d7918658/11a08e90d585bcb963887e03f59605ad1f53e0cce99c9aea18492d80694b83fd" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564502</guid>
+            <link>https://www.dr.dk/lyd/special-radio/stemplet-som-psykopat/stemplet-som-psykopat/2-3-stemplet-som-psykopat-11802564502</link>
+            <title>2:3 - Stemplet som psykopat</title>
+            <description>Episode 2: &amp;#x22;B&amp;#xF8;rn &amp;#xE6;ndrer alt&amp;#x22;.
+Kvinderne b&amp;#xE6;rer b&amp;#xE5;de titlen som mor og stemplet som &amp;#x22;psykopat&amp;#x22;. Moderskabet rejser sp&amp;#xF8;rgsm&amp;#xE5;let: Kan man elske, n&amp;#xE5;r man har diagnosen dyssocial personlighedsstruktur? Og kan kvindernes st&amp;#xF8;rste frygt - nemlig at give diagnosen videre - g&amp;#xE5; i opfyldelse?</description>
+            <pubDate>Wed, 18 Jun 2025 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818efc01c3514d7918623/8f9d8067f0d8d6207164b990d28f69ca3b73428d6e85070b93d44781018d6cf1" 
+                type="audio/x-m4a" 
+                length="14364319" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818efc01c3514d7918623/9b70840af53add5c55043beb2d102ec01202541e88d87b9a2a2be9173656a2e4" 
+                type="audio/x-m4a" 
+                length="42433483" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818efc01c3514d7918623/e3ebf6c4fad2c411c69c387503fe2c708a95c7c7bee5bcbbd0e29647aa1b0b92" 
+                type="audio/x-m4a" 
+                length="56468087" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818efc01c3514d7918623/a4265edfbc51dbb8572bdf49c713ce12d4d1f2e49ce03fd26117318db6ff10a9" 
+                type="audio/mpeg" 
+                length="14034885" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818efc01c3514d7918623/18bb3e0bce1b1848b856dbb7f34c1693c5ef7f1f5bcaa327e399ee0614bef82e" 
+                type="audio/mpeg" 
+                length="42103749" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818efc01c3514d7918623/d8ff3f119fc11f73d419c274e390ad41b140b60cfad74f9ad28000cd1cdb2e6c" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564503</guid>
+            <link>https://www.dr.dk/lyd/special-radio/stemplet-som-psykopat/stemplet-som-psykopat/3-3-stemplet-som-psykopat-11802564503</link>
+            <title>3:3 - Stemplet som psykopat</title>
+            <description>Episode 3: &amp;#x22;Kan man hj&amp;#xE6;lpe en psykopat?&amp;#x22;
+Lykke og hendes s&amp;#xF8;skende bliver ikke sendt i skole og b&amp;#xF8;rnehave, men ud i skoven - mens de er p&amp;#xE5; flugt i et sommerhus. I en anden del af landet er Jessika i gang med at l&amp;#xE5;se en pige inde i en hesteboks, fordi pigen er bange for heste. De tre kvinder &amp;#xE5;bner op om deres barndom i en unders&amp;#xF8;gelse af, hvordan stemplet som psykopat kan lande i ens papirer. De oplever alle, at man ikke kan f&amp;#xE5; behandling, n&amp;#xE5;r netop det stempel er trykt. Men hvorfor? Kan det v&amp;#xE6;re farligt at hj&amp;#xE6;lpe dem, og kan vi stole p&amp;#xE5;, hvad kvinderne fort&amp;#xE6;ller os? Det sp&amp;#xF8;rger vi Tine W&amp;#xF8;bbe, chefpsykolog p&amp;#xE5; psykiatrisk center Sct. Hans, om.</description>
+            <pubDate>Wed, 18 Jun 2025 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:35:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818ef50790136dd53accb/efeae0ac5c8608bb7161aa03c7dd694cdf3402b0142e705ca22dd5c0bca40b96" 
+                type="audio/x-m4a" 
+                length="17238507" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818ef50790136dd53accb/c6234d20a4db45a2ac53ef9cbe4d0a13d69eed4aefd75033058797fa52376f7f" 
+                type="audio/x-m4a" 
+                length="50924355" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818ef50790136dd53accb/db28067b56bffd642adaf632a323245887e55737afafbfedfefd86fd95abd038" 
+                type="audio/x-m4a" 
+                length="67767267" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818ef50790136dd53accb/0085e731a497bf6b793973153a92c2455d0d447e11797297f626f5e1cae38e6d" 
+                type="audio/mpeg" 
+                length="16843265" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818ef50790136dd53accb/4368544dc54938d5334e93eeb070a7b5d975a1c3c71bb7fdd38efea89cda4c4c" 
+                type="audio/mpeg" 
+                length="50528897" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684818ef50790136dd53accb/15295336cb8ef01c4b53690ab07252b23cf5ba0a8707a1e37c25b048a24dfbc1" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564601</guid>
+            <link>https://www.dr.dk/lyd/special-radio/politiets-beskidte-sager/politiets-beskidte-sager/1-3-politiets-beskidte-sager-11802564601</link>
+            <title>1:3 - Politiets beskidte sager</title>
+            <description>P&amp;#xE5; en rundvisning hos politiet h&amp;#xF8;rer DR&amp;#x27;s unders&amp;#xF8;gende korrespondent Line Geertsen pludselig et udtryk, hun aldrig tidligere har h&amp;#xF8;rt. Efter sigende bliver politisager &amp;#x22;vasket&amp;#x22;. Derfor g&amp;#xE5;r Line Geertsen p&amp;#xE5; jagt efter, hvordan betjente &amp;#x22;vasker&amp;#x22; sager, og hvor h&amp;#xF8;jt oppe i systemet, at udtrykket er kendt.</description>
+            <pubDate>Mon, 29 Sept 2025 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:30:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62cd97801dbf0a9b77d/13fd35db51dcdfca890c0c389b7ff4fc58431ce9cabc0970339fb006a3108f39" 
+                type="audio/x-m4a" 
+                length="14995787" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62cd97801dbf0a9b77d/4ce076f50dadc6240c8fef13bfdbd9d3561fe0eb3ee07279814478f9861b7932" 
+                type="audio/x-m4a" 
+                length="44298827" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62cd97801dbf0a9b77d/4d6062f70d216bfda63415c41653954d2fd14a773a64bda941a0b69267075676" 
+                type="audio/x-m4a" 
+                length="58950191" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62cd97801dbf0a9b77d/5df98c8b8e19df625ca12ecaee229a8b90e3c3344b35365d818ac7fbacc556f0" 
+                type="audio/mpeg" 
+                length="14651973" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62cd97801dbf0a9b77d/69a9b400919bef344913e7419bdbe31f3b878d899191e977abaf565723b5779f" 
+                type="audio/mpeg" 
+                length="43955013" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62cd97801dbf0a9b77d/07fb88624066de396e4504cd479e8971308f6f6f4bc57565e164c1ad54f248ac" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564602</guid>
+            <link>https://www.dr.dk/lyd/special-radio/politiets-beskidte-sager/politiets-beskidte-sager/2-3-politiets-beskidte-sager-11802564602</link>
+            <title>2:3 - Politiets beskidte sager</title>
+            <description>For f&amp;#xF8;rste gang stiller en betjent sig frem med sit navn og ansigt, og fort&amp;#xE6;ller om, hvordan han og hans kollegaer systematisk har lukket sager ved at &amp;#x22;vaske&amp;#x22; dem, og at der findes konkrete guidelines til, hvordan de skal g&amp;#xF8;re det. 
+Imens f&amp;#xE5;r Line Geertsen fingrene i interne dokumenter, der underbygger betjentens fort&amp;#xE6;lling.</description>
+            <pubDate>Mon, 29 Sept 2025 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:26:04</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62c4e5b979347c956bd/b90fe5a9388ded4532438295abb717f8429c4d8199b08140e45ce9ba168b28ef" 
+                type="audio/x-m4a" 
+                length="12806820" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62c4e5b979347c956bd/b67cfc7f6e07d1af4ade83b232c4335dbadad34301a81635d346cb32ca7d92e1" 
+                type="audio/x-m4a" 
+                length="37832291" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62c4e5b979347c956bd/c7abdfbdadbb866a83ae3c287e49af9f8420c8a31289a2c20481f92ff4e874e8" 
+                type="audio/x-m4a" 
+                length="50344900" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62c4e5b979347c956bd/8aed6be09154ae60cfd2ce3a886d8b02664ed7b05e85c543644a2e93c6f207c1" 
+                type="audio/mpeg" 
+                length="12513092" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62c4e5b979347c956bd/02da8d50296354f3e50b2435a3b9f2a382ac03867bf4f364daef447a59204a90" 
+                type="audio/mpeg" 
+                length="37538372" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d62c4e5b979347c956bd/30419a77ef1343fbbe754f6b0bd608b981266cc8988db865590f199ffaa079d9" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564603</guid>
+            <link>https://www.dr.dk/lyd/special-radio/politiets-beskidte-sager/politiets-beskidte-sager/3-3-politiets-beskidte-sager-11802564603</link>
+            <title>3:3 - Politiets beskidte sager</title>
+            <description>Imens politiet for rullende kamera fort&amp;#xE6;ller, at der ikke er et problem med, at sager bliver s&amp;#xE5;kaldt &amp;#x27;vasket&amp;#x27; i Danmark, bliver et stempel med ordene &amp;#x22;lukket&amp;#x22; sat p&amp;#xE5; en helt ny sag.
+En sag, hvor de p&amp;#xE5;r&amp;#xF8;rende tager sagen i egen h&amp;#xE5;nd, og det viser sig, at den &amp;#xE6;ldre mand er blevet svindlet for 183.000 kroner, et v&amp;#xE5;ben er forsvundet, en hjemmehj&amp;#xE6;lper er under mistanke, og der er overv&amp;#xE5;gning at hente. Det f&amp;#xE5;r nu eksperter p&amp;#xE5; omr&amp;#xE5;det til igen at rette en skarp kritik af politiet.</description>
+            <pubDate>Mon, 29 Sept 2025 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:29</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d6424e5b979347c957a0/3cf7b240a770619f5b25773868f712fa5cff8cd73555bd3365219f5baa366d52" 
+                type="audio/x-m4a" 
+                length="15468963" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d6424e5b979347c957a0/edbca297fca3316883befa7fb51285d3a7107a8cb422efb80d13946a0a602072" 
+                type="audio/x-m4a" 
+                length="45696751" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d6424e5b979347c957a0/108cfb695c1416ab513940dcae91da5b4f74443328b3d315a5562df84c608d4c" 
+                type="audio/x-m4a" 
+                length="60810547" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d6424e5b979347c957a0/e9c43f222fd4fcd112ccabbb7c7a92683269a8841328624272b447df4bf1bb35" 
+                type="audio/mpeg" 
+                length="15114114" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d6424e5b979347c957a0/71b58fe9339361f993f462e14cfd952a501e462a97918dfbc36785955b978156" 
+                type="audio/mpeg" 
+                length="45341442" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d3d6424e5b979347c957a0/a24a2bb34e04269839fdb4d1f88715a17e1e9fab7b05535aa9942c464b84d34e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564901</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fluggers-forbudte-farver/en-nymalet-krigsmaskine/1-3-fluggers-forbudte-farver-11802564901</link>
+            <title>1:3 - Fl&amp;#xFC;ggers forbudte farver</title>
+            <description>P&amp;#xE5; en video st&amp;#xE5;r en skaldet mand med briller. Hans navn er Aleksej Popov og i videoen pr&amp;#xE6;senterer han sig selv om den danske malinggigant Fl&amp;#xFC;ggers repr&amp;#xE6;sentant i Rusland.  Problemet er bare, at Europas sanktioner mod Rusland forbyder, at det danske firmas varer bliver solgt i Rusland. Derfor g&amp;#xE5;r DRs erhvervskorrespondent Jakob Ussing p&amp;#xE5; jagt efter, hvordan den danske maling er kommet til Rusland.</description>
+            <pubDate>Tue, 28 Oct 2025 05.00.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:01</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0739/6630b21081f2547182c33880c9d0c03b0459268c310d9c75fc4f8dda8f7f1337" 
+                type="audio/x-m4a" 
+                length="12293987" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0739/c84226eac13e36a84c1d708cb7591e42d8b307be3fabe2531608c912d6216c55" 
+                type="audio/x-m4a" 
+                length="36317251" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0739/c06be0a18bf185c152612b84eff386b68d95fa39f5bcbc8c5ea42084d960181b" 
+                type="audio/x-m4a" 
+                length="48328743" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0739/b99fc966c55c305b6f2b86d2767902a3466a72cb6be3679252a84bc1b1028266" 
+                type="audio/mpeg" 
+                length="12011974" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0739/32020bd3200414e4052a1907dc78604272e0c6523c696b26e453f77100e67371" 
+                type="audio/mpeg" 
+                length="36035014" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0739/d6260e7f52771dfd3d5e72c2b3804e152bd962ea68b8efa14b80d69c32453c95" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564902</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fluggers-forbudte-farver/en-nymalet-krigsmaskine/2-3-fluggers-forbudte-farver-11802564902</link>
+            <title>2:3 - Fl&amp;#xFC;ggers forbudte farver</title>
+            <description>Med navne p&amp;#xE5; to estiske firmaer og opsigtsv&amp;#xE6;kkende russiske toldoplysninger rejser Jakob Ussing og Kristian Magnus Damsgaard til den estiske by Narva. Her ved gr&amp;#xE6;nsen til Rusland vil de fors&amp;#xF8;ge at finde nye oplysninger, der kan belyse, om danske Fl&amp;#xFC;gger vidste, at deres maling skulle til Rusland. Da de banker p&amp;#xE5; d&amp;#xF8;ren hos det f&amp;#xF8;rste firma, bliver de h&amp;#xF8;jst overraskende inviteret indenfor.</description>
+            <pubDate>Tue, 28 Oct 2025 05.01.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:25:05</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ad04f0602d2fe2d07ad/eaa43b6ca82821b9f77d759cecb1a7e715d4b493aebacc59cfbd8e7e253504ac" 
+                type="audio/x-m4a" 
+                length="12324204" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ad04f0602d2fe2d07ad/5b6e09d45e25e2371a1df696e7a281c98ca574e23c640c2fb0b9f3c51ea599c9" 
+                type="audio/x-m4a" 
+                length="36406591" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ad04f0602d2fe2d07ad/ce54bdce40fd04e3c41141c26ddbe875d5959883f6b269602a16838176485410" 
+                type="audio/x-m4a" 
+                length="48447728" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ad04f0602d2fe2d07ad/e25d5c78ff19e9e883ecc8a5f6bf86be70fa1f881f4e4f15f7cd2dddade8428f" 
+                type="audio/mpeg" 
+                length="12041543" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ad04f0602d2fe2d07ad/a0bfb43dddb2cde6dc672cba6ea58f21a985efc4074957e6fe3f0689c54c824c" 
+                type="audio/mpeg" 
+                length="36123719" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ad04f0602d2fe2d07ad/67f9c13b80ffeb86704a4be354333dc38993b37a0ec65d6f42ee82aec794c79d" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802564903</guid>
+            <link>https://www.dr.dk/lyd/special-radio/fluggers-forbudte-farver/en-nymalet-krigsmaskine/3-3-fluggers-forbudte-farver-11802564903</link>
+            <title>3:3 - Fl&amp;#xFC;ggers forbudte farver</title>
+            <description>I Estland fors&amp;#xF8;ger de to journalister at finde frem til et &amp;#xE6;gtepar, hvis firma if&amp;#xF8;lge toldoplysninger har distribueret flere hundrede tons Fl&amp;#xFC;gger-maling til Rusland. Men noget tyder p&amp;#xE5;, at de fors&amp;#xF8;ger at slette alle spor fra Fl&amp;#xFC;ggers maling.</description>
+            <pubDate>Tue, 28 Oct 2025 05.02.00 +01:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0745/16032acf81ed2224549473964cf675f71fb033fb5c8867ee7b275fbf8db365da" 
+                type="audio/x-m4a" 
+                length="15670179" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0745/effa1efbdc9f1cca1896188de39d8d7152fced180259c0ca710adde3012931f9" 
+                type="audio/x-m4a" 
+                length="46291195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0745/6dd4dde03507f93fbf94d063ab0b0a7a6fcd1e9887356b12d0951e4edfd0299c" 
+                type="audio/x-m4a" 
+                length="61601567" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0745/dc27ca291a5459e57c419b423055d304a731e18fec8e8a9e739b301d5a49a9a7" 
+                type="audio/mpeg" 
+                length="15310905" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0745/be219fd5a337229a6d08bc32398dc3973e80aeb1c2bd2d6507aa2ef4e6e97e03" 
+                type="audio/mpeg" 
+                length="45931833" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e65ac74f0602d2fe2d0745/0898f4e36750ad7cafed6ceed9f0290f60f5087fabba5281c79a204ee8d0fa4e" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

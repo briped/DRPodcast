@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/lottomysteriet-genfortalt.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Lottomysteriet - Genfortalt (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000</link>
+        <description>I en lille kiosk ved Esbjerg forlader en mand en lottokupon med en gevinst p&amp;#xE5; 9,3 millioner kroner. Manden, der har vundet de mange millioner, bliver aldrig fundet, men 16 &amp;#xE5;r senere bliver mysteriet igen vakt til live, da Danske Spil fort&amp;#xE6;ller, at de stadig er villige til at udbetale gevinsten, hvis den rette vinder dukker op. Pludselig viser det sig, at en r&amp;#xE6;kke m&amp;#xE6;nd i mere end 16 &amp;#xE5;r har fors&amp;#xF8;gt at bevise, at de er den rigtige vinder.
+&amp;#x22;Lottomysteriet&amp;#x22; udkom oprindeligt i radioen i 2018. Dette er en genfortalt udgave, hvor historien er blevet pudset af og skrevet om til et vaske&amp;#xE6;gte podcast-mysterium.
+Tilrettel&amp;#xE6;ggelse: Jens Vithner Hansen, Nicholas Durup Thomsen og Signe Mansdotter.
+Klip og lyddesign: Signe Mansdotter.
+Har du en historie, vi b&amp;#xF8;r unders&amp;#xF8;ge n&amp;#xE6;rmere? Kontakt os via dr.dk/tipos eller skriv til drundersoeger@proton.me
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.09 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/lottomysteriet-genfortalt.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/lottomysteriet-genfortalt.jpg</url>
+            <title>Lottomysteriet - Genfortalt (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt-5612055206000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/lottomysteriet-genfortalt.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <item>
+            <guid isPermaLink="false">11802466001</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/1-8-den-mystiske-mand-i-kiosken-11802466001</link>
+            <title>1:8: Den mystiske mand i kiosken</title>
+            <description>Jagten p&amp;#xE5; de 9,3 millioner kroners rette ejermand tager sin begyndelse, men det viser sig at v&amp;#xE6;re en sv&amp;#xE6;rere opgave end f&amp;#xF8;rst antaget.</description>
+            <pubDate>Tue, 25 Jun 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:19:15</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/5a64208e7a1621e23381fb330b6c9e1b742e812403855b56c7f96be538f225a5" 
+                type="audio/x-m4a" 
+                length="9458412" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/fb046ebfd6a016a4143d341c8bf9f6d36518538d6741352ff6588a16863aeb50" 
+                type="audio/x-m4a" 
+                length="27940451" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/0abe49ef88596f922c79dc6581f6e718ac7b31e6dbee870d9e415a03ef2efcb2" 
+                type="audio/x-m4a" 
+                length="37181452" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/c5a9f40a4492764a9fe9a7fe54477f508ad641ac4c1dc4b97dc827c35b21a8e2" 
+                type="audio/mpeg" 
+                length="9241296" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/e862e022795289965c1cf117294e933704991a46ad26ad351836c206f8e9012e" 
+                type="audio/mpeg" 
+                length="27723216" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad245/f6bf7c5abfda9944b7e7621a4c9691d9d8281936705a910188b237bb90b850a2" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802466002</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/2-8-den-pensionerede-mejerist-11802466002</link>
+            <title>2:8: Den pensionerede mejerist</title>
+            <description>Hvis man har brugt 300.000 kroner p&amp;#xE5; at jagte en vinderkupon, s&amp;#xE5; m&amp;#xE5; man vel v&amp;#xE6;re den rette ejer? Den 83-&amp;#xE5;rige pensionerede mejerist, Johannes Nielsen, har ih&amp;#xE6;rdigt jagtet de mange millioner og er overbevist om, at han er vinderen. Men der er nogle ting ved hans historie, der ikke helt h&amp;#xE6;nger sammen.</description>
+            <pubDate>Tue, 25 Jun 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:24:32</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/c725276cab5c1a479219fef4db59a24fb5ca99b9bfa267574416fb97299ae927" 
+                type="audio/x-m4a" 
+                length="12056091" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/baa35637b1bdc06173e7e3cb0b35be1ad18852609c13326d5e6b4c4837f7781e" 
+                type="audio/x-m4a" 
+                length="35614491" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/75fb00abc1644c6ec5e52a773b6128b2a88ff9ed616b59ac188b8040d864e377" 
+                type="audio/x-m4a" 
+                length="47393655" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/c2df527af8ef1dae1a4cf9a1d271448d9d8610b5d8f320b3bd298c37fbfaf693" 
+                type="audio/mpeg" 
+                length="11779463" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/019fbd6f3ef3412876df4b66af954e60a24ea44f69234d1a927cda32136bc62f" 
+                type="audio/mpeg" 
+                length="35337479" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad249/b386b3d3450f4d0906bc57a18783bcdf4d3da4df989aece031d05a096c0c9bf1" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802466003</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/3-8-kasseapparatsaelgerens-angstanfald-11802466003</link>
+            <title>3:8: Kasseapparats&amp;#xE6;lgerens angstanfald</title>
+            <description>Mejeristen Johannes anklager kasseapparat-s&amp;#xE6;lgeren Christian for at have stj&amp;#xE5;let den eftertragtede kupon tilbage i 2002. Christian siger derimod, at han selv har k&amp;#xF8;bt vinderkuponen, men endte med at efterlade den i kiosken. Hvorfor efterlod han den? Og taler han sandt?</description>
+            <pubDate>Tue, 25 Jun 2024 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/5d44ffb8580361d75bf3e83715677c410c151e78b01700d0ed4166867a059f31" 
+                type="audio/x-m4a" 
+                length="13873700" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/bf374f1c791d36f760d1631ac5d9183d09d9afd3d638c0433561d04b637148aa" 
+                type="audio/x-m4a" 
+                length="40984079" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/d957594bc5e70489df4d286fcd059706ab8e5a464d66498d29cc49f8502f4adf" 
+                type="audio/x-m4a" 
+                length="54539232" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/85a688dc5bc4d389d08f5bf44acbc7ca6fa9ca3b85519adc1725d60c13574d87" 
+                type="audio/mpeg" 
+                length="13555462" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/c34d6e32e2b3468727dbdf2f28aa77833cf5af9bc5bb45f6c6a710b1fe621424" 
+                type="audio/mpeg" 
+                length="40665478" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad251/34c3d7fe12223b8651eec7a94eb077108207c601624900f3bedb6206e171d254" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802466004</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/4-8-taxachauffoerens-tommelfingre-11802466004</link>
+            <title>4:8: Taxachauff&amp;#xF8;rens tommelfingre</title>
+            <description>En lokal taxachauff&amp;#xF8;r har brugt &amp;#xE5;revis p&amp;#xE5; at glemme alt om den lottokupon, han mener at have efterladt i Strandvejens Kiosk, og s&amp;#xE5; er han rasende p&amp;#xE5; Danske Spil over deres h&amp;#xE5;ndtering af sagen. For han er sikker p&amp;#xE5;, at han kan bevise, at han er den rette ejer - hvis bare han fik lov.</description>
+            <pubDate>Tue, 25 Jun 2024 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:16:21</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/12db9112b09e1de8343d9c446091cfa3f0dfc799aa9edfe6bd1a2f92b9d41d78" 
+                type="audio/x-m4a" 
+                length="8033640" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/0a54b5371992601edfd580a1ab94e595e61f53ebd9a0f652fcd67de1417e84d8" 
+                type="audio/x-m4a" 
+                length="23731375" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/683c3c8e55637605cf943f8541093fc1d262cc760e3dae992aa9ee50c096b6ec" 
+                type="audio/x-m4a" 
+                length="31580240" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/4e7c514f314386987f5c8d076f2a347bbbc19d3242806d9ae61e31c6a1cdabe1" 
+                type="audio/mpeg" 
+                length="7849226" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/234d350921fcb0e3407a75f28e0b201bbc9bf33f2eed221329747facff6df3b9" 
+                type="audio/mpeg" 
+                length="23546762" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfab7937d2cab8cad255/37eca6d9af10f4875e5c4dccf5ca228da37766878b1333eadbf000795b833c59" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802466005</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/5-8-den-pressede-arbejdsmand-11802466005</link>
+            <title>5:8: Den pressede arbejdsmand</title>
+            <description>Er Danske Spil virkelig &amp;#x22;til gl&amp;#xE6;de og gavn&amp;#x22;, som de p&amp;#xE5;st&amp;#xE5;r? Det er en lokal arbejdsmand ikke helt sikker p&amp;#xE5;, for han er overbevist om, at gevinsten tilh&amp;#xF8;rer ham. Og s&amp;#xE5; ved han pr&amp;#xE6;cis, hvilket kendetegn der er p&amp;#xE5; kuponen - det er nemlig ham, der har tegnet det.</description>
+            <pubDate>Tue, 25 Jun 2024 05.04.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:19:37</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/35df82fd7709465d10fe5e295d5c81c14d1fbf31029d3fa5ea83ec5ed15033c0" 
+                type="audio/x-m4a" 
+                length="9641800" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/05eade7948b5cba2b8fb0972752f91e0afcc143af9702955ecb5fcba7cb9f6dc" 
+                type="audio/x-m4a" 
+                length="28482251" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/4971a2281a34b7139fb6d33c190b66c706cc19bee87c1dd67340a1be1180e75b" 
+                type="audio/x-m4a" 
+                length="37902464" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/ec1a5d9c28880f12d241fe2b74e49a87bba1ee9b644e53f081d02160708b1a7c" 
+                type="audio/mpeg" 
+                length="9420741" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/8b2ce92a2819352a12a151ddb3b125111de80e04586f76195212988ccb0d521a" 
+                type="audio/mpeg" 
+                length="28261317" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad259/61dacbcc95b41b768b5e31ed7990467fd239d0198d49e5ce5e029a58a1709917" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802466006</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/6-8-jaegeren-og-den-sjaeldne-albinoraev-11802466006</link>
+            <title>6:8: J&amp;#xE6;geren og den sj&amp;#xE6;ldne albinor&amp;#xE6;v</title>
+            <description>En j&amp;#xE6;ger har f&amp;#xE5;et en sj&amp;#xE6;lden albinor&amp;#xE6;v p&amp;#xE5; kornet, og det f&amp;#xE5;r ham til at glemme alt om den kupon, han har efterladt p&amp;#xE5; disken i Strandvejens Kiosk i 2002. Noget han inderligt har fortrudt lige siden, for han er s&amp;#xE5; overbevist om, at det er ham, der er den rette vinder af de 9,3 millioner kroner, at han stadig jagter gevinsten.</description>
+            <pubDate>Tue, 25 Jun 2024 05.05.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:20:53</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/d9c5aeb44ff0e00b3c91e21a3954b29a4b3e8c5beaa346874154f16f51be19b5" 
+                type="audio/x-m4a" 
+                length="10262768" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/f75a929040adb61e802cc0abf58f38111fb61b4214077761801b77d2b0587b09" 
+                type="audio/x-m4a" 
+                length="30316651" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/b51ea897be7177278d7bcd7792e5bf5d94f05777f4499903f7b92f0c3404162c" 
+                type="audio/x-m4a" 
+                length="40343612" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/ece5a9083be048e3d6450121c7c8a1a61b6711b90ab5b5a809cf00d209dd783c" 
+                type="audio/mpeg" 
+                length="10027466" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/7f794e923189c425cd4d483093b7b9a351457a61178a1c0909c3edac97f566a7" 
+                type="audio/mpeg" 
+                length="30081482" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad25d/63abe613bd2a7200e31def3b936a5371bec140e593eac771dfb88d2ee4e94d98" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802466007</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/7-8-det-sagnomspundne-kendetegn-11802466007</link>
+            <title>7:8: Det sagnomspundne kendetegn</title>
+            <description>Et tilf&amp;#xE6;lde leder os p&amp;#xE5; sporet af en person, der var helt t&amp;#xE6;t p&amp;#xE5; kuponen, den dag den blev efterladt. Og hun giver os en overraskende information, der vender op og ned p&amp;#xE5; hele mysteriet.</description>
+            <pubDate>Tue, 25 Jun 2024 05.06.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:18:31</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/d242f2f4740c3339f9df5ab3aad92d3ec1dd58e12ffc062803d3b36f60fedee8" 
+                type="audio/x-m4a" 
+                length="9105423" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/c94007abe7afee19fbae91329afa75b0ed280542adf98a83daf8a079983e2c97" 
+                type="audio/x-m4a" 
+                length="26897623" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/a9578d8e2342967dc20bf28a87c50262489ddbaae73eb2363a5288a5e9afbaa6" 
+                type="audio/x-m4a" 
+                length="35793679" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/a3ce641af8213e73ab23f28473e808d01734e3c9fcfcca7664727ffb649b2161" 
+                type="audio/mpeg" 
+                length="8896516" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/f8ce8f9a52360cad0d900de2779df11006a64c35650509bb1762b311a007110c" 
+                type="audio/mpeg" 
+                length="26688772" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad261/a7cb710eec4a45a5929045ebfbc03ed9b746d50c44ba8fd54f238218b2dac488" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11802466008</guid>
+            <link>https://www.dr.dk/lyd/special-radio/lottomysteriet-genfortalt/lottomysteriet-genfortalt-1/8-8-til-glaede-og-gavn-11802466008</link>
+            <title>8:8: Til gl&amp;#xE6;de og gavn?</title>
+            <description>P&amp;#xE5; den lokale bodega i Esbjerg er lottospil noget, der skaber gl&amp;#xE6;de og sammenhold - det samme kan man ikke sige er tilf&amp;#xE6;ldet hos den r&amp;#xE6;kke af m&amp;#xE6;nd, vi har talt med. S&amp;#xE5; vil Danske Spil l&amp;#xE6;gge vinderkuponen frem og endegyldigt lukke mysteriet?</description>
+            <pubDate>Tue, 25 Jun 2024 05.07.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:32:27</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/4511cdd3da74183953e5e3c17778d7b1c559617f23b2ce08aefd6512fcd9564e" 
+                type="audio/x-m4a" 
+                length="15949645" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/4b0df7d8241f99c58509d4f919a8b92f53290a0cccb34b3c99edabf279e37c91" 
+                type="audio/x-m4a" 
+                length="47116739" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/8428fe55b9e5e08bd7648139ccf5a1fed44ca72c239cf007bd59b9b6acac0a19" 
+                type="audio/x-m4a" 
+                length="62700369" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/7dd9612f3a14edddb90ab1cce44b0a89774e8f3e0f8e7ee77e9ea904da1afd78" 
+                type="audio/mpeg" 
+                length="15583930" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/c3e8f9e88c75dae03f6ace97d3ef7d6cdb013a78b6e356aff6b5d8c2eab6e88f" 
+                type="audio/mpeg" 
+                length="46750906" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6661bfac7937d2cab8cad265/e798f0e06fca10ca133353b6351d054bfe8983efe9e6124abd9be0b63cb32833" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

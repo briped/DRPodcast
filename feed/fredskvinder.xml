@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/fredskvinder.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Fredskvinder (recycled)</title>
+        <link>https://www.dr.dk/lyd/p1/fredskvinder-4675485245000</link>
+        <description>I &amp;#xE5;revis har m&amp;#xE6;nd forladt kvinder og b&amp;#xF8;rn for at g&amp;#xE5; i krig, men hvad sker der, n&amp;#xE5;r kvinder forlader m&amp;#xE6;nd og b&amp;#xF8;rn for at skabe fred?
+I 1984 sl&amp;#xE5;r en gruppe kvinder lejr ved en underjordisk, 3-4 etagers dyb NATO-bunker uden for Viborg i protest mod den kolde krigs missiloprustning og milit&amp;#xE6;re hemmeligheder. Op til 500 kvinder deltager i lejrens daglige demonstrationer, ofte med ulovlig indtr&amp;#xE6;ngen p&amp;#xE5; det milit&amp;#xE6;re omr&amp;#xE5;de - i h&amp;#xE5;b om at afsl&amp;#xF8;re de for befolkningen og folketinget hemmeligholdte aktiviteter under jorden. 
+-Og i lejrens tipier fort&amp;#xE6;ller kvinderne deres historier, og der knyttes n&amp;#xE6;re b&amp;#xE5;nd. Alle er forelsket i det f&amp;#xE6;lles projekt, nogen forelsker sig i hinanden, mens andre f&amp;#xE5;r sv&amp;#xE6;rt ved at passe ind i den kultur, der opst&amp;#xE5;r p&amp;#xE5; lejren. Ogs&amp;#xE5; forholdet til den internationale fredsbev&amp;#xE6;gelse, bunkerpersonalet, politiet, milit&amp;#xE6;ret, retsv&amp;#xE6;senet, medierne og ikke mindst lokalomr&amp;#xE5;det, skifter hele tiden karakter, til det v&amp;#xE6;rre eller det bedre. Altsammen fortalt af kvinderne selv, her iblandt &amp;#xE9;n der her 40 &amp;#xE5;r senere stadig bor i omr&amp;#xE5;det. En historie som har pr&amp;#xE6;get dem alle for livet - og et stykke kvinde- og Danmarkshistorie, som ellers var glemt.
+Tilrettel&amp;#xE6;ggelse: Lea Linstow.
+Medvirkende: Birgit Horn, Ann-Dorte Christensen, Walking Sunshine, Fiona Andersen (Panda), Anne-Mette J&amp;#xFC;rgensen, Cheyenne,  Anne Kieffer-Olsen, Opal, Nancy Bernstein (Spinner), Sanne Aasborg Fandrup (Nat), J&amp;#xF8;rn &amp;#x26; Jette.
+Producer og redakt&amp;#xF8;r: Torben Brandt
+Referencer: &amp;#x22;Ulydige kvinders magt&amp;#x22; (1989) af Ann-Dorte Christensen.
+Kontakt: radiofortaellinger@dr.dk
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.39.53 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/fredskvinder.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/fredskvinder.jpg</url>
+            <title>Fredskvinder (recycled)</title>
+            <link>https://www.dr.dk/lyd/p1/fredskvinder-4675485245000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/fredskvinder.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Historie</category>
+        <itunes:category text="Historie" />
+        <item>
+            <guid isPermaLink="false">11032306301</guid>
+            <link>https://www.dr.dk/lyd/p1/fredskvinder/fredskvinder-1/1-4-roere-ved-koekkenbordene-11032306301</link>
+            <title>1:4  - R&amp;#xF8;re ved k&amp;#xF8;kkenbordene</title>
+            <description>I 1980 bliver der &amp;#x22;koldere&amp;#x22; i Europa. &amp;#xC5;ret er afslutningen p&amp;#xE5; en relativ fredelig periode i den kolde krig, men efter bl.a. Sovjetunionens invasion af Afghanistan beslutter NATO-landene for at starte en omfattende oprustning. Og imens mandlige statsledere taler om de nye krydsemissiler, der skal opstilles, deler kvinder deres bekymringer om verdens tilstand ved k&amp;#xF8;kkenbordene. To af dem, journalisterne Bodil Graae og Janne Houmann, skriver en kronik, der starter foreningen &amp;#x22;Kvinder for fred&amp;#x22;. En forening, som Birgit Horn i Aalborg &amp;#xF8;jeblikkeligt melder sig ind i, efter at have l&amp;#xE6;st kronikken ved sit k&amp;#xF8;kkenbord. Og i England begynder kvinder at bygge verdens f&amp;#xF8;rste og st&amp;#xF8;rste kvindefredslejr ved milit&amp;#xE6;rbasen, Greenham Common, som danske Fiona bes&amp;#xF8;ger i sin sommerferie mellem 2. og 3. g. Og i Danmark begynder en bred og spraglet flok kvinder snart at l&amp;#xE6;gge planer for et projekt, der skal vende op og ned p&amp;#xE5; mange liv - og skrive Danmarkshistorie. 
+Tilrettel&amp;#xE6;ggelse: Lea Linstow.
+Medvirkende: Ann-Dorte Christensen, Birgit Horn, Fiona Andersen (Panda) og Anne Kieffer-Olsen.
+Producer og redakt&amp;#xF8;r: Torben Brandt.
+Referencer: &amp;#x22;Ulydige kvinders magt&amp;#x22; (1989) af Ann-Dorte Christensen.
+Kontakt: radiofortaellinger@dr.dk</description>
+            <pubDate>Tue, 20 Jun 2023 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:59</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b18c0733d1c066f387/16f4be9e4d7b01a3a650bfead15c063f95bc63570bde43a5d67c8b625a3a0ab7" 
+                type="audio/x-m4a" 
+                length="14737284" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b18c0733d1c066f387/6e70bfd7ebbb6a02567fe21ca14d094786d691703b4f6d337aded342db15a5b0" 
+                type="audio/mpeg" 
+                length="14397979" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b18c0733d1c066f387/8a129292aaf72f1634e74c8c85143ead207f691afc320e0600881325623616a1" 
+                type="audio/x-m4a" 
+                length="43532013" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b18c0733d1c066f387/44ff1267a23d40f2167bca1dade812c00b8bef3040a8dbdef2f6df82f0caf2d8" 
+                type="audio/mpeg" 
+                length="43193755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b18c0733d1c066f387/98fc8cecc9f61c833e82afc23ee5cfab13645c651cb7f2f101fed445d66a99f1" 
+                type="audio/x-m4a" 
+                length="57929978" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b18c0733d1c066f387/05c9ddd266ac02515705ec31a903c626535b782df22b155c12d4afd6469c9239" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032306302</guid>
+            <link>https://www.dr.dk/lyd/p1/fredskvinder/fredskvinder-1/2-4-moedre-og-doetre-11032306302</link>
+            <title>2:4  - M&amp;#xF8;dre og d&amp;#xF8;tre</title>
+            <description>Sankt Hans aften i 1984, flytter en gruppe meget forskellige kvinder ind p&amp;#xE5; en mark ved landsbyen Ravnstrup, f&amp;#xE5; kilometer fra Viborg, lige over for NATOs underjordiske kommandocentral, hvis aktiviteter hemmeligholdes - og rygtes at have at g&amp;#xF8;re med nordtyske atomv&amp;#xE5;ben. Kvinderne sl&amp;#xE5;r telte op og begynder deres arbejde for at skabe opm&amp;#xE6;rksomhed om bunkeren, hvor de eksperimenterer med forskellige ikke-voldlige, men ikke desto mindre ulovlige, metoder p&amp;#xE5; det milit&amp;#xE6;re omr&amp;#xE5;de. Samtidig knyttes der i kvindefredslejren personlige b&amp;#xE5;nd, nogen forelsker sig, mens andre ikke kan finde en plads i den kultur, der langsomt opst&amp;#xE5;r og sk&amp;#xE6;rpes som sommeren skrider frem.   
+Tilrettel&amp;#xE6;ggelse: Lea Linstow.
+Medvirkende: Cheyenne, Opal, Anne-Mette J&amp;#xFC;rgensen, Walking Sunshine, Anne Kieffer-Olsen, Birgit Horn, Fiona Andersen (Panda).
+Producer og redakt&amp;#xF8;r: Torben Brandt.
+Referencer: &amp;#x22;Ulydige kvinders magt&amp;#x22; (1989) af Ann-Dorte Christensen.
+Kontakt: radiofortaellinger@dr.dk</description>
+            <pubDate>Tue, 27 Jun 2023 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:39</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912c4/014248e0cc78f48ba21a33dc48390801ddd8a38a251172d9ba0e55112f0b2b0f" 
+                type="audio/x-m4a" 
+                length="14569374" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912c4/714de93df744b331c64e74bbac4fd370175481556054b387aecc4d26da0970e0" 
+                type="audio/mpeg" 
+                length="14234011" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912c4/a84c01cf72ad39cf6fe9de9195ddf202ba4c97b785829499c832ae15dd64636c" 
+                type="audio/x-m4a" 
+                length="43036693" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912c4/94e1be2098cc514571a62ae11a781690d5d29b7b1be2892376790f0be5144236" 
+                type="audio/mpeg" 
+                length="42701851" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912c4/2b4297d1078836e6adc9dabd95358b49b1fbfefa4a6231ce802be8d034f8a398" 
+                type="audio/x-m4a" 
+                length="57270738" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912c4/2e7df4829240f3478a7e3f9ac3457b86809ab2ee4624d51945f443786e126d29" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032306303</guid>
+            <link>https://www.dr.dk/lyd/p1/fredskvinder/fredskvinder-1/3-4-nattens-gaester-11032306303</link>
+            <title>3:4 - Nattens g&amp;#xE6;ster</title>
+            <description>I efter&amp;#xE5;ret 1984 er der igen sket forandringer p&amp;#xE5; markerne omkring landsbyen Ravnstrup uden for Viborg. Den store kvindefredslejr, der ligger over for NATOs underjordiske hovedkvarter, er efter p&amp;#xE5;bud fra Amtsr&amp;#xE5;det flyttet til en lokal bondes mark, og efter interne diskussioner ogs&amp;#xE5; skrumpet markant. Tilbage p&amp;#xE5; marken st&amp;#xE5;r tre h&amp;#xF8;je tipier, hvor 8-10 kvinder har valgt at bo vinteren over. En lejr, der forsvinder fra mediernes opm&amp;#xE6;rksomhed, men dog stadig tiltr&amp;#xE6;kker bes&amp;#xF8;g. Fx om natten, hvor flere m&amp;#xE6;nd tropper op - motorcykelbander og fulde m&amp;#xE6;nd fra kroen. Afsnittet her handler ogs&amp;#xE5; om den historiske retssag, der samler kvindefredsbev&amp;#xE6;gelsen igen og skaber nyt h&amp;#xE5;b for sommerens aktiviteter i tipierne p&amp;#xE5; marken - og pludselig er der ogs&amp;#xE5; noget andet der pusler i buskadserne bag tipierne...
+Tilrettel&amp;#xE6;ggelse: Lea Linstow.
+Medvirkende: Cheyenne, Opal, Walking Sunshine, Nancy Bernstein (Spinner), Sanne Aasborg Fandrup (Nat), Anne Kieffer-Olsen, Birgit Horn, Fiona Andersen (Panda)
+Producer og redakt&amp;#xF8;r: Torben Brandt.
+Referencer: &amp;#x22;Ulydige kvinders magt&amp;#x22; (1989) af Ann-Dorte Christensen.
+Kontakt: radiofortaellinger@dr.dk</description>
+            <pubDate>Tue, 04 Jul 2023 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:51</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b34f53ec484c7912d4/1a769df5f77f87771e208985123eae6e40a43c889f848829d89b1de03301ce72" 
+                type="audio/x-m4a" 
+                length="14672956" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b34f53ec484c7912d4/a61a1994e0a3008dfb7bd96c46be1821faef0605daae04cefef4114686099730" 
+                type="audio/mpeg" 
+                length="14335195" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b34f53ec484c7912d4/80c7bac2505ac78cfcd1664090701f2fd984c91c561ac7e3c75759644ec1f4d8" 
+                type="audio/x-m4a" 
+                length="43342637" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b34f53ec484c7912d4/299cf3d533aaa63fcc47ce84bd2f67030f0ae5b15e6c43fee75f5b5bce46b265" 
+                type="audio/mpeg" 
+                length="43005403" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b34f53ec484c7912d4/42d29847e057070772c733c67b16d94ad0b1f3b087d4c468d52dd05b6cdccb85" 
+                type="audio/x-m4a" 
+                length="57677991" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b34f53ec484c7912d4/8a3e9c945eeda795ab30b96fdf0bd3846776a5d5e04cd4035c47af68f86fdf01" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">11032306304</guid>
+            <link>https://www.dr.dk/lyd/p1/fredskvinder/fredskvinder-1/4-4-en-tom-mark-11032306304</link>
+            <title>4:4  - En tom mark</title>
+            <description>Da Panda vender hjem fra Polen, en sensommerdag i 1985, f&amp;#xE5;r hun et chok, da hun stiger af bussen ved landsbyen Ravnstrup uden for Viborg. Hendes hjem gennem det forgangne &amp;#xE5;r er nemlig v&amp;#xE6;k. Tilbage st&amp;#xE5;r der en tom mark. Hun pr&amp;#xF8;ver at finde ud af, hvor kvinderne blev af, og det er ogs&amp;#xE5; det, der unders&amp;#xF8;ges i det her - sidste - afsnit af serien. Her kan du h&amp;#xF8;re, hvordan tiden i Danmarks eneste kvindefredslejr har p&amp;#xE5;virket de medvirkendes meget forskellige liv siden, hvor de er og hvordan de har det i dag. Hvad kvindefredsbev&amp;#xE6;gelsen egentlig har betydet for datiden og nutiden, for de interviewede og for interviewen - der stadig pr&amp;#xF8;ver at blive klog p&amp;#xE5;, hvad der egentlig var nede i bunkeren. 
+Tilrettel&amp;#xE6;ggelse: Lea Linstow.
+Medvirkende: Cheyenne, Opal, Walking Sunshine, Nancy Bernstein (Spinner), Sanne Aasborg Fandrup (Nat), Anne Kieffer-Olsen, Fiona Andersen (Panda), Ann-Dorte Christensen, Jette og J&amp;#xF8;rn.
+Producer og redakt&amp;#xF8;r: Torben Brandt.
+Referencer: &amp;#x22;Ulydige kvinders magt&amp;#x22; (1989) af Ann-Dorte Christensen.
+Kontakt: radiofortaellinger@dr.dk</description>
+            <pubDate>Tue, 11 Jul 2023 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:35</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912cc/cb2d00c89f8f1a7fda924b70c3176c697650d71c0e79440615806c04145dc196" 
+                type="audio/x-m4a" 
+                length="14535473" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912cc/89082a8dd99671962f8d19de6f21bd891d04ed835b1b44544a5a1a395b111e7f" 
+                type="audio/mpeg" 
+                length="14200795" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912cc/214b41d6fe15ce7f998e21aa0dc4449715f8ef8c86fe491275dc6cbc9141d92f" 
+                type="audio/x-m4a" 
+                length="42936073" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912cc/420a0baeca3ccddc7b84a9eda0dc4fa72bcffd1bfff5fa5544b8919175304c3a" 
+                type="audio/mpeg" 
+                length="42602203" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912cc/6255f295152f8e7b1f7454f4211db1a5f1c5d0cb78b12199bb3be0d2825d2b67" 
+                type="audio/x-m4a" 
+                length="57136898" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6486d3b24f53ec484c7912cc/0f9ac8494a434148ee96cd1e3f2a8eb02aa73215099f24f06ecce38aeec00fdb" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_feed.xsl"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://xmpl.dk/feed/enken-med-nazidokumenterne.xml" 
+            rel="self" 
+            type="application/rss+xml" />
+        <title>Enken med nazidokumenterne (recycled)</title>
+        <link>https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne-4884542801000</link>
+        <description>En aldrende dame afleverer en mystisk &amp;#xE6;ske til Rigsarkivet. &amp;#xC6;sken indeholder en r&amp;#xE6;kke opsigtsv&amp;#xE6;kkende dokumenter fra anden verdenskrig, som hendes afd&amp;#xF8;de mand har stj&amp;#xE5;let fra Rigsarkivet. Journalist Camilla Pedersen og tidligere politibetjent Martin Qvist Magnussen jagter svar p&amp;#xE5;, hvad dokumenterne indeholder, og hvorfor enkens afd&amp;#xF8;de mand tog dem.  
+Produceret for DR af Koncern TV.
+
+&amp;#x3C;a href=&amp;#x22;&amp;#x22;&amp;#x3E;Recycled&amp;#x3C;/a&amp;#x3E; DR Podcast.</description>
+        <language>da</language>
+        <copyright>DR</copyright>
+        <managingEditor>podcast@dr.dk</managingEditor>
+        <lastBuildDate>Sat, 28 Mar 2026 22.40.11 +01:00</lastBuildDate>
+        <itunes:explicit>False</itunes:explicit>
+        <itunes:author>DR</itunes:author>
+        <itunes:owner>
+            <itunes:email>podcast@dr.dk</itunes:email>
+            <itunes:name>DR</itunes:name>
+        </itunes:owner>
+        <itunes:new-feed-url>https://xmpl.dk/feed/enken-med-nazidokumenterne.xml</itunes:new-feed-url>
+        <image>
+            <url>https://xmpl.dk/cover/enken-med-nazidokumenterne.jpg</url>
+            <title>Enken med nazidokumenterne (recycled)</title>
+            <link>https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne-4884542801000</link>
+        </image>
+        <itunes:image href="https://xmpl.dk/cover/enken-med-nazidokumenterne.jpg" />
+        <media:restriction type="country" relationship="allow">dk</media:restriction>
+        <category>Dokumentar</category>
+        <itunes:category text="Dokumentar" />
+        <category>Historie</category>
+        <itunes:category text="Historie" />
+        <item>
+            <guid isPermaLink="false">16122493641</guid>
+            <link>https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/enken-med-nazidokumenterne-16122493641</link>
+            <title>Enken med nazidokumenterne</title>
+            <description>En regnv&amp;#xE5;d efter&amp;#xE5;rsdag m&amp;#xF8;der Camilla Pedersen enken, Lise, i hendes hjem i Valby. Det bliver starten p&amp;#xE5; at fors&amp;#xF8;ge at forst&amp;#xE5;, hvem Lises afd&amp;#xF8;de mand, Paul, er. Og hvorfor han har taget nazidokumenterne, s&amp;#xE5; ingen andre kan l&amp;#xE6;se dem. Er der noget, han &amp;#xF8;nsker at skjule? Lise er &amp;#xE6;rgerlig over, at hun ikke har spurgt mere ind til Paul, mens han levede.
+Tilrettel&amp;#xE6;ggelse: Camilla Pedersen.
+Radiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen.
+Fort&amp;#xE6;ller: Martin Greis-Rosenthal.
+Redakt&amp;#xF8;r: Cecilie Egholm Tonnesen.
+Produceret for DR af Koncern TV.</description>
+            <pubDate>Tue, 10 Sept 2024 05.00.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:12</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/65c698cac4362e86160c50a7ca7d0dbf6086436a2025d49362e7414d05696472" 
+                type="audio/x-m4a" 
+                length="14350544" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/6055af1eaf7d08e27c46ecc0d2016c250512549dfaea95ed71a42771d5fe38ad" 
+                type="audio/x-m4a" 
+                length="42392755" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/4b916dbddc6a822d1c74e252d062b1d3bcc856fb0fed36e9542b59cc4e932217" 
+                type="audio/x-m4a" 
+                length="56413876" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/046d3d006797f48f08ebd9ce5b25a9d8782f4c7e1395458184cf1a1b1f940d30" 
+                type="audio/mpeg" 
+                length="14021206" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/3f8cddd2aa839cb86065de298fd8131ab333c5d368fee7d51de926ec172138cf" 
+                type="audio/mpeg" 
+                length="42063190" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb6537c/7d78926cb4451874bceba9075ca0e14368e27c61b46e0580e4962b529eafa8e4" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493642</guid>
+            <link>https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/det-svigtede-barn-16122493642</link>
+            <title>Det svigtede barn</title>
+            <description>Efter flere m&amp;#xE5;neders venten f&amp;#xE5;r Camilla Pedersen og Martin Qvist Magnussen endelig adgang til &amp;#xE9;t af de dokumenter Paul tog: hans egen faderskabs- og adoptionssag fra 1943. Den indeholder helt nye oplysninger. Men &amp;#xE5;bner ogs&amp;#xE5; op for flere sp&amp;#xF8;rgsm&amp;#xE5;l end svar. Hvorfor var Paul vred p&amp;#xE5; sin biologiske mor? Og hvem var Pauls biologiske far?
+Tilrettel&amp;#xE6;ggelse: Camilla Pedersen. 
+Radiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen. 
+Fort&amp;#xE6;ller: Martin Greis-Rosenthal.
+Redakt&amp;#xF8;r: Cecilie Egholm Tonnesen.
+Produceret for DR af Koncern TV.</description>
+            <pubDate>Tue, 10 Sept 2024 05.01.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:28:55</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/c54e14907b2bc3991b5ac17119f068ea0e14ca4fb77ca83950028f0ede3848a2" 
+                type="audio/x-m4a" 
+                length="14210275" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/58495b9fa086a41c457dc154f96725e67ceedae2fb92f1d287f0fcb249e051ea" 
+                type="audio/x-m4a" 
+                length="41978403" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/f1bde5c8edd2e6553369c315e2fee29a3ca017b0bf260d20b3004663b6571526" 
+                type="audio/x-m4a" 
+                length="55862443" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/d178ab63c0ec6afdfd1211ae7184c217ab8736a25e52654d87e0b607a132d810" 
+                type="audio/mpeg" 
+                length="13884118" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/4ae574df93be4046c3109e4589cc333501208881a0499ec338e12d5f181203c2" 
+                type="audio/mpeg" 
+                length="41651926" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f142c77c39fecb65383/2ecb3634326c1d21061cfd146a3728968057c4fe9fad9cfbe7f0db522ff7fcf9" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493643</guid>
+            <link>https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/den-nazistiske-forbindelse-16122493643</link>
+            <title>Den nazistiske forbindelse</title>
+            <description>En undren spirer hos Camilla Pedersen og Martin Qvist Magnussen, da de f&amp;#xE5;r adgang til det n&amp;#xE6;ste dokument, Paul har taget. Det er mentalerkl&amp;#xE6;ringen p&amp;#xE5; den ledende nazist i Danmark under bes&amp;#xE6;ttelsen, Werner Best. Camilla tager igen forbi Lise. M&amp;#xE5;ske hun kan kaste lys over, hvorfor Paul er fascineret af en topnazists indre? 
+Tilrettel&amp;#xE6;ggelse: Camilla Pedersen. 
+Radiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen. 
+Fort&amp;#xE6;ller: Martin Greis-Rosenthal.
+Redakt&amp;#xF8;r: Cecilie Egholm Tonnesen.
+Produceret for DR af Koncern TV.</description>
+            <pubDate>Tue, 10 Sept 2024 05.02.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:31:14</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/af7ad57691ab476f7b678a94bf1e69c954112efd600468a9f50c66af02a460ef" 
+                type="audio/x-m4a" 
+                length="15350852" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/0a1221a160cb6ac3e428ed39876de0d796c6b043ce04e0528013ed5f24cdfbc7" 
+                type="audio/x-m4a" 
+                length="45347943" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/bdd8be78d83d98c528be55dc5583db77ae64d9c8182ac61adbc0d033b4289ff4" 
+                type="audio/x-m4a" 
+                length="60346516" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/a6969261ea7df25f79873a3650775db8723a7a18fedc8e378347cadebfc37a1e" 
+                type="audio/mpeg" 
+                length="14998486" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/71b158b34be4b0501019431cf6c18b3cf878e89d13bd9ce615ee69f3eb79768b" 
+                type="audio/mpeg" 
+                length="44995030" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65386/8d3275d76818a863d652e105b4f97aec08dacb1d5d119f0b85d8a34d09103c46" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493644</guid>
+            <link>https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/den-soegende-mand-16122493644</link>
+            <title>Den s&amp;#xF8;gende mand</title>
+            <description>Hvordan ender den danske forfatter Sven Hazel med at f&amp;#xE5; en fremtr&amp;#xE6;dende placering i fort&amp;#xE6;llingen? Den sidste af de sager, Paul har taget, er Sven Hazels fulde straffesag fra retsopg&amp;#xF8;ret efter bes&amp;#xE6;ttelsen. Men hvorfor har han v&amp;#xE6;ret interesseret i netop den? De nye oplysninger f&amp;#xE5;r Lise til at sp&amp;#xF8;rge sig selv: Hvor godt kendte jeg egentlig Paul?
+Tilrettel&amp;#xE6;ggelse: Camilla Pedersen. 
+Radiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen. 
+Indtalt af: Martin Greis-Rosenthal.
+Redakt&amp;#xF8;r: Cecilie Egholm Tonnesen.
+Produceret for DR af Koncern TV.</description>
+            <pubDate>Tue, 10 Sept 2024 05.03.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:22:49</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/517e8f61d2805a41420adb0517f6386f02726308267d7c1d4cc197d6a933e8aa" 
+                type="audio/x-m4a" 
+                length="11211748" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/ee5d3667ee062ec1ef2f5a324acab97f74944330941cb06b1e2c4ed6700cf26c" 
+                type="audio/x-m4a" 
+                length="33120115" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/02ef7a5854a28d38aac82cc325fedd54a84bf49df2fcf9be3c1d7573f5dd367e" 
+                type="audio/x-m4a" 
+                length="44074308" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/db621dae4f7daffb31c772c691825df5ef9810f4c5483fc004759f9baba35097" 
+                type="audio/mpeg" 
+                length="10954198" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/a2482f3fac3db4788763e066a440bcc5d3eb916f24f6e847765745c131880936" 
+                type="audio/mpeg" 
+                length="32862166" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f14a127df4c0a3d17cd/3e62eb4ab374b046de491c98317ecb521cf326fa253ac764206d914c41b75969" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+        <item>
+            <guid isPermaLink="false">16122493645</guid>
+            <link>https://www.dr.dk/lyd/special-radio/enken-med-nazidokumenterne/enken-med-nazidokumenterne-1/pauls-hemmelighed-16122493645</link>
+            <title>Pauls hemmelighed</title>
+            <description>Mystikken spreder sig. Martin Qvist Magnussen har igennem flere &amp;#xE5;r gravet dybt i Sven Hazels straffesag, og ny viden kommer frem om &amp;#xE9;n af de mest s&amp;#xE6;lgende danske forfattere. Et kapitel i Danmarkshistorien skrives om, og Lise f&amp;#xE5;r nye oplysninger om Paul. Men &amp;#xE6;ndrer de synet p&amp;#xE5; hendes afd&amp;#xF8;de mand? Den mand hun elsker?
+ Tilrettel&amp;#xE6;ggelse: Camilla Pedersen. 
+Radiofonisk udvikling, optagelse og lyddesign: Kim G. Hansen. 
+Fort&amp;#xE6;ller: Martin Greis-Rosenthal.
+Redakt&amp;#xF8;r: Cecilie Egholm Tonnesen.
+Produceret for DR af Koncern TV.</description>
+            <pubDate>Tue, 10 Sept 2024 05.04.00 +02:00</pubDate>
+            <itunes:explicit>False</itunes:explicit>
+            <itunes:author>DR</itunes:author>
+            <itunes:duration>00:29:23</itunes:duration>
+            <media:restriction type="country" relationship="allow">dk</media:restriction>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/be8c3c02209dd4822a372fa6ccd211df33087f9596357129bda7c358ed125ef7" 
+                type="audio/x-m4a" 
+                length="14438052" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/f13acc73a85bcb792f5c567290c0165c50dacd063982c246f7c5f8cb0481a263" 
+                type="audio/x-m4a" 
+                length="42651247" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/a0e59d25c0efa47ce87d5a4ec227b083b50aa3bafc4e8a444196a7e3688db423" 
+                type="audio/x-m4a" 
+                length="56757848" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/f4b3b8ae876e81b9ee04280fa09192bd4301a109d91cb7ff6c6e1eba2a0d60e6" 
+                type="audio/mpeg" 
+                length="14106646" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/fb6f61b37f9e7e6548987783e69d3e68b1b1ae95dfa42cfaee66ccfd7cd0cc1f" 
+                type="audio/mpeg" 
+                length="42319510" />
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc6f152c77c39fecb65389/8f5e8027e55538e1bffe3ab1da4eaff8c23e057768b05c6d55e356a3be28fb43" 
+                type="application/vnd.apple.mpegurl" 
+                length="" />
+        </item>
+    </channel>
+</rss>
+

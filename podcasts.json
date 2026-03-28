@@ -1,0 +1,443 @@
+{
+  "podcasts": [
+    {
+      "title": "Sara & Monopolet - podcast",
+      "xml": "sara-og-monopolet-podcast.xml",
+      "cover": "https://xmpl.dk:443/cover/sara-og-monopolet-podcast.jpg",
+      "episodes": 397
+    },
+    {
+      "title": "Faldet - Lydfølsom version",
+      "xml": "faldet-lydfoelsom-version.xml",
+      "cover": "https://xmpl.dk:443/cover/faldet-lydfoelsom-version.jpg",
+      "episodes": 5
+    },
+    {
+      "title": "Faldet - mysteriet om de rystede hjerner",
+      "xml": "faldet-mysteriet-om-de-rystede-hjerner.xml",
+      "cover": "https://xmpl.dk:443/cover/faldet-mysteriet-om-de-rystede-hjerner.jpg",
+      "episodes": 5
+    },
+    {
+      "title": "Genstart Dox",
+      "xml": "genstart-dox.xml",
+      "cover": "https://xmpl.dk:443/cover/genstart-dox.jpg",
+      "episodes": 27
+    },
+    {
+      "title": "Ditlev & Døden",
+      "xml": "ditlev-og-doeden.xml",
+      "cover": "https://xmpl.dk:443/cover/ditlev-og-doeden.jpg",
+      "episodes": 105
+    },
+    {
+      "title": "Damerne først",
+      "xml": "damerne-foerst.xml",
+      "cover": "https://xmpl.dk:443/cover/damerne-foerst.jpg",
+      "episodes": 106
+    },
+    {
+      "title": "Svingdøren",
+      "xml": "svingdoeren.xml",
+      "cover": "https://xmpl.dk:443/cover/svingdoeren.jpg",
+      "episodes": 112
+    },
+    {
+      "title": "Besættelsen",
+      "xml": "besaettelsen.xml",
+      "cover": "https://xmpl.dk:443/cover/besaettelsen.jpg",
+      "episodes": 5
+    },
+    {
+      "title": "Tyran",
+      "xml": "tyran.xml",
+      "cover": "https://xmpl.dk:443/cover/tyran.jpg",
+      "episodes": 105
+    },
+    {
+      "title": "Moden & cool",
+      "xml": "moden-og-cool.xml",
+      "cover": "https://xmpl.dk:443/cover/moden-og-cool.jpg",
+      "episodes": 7
+    },
+    {
+      "title": "Under Radaren",
+      "xml": "under-radaren.xml",
+      "cover": "https://xmpl.dk:443/cover/under-radaren.jpg",
+      "episodes": 19
+    },
+    {
+      "title": "Marcela 1989",
+      "xml": "marcela-1989.xml",
+      "cover": "https://xmpl.dk:443/cover/marcela-1989.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "Prompt",
+      "xml": "prompt.xml",
+      "cover": "https://xmpl.dk:443/cover/prompt.jpg",
+      "episodes": 122
+    },
+    {
+      "title": "Krigen på isen",
+      "xml": "krigen-paa-isen.xml",
+      "cover": "https://xmpl.dk:443/cover/krigen-paa-isen.jpg",
+      "episodes": 6
+    },
+    {
+      "title": "Fredskvinder",
+      "xml": "fredskvinder.xml",
+      "cover": "https://xmpl.dk:443/cover/fredskvinder.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "Vennepunkt",
+      "xml": "vennepunkt.xml",
+      "cover": "https://xmpl.dk:443/cover/vennepunkt.jpg",
+      "episodes": 43
+    },
+    {
+      "title": "Lyssky",
+      "xml": "lyssky.xml",
+      "cover": "https://xmpl.dk:443/cover/lyssky.jpg",
+      "episodes": 86
+    },
+    {
+      "title": "Grundtvig Leth fortalt",
+      "xml": "grundtvig-leth-fortalt.xml",
+      "cover": "https://xmpl.dk:443/cover/grundtvig-leth-fortalt.jpg",
+      "episodes": 5
+    },
+    {
+      "title": "Vidnesbyrd - Sexisme i musikbranchen",
+      "xml": "vidnesbyrd-sexisme-i-musikbranchen.xml",
+      "cover": "https://xmpl.dk:443/cover/vidnesbyrd-sexisme-i-musikbranchen.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "KUP",
+      "xml": "kup.xml",
+      "cover": "https://xmpl.dk:443/cover/kup.jpg",
+      "episodes": 16
+    },
+    {
+      "title": "Imran mod giganterne",
+      "xml": "imran-mod-giganterne.xml",
+      "cover": "https://xmpl.dk:443/cover/imran-mod-giganterne.jpg",
+      "episodes": 5
+    },
+    {
+      "title": "Vores dømte ven",
+      "xml": "vores-doemte-ven.xml",
+      "cover": "https://xmpl.dk:443/cover/vores-doemte-ven.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "I døden for tronen",
+      "xml": "i-doeden-for-tronen.xml",
+      "cover": "https://xmpl.dk:443/cover/i-doeden-for-tronen.jpg",
+      "episodes": 12
+    },
+    {
+      "title": "Nulstillet",
+      "xml": "nulstillet.xml",
+      "cover": "https://xmpl.dk:443/cover/nulstillet.jpg",
+      "episodes": 3
+    },
+    {
+      "title": "Modstandskvinderne",
+      "xml": "modstandskvinderne.xml",
+      "cover": "https://xmpl.dk:443/cover/modstandskvinderne.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "Drømmen om Elvis",
+      "xml": "droemmen-om-elvis.xml",
+      "cover": "https://xmpl.dk:443/cover/droemmen-om-elvis.jpg",
+      "episodes": 3
+    },
+    {
+      "title": "Min ven Hermann Göring",
+      "xml": "min-ven-hermann-goring.xml",
+      "cover": "https://xmpl.dk:443/cover/min-ven-hermann-goring.jpg",
+      "episodes": 6
+    },
+    {
+      "title": "Enken med nazidokumenterne",
+      "xml": "enken-med-nazidokumenterne.xml",
+      "cover": "https://xmpl.dk:443/cover/enken-med-nazidokumenterne.jpg",
+      "episodes": 5
+    },
+    {
+      "title": "Mens vi husker det",
+      "xml": "mens-vi-husker-det.xml",
+      "cover": "https://xmpl.dk:443/cover/mens-vi-husker-det.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "Det dér med Anders Breinholt",
+      "xml": "det-der-med-anders-breinholt.xml",
+      "cover": "https://xmpl.dk:443/cover/det-der-med-anders-breinholt.jpg",
+      "episodes": 79
+    },
+    {
+      "title": "Stå af ræset",
+      "xml": "staa-af-raeset.xml",
+      "cover": "https://xmpl.dk:443/cover/staa-af-raeset.jpg",
+      "episodes": 5
+    },
+    {
+      "title": "Marias arv",
+      "xml": "marias-arv.xml",
+      "cover": "https://xmpl.dk:443/cover/marias-arv.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "Lottomysteriet - Genfortalt",
+      "xml": "lottomysteriet-genfortalt.xml",
+      "cover": "https://xmpl.dk:443/cover/lottomysteriet-genfortalt.jpg",
+      "episodes": 8
+    },
+    {
+      "title": "Ramt af kærlighed",
+      "xml": "ramt-af-kaerlighed.xml",
+      "cover": "https://xmpl.dk:443/cover/ramt-af-kaerlighed.jpg",
+      "episodes": 31
+    },
+    {
+      "title": "Blodets bånd",
+      "xml": "blodets-baand.xml",
+      "cover": "https://xmpl.dk:443/cover/blodets-baand.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "Forført af fart",
+      "xml": "forfoert-af-fart.xml",
+      "cover": "https://xmpl.dk:443/cover/forfoert-af-fart.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "Søster - elsker, elsker ikke",
+      "xml": "soester-elsker-elsker-ikke.xml",
+      "cover": "https://xmpl.dk:443/cover/soester-elsker-elsker-ikke.jpg",
+      "episodes": 4
+    },
+    {
+      "title": "Forbrydelsens Anatomi",
+      "xml": "forbrydelsens-anatomi.xml",
+      "cover": "https://xmpl.dk:443/cover/forbrydelsens-anatomi.jpg",
+      "episodes": 34
+    },
+    {
+      "title": "Pilgrim - på rejse i troens univers",
+      "xml": "pilgrim-paa-rejse-i-troens-univers.xml",
+      "cover": "https://xmpl.dk:443/cover/pilgrim-paa-rejse-i-troens-univers.jpg",
+      "episodes": 288
+    },
+    {
+      "title": "På Bagsædet - med Hav & Kamal",
+      "xml": "paa-bagsaedet-med-hav-og-kamal.xml",
+      "cover": "https://xmpl.dk:443/cover/paa-bagsaedet-med-hav-og-kamal.jpg",
+      "episodes": 90
+    },
+    {
+      "title": "Vildt Naturligt",
+      "xml": "vildt-naturligt.xml",
+      "cover": "https://xmpl.dk:443/cover/vildt-naturligt.jpg",
+      "episodes": 285
+    },
+    {
+      "title": "Stjerner og striber",
+      "xml": "stjerner-og-striber.xml",
+      "cover": "https://xmpl.dk:443/cover/stjerner-og-striber.jpg",
+      "episodes": 179
+    },
+    {
+      "title": "Genstart",
+      "xml": "genstart.xml",
+      "cover": "https://xmpl.dk:443/cover/genstart.jpg",
+      "episodes": 1163
+    },
+    {
+      "title": "Hvem er...",
+      "xml": "hvem-er.xml",
+      "cover": "https://xmpl.dk:443/cover/hvem-er.jpg",
+      "episodes": 108
+    },
+    {
+      "title": "Hjerteflimmer for voksne",
+      "xml": "hjerteflimmer-for-voksne.xml",
+      "cover": "https://xmpl.dk:443/cover/hjerteflimmer-for-voksne.jpg",
+      "episodes": 210
+    },
+    {
+      "title": "Vistis vinyler",
+      "xml": "vistis-vinyler.xml",
+      "cover": "https://xmpl.dk:443/cover/vistis-vinyler.jpg",
+      "episodes": 193
+    },
+    {
+      "title": "Brinkmanns briks",
+      "xml": "brinkmanns-briks.xml",
+      "cover": "https://xmpl.dk:443/cover/brinkmanns-briks.jpg",
+      "episodes": 338
+    },
+    {
+      "title": "Djævlen i detaljen",
+      "xml": "djaevlen-i-detaljen.xml",
+      "cover": "https://xmpl.dk:443/cover/djaevlen-i-detaljen.jpg",
+      "episodes": 259
+    },
+    {
+      "title": "Sorte tal",
+      "xml": "sorte-tal.xml",
+      "cover": "https://xmpl.dk:443/cover/sorte-tal.jpg",
+      "episodes": 40
+    },
+    {
+      "title": "Troldspejlet - podcast",
+      "xml": "troldspejlet-podcast.xml",
+      "cover": "https://xmpl.dk:443/cover/troldspejlet-podcast.jpg",
+      "episodes": 67
+    },
+    {
+      "title": "Klog på Sprog",
+      "xml": "klog-paa-sprog.xml",
+      "cover": "https://xmpl.dk:443/cover/klog-paa-sprog.jpg",
+      "episodes": 417
+    },
+    {
+      "title": "Supertanker",
+      "xml": "supertanker.xml",
+      "cover": "https://xmpl.dk:443/cover/supertanker.jpg",
+      "episodes": 390
+    },
+    {
+      "title": "Det Tomme Magasin",
+      "xml": "det-tomme-magasin.xml",
+      "cover": "https://xmpl.dk:443/cover/det-tomme-magasin.jpg",
+      "episodes": 95
+    },
+    {
+      "title": "Bakspejl",
+      "xml": "bakspejl.xml",
+      "cover": "https://xmpl.dk:443/cover/bakspejl.jpg",
+      "episodes": 145
+    },
+    {
+      "title": "Fodboldlisten",
+      "xml": "fodboldlisten.xml",
+      "cover": "https://xmpl.dk:443/cover/fodboldlisten.jpg",
+      "episodes": 344
+    },
+    {
+      "title": "Hjernekassen på P1",
+      "xml": "hjernekassen-paa-p1.xml",
+      "cover": "https://xmpl.dk:443/cover/hjernekassen-paa-p1.jpg",
+      "episodes": 603
+    },
+    {
+      "title": "10-20-30",
+      "xml": "10-20-30.xml",
+      "cover": "https://xmpl.dk:443/cover/10-20-30.jpg",
+      "episodes": 94
+    },
+    {
+      "title": "Verdens bedste film",
+      "xml": "verdens-bedste-film.xml",
+      "cover": "https://xmpl.dk:443/cover/verdens-bedste-film.jpg",
+      "episodes": 144
+    },
+    {
+      "title": "SOLO med Anna Lin",
+      "xml": "solo-med-anna-lin.xml",
+      "cover": "https://xmpl.dk:443/cover/solo-med-anna-lin.jpg",
+      "episodes": 10
+    },
+    {
+      "title": "Anmelderne",
+      "xml": "anmelderne.xml",
+      "cover": "https://xmpl.dk:443/cover/anmelderne.jpg",
+      "episodes": 138
+    },
+    {
+      "title": "Hvad ville Jesus have sagt?",
+      "xml": "hvad-ville-jesus-have-sagt.xml",
+      "cover": "https://xmpl.dk:443/cover/hvad-ville-jesus-have-sagt.jpg",
+      "episodes": 148
+    },
+    {
+      "title": "Mørklagt",
+      "xml": "moerklagt.xml",
+      "cover": "https://xmpl.dk:443/cover/moerklagt.jpg",
+      "episodes": 68
+    },
+    {
+      "title": "Ubegribeligt",
+      "xml": "ubegribeligt.xml",
+      "cover": "https://xmpl.dk:443/cover/ubegribeligt.jpg",
+      "episodes": 177
+    },
+    {
+      "title": "Spice - med Nikkie og Laila",
+      "xml": "spice-med-nikkie-og-laila.xml",
+      "cover": "https://xmpl.dk:443/cover/spice-med-nikkie-og-laila.jpg",
+      "episodes": 204
+    },
+    {
+      "title": "Du kender typen",
+      "xml": "du-kender-typen.xml",
+      "cover": "https://xmpl.dk:443/cover/du-kender-typen.jpg",
+      "episodes": 172
+    },
+    {
+      "title": "De Lovløse",
+      "xml": "de-lovloese.xml",
+      "cover": "https://xmpl.dk:443/cover/de-lovloese.jpg",
+      "episodes": 55
+    },
+    {
+      "title": "Bibelen Leth fortalt",
+      "xml": "bibelen-leth-fortalt.xml",
+      "cover": "https://xmpl.dk:443/cover/bibelen-leth-fortalt.jpg",
+      "episodes": 190
+    },
+    {
+      "title": "Kapitalisterne",
+      "xml": "kapitalisterne.xml",
+      "cover": "https://xmpl.dk:443/cover/kapitalisterne.jpg",
+      "episodes": 45
+    },
+    {
+      "title": "Hemmeligheder",
+      "xml": "hemmeligheder.xml",
+      "cover": "https://xmpl.dk:443/cover/hemmeligheder.jpg",
+      "episodes": 228
+    },
+    {
+      "title": "Kampen om historien",
+      "xml": "kampen-om-historien.xml",
+      "cover": "https://xmpl.dk:443/cover/kampen-om-historien.jpg",
+      "episodes": 204
+    },
+    {
+      "title": "Skønlitteratur",
+      "xml": "skoenlitteratur.xml",
+      "cover": "https://xmpl.dk:443/cover/skoenlitteratur.jpg",
+      "episodes": 123
+    },
+    {
+      "title": "Hvad tænder os to?",
+      "xml": "hvad-taender-os-to.xml",
+      "cover": "https://xmpl.dk:443/cover/hvad-taender-os-to.jpg",
+      "episodes": 6
+    },
+    {
+      "title": "Verdens navle",
+      "xml": "verdens-navle.xml",
+      "cover": "https://xmpl.dk:443/cover/verdens-navle.jpg",
+      "episodes": 11
+    }
+  ],
+  "lastUpdated": "2026-03-28T22.40.13+01:00"
+}
