@@ -54,7 +54,7 @@ function Get-ApiKey {
         # Extract API key.
         $ApiKey = ([regex]::Matches($Response.Content, '"/lyd".{0,20}"([a-z0-9]{32})"', 'IgnoreCase')).Groups[1].Value
         Write-Verbose -Message "$($MyInvocation.MyCommand.Name): Likely API key: $($ApiKey)"
-
+        <#
         # Test the API key.
         #TODO: Find a good endpoint to test it against.
         try {
@@ -70,6 +70,7 @@ function Get-ApiKey {
         catch {
             #throw $_.ErrorDetails.Message | ConvertFrom-Json
         }
+        #>
         return $ApiKey
     }
     end {
