@@ -1,0 +1,367 @@
+[
+  {
+    "title": "Forbrydelsens Anatomi",
+    "slug": "forbrydelsens-anatomi-4675134318000",
+    "id": "urn:dr:radio:series:6481dc7b2f049931670cee9d"
+  },
+  {
+    "title": "Under Radaren",
+    "slug": "under-radaren-4957795255000",
+    "id": "urn:dr:radio:series:655cbd3399071798f81f1202"
+  },
+  {
+    "title": "SOLO med Anna Lin",
+    "slug": "solo-med-anna-lin-4106863030000",
+    "id": "urn:dr:radio:series:64006b6d1c70403e41f597bf"
+  },
+  {
+    "title": "Tyran",
+    "slug": "tyran-4747004850000",
+    "id": "urn:dr:radio:series:65857ad8163dfa22d54c3d73"
+  },
+  {
+    "title": "Genstart Dox",
+    "slug": "genstart-dox-5314646134000",
+    "id": "urn:dr:radio:series:65cb475de80d2a267cd12ae9"
+  },
+  {
+    "title": "De Lovløse",
+    "slug": "de-lovloese-3337857881000",
+    "id": "urn:dr:radio:series:61f24e160431527cb3065776"
+  },
+  {
+    "title": "KUP",
+    "slug": "kup-6221067875000",
+    "id": "urn:dr:radio:series:68ca65bea71b876223245630"
+  },
+  {
+    "title": "Mørklagt",
+    "slug": "moerklagt-4166015730000",
+    "id": "urn:dr:radio:series:63a03481d674a2f103dfc6e5"
+  },
+  {
+    "title": "Hvem er...",
+    "slug": "hvem-er-2522729828000",
+    "id": "urn:dr:radio:series:5fa25dc3330eac2f135b5c34"
+  },
+  {
+    "title": "Spice - med Nikkie og Laila",
+    "slug": "spice-med-nikkie-og-laila-3284609914000",
+    "id": "urn:dr:radio:series:62011f4ce907a647fb1f6d50"
+  },
+  {
+    "title": "Enken med nazidokumenterne",
+    "slug": "enken-med-nazidokumenterne-4884542801000",
+    "id": "urn:dr:radio:series:66cc6f132c77c39fecb65379"
+  },
+  {
+    "title": "Modstandskvinderne",
+    "slug": "modstandskvinderne-3059793998000",
+    "id": "urn:dr:radio:series:67615fd5f55b9722f8a4f481"
+  },
+  {
+    "title": "Blodets bånd",
+    "slug": "blodets-baand-4689327319000",
+    "id": "urn:dr:radio:series:6486cff68904cd8f0847b3d8"
+  },
+  {
+    "title": "Vistis vinyler",
+    "slug": "vistis-vinyler-2357300674000",
+    "id": "urn:dr:radio:series:5fa25cd7330eac2f135b5700"
+  },
+  {
+    "title": "Det dér med Anders Breinholt",
+    "slug": "det-der-med-anders-breinholt-5134621919000",
+    "id": "urn:dr:radio:series:66b3ef3047089d6f434d442d"
+  },
+  {
+    "title": "Troldspejlet - podcast",
+    "slug": "troldspejlet-podcast-1680546717000",
+    "id": "urn:dr:radio:series:5fa15fe5da351264f87b793d"
+  },
+  {
+    "title": "Klog på Sprog",
+    "slug": "klog-paa-sprog-1624041693000",
+    "id": "urn:dr:radio:series:5fa15dfada351264f87b6e48"
+  },
+  {
+    "title": "Lottomysteriet - Genfortalt",
+    "slug": "lottomysteriet-genfortalt-5612055206000",
+    "id": "urn:dr:radio:series:6661bfaa7937d2cab8cad242"
+  },
+  {
+    "title": "Faldet - mysteriet om de rystede hjerner",
+    "slug": "faldet-mysteriet-om-de-rystede-hjerner-5372264161000",
+    "id": "urn:dr:radio:series:65f9541e08347ccaf3cf2fb3"
+  },
+  {
+    "title": "Mens vi husker det",
+    "slug": "mens-vi-husker-det-5820761332000",
+    "id": "urn:dr:radio:series:66cc4641a127df4c0a3c5599"
+  },
+  {
+    "title": "Moden & cool",
+    "slug": "moden-og-cool-5074397345000",
+    "id": "urn:dr:radio:series:6565e1a842547a2ceec128de"
+  },
+  {
+    "title": "Grundtvig Leth fortalt",
+    "slug": "grundtvig-leth-fortalt-5336147488000",
+    "id": "urn:dr:radio:series:66543149be7905fb09c29a22"
+  },
+  {
+    "title": "Vennepunkt",
+    "slug": "vennepunkt-4920659345000",
+    "id": "urn:dr:radio:series:65841328c26aeca6fa64c765"
+  },
+  {
+    "title": "Marias arv",
+    "slug": "marias-arv-5624711337000",
+    "id": "urn:dr:radio:series:666848ebe40614b67ab7059f"
+  },
+  {
+    "title": "Søster - elsker, elsker ikke",
+    "slug": "soester-elsker-elsker-ikke-4675122971000",
+    "id": "urn:dr:radio:series:6481ec372f049931670d3c61"
+  },
+  {
+    "title": "Forført af fart",
+    "slug": "forfoert-af-fart-6640563609564",
+    "id": "urn:dr:radio:series:690b48f5bf545a44d7f69ae7"
+  },
+  {
+    "title": "Det Tomme Magasin",
+    "slug": "det-tomme-magasin-2264608473000",
+    "id": "urn:dr:radio:series:5fa25c93330eac2f135b552a"
+  },
+  {
+    "title": "Nulstillet",
+    "slug": "nulstillet-5948918508000",
+    "id": "urn:dr:radio:series:67c1c70ea83d0dd946c11802"
+  },
+  {
+    "title": "Pilgrim - på rejse i troens univers",
+    "slug": "pilgrim-paa-rejse-i-troens-univers-2675547413000",
+    "id": "urn:dr:radio:series:5fa260c1330eac2f135b6c4e"
+  },
+  {
+    "title": "Kampen om historien",
+    "slug": "kampen-om-historien-3166339029000",
+    "id": "urn:dr:radio:series:610bd147214d9c8f19f2e2d2"
+  },
+  {
+    "title": "Svingdøren",
+    "slug": "svingdoeren-5090465910000",
+    "id": "urn:dr:radio:series:658b5d755e3a2144e20042de"
+  },
+  {
+    "title": "Prompt",
+    "slug": "prompt-4712131124000",
+    "id": "urn:dr:radio:series:64a66bcdc7644ff3cc5147a0"
+  },
+  {
+    "title": "Vildt Naturligt",
+    "slug": "vildt-naturligt-2659520306000",
+    "id": "urn:dr:radio:series:5fa2605b330eac2f135b6a3f"
+  },
+  {
+    "title": "Hjerteflimmer for voksne",
+    "slug": "hjerteflimmer-for-voksne-2794960304000",
+    "id": "urn:dr:radio:series:5fa261b7330eac2f135b721e"
+  },
+  {
+    "title": "Verdens navle",
+    "slug": "verdens-navle-6640598279461",
+    "id": "urn:dr:radio:series:69397279af5ce9656420191a"
+  },
+  {
+    "title": "Bibelen Leth fortalt",
+    "slug": "bibelen-leth-fortalt-3254303620000",
+    "id": "urn:dr:radio:series:61e4a7389a2a1f7f47980873"
+  },
+  {
+    "title": "Fodboldlisten",
+    "slug": "fodboldlisten-2892950819000",
+    "id": "urn:dr:radio:series:5fa2627b330eac2f135b76a9"
+  },
+  {
+    "title": "Verdens bedste film",
+    "slug": "verdens-bedste-film-4199111422000",
+    "id": "urn:dr:radio:series:64085eff8a2497bbc1bf0a4d"
+  },
+  {
+    "title": "Ubegribeligt",
+    "slug": "ubegribeligt-3455554599000",
+    "id": "urn:dr:radio:series:626931758679fdf8af8a0e26"
+  },
+  {
+    "title": "Brinkmanns briks",
+    "slug": "brinkmanns-briks-2144855835000",
+    "id": "urn:dr:radio:series:5fa25a95330eac2f135b4a6c"
+  },
+  {
+    "title": "Damerne først",
+    "slug": "damerne-foerst-5117612995000",
+    "id": "urn:dr:radio:series:658b5d862469c7a7feb811f3"
+  },
+  {
+    "title": "Sorte tal",
+    "slug": "sorte-tal-1791900416000",
+    "id": "urn:dr:radio:series:5fa160a9da351264f87b7df0"
+  },
+  {
+    "title": "Du kender typen",
+    "slug": "du-kender-typen-3180390403000",
+    "id": "urn:dr:radio:series:61fa40956c731729bc59079a"
+  },
+  {
+    "title": "Hemmeligheder",
+    "slug": "hemmeligheder-3166337151000",
+    "id": "urn:dr:radio:series:610c99ae214d9c8f19f3af82"
+  },
+  {
+    "title": "Bakspejl",
+    "slug": "bakspejl-2868092680000",
+    "id": "urn:dr:radio:series:5fa2623a330eac2f135b751f"
+  },
+  {
+    "title": "Supertanker",
+    "slug": "supertanker-1623228413000",
+    "id": "urn:dr:radio:series:5fa15d3cda351264f87b69fe"
+  },
+  {
+    "title": "10-20-30",
+    "slug": "10-20-30-4086853764000",
+    "id": "urn:dr:radio:series:64491654de6cb02611a9204a"
+  },
+  {
+    "title": "Anmelderne",
+    "slug": "anmelderne-4287682279000",
+    "id": "urn:dr:radio:series:63ca5b7d3a290c242ebaa581"
+  },
+  {
+    "title": "Hjernekassen på P1",
+    "slug": "hjernekassen-paa-p1-759510699000",
+    "id": "urn:dr:radio:series:5fa2684c330eac2f135b9254"
+  },
+  {
+    "title": "Skønlitteratur",
+    "slug": "skoenlitteratur-759582067000",
+    "id": "urn:dr:radio:series:5fa26a3d330eac2f135b9d1d"
+  },
+  {
+    "title": "Ditlev & Døden",
+    "slug": "ditlev-og-doeden-5111435974000",
+    "id": "urn:dr:radio:series:658b5d871b0ff6ce0ad7a63a"
+  },
+  {
+    "title": "Hvad ville Jesus have sagt?",
+    "slug": "hvad-ville-jesus-have-sagt-4179370974000",
+    "id": "urn:dr:radio:series:63bf42a05d446604cb792cff"
+  },
+  {
+    "title": "Genstart",
+    "slug": "genstart-2642056922000",
+    "id": "urn:dr:radio:series:5fa25ef8330eac2f135b62d6"
+  },
+  {
+    "title": "Stjerner og striber",
+    "slug": "stjerner-og-striber-2654211769000",
+    "id": "urn:dr:radio:series:5fa25fb7330eac2f135b6691"
+  },
+  {
+    "title": "Sara & Monopolet - podcast",
+    "slug": "sara-og-monopolet-podcast-1090358387000",
+    "id": "urn:dr:radio:series:5fa15704da351264f87b46ce"
+  },
+  {
+    "title": "Lyssky",
+    "slug": "lyssky-5515048827000",
+    "id": "urn:dr:radio:series:6638a1a36d0e2e42f85f9bec"
+  },
+  {
+    "title": "Djævlen i detaljen",
+    "slug": "djaevlen-i-detaljen-1865892085000",
+    "id": "urn:dr:radio:series:5fa16188da351264f87b82f3"
+  },
+  {
+    "title": "På Bagsædet - med Hav & Kamal",
+    "slug": "paa-bagsaedet-med-hav-og-kamal-2661412710000",
+    "id": "urn:dr:radio:series:5fa2608d330eac2f135b6b32"
+  },
+  {
+    "title": "Hvad tænder os to?",
+    "slug": "hvad-taender-os-to-4080302192000",
+    "id": "urn:dr:radio:series:6481e6528904cd8f08302c13"
+  },
+  {
+    "title": "Vores dømte ven",
+    "slug": "vores-doemte-ven-5941681430000",
+    "id": "urn:dr:radio:series:6848141150790136dd538c59"
+  },
+  {
+    "title": "Marcela 1989",
+    "slug": "marcela-1989-4489359743000",
+    "id": "urn:dr:radio:series:655b72282659b726e0835284"
+  },
+  {
+    "title": "I døden for tronen",
+    "slug": "i-doeden-for-tronen-6280091834000",
+    "id": "urn:dr:radio:series:6836b3bab55477aa4732b017"
+  },
+  {
+    "title": "Min ven Hermann Göring",
+    "slug": "min-ven-hermann-goring-6030650856000",
+    "id": "urn:dr:radio:series:674d823c2a02f3ed1efa0abe"
+  },
+  {
+    "title": "Ramt af kærlighed",
+    "slug": "ramt-af-kaerlighed-5538079325000",
+    "id": "urn:dr:radio:series:666172cb7937d2cab8c96fca"
+  },
+  {
+    "title": "Krigen på isen",
+    "slug": "krigen-paa-isen-4206269660000",
+    "id": "urn:dr:radio:series:6486ddba8c0733d1c06721db"
+  },
+  {
+    "title": "Besættelsen",
+    "slug": "besaettelsen-5444397043000",
+    "id": "urn:dr:radio:series:660d1502642679cbc1073335"
+  },
+  {
+    "title": "Kapitalisterne",
+    "slug": "kapitalisterne-3108286051000",
+    "id": "urn:dr:radio:series:611ed1890f49677d7c269701"
+  },
+  {
+    "title": "Stå af ræset",
+    "slug": "staa-af-raeset-5624728801000",
+    "id": "urn:dr:radio:series:666849b5a63f4ccc1ec0bc63"
+  },
+  {
+    "title": "Drømmen om Elvis",
+    "slug": "droemmen-om-elvis-6102831169000",
+    "id": "urn:dr:radio:series:6756e77275055c6700b1e50b"
+  },
+  {
+    "title": "Fredskvinder",
+    "slug": "fredskvinder-4675485245000",
+    "id": "urn:dr:radio:series:6486d3b08c0733d1c066f380"
+  },
+  {
+    "title": "Imran mod giganterne",
+    "slug": "imran-mod-giganterne-6640238011710",
+    "id": "urn:dr:radio:series:68498573d9427b60778a822d"
+  },
+  {
+    "title": "Vidnesbyrd - Sexisme i musikbranchen",
+    "slug": "vidnesbyrd-sexisme-i-musikbranchen-5201941906000",
+    "id": "urn:dr:radio:series:6655834fbe7905fb09c8e2b0"
+  },
+  {
+    "title": "Faldet - Lydfølsom version",
+    "slug": "faldet-lydfoelsom-version-5421228843000",
+    "id": "urn:dr:radio:series:66016b40f6340c50cd78d284"
+  }
+]
