@@ -9,10 +9,6 @@ function New-Json {
         [ValidateNotNullOrEmpty()]
         [System.Object]
         $Podcast
-        ,
-        [Parameter()]
-        [System.IO.FileInfo]
-        $Template
     )
     begin {
         if ($DebugPreference -ne 'SilentlyContinue') {
@@ -28,26 +24,31 @@ function New-Json {
         Write-Debug -Message "$($MyInvocation.MyCommand.Name): BoundParameters: $($PSBoundParameters | ConvertTo-Json -Compress -WarningAction SilentlyContinue)"
         $Cover = Join-Path -Path $Config.Path.Cover.FullName -ChildPath "$($Podcast.titleSlug).jpg"
         if (Test-Path -PathType Leaf -Path $Cover) {
-            # Local cover exists. Use it.
+            # Use local cover.
             $Urlbuilder = [System.UriBuilder]::new($Config.Uri.Base)
             $Urlbuilder.Path = "/cover/$($Podcast.titleSlug).jpg"
-            $FeedCoverUri = $Urlbuilder.Uri
         }
         else {
-            # No local cover. Use the original feed image asset.
+            # No local cover. Check for original cover.
             foreach ($Target in @('Podcast', 'SquareImage', 'Default')) {
                 $ImageAsset = $Podcast.imageAssets | Where-Object { $_.ratio -eq '1:1' -and $_.target -eq $Target } | Select-Object -First 1 -ExpandProperty uri
                 if ($null -ne $ImageAsset) { break }
             }
-            $Urlbuilder = [System.UriBuilder]::new($ImageAsset)
-            Write-Debug -Message $Urlbuilder | ConvertTo-Json -Compress -WarningAction SilentlyContinue
-            $Urlbuilder.Query = $Urlbuilder.Query.Replace('&', '&#x26;')
-            $FeedCoverUri = $Urlbuilder.Uri
+            if ($null -ne $ImageAsset) {
+                # Use original cover.
+                $Urlbuilder = [System.UriBuilder]::new($ImageAsset)
+                $Urlbuilder.Query = $Urlbuilder.Query.Replace('&', '&#x26;')
+            }
+            else {
+                # Use unknown cover.
+                $Urlbuilder = [System.UriBuilder]::new($Config.Uri.Base)
+                $Urlbuilder.Path = '/assets/icon-logo-drlyd-recycled-unknown-800x800.png'
+            }
         }
         $Shows += [PSCustomObject]@{
             title    = $Podcast.title
             xml      = "$($Podcast.titleSlug).xml"
-            cover    = $FeedCoverUri
+            cover    = $Urlbuilder.Uri.AbsoluteUri
             episodes = $Podcast.numberOfEpisodes
         }
     }

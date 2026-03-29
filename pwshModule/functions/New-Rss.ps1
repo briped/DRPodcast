@@ -37,9 +37,6 @@ function New-Rss {
         if ($Feed.title -notmatch "$([regex]::Escape($TitleAppend))$") { $Feed.title += $TitleAppend }
         $Feed.title = $Feed.title | ConvertTo-HexTML
 
-        # Update the feed description.
-        $DescriptionAppend = "`r`n`r`n<a href=`"$($Script:Config.PodcastUri)`">Recycled</a> DR Podcast."
-        if ($Feed.description -notmatch "$([regex]::Escape($DescriptionAppend))$") { $Feed.description += $DescriptionAppend }
         $Feed.description = $Feed.description | ConvertTo-HexTML
 
         # Add/update the LastBuildDate for the feed.
@@ -50,25 +47,29 @@ function New-Rss {
         # Find the Podcast cover from the image assets and add/update the feed object with the uri.
         $Cover = Join-Path -Path $Config.Path.Cover.FullName -ChildPath "$($Podcast.titleSlug).jpg"
         if (Test-Path -PathType Leaf -Path $Cover) {
-            # Local cover exists. Use it.
+            # Use local cover.
             $Urlbuilder = [System.UriBuilder]::new($Config.Uri.Base)
             $Urlbuilder.Path = "/cover/$($Podcast.titleSlug).jpg"
-            $FeedCoverUri = $Urlbuilder.Uri
         }
         else {
-            Write-Verbose -Message "$($MyInvocation.MyCommand.Name): Not found: $Cover"
-            # No local cover. Use the original feed image asset.
+            # No local cover. Check for original cover.
             foreach ($Target in @('Podcast', 'SquareImage', 'Default')) {
-                $ImageAsset = $Feed.imageAssets | Where-Object { $_.ratio -eq '1:1' -and $_.target -eq $Target } | Select-Object -First 1 | Select-Object -ExpandProperty uri
+                $ImageAsset = $Podcast.imageAssets | Where-Object { $_.ratio -eq '1:1' -and $_.target -eq $Target } | Select-Object -First 1 -ExpandProperty uri
                 if ($null -ne $ImageAsset) { break }
             }
-            $Urlbuilder = [System.UriBuilder]::new($ImageAsset)
-            Write-Debug -Message $Urlbuilder | ConvertTo-Json -Compress -WarningAction SilentlyContinue
-            $Urlbuilder.Query = $Urlbuilder.Query.Replace('&', '&#x26;')
-            $FeedCoverUri = $Urlbuilder.Uri
-            #"$($ImageAsset.Scheme)://$($ImageAsset.DnsSafeHost)$($ImageAsset.AbsolutePath)$($ImageAsset.Query.Replace('&', '&#x26;'))"
+            if ($null -ne $ImageAsset) {
+                # Use original cover.
+                $Urlbuilder = [System.UriBuilder]::new($ImageAsset)
+                $Urlbuilder.Query = $Urlbuilder.Query.Replace('&', '&#x26;')
+            }
+            else {
+                # Use unknown cover.
+                $Urlbuilder = [System.UriBuilder]::new($Config.Uri.Base)
+                $Urlbuilder.Path = '/assets/icon-logo-drlyd-recycled-unknown-800x800.png'
+            }
         }
-        if (!$Feed.feedCoverUri) { $Feed | Add-Member -NotePropertyName 'feedCoverUri' -NotePropertyValue $FeedCoverUri }
+        if (!$Feed.feedCoverUri) { $Feed | Add-Member -NotePropertyName 'feedCoverUri' -NotePropertyValue $Urlbuilder.Uri.AbsoluteUri }
+        else { $Feed.feedCoverUri = $Urlbuilder.Uri.AbsoluteUri }
 
         foreach ($Episode in $Feed.episodes) {
             # Escape HTML reserved characters with hex-entities
