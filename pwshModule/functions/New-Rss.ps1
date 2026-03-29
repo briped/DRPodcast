@@ -35,8 +35,10 @@ function New-Rss {
         # Update the feed title.
         $TitleAppend = ' (recycled)'
         if ($Feed.title -notmatch "$([regex]::Escape($TitleAppend))$") { $Feed.title += $TitleAppend }
+        # Escape HTML reserved characters with hex-entities
         $Feed.title = $Feed.title | ConvertTo-HexTML
 
+        # Escape HTML reserved characters with hex-entities
         $Feed.description = $Feed.description | ConvertTo-HexTML
 
         # Add/update the LastBuildDate for the feed.
@@ -70,6 +72,11 @@ function New-Rss {
         }
         if (!$Feed.feedCoverUri) { $Feed | Add-Member -NotePropertyName 'feedCoverUri' -NotePropertyValue $Urlbuilder.Uri.AbsoluteUri }
         else { $Feed.feedCoverUri = $Urlbuilder.Uri.AbsoluteUri }
+
+        foreach ($Category in $Feed.categories) {
+            # Escape HTML reserved characters with hex-entities
+            $Category = $Category | ConvertTo-HexTML
+        }
 
         foreach ($Episode in $Feed.episodes) {
             # Escape HTML reserved characters with hex-entities
