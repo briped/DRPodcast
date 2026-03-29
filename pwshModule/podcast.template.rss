@@ -8,26 +8,26 @@
         <atom:link href="{{rssUri}}" 
             rel="self" 
             type="application/rss+xml" />
-        <title>{{title}}</title>
-        <link>{{presentationUrl}}</link>
-        <description>{{description}}</description>
+        <title>{{{title}}}</title>
+        <link>{{{presentationUrl}}}</link>
+        <description>{{{description}}}</description>
         <language>da</language>
         <copyright>DR</copyright>
         <managingEditor>podcast@dr.dk</managingEditor>
-        <lastBuildDate>{{lastBuildDate}}</lastBuildDate>
-        <itunes:explicit>{{explicitContent}}</itunes:explicit>
+        <lastBuildDate>{{{lastBuildDate}}}</lastBuildDate>
+        <itunes:explicit>{{{explicitContent}}}</itunes:explicit>
         <itunes:author>DR</itunes:author>
         <itunes:owner>
             <itunes:email>podcast@dr.dk</itunes:email>
             <itunes:name>DR</itunes:name>
         </itunes:owner>
-        <itunes:new-feed-url>{{rssUri}}</itunes:new-feed-url>
+        <itunes:new-feed-url>{{{rssUri}}}</itunes:new-feed-url>
         <image>
-            <url>{{feedCoverUri}}</url>
-            <title>{{title}}</title>
-            <link>{{presentationUrl}}</link>
+            <url>{{{feedCoverUri}}}</url>
+            <title>{{{title}}}</title>
+            <link>{{{presentationUrl}}}</link>
         </image>
-        <itunes:image href="{{feedCoverUri}}" />
+        <itunes:image href="{{{feedCoverUri}}}" />
         <media:restriction type="country" relationship="allow">dk</media:restriction>
         {{#categories}}
         <category>{{.}}</category>
@@ -36,18 +36,18 @@
         {{#episodes}}
         <item>
             <guid isPermaLink="false">{{productionNumber}}</guid>
-            <link>{{presentationUrl}}</link>
-            <title>{{title}}</title>
-            <description>{{description}}</description>
-            <pubDate>{{publishTime}}</pubDate>
-            <itunes:explicit>{{explicitContent}}</itunes:explicit>
+            <link>{{{presentationUrl}}}</link>
+            <title>{{{title}}}</title>
+            <description>{{{description}}}</description>
+            <pubDate>{{{publishTime}}}</pubDate>
+            <itunes:explicit>{{{explicitContent}}}</itunes:explicit>
             <itunes:author>DR</itunes:author>
-            <itunes:duration>{{duration}}</itunes:duration>
+            <itunes:duration>{{{duration}}}</itunes:duration>
             <media:restriction type="country" relationship="allow">dk</media:restriction>
             {{#audioAssets}}
-            <enclosure url="{{url}}" 
-                type="{{contentType}}" 
-                length="{{fileSize}}" />
+            <enclosure url="{{{url}}}" 
+                type="{{{contentType}}}" 
+                length="{{{fileSize}}}" />
             {{/audioAssets}}
         </item>
         {{/episodes}}
