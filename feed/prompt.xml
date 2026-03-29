@@ -27,11 +27,11 @@
         </itunes:owner>
         <itunes:new-feed-url>https://xmpl.dk/feed/prompt.xml</itunes:new-feed-url>
         <image>
-            <url>https://xmpl.dk/cover/prompt.jpg</url>
+            <url>https://dr.xmpl.dk/cover/prompt.jpg</url>
             <title>Prompt (recycled)</title>
             <link>https://www.dr.dk/lyd/special-radio/prompt-4712131124000</link>
         </image>
-        <itunes:image href="https://xmpl.dk/cover/prompt.jpg" />
+        <itunes:image href="https://dr.xmpl.dk/cover/prompt.jpg" />
         <media:restriction type="country" relationship="allow">dk</media:restriction>
         <category>Nyheder</category>
         <itunes:category text="Nyheder" />
