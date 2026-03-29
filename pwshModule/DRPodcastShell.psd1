@@ -11,7 +11,7 @@
     RootModule = 'DRPodcastShell.psm1'
 
     # Version number of this module.
-    ModuleVersion = '2026.03.28.00'
+    ModuleVersion = '2026.03.29.00'
 
     # Supported PSEditions
     # CompatiblePSEditions = @()
@@ -123,13 +123,13 @@
             # Tags = @()
 
             # A URL to the license for this module.
-            LicenseUri = 'https://xmpl.dk/DRPodcast/LICENSE.md'
+            LicenseUri = 'https://dr.xmpl.dk/DRPodcast/LICENSE.md'
 
             # A URL to the main website for this project.
-            ProjectUri = 'https://xmpl.dk/DRPodcast/'
+            ProjectUri = 'https://dr.xmpl.dk/DRPodcast/'
 
             # A URL to an icon representing this module.
-            IconUri = 'https://xmpl.dk/DRPodcast/assets/icon-logo-drlyd-recycled.svg'
+            IconUri = 'https://dr.xmpl.dk/DRPodcast/assets/icon-logo-drlyd-recycled.svg'
 
             # ReleaseNotes of this module
             # ReleaseNotes = ''
