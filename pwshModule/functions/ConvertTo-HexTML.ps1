@@ -18,7 +18,7 @@ function ConvertTo-HexTML {
         Write-Debug -Message "$($MyInvocation.MyCommand.Name): Process: BoundParameters: $($PSBoundParameters | ConvertTo-Json -Compress -WarningAction SilentlyContinue)"
         foreach ($s in $String) {
             if ($s -match '&#x[0-9a-f]{2};') { continue }
-            $s = $s.Replace('&', '&#x26;').Replace('<', '&#x3C;').Replace('>', '&#x3E;').Replace('"', '&#x22;').Replace("'", '&#x27;')
+            $s.Replace('&', '&#x26;').Replace('<', '&#x3C;').Replace('>', '&#x3E;').Replace('"', '&#x22;').Replace("'", '&#x27;')
         }
     }
     end {
