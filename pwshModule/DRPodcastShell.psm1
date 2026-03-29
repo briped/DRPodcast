@@ -1,7 +1,7 @@
 ﻿New-Variable -Force -Scope Script -Name Config -Value @{}
 $Config.Uri = @{}
-$Config.Uri.Base       = [uri]'https://xmpl.dk'
-$Config.Uri.Rss        = [uri]'https://xmpl.dk/feed/{{titleSlug}}.xml'
+$Config.Uri.Base       = [uri]'https://dr.xmpl.dk'
+$Config.Uri.Rss        = [uri]'https://dr.xmpl.dk/feed/{{titleSlug}}.xml'
 $Config.Uri.Api        = [uri]'https://api.dr.dk/radio/v3'
 $Config.Uri.Image      = [uri]'https://asset.dr.dk/imagescaler/?protocol=https&server=api.dr.dk&file={{assetFile}}&scaleAfter=crop&quality={{quality}}&w={{width}}&h={{height}}'
 $Config.AssetFile      = [string]'/radio/v2/images/raw/{{assetId}}'
